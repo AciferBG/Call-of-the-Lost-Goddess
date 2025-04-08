@@ -251,6 +251,59 @@ LANGUAGE ~Italian (by OiseauRebelle)~
          ~godcall/language/italian/Spellkey_merchant.tra~
          ~godcall/language/italian/Verin.tra~
 */
+
+LANGUAGE ~Russian by darthalex2014 and Origanum8~
+         ~russian~
+         ~godcall/language/russian/setup-godcall.tra~
+         ~godcall/language/russian/godcall-journal.tra~
+         ~godcall/language/russian/godcall-items.tra~
+         ~godcall/language/russian/01_Quest_start_in_Athkatla.tra~
+         ~godcall/language/russian/AC#001_WAUKEEN.tra~
+         ~godcall/language/russian/AC#W44_Counting_House_Maretta.tra~
+         ~godcall/language/russian/AC#W01_Dialogues_Goldspires_outside.tra~
+         ~godcall/language/russian/AC#W03_Goldspire_temple_interior.tra~
+         ~godcall/language/russian/AC#W4A_Succubus_lair.tra~
+         ~godcall/language/russian/AC#W4C_Gladiator_area.tra~
+         ~godcall/language/russian/AC#W4D_Dretch_area.tra~
+         ~godcall/language/russian/AC#W4G_Glabrezu_lair.tra~
+         ~godcall/language/russian/AC#W4S_Succubus_child_area.tra~
+         ~godcall/language/russian/AC#W4W_Azzelbath_weeping_goddess.tra~
+         ~godcall/language/russian/AC#W4W_weeping_goddess_sidechars.tra~
+         ~godcall/language/russian/AC#W06_8_Goldspire_tents.tra~
+         ~godcall/language/russian/AC#W12_Sojourner_Portal.tra~
+         ~godcall/language/russian/AC#W19_Infinite_Staircase_first_level.tra~
+         ~godcall/language/russian/AC#W30_Infinite_Staircase.tra~
+         ~godcall/language/russian/AC#W30_Modron_machine.tra~
+         ~godcall/language/russian/AC#W40_Mefisto.tra~
+         ~godcall/language/russian/AC#W40_Samora.tra~
+         ~godcall/language/russian/AC#W41_Sodden_solar.tra~
+         ~godcall/language/russian/AC#W42_Marettas_Beds.tra~
+         ~godcall/language/russian/AC#W44_Counting_House_Maretta.tra~
+         ~godcall/language/russian/AC#W45_Nighthag_house.tra~
+         ~godcall/language/russian/AC#W47_Nalfeshnee.tra~
+         ~godcall/language/russian/AC#W50_abyssal_plains.tra~
+         ~godcall/language/russian/AC#W51_Bebilith_Lair.tra~
+         ~godcall/language/russian/AC#W52_traitor_prison.tra~
+         ~godcall/language/russian/AC#W54_56_57.tra~
+         ~godcall/language/russian/AC#W60_61_blood_war.tra~
+         ~godcall/language/russian/AC#W70_chamber_of_temptation.tra~
+         ~godcall/language/russian/AC#W71_test_of_lust.tra~
+         ~godcall/language/russian/AC#W72_gluttony.tra~
+         ~godcall/language/russian/AC#W73_envy.tra~
+         ~godcall/language/russian/AC#W74_wrath.tra~
+         ~godcall/language/russian/AC#W75_pride.tra~
+         ~godcall/language/russian/AC#W76_greed.tra~
+         ~godcall/language/russian/AC#W77_test of sloth.tra~
+         ~godcall/language/russian/AC#W80.tra~
+         ~godcall/language/russian/Belthazaar_drums.tra~
+         ~godcall/language/russian/Book_of_fiends.tra~
+         ~godcall/language/russian/CROMWELL.tra~
+         ~godcall/language/russian/Goldspire_Main_Dialogues.tra~
+         ~godcall/language/russian/planar_guild.tra~
+         ~godcall/language/russian/Spellkey_merchant.tra~
+         ~godcall/language/russian/Verin.tra~
+
+
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
 // Godcall (main component)
