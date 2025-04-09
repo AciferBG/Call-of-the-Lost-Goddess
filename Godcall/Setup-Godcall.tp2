@@ -1,5 +1,5 @@
 /*************************************************************************
- * Call Of The Lost Goddess V 2.01
+ * Call Of The Lost Goddess V 2.1
  *
  *
  *
@@ -309,7 +309,7 @@ LANGUAGE ~Russian by darthalex2014 and Origanum8~
 // Godcall (main component)
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
-BEGIN ~Call Of The Lost Goddess V 2.01~
+BEGIN ~Call Of The Lost Goddess V 2.1~
 REQUIRE_PREDICATE (GAME_IS ~bg2ee eet~ && FILE_EXISTS ~engine.lua~) ~Requires BG2:EE or EET patched to 2.0 or higher.~  // Requires BG2:EE or EET patched to 2.0 or higher.
 DESIGNATED 0
 				 

@@ -1,3 +1,5 @@
+Version 2.1
+- added Russian translation by darthalex2014 and Origanum8, thank you!
 Version 2.01
 - used an alternate compression method as some people encountered problems with the download
 - switched AC#HEZRU scripts to the hezrou's "GENERAL" script
