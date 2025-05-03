@@ -56,6 +56,7 @@ The mod is available in:
 - German
 - Chinese
 - Russian
+- Spanish
 
 ---
 

@@ -1,5 +1,5 @@
 /*************************************************************************
- * Call Of The Lost Goddess V 2.2
+ * Call Of The Lost Goddess V 2.3
  *
  *
  *
@@ -148,7 +148,7 @@ LANGUAGE ~Deutsch~
          ~godcall/language/english/Spellkey_merchant.tra~
          ~godcall/language/english/Verin.tra~
 
-LANGUAGE ~Simplified Chinese (by lzw104522773)~
+LANGUAGE ~Simplified Chinese by lzw104522773~
          ~schinese~
          ~godcall/language/schinese/setup-godcall.tra~
          ~godcall/language/schinese/godcall-journal.tra~
@@ -303,13 +303,62 @@ LANGUAGE ~Russian by darthalex2014 and Origanum8~
          ~godcall/language/russian/Spellkey_merchant.tra~
          ~godcall/language/russian/Verin.tra~
 
-
+ LANGUAGE ~Spanish by ElGamerViejuno~
+         ~spanish~
+         ~godcall/language/spanish/setup-godcall.tra~
+         ~godcall/language/spanish/godcall-journal.tra~
+         ~godcall/language/spanish/godcall-items.tra~
+         ~godcall/language/spanish/01_Quest_start_in_Athkatla.tra~
+         ~godcall/language/spanish/AC#001_WAUKEEN.tra~
+         ~godcall/language/spanish/AC#W44_Counting_House_Maretta.tra~
+         ~godcall/language/spanish/AC#W01_Dialogues_Goldspires_outside.tra~
+         ~godcall/language/spanish/AC#W03_Goldspire_temple_interior.tra~
+         ~godcall/language/spanish/AC#W4A_Succubus_lair.tra~
+         ~godcall/language/spanish/AC#W4C_Gladiator_area.tra~
+         ~godcall/language/spanish/AC#W4D_Dretch_area.tra~
+         ~godcall/language/spanish/AC#W4G_Glabrezu_lair.tra~
+         ~godcall/language/spanish/AC#W4S_Succubus_child_area.tra~
+         ~godcall/language/spanish/AC#W4W_Azzelbath_weeping_goddess.tra~
+         ~godcall/language/spanish/AC#W4W_weeping_goddess_sidechars.tra~
+         ~godcall/language/spanish/AC#W06_8_Goldspire_tents.tra~
+         ~godcall/language/spanish/AC#W12_Sojourner_Portal.tra~
+         ~godcall/language/spanish/AC#W19_Infinite_Staircase_first_level.tra~
+         ~godcall/language/spanish/AC#W30_Infinite_Staircase.tra~
+         ~godcall/language/spanish/AC#W30_Modron_machine.tra~
+         ~godcall/language/spanish/AC#W40_Mefisto.tra~
+         ~godcall/language/spanish/AC#W40_Samora.tra~
+         ~godcall/language/spanish/AC#W41_Sodden_solar.tra~
+         ~godcall/language/spanish/AC#W42_Marettas_Beds.tra~
+         ~godcall/language/spanish/AC#W44_Counting_House_Maretta.tra~
+         ~godcall/language/spanish/AC#W45_Nighthag_house.tra~
+         ~godcall/language/spanish/AC#W47_Nalfeshnee.tra~
+         ~godcall/language/spanish/AC#W50_abyssal_plains.tra~
+         ~godcall/language/spanish/AC#W51_Bebilith_Lair.tra~
+         ~godcall/language/spanish/AC#W52_traitor_prison.tra~
+         ~godcall/language/spanish/AC#W54_56_57.tra~
+         ~godcall/language/spanish/AC#W60_61_blood_war.tra~
+         ~godcall/language/spanish/AC#W70_chamber_of_temptation.tra~
+         ~godcall/language/spanish/AC#W71_test_of_lust.tra~
+         ~godcall/language/spanish/AC#W72_gluttony.tra~
+         ~godcall/language/spanish/AC#W73_envy.tra~
+         ~godcall/language/spanish/AC#W74_wrath.tra~
+         ~godcall/language/spanish/AC#W75_pride.tra~
+         ~godcall/language/spanish/AC#W76_greed.tra~
+         ~godcall/language/spanish/AC#W77_test of sloth.tra~
+         ~godcall/language/spanish/AC#W80.tra~
+         ~godcall/language/spanish/Belthazaar_drums.tra~
+         ~godcall/language/spanish/Book_of_fiends.tra~
+         ~godcall/language/spanish/CROMWELL.tra~
+         ~godcall/language/spanish/Goldspire_Main_Dialogues.tra~
+         ~godcall/language/spanish/planar_guild.tra~
+         ~godcall/language/spanish/Spellkey_merchant.tra~
+         ~godcall/language/spanish/Verin.tra~
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
 // Godcall (main component)
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
-BEGIN ~Call Of The Lost Goddess V 2.2~
+BEGIN ~Call Of The Lost Goddess V 2.3~
 REQUIRE_PREDICATE (GAME_IS ~bg2ee eet~ && FILE_EXISTS ~engine.lua~) ~Requires BG2:EE or EET patched to 2.0 or higher.~  // Requires BG2:EE or EET patched to 2.0 or higher.
 DESIGNATED 0
 				 
@@ -327,11 +376,6 @@ INCLUDE ~godcall/lib/patches.tpa~
 // 2DA files
 //
 ///////////////////////////////////////////////////////////////////////
-/*
-ACTION_IF GAME_IS ~ToB BGT~ THEN BEGIN
-COPY ~godcall/2da/2DA_oBG2_animations~         ~override~
-END
-*/
 
 APPEND itemexcl.2da ~AC#W73RI 1~
 BUT_ONLY
@@ -455,27 +499,6 @@ INCLUDE ~godcall/lib/godcall-animations.tpa~
 //
 ///////////////////////////////////////////////////////////////////////
 
-// Adding new area type "EXTRAPLANAR" - OLD
-/*
-  OUTER_SET area_type_id = 512
-  OUTER_TEXT_SPRINT area_type_name ~EXTRAPLANAR~
-  COPY_EXISTING ~areatype.ids~ ~override~
-    COUNT_2DA_ROWS 2 numRows
-    SET id = 1
-    FOR (row = 0; row < numRows; ++row) BEGIN
-      READ_2DA_ENTRY row 0 2 value
-      PATCH_IF (IS_AN_INT ~value~) BEGIN
-        PATCH_IF (value > id) BEGIN SET id = value END
-      END
-    END
-    FOR (value = BIT0 ; value < BIT16 ; value <<= 1) BEGIN
-      PATCH_IF (value > id) BEGIN
-        SET area_type_id = value
-        SET value = BIT16
-      END
-    END
-    INSERT_2DA_ROW numRows 2 ~%area_type_id% %area_type_name%~
-*/
   // Adding new area type "EXTRAPLANAR" - NEW
   OUTER_SET area_type_id = 512
   OUTER_TEXT_SPRINT area_type_name ~EXTRAPLANAR~
@@ -508,7 +531,7 @@ COPY ~godcall/are/copy~         ~override~
 
 COPY ~godcall/are/AC#W01.are~      ~override~  // Goldspires
 
-  SAY 0xda8  @3005  // Info Waukeen statue
+  SAY 0xfc8  @3005  // Info Waukeen statue
   
 COPY ~godcall/are/AC#W04.are~      ~override~  // Goldspires - Level 2
 
@@ -668,8 +691,7 @@ COPY ~godcall/are/AC#W90.are~      ~override~  // Waukeen prison lvl 2
 // BAM
 ///////////////////////////////////////////////////////////////////////
 COPY ~godcall/bam/copy~       ~override~
-ACTION_IF GAME_IS ~BG2ee eet~ THEN BEGIN
-  COPY ~godcall/bam/bam_item_BG2EE~         ~override~
+COPY ~godcall/bam/bam_item_BG2EE~         ~override~
   
 
  COPY ~godcall/bam/bam_desc_BG2EE/AC#WABRD.bam~ ~override~
@@ -1121,11 +1143,6 @@ ACTION_IF GAME_IS ~BG2ee eet~ THEN BEGIN
  END
 
  COPY ~godcall/bam/bam_desc_BG2EE/AC#W52HT.bam~ ~override~
-
-  END ELSE BEGIN
-   COPY ~godcall/bam/bam_item_oBG2~         ~override~
-   COPY ~godcall/bam/bam_desc_oBG2~         ~override~
-END
 
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////

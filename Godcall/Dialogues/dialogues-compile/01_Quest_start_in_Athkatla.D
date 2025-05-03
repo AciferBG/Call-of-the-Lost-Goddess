@@ -14,7 +14,8 @@ END
 
 IF ~~THEN BEGIN 2
    SAY @6
-   IF ~~ THEN DO ~SetGlobal("AC#_WaukeenMessage","GLOBAL",1)
+   IF ~~ THEN DO ~OpenDoor("DOOR1010")
+   SetGlobal("AC#_WaukeenMessage","GLOBAL",1)
    EscapeArea()~ EXIT
 END
 
