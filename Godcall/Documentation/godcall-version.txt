@@ -1,3 +1,7 @@
+Version 2.4
+- Horn of Goodwill has correct usability flags
+- Picoloth only drops one arena key
+
 Version 2.3
 - added Spanish translation by ElGamerViejuno, thank you!
 - added some beggars in Goldspires
