@@ -668,7 +668,7 @@ Weight: 12~
 STATISTICS:
 
 Combat abilities:
-– Each successful hit deforms the victim's shape, causing a cumulative loss of both one point of Dexterity and Charisma if the victim fails a Saving Throw vs. Polymorph. This alteration is permanent until successfully dispelled. If one of the attribute drops to 0, the victim disintegrates into a fleshy mass and dies.
+– Each successful hit deforms the victim's shape, causing a cumulative loss of both one point of Dexterity and Charisma if the victim fails a Save vs. Polymorph. This alteration is permanent until successfully dispelled. If one of the attributes drops to 0, the victim disintegrates into a fleshy mass and dies.
 
 THAC0: +3
 Damage: 1d6+3
@@ -1058,7 +1058,7 @@ Weight: 2~
 @2241 = ~Flesh and Boils +4~
 @2242 = ~Flesh and Boils +4
 
-This strange club is known as the 'Flesh and Boils'. It looks like a weird piece of meat covered in an acidic boil. As odd as it may seem, it can be quite useful in some situations. But how dependent can a piece of meat be?
+This strange club is known as the 'Flesh and Boils'. It looks like a weird piece of meat covered in an acidic boil. As odd as it may seem, it can be quite useful in some situations. But how dependable can a piece of meat be?
 
 STATISTICS:
 

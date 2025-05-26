@@ -1,0 +1,16 @@
+@0    = ~Bueno, desafortunadamente esta es la única ayuda que puedo ofreceros. Y ahora salgamos de aquí.~
+@1    = ~¿Acaso me van a encarcelar en una nueva prisión, abominaciones? ¿O habéis venido a...?~ [AC#WWAU5]
+@2    = ~Esperad, siento el sabor de Toril en vos! ¡No sois sirvientes de Graz'zt! ¿Las visiones que envié a la joven sacerdotisa Halanna convencieron a mi fiel sirviente Tharundar para traeros ante mí?~ [AC#WWAU6]
+@3    = ~Hemos venido a liberaros. Soy <CHARNAME>, y he sido enviado por Tharundar Olehm para rescataros.~ ~Hemos venido a liberaros. Soy <CHARNAME>, y he sido enviada por Tharundar Olehm para rescataros.~
+@4    = ~Entiendo que tenéis muchas preguntas, <CHARNAME>, pero primero deberíamos salir del Abismo antes de entablar conversación.~ [AC#WWAU0]
+@5    = ~¿Habéis llegado hasta el Abismo para salvarme? Entonces debéis ser realmente poderoso. Muchas veces he intentado escapar de aquí, pero todos los intentos han fracasado hasta ahora, porque Graz'zt me ha robado toda mi energía divina, y por eso soy poco más que una simple mortal enclenque.~ ~¿Habéis llegado hasta el Abismo para salvarme? Entonces debéis ser realmente poderosa. Muchas veces he intentado escapar de aquí, pero todos los intentos han fracasado hasta ahora, porque Graz'zt me ha robado toda mi energía divina, y por eso soy poco más que una simple mortal enclenque.~
+@6    = ~Os agradezco de todo corazón que me hayáis salvado, pero me temo que sólo la primera parte de vuestra misión ha tenido éxito, pues será mucho más difícil salir de este lugar junto a mí que entrar aquí en solitario. Graz'zt vigila todas las salidas de su reino.~
+@7    = ~Guarda muchas salidas, excepto una. Vine aquí por la Escalera Infinita, y nos iremos seguros por el mismo camino.~
+@8    = ~¿La Escalera Infinita? Hasta ahora no sabía que conducía a este terrible lugar. Tengo muchas preguntas, al igual que estoy seguro de que vos también las tenéis, pero os ruego que os deis prisa y me saquéis de aquí, pues mi liberación no ha pasado desapercibida.~
+@9    = ~Para ser honesto, yo esperaba ser recompensado por vos aquí mismo, vos sois la diosa de la riqueza después de todo.~ ~Para ser honesta, yo esperaba ser recompensada por vos aquí mismo, vos sois la diosa de la riqueza después de todo.~
+@10   = ~¡Sí, salgamos de aquí lo antes posible!~
+@11   = ~Algunos miembros de mi grupo están heridos y necesitan desesperadamente descansar. Primero debemos recuperarnos para recobrar nuestras fuerzas y refrescar nuestros hechizos.~
+@12   = ~Salvo las ropas que poseo, toda mi riqueza y habilidades me han sido arrebatadas. No puedo daros nada excepto la promesa de recompensaros ricamente más adelante.~
+@13   = ~Bueno, entonces vamonos. Os tomaré la palabra.~
+@14   = ~Aunque estemos todos al límite de nuestras fuerzas, no debemos pasar aquí más tiempo del necesario, <CHARNAME>, si queremos tener alguna posibilidad de escapar. Intentaré levantar un poco de la magia divina que conservo para ayudaros, pero luego deberíamos salir de aquí lo antes posible.~
+@15   = ~Intentaré quedarme cerca de vos, pero me temo que no seré de mucha ayuda en la lucha. Vamos.~ [AC#WWAU7]

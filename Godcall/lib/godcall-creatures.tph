@@ -633,8 +633,7 @@ COPY ~godcall/cre/AC#W49SS.cre~ ~override~ // Gambling master in gambling tent (
    COPY ~godcall/cre/AC#W4CPS.cre~ ~override~   // Piscoloth
    SAY NAME1 @1048 SAY NAME2 @1048
    ADD_CRE_ITEM ~AC#W4CKY~ #1 #0 #0 ~identified&unstealable~ ~inv1~
-    // for EE, patch animation
-    
+
     COPY_EXISTING ~AC#W4CPS.cre~ ~override~
     WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#PISCOLOTH~))
     

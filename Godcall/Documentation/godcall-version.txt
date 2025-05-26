@@ -1,11 +1,30 @@
+Version 2.4
+- Horn of Goodwill has correct usability flags
+- Picoloth only drops one arena key
+
+Version 2.3
+- added Spanish translation by ElGamerViejuno, thank you!
+- added some beggars in Goldspires
+- moved the fruit merchant in Goldspires
+- The messenger now opens the door to Waukeen's temple
+- Changes Baphitaurus to Baphitaur in English version
+- changed cook's gender in area AC#W04 to male
+- damned souls aren't immune to everything anymore
+- summoned shadow from the helmet of childish nightmares can't cast wizard spells anymore
+- helmet of childish nightmares now recharges
+- fixed typos in English language version
+
 Version 2.2
 - updated voiceover folder for Russian and upcoming Spanish translation
+
 Version 2.1
 - added Russian translation by darthalex2014 and Origanum8, thank you!
+
 Version 2.01
 - used an alternate compression method as some people encountered problems with the download
 - switched AC#HEZRU scripts to the hezrou's "GENERAL" script
 - changed AC#MEZZO.bcs Spell(Sleep) to ForceSpell(Sleep)
+
 Version 2.0
 - New creatures with new animations:
 * Rutterkin animation
