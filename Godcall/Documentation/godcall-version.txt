@@ -1,6 +1,11 @@
+Version 2.5
+- updated chinese Version
+- updated Russian translation by Origanum8, thank you!
+- updated AC#W76 search map
+
 Version 2.4
 - Horn of Goodwill has correct usability flags
-- Picoloth only drops one arena key
+- Piscoloth only drops one arena key
 
 Version 2.3
 - added Spanish translation by ElGamerViejuno, thank you!
