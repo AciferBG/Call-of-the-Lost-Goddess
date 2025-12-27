@@ -13,7 +13,7 @@
 @12 = ~Los estanques son un sumidero lejos de esta ciudad. En algún lugar de allí guardan a Clyddis, el traidor, y observan cómo se descompone lentamente por el ácido. Sólo podemos esperar que su lengua siga intacta para que pueda deciros cómo entrar en la prisión de Waukin.~
 @13 = ~Incluso sé cómo podéis llegar allí. Estuvisteis en los Campos del Alma por Maretta, ¿verdad?~
 @14 = ~Sí, cazé un bebilith allí.~
-@15 = ~Menos mal que la bestia está muerta. De todas formas, necesitáis usar el horno ardiente apropiado en los Campos de Alma para llegar a la mazmorra de Clyddis, ¡el del oeste!~
+@15 = ~Menos mal que la bestia está muerta. De todas formas, necesitáis usar el horno ardiente apropiado en los Campos del Alma para llegar a la mazmorra de Clyddis, ¡el del oeste!~
 @16 = ~Parece que necesitáis un amuleto especial con forma de pentáculo para activar este horno ardiente.~
 @17 = ~Veré lo que puedo hacer.~
 @18 = ~Creo que puede estar relacionado con un pentáculo que llevan los soldados de Samora.~
@@ -57,8 +57,8 @@
 @56 = ~¿Os vais?~
 @57 = ~¿A dónde?~
 @58 = ~¿En serio creéis que os diría eso?~
-@59 = ~¡Así es! ¡Con casa y pelo! Y nadie va a sospechar, porque como traficante de cosas contaminadas me muevo de un lugar a otro de todos modos.~
-@60 = ~Así que si sois sabio, dejaréis mi humilde aldea ahora, haréis una visita a los estanques de ácido e intentaréis exprimir de Clyddis todo lo que el ácido haya dejado. Cuando regreséis a la ciudad, yo ya no estaré. Con suerte sabréis usar los hornos ardientes de la ciudad, liberaréis a vuestra diosa, os haréis asquerosamente rico, tendré el alma del sacerdote en unos años y todos contentos.~ ~Así que si sois sabia, dejaréis mi humilde aldea ahora, haréis una visita a los estanques de ácido e intentaréis exprimir de Clyddis todo lo que el ácido haya dejado. Cuando regreséis a la ciudad, yo ya no estaré. Con suerte sabréis usar los hornos ardientes de la ciudad, liberaréis a vuestra diosa, os haréis asquerosamente rica, tendré el alma del sacerdote en unos años y todos contentos.~
+@59 = ~¡Así es! ¡Con casa y todo! Y nadie va a sospechar, porque como traficante de sustancias corruptas me muevo de un lugar a otro de todos modos.~
+@60 = ~Así que si sois sabio, dejaréis mi humilde morada ahora, haréis una visita a los estanques de ácido e intentaréis exprimir de Clyddis todo lo que el ácido haya dejado. Cuando regreséis a la ciudad, yo ya no estaré. Con suerte sabréis usar los hornos ardientes de la ciudad, liberaréis a vuestra diosa, os haréis asquerosamente rico, tendré el alma del sacerdote en unos años y todos contentos.~ ~Así que si sois sabia, dejaréis mi humilde morada ahora, haréis una visita a los estanques de ácido e intentaréis exprimir de Clyddis todo lo que el ácido haya dejado. Cuando regreséis a la ciudad, yo ya no estaré. Con suerte sabréis usar los hornos ardientes de la ciudad, liberaréis a vuestra diosa, os haréis asquerosamente rica, tendré el alma del sacerdote en unos años y todos contentos.~
 @61 = ~Y ahora salid de mi morada. ¡Si hacéis el más mínimo intento de atacarme, os juro que las Lanceras de la Dama, Maretta, Verin y Graz'zt se enterarán de vuestros intentos! ¡Así que marchaos ahora!~
 @62 = ~No era digno de convertirse en siervo. Su alma se ha extinguido y ha dejado de existir. ¡Es delicioso experimentar todo su sufrimiento! Nosotros los nalfeshnee encontramos alimento en esas cosas.~
 @63 = ~Vosotros mortales deberíais aprender una lección por vosotros mismos, ¡no me traicionéis! Algún día estaréis aquí de nuevo, esta vez no como demandante, sino como peticionario.~ ~Vosotros mortales deberíais aprender una lección por vosotros mismos, ¡no me traicionéis! Algún día estaréis aquí de nuevo, esta vez no como demandante, sino como peticionaria.~
@@ -239,7 +239,7 @@ Alma mortal, atrapada y perdida en la interminable extensión del Abismo. Vuestr
 @237 = ~¡Seguramente encontraré una manera de impresionar a Maretta!~
 @238 = ~Hay dos maneras de impresionar a Maretta. Con palabras y con acciones. Acción significa que debéis elevaros al nivel de un campeón en la arena de esta ciudad...~ ~Hay dos maneras de impresionar a Maretta. Con palabras y con acciones. Acción significa que debéis elevaros al nivel de una campeona en la arena de esta ciudad...~
 @239 = ~Ya soy campeón.~ ~Ya soy campeona.~
-@240 = ~¿Dónde está la arena??~
+@240 = ~¿Dónde está la arena?~
 @241 = ~La arena se encuentra debajo de nuestra carpa de juego, la "Fortuna Maldita". Tendréis que superar una serie de difíciles batallas, pero si lo consiguís, Maretta os favorecerá.~
 @242 = ~Si os interesan más las palabras que los hechos, deberíais buscar a Mefisto.~
 @243 = ~¿Por qué no me lo dijisteis inmediatamente? Entonces deberíais ser presentado a Maretta en breve. Esto es lo que le sucede a todo aspirante a guerrero antes de caer de nuevo en desgracia con ella.~ ~¿Por qué no me lo dijisteis inmediatamente? Entonces deberíais ser presentada a Maretta en breve. Esto es lo que le sucede a todo aspirante a guerrero antes de caer de nuevo en desgracia con ella.~
@@ -270,6 +270,6 @@ Alma mortal, atrapada y perdida en la interminable extensión del Abismo. Vuestr
 @268 = ~Este demonio reconoce nuestra valía. Eso es molesto, pero tambien podría jugar a nuestro favor si no quiere dejarnos avanzar tan facilmente.~
 @269 = ~¡Qué infamia! Sugiero que le saquemos la información a este demonio por la fuerza de las armas.~
 @270 = ~Vaya, vaya, qué tipo más guapo. Un demonio mitad jabalí, ¿verdad? Tharundar Olehm me dijo que eráis mi contacto, pero nunca mencionó eso...~
-@271 = ~¡No me obligaréis a pelear aquí, <CHARNAME>! Adiós, como decís los mortales...~
+@271 = ~¡No me obligaréis a pelear aquí, <CHARNAME>! Hasta nunca jamás, como decís los mortales...~
 @272 = ~Eso es exactamente lo que quiero. Después de todo, ¡preferiría no salir de los hornos ardientes de Samora bien asado!~ ~Eso es exactamente lo que quiero. Después de todo, ¡preferiría no salir de los hornos ardientes de Samora bien asada!~
-@273 = ~Entendido. ¿Vrock carcomido por el ácido? Preguntad. ¿Horno ardiente? Saltad dentro. ¿Mazmorra? Liberad a Waukin.~
+@273 = ~Entendido. ¿Vrock corroído por el ácido? Hacer preguntas. ¿Horno ardiente? Saltar dentro. ¿Mazmorra? Liberar a Waukin.~

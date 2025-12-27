@@ -1,5 +1,5 @@
 @0 = ~Salve, ser mortal. Veo vuestros ojos inquietos. ¿Qué tengo que ganar aquí, os preguntáis? ¿Qué puedo obtener para mí de esta cámara? Bueno, tengo una generosa oferta para vos, así que escuchad con atención.~ [OGREM01.WAV]
-@1 = ~¿Ves a este viejo decrépito a mi lado? No os molestéis en tratar de hablar con él. Le he cortado la lengua, y tampoco puede oíros. Pero posee algo que podríais reclamar para vos; Un anillo mágico, uno realmente potente. ¡Es la única posesión valiosa que atesora en este desdichado lugar! ¿Pero por qué sigue aferrado a él? El anillo podría perteneceros. ¡Está destinado a ser vuestro!~
+@1 = ~¿Veis a este viejo decrépito a mi lado? No os molestéis en tratar de hablar con él. Le he cortado la lengua, y tampoco puede oíros. Pero posee algo que podríais reclamar para vos; Un anillo mágico, uno realmente potente. ¡Es la única posesión valiosa que atesora en este desdichado lugar! ¿Pero por qué sigue aferrado a él? El anillo podría perteneceros. ¡Está destinado a ser vuestro!~
 @2 = ~¿Por qué no aprovecharlo? Sería fácil acabar con la vida de ese hombre aquí y ahora. Sin testigos, sin dolientes. Y entonces, poseeríais este poderoso anillo mágico, ¡un valioso activo para vuestras próximas aventuras en el Abismo!~
 @3 = ~Un torpe intento de invocar la envidia en un mortal, nada más. Habría esperado algo mejor de un demonio en un lugar así.~
 @4 = ~¿Por qué un anciano poseería un objeto poderoso? Nada más que mentiras para inquietarnos.~
@@ -18,11 +18,11 @@
 @17 = ~¿O deseáis quedároslo?~
 @18 = ~¡Tomad este anillo maldito, no lo quiero!~
 @19 = ~De hecho, no tengo intención de devolverlo.~
-@20 = ~Que lastima. Sin embargo, la salida está abierta para vos. Tomaré la vida del viejo y me iré. Y vos tendréis que lidiar con vuestros propios deseos llenos de envidia.~
+@20 = ~Que lástima. Sin embargo, la salida está abierta para vos. Tomaré la vida del viejo y me iré. Y vos tendréis que lidiar con vuestros propios deseos llenos de envidia.~
 @21 = ~¡Una sabia decisión! La envidia es el más hermoso de todos los malos hábitos, porque sois inmediatamente recompensado cuando cedéis a ella, ¿recordáis? Habéis superado la tarea, la salida está abierta para vos. Quedaos con el anillo, tomaré la vida del viejo y me iré...~
 @22 = ~¡Oh, ya no lo tenéis! ¿Supongo que lo escondisteis? ¿Se os cayó para tener que volver a recogerlo más tarde? ¡Qué listo <PRO_RACE> sois! Con todos mis respetos. Bueno, habéis superado la tarea, la salida está abierta para vos. Adiós. Ya no necesito al viejo. Siempre puedo buscar uno nuevo...~ ~¡Oh, ya no lo tenéis! ¿Supongo que lo escondisteis? ¿Se os cayó para tener que volver a recogerlo más tarde? ¡Qué lista <PRO_RACE> sois! Con todos mis respetos. Bueno, habéis superado la tarea, la salida está abierta para vos. Adiós. Ya no necesito al viejo. Siempre puedo buscar uno nuevo...~
 @23 = ~Bueno, ¿qué es? ¿Lo habéis considerado?~
-@24 = ~¡Contemplad este anillo, mortal! ¿No sentís su poder cautivador? Con el en vuestras manos, imaginad como sin esfuerzo podríais triunfar en la batalla.~
+@24 = ~¡Contemplad este anillo, mortal! ¿No sentís su poder cautivador? Con él en vuestras manos, imaginad como sin esfuerzo podríais triunfar en la batalla.~
 @25 = ~El hombre os prestará temporalmente el anillo. Examinadlo de cerca antes de que pida su devolución...~
 @26 = ~¡No, quedaos el anillo, no lo quiero!~
 @27 = ~Puedo echarle un vistazo...~

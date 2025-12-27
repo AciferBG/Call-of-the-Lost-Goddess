@@ -1,5 +1,5 @@
 /*************************************************************************
- * Call Of The Lost Goddess V 2.5
+ * Call Of The Lost Goddess V 2.6
  *
  *
  *
@@ -353,12 +353,63 @@ LANGUAGE ~Russian by darthalex2014 and Origanum8~
          ~godcall/language/spanish/planar_guild.tra~
          ~godcall/language/spanish/Spellkey_merchant.tra~
          ~godcall/language/spanish/Verin.tra~
+         
+LANGUAGE ~Brazilian Portuguese by dextermorgan~
+         ~portuguese~
+         ~godcall/language/portuguese/setup-godcall.tra~
+         ~godcall/language/portuguese/godcall-journal.tra~
+         ~godcall/language/portuguese/godcall-items.tra~
+         ~godcall/language/portuguese/01_Quest_start_in_Athkatla.tra~
+         ~godcall/language/portuguese/AC#001_WAUKEEN.tra~
+         ~godcall/language/portuguese/AC#W44_Counting_House_Maretta.tra~
+         ~godcall/language/portuguese/AC#W01_Dialogues_Goldspires_outside.tra~
+         ~godcall/language/portuguese/AC#W03_Goldspire_temple_interior.tra~
+         ~godcall/language/portuguese/AC#W4A_Succubus_lair.tra~
+         ~godcall/language/portuguese/AC#W4C_Gladiator_area.tra~
+         ~godcall/language/portuguese/AC#W4D_Dretch_area.tra~
+         ~godcall/language/portuguese/AC#W4G_Glabrezu_lair.tra~
+         ~godcall/language/portuguese/AC#W4S_Succubus_child_area.tra~
+         ~godcall/language/portuguese/AC#W4W_Azzelbath_weeping_goddess.tra~
+         ~godcall/language/portuguese/AC#W4W_weeping_goddess_sidechars.tra~
+         ~godcall/language/portuguese/AC#W06_8_Goldspire_tents.tra~
+         ~godcall/language/portuguese/AC#W12_Sojourner_Portal.tra~
+         ~godcall/language/portuguese/AC#W19_Infinite_Staircase_first_level.tra~
+         ~godcall/language/portuguese/AC#W30_Infinite_Staircase.tra~
+         ~godcall/language/portuguese/AC#W30_Modron_machine.tra~
+         ~godcall/language/portuguese/AC#W40_Mefisto.tra~
+         ~godcall/language/portuguese/AC#W40_Samora.tra~
+         ~godcall/language/portuguese/AC#W41_Sodden_solar.tra~
+         ~godcall/language/portuguese/AC#W42_Marettas_Beds.tra~
+         ~godcall/language/portuguese/AC#W44_Counting_House_Maretta.tra~
+         ~godcall/language/portuguese/AC#W45_Nighthag_house.tra~
+         ~godcall/language/portuguese/AC#W47_Nalfeshnee.tra~
+         ~godcall/language/portuguese/AC#W50_abyssal_plains.tra~
+         ~godcall/language/portuguese/AC#W51_Bebilith_Lair.tra~
+         ~godcall/language/portuguese/AC#W52_traitor_prison.tra~
+         ~godcall/language/portuguese/AC#W54_56_57.tra~
+         ~godcall/language/portuguese/AC#W60_61_blood_war.tra~
+         ~godcall/language/portuguese/AC#W70_chamber_of_temptation.tra~
+         ~godcall/language/portuguese/AC#W71_test_of_lust.tra~
+         ~godcall/language/portuguese/AC#W72_gluttony.tra~
+         ~godcall/language/portuguese/AC#W73_envy.tra~
+         ~godcall/language/portuguese/AC#W74_wrath.tra~
+         ~godcall/language/portuguese/AC#W75_pride.tra~
+         ~godcall/language/portuguese/AC#W76_greed.tra~
+         ~godcall/language/portuguese/AC#W77_test of sloth.tra~
+         ~godcall/language/portuguese/AC#W80.tra~
+         ~godcall/language/portuguese/Belthazaar_drums.tra~
+         ~godcall/language/portuguese/Book_of_fiends.tra~
+         ~godcall/language/portuguese/CROMWELL.tra~
+         ~godcall/language/portuguese/Goldspire_Main_Dialogues.tra~
+         ~godcall/language/portuguese/planar_guild.tra~
+         ~godcall/language/portuguese/Spellkey_merchant.tra~
+         ~godcall/language/portuguese/Verin.tra~
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
 // Godcall (main component)
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
-BEGIN ~Call Of The Lost Goddess V 2.5~
+BEGIN ~Call Of The Lost Goddess V 2.6~
 REQUIRE_PREDICATE (GAME_IS ~bg2ee eet~ && FILE_EXISTS ~engine.lua~) ~Requires BG2:EE or EET patched to 2.0 or higher.~  // Requires BG2:EE or EET patched to 2.0 or higher.
 DESIGNATED 0
 				 
@@ -1731,6 +1782,11 @@ ACTION_FOR_EACH area IN
     AC#w70
 BEGIN
     EXTEND_BOTTOM ~%area%.bcs~ ~godcall/scripts/Hephernaan.baf~
+END
+
+// crossmod content for poisoned pathways:
+ACTION_IF FILE_EXISTS_IN_GAME ~AC#PPtme.cre~ THEN BEGIN
+EXTEND_BOTTOM ~AC#W01.bcs~ ~%MOD_FOLDER%/scripts/_PP_AC#W01.baf~ // crossmod: create Debbie in Goldspires if "Call of the Lost Goddess" and "Poisoned Pathways" is installed
 END
 
 ///////////////////////////////////////////////////////////////////////

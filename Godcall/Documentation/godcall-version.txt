@@ -1,3 +1,8 @@
+Version 2.6
+- added Brazilian Portuguese translation by dextermorgan, thank you very much!
+- added crossmod to my next mod
+- updated Spanish translation by ElGamerViejuno
+
 Version 2.5
 - updated chinese Version
 - updated Russian translation by Origanum8, thank you!

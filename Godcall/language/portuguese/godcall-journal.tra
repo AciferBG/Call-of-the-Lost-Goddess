@@ -1,0 +1,463 @@
+// Entradas do Diário
+
+@100001 = ~O resgate de Waukeen
+
+Eu resgatei Waukeen das garras do lorde demônio Graz'zt e a guiei em segurança para fora do Abismo. O que mais alguém poderia esperar do que desfrutar do favor de uma deusa da riqueza?~
+
+@100010 = ~A missão da Igreja de Waukeen.
+
+Eu visitei o Templo de Waukeen no Distrito do Governo e conversei com o sacerdote lá localizado. Embora ele não tenha conseguido me dar nenhuma informação específica sobre a tarefa que me foi dada, ele me pediu para visitar a abadia de "Agulhas de Ouro" ao norte de Athkatla. Lá, o líder da igreja, Tharundar Olehm, deve me dizer exatamente sobre o que é a missão.~
+
+@100030 = ~Chamado da Deusa Perdida
+
+Eu aceitei uma missão dada por Tharundar Olehm, Sumo Sacerdote de Waukeen, para libertar a deusa Waukeen das garras do lorde demônio Graz'zt no Abismo. Com a ajuda de Kyriani, uma sacerdotisa de Selûne, eu seguirei meu caminho ao longo de um templo em Águas Profundas (*Waterdeep*) até uma estrutura chamada 'Escadaria Infinita', que me levará através de todo o Multiverso e para baixo no Abismo. Uma vez lá, eu tenho que descobrir onde Waukeen está sendo mantida em Samora, uma cidade demoníaca, e escoltá-la em segurança da prisão de Graz'zt de volta para a Escadaria Infinita. Tharundar e Kyriani me aconselharam a me preparar bem para esta jornada. Eles estão me esperando no segundo andar da Abadia das Agulhas de Ouro até que eu esteja pronto para a aventura.~
+
+@100031 = ~Chamado da Deusa Perdida
+
+Partindo do templo em Águas Profundas, eu tenho que encontrar o caminho pela 'Escadaria Infinita' até a plataforma que me levará a Samora. Lá eu tenho que encontrar um Nalfeshnee chamado Margrog, que é meu contato na cidade demoníaca.~
+
+// busca do ladrão, título alt.: Ouro Mancado?
+@100200 = ~Um ladrão nas Agulhas de Ouro
+
+Eu encontrei Maendir, um ladrão, do lado de fora do templo de Waukeen. Eu concordei em ajudar em seu plano duvidoso de saquear o tesouro da abadia por um pouco de ouro. Minha tarefa é roubar a chave do cofre, que a sacerdotisa Faerthae Garblueth estaria carregando dentro do templo. Assim que eu tiver a chave, tenho que levá-la para Maendir lá fora. Ele então cuidará de todo o resto.~
+
+@100201 = ~Um ladrão nas Agulhas de Ouro
+
+Eu roubei a chave do cofre da sacerdotisa de Waukeen. Agora eu tenho que levá-la para o ladrão Maendir do lado de fora na Abadia das Agulhas de Ouro.~
+//@100202 = ~~
+@100203 = ~Um ladrão nas Agulhas de Ouro
+
+Eu levei a chave para Maendir. Ele imediatamente desapareceu com ela, rumo à sua 'tarefa'. Eu o encontrarei novamente em um dia - espero.~
+
+@100204 = ~Um ladrão nas Agulhas de Ouro
+
+O roubo nas Agulhas de Ouro não acabou bem. O ladrão se transformou em uma estátua de ouro. Por sorte, eu não peguei nada do ouro!~
+
+@100210 = ~Um ladrão nas Agulhas de Ouro
+
+Eu denunciei o ladrão que tentou roubar a igreja de Waukeen aos guardas. Isso deve tornar as Agulhas de Ouro um pouco mais seguras.~
+
+@110000 = ~Inimigos da fé de Waukeen
+
+Eu encontrei um homem estranho depois de visitar o templo de Waukeen no Distrito do Governo de Athkatla que tentou me impedir de ajudar a igreja. Eu não sei quem ele é ou de onde ele veio, mas devo ser cauteloso sobre meus próximos passos, pois parece que a igreja não tem apenas amigos em Athkatla.~
+
+// Agulhas de Ouro - acusação de roubo do mercador
+@110001 = ~Inimigos da fé de Waukeen
+
+Um mercador na Abadia de Waukeen tentou me acusar de roubo. Ele confessou ter sido contratado pelo homem que tentou me dissuadir da minha missão do lado de fora do templo de Waukeen no Distrito do Governo.~
+
+// Escadaria Infinita - Magos
+@110002 = ~Inimigos da fé de Waukeen
+
+Na Escadaria Infinita, eu encontrei alguns magos que foram aparentemente contratados pelo homem vestido de escuridão de Athkatla a fim de me deter. De alguma forma, este sujeito deve ter conseguido seguir meu rastro até a Escadaria Infinita. Devo prosseguir com cautela.~
+
+@110003 = ~Inimigos da fé de Waukeen
+
+Gildaar parece estar prestes a conseguir contar a Maretta sobre meus planos. Devo estar preparado para um confronto com o sacerdote - se as coisas correrem mal, bem na sala do trono de Maretta. Devo garantir que ele não revele meus objetivos, pois isso voltaria a cidade inteira contra mim. Nesse sentido, devo pensar em uma tática para eliminar ou silenciar Gildaar rapidamente.~
+/*
+// Samora - Solar??
+@110003 =
+*/
+@110010 = ~Inimigos da fé de Waukeen
+
+Na Escadaria Infinita, eu encontrei o homem estranho que tinha me abordado em Athkatla e tentou me dissuadir de meus planos de viajar para o Abismo. Ele se revelou para mim como Gildaar, Sacerdote de Cyric, e desapareceu na direção de Samora. Devo procurá-lo na cidade dos demônios, pois suspeito que ele continuará a tentar interromper minha missão.~
+
+@110011 = ~Inimigos da fé de Waukeen
+
+O sacerdote de Cyric, Gildaar, tentou me denunciar à guarda da cidade, os Lanceiros da Dama. Felizmente, os demônios não acreditaram nele. No entanto, devo encontrar uma maneira de me livrar de Gildaar o mais rápido possível, pois será apenas uma questão de tempo até que ele conte a alguém o verdadeiro motivo de eu estar aqui.~
+
+@110012 = ~Inimigos da fé de Waukeen
+
+Margrog, o Nalfeshnee, sugeriu conversar com o pregoeiro da cidade, Mefisto, sobre Gildaar. Parece um empreendimento imprudente, mas parece não haver outra opção.~
+
+@110013 = ~Inimigos da fé de Waukeen
+
+Eu falei com Mefisto. Ele quer que eu traga um infante, cuja mãe é uma Súcubo chamada Daemevera, antes que ele me ajude contra Gildaar. A casa dela fica no oeste da cidade, na praça onde estão recrutando para a Guerra Sangrenta.~
+
+@110014 = ~Inimigos da fé de Waukeen
+
+Mefisto propôs usar as águas do Estige para roubar as memórias de Gildaar. Um Merrenoloth chamado Az'zelbath, que tem viajado pelo Rio Estige, está hospedado na taverna "A Deusa Chorosa" no norte da cidade e pode ser capaz de nos fornecer um frasco. Eu não sei como usá-lo, mas parece valer a pena tentar.~
+
+@110015 = ~Inimigos da fé de Waukeen
+
+Az'zelbath, o Merrenoloth, me deu uma garrafa da Água do Estige. Agora eu tenho que esperar até que Gildaar cruze meu caminho para jogar o líquido em seu rosto, para que ele esqueça por que ele queria conspirar contra mim.~
+
+@110016 = ~Inimigos da fé de Waukeen
+
+Eu tenho uma garrafa de água do Estige! Agora eu tenho que esperar até encontrar Gildaar para jogar o líquido em seu rosto, para que ele esqueça por que ele queria conspirar contra mim.~
+
+@110017 = ~Inimigos da fé de Waukeen
+
+Gildaar está morto. Talvez eu possa encontrar uma pista sobre seus empregadores em seu corpo.~
+
+@110018 = ~Inimigos da fé de Waukeen
+
+Eu descobri uma carta no cadáver de Gildaar insinuando um traidor dentro da Abadia das Agulhas de Ouro. Eu preciso informar Tharundar Olehm sobre isso.~
+
+@110019 = ~Inimigos da fé de Waukeen
+
+Eu entreguei a carta que Gildaar carregava para Tharundar Olehm, que pretende lidar com o traidor. Devo encontrá-lo no segundo andar das Agulhas de Ouro para uma atualização sobre sua investigação.~
+
+@110020 = ~Inimigos da fé de Waukeen
+
+O traidor foi pego e levado à justiça. Isso resolve o mistério do sacerdote de Cyric, Gildaar, que me seguiu até o Abismo.~
+
+@110021 = ~Inimigos da fé de Waukeen
+
+Eu peguei o infante da súcubo Daemevera. Para me ajudar a me livrar de Gildaar, eu tenho que entregar a criança para Mefisto.~
+
+// Busca por Riven, poeta bardo na Escadaria Infinita
+@190000 = ~Versos da escadaria
+
+A sacerdotisa Elandra Moonsong me pediu para ficar de olho em um bardo chamado Riven Andarilho do Vento (*Windwalker*) enquanto continuo minha jornada, pois ele partiu para explorar a Escadaria Infinita e não retornou. Ele também pretendia escrever um poema sobre a Escadaria. Devo escoltá-lo de volta à base das escadas sã e salvo.~
+
+@190001 = ~Versos da escadaria
+
+O bardo Riven Andarilho do Vento está morto. Eu encontrei seu poema ao lado de seu cadáver em uma borda da Escadaria Infinita. Devo levar este poema de volta para Elandra Moonsong na parte inferior das escadas e dar a ela a triste notícia de sua morte.~
+
+@190002 = ~Versos da escadaria
+
+Eu levei o poema de Riven Andarilho do Vento de volta para Elandra Moonsong na parte inferior das escadas e lhe disse que o bardo está morto.~
+
+// Registros do Diário de Samora
+@400000 = ~Chamado da Deusa Perdida
+
+Eu cheguei na cidade de Samora no Abismo. Agora eu tenho que procurar por um Nalfeshnee chamado Margrog. Eu espero que este demônio possa me ajudar na minha busca por Waukeen.~
+
+@400001 = ~Chamado da Deusa Perdida
+
+Minha primeira parte da jornada está feita. Eu encontrei Margrog e agora tenho que usar toda a cautela devida em Samora para determinar onde Waukeen está sendo mantida cativa.~
+
+@400010 = ~O resgate de Waukeen
+
+Maretta me deu o pentáculo que controla a função dos fornos ardentes. Agora, se eu conseguir descobrir onde Waukeen está localizada, eu posso libertá-la.~
+
+@400011 = ~O resgate de Waukeen
+
+Maretta mencionou um traidor que foi jogado nas "Piscinas de Ácido de Yemach". Se sobrou algo dele, eu posso conseguir uma pista sobre como entrar na prisão de Waukeen. Devo discutir isso com o Nalfeshnee Margrog em sua morada, bem em frente à Casa da Contagem (*Counting House*).~
+
+@400012 = ~O resgate de Waukeen
+
+Um ex-guarda de Waukeen chamado Clyddis, um Vrock que caiu em desgraça, sabe como entrar na prisão de Waukeen usando os portais dos fornos ardentes em Samora. Atualmente, ele mesmo está sendo mantido cativo em um lugar que eles chamam de 'Piscinas de Ácido de Yemach', que eu posso alcançar através de um forno ardente nos Campos de Alma (*Soulfields*). No entanto, eu precisarei de um item para ativar os fornos ardentes.~
+
+@400013 = ~O resgate de Waukeen
+
+Um ex-guarda de Waukeen chamado Clyddis, um Vrock que caiu em desgraça, sabe como entrar na prisão de Waukeen através dos portais dos fornos ardentes. Margrog descobriu que ele está atualmente sendo mantido em um lugar que eles chamam de "Piscinas de Ácido de Yemach", onde ele está sendo lentamente torturado até a morte. Com a ajuda do pentáculo que Maretta me deu, eu posso usar o forno ardente ocidental nos Campos de Alma para chegar à prisão de Clyddis e interrogá-lo sobre o paradeiro de Waukeen.~
+
+@400020 = ~O resgate de Waukeen
+
+O ex-guarda de Waukeen - Clyddis, o Vrock - me explicou a função dos fornos ardentes verdes em Samora. Para entrar na prisão de Waukeen, é preciso passar pelos fornos em uma ordem muito específica, traçando a forma de um pentagrama invertido. Eu tenho que começar na estátua de Graz'zt, e se eu pular por um forno pelo qual acabei de passar, eu chego em outro. Clyddis tinha um desenho em seu corpo mostrando a sequência correta de fornos. Um desenho no chão da cidade também pode me mostrar a ordem correta.~
+
+@400021 = ~O resgate de Waukeen
+
+Eu passei pelo último forno ardente em Samora e agora pareço ter finalmente chegado à prisão onde Waukeen está sendo mantida. Uma das celas à minha frente deve abrigar a deusa que me foi incumbido libertar.~
+
+@400022 = ~O resgate de Waukeen
+
+Eu libertei Waukeen de sua cela. Agora eu tenho que sair de Samora o mais rápido possível e só posso esperar que não haja muitos demônios no meu encalço.~
+
+@400023 = ~O resgate de Waukeen
+
+Eu passei pela porta na Casa da Contagem e pareço ter finalmente chegado à prisão onde Waukeen está sendo mantida. Eu não tenho muito tempo restante para libertar Waukeen, porque a luta com Maretta alertou a todos sobre minha intrusão e é apenas uma questão de tempo até que eu seja dominado por demônios irritados.~
+
+@400100 = ~O amuleto desaparecido
+
+Zzrakh, o demônio Bebilith, me deu o amuleto, um pentáculo, que Maretta quer de volta. Agora eu tenho que devolvê-lo a Maretta na Casa da Contagem.~
+@400120 = ~O amuleto desaparecido
+
+Eu matei o Bebilith. Já que o demônio comeu muitos dos servos de Maretta, eu devo revistar seu cadáver para ver se consigo encontrar o amuleto que a Súcubo Maretta está procurando.~
+@400121 = ~O amuleto desaparecido
+
+Eu encontrei o amuleto no cadáver do demônio Bebilith. Agora eu devo devolvê-lo a Maretta na Casa da Contagem.~
+@400122 = ~O amuleto desaparecido
+
+Eu levei o amuleto de volta para Maretta.~
+
+@400200 = ~A pena de Deva
+
+Maretta quer uma pena de Deva para sua pintura. Eu espero encontrar um mercador no mercado de Samora que venda isso.~
+
+@400201 = ~A pena de Deva
+
+Eu recebi uma pena de Deva. Agora eu tenho que levá-la de volta para Maretta na Casa da Contagem.~
+
+@400202 = ~A pena de Deva
+
+Eu entreguei a pena do Deva para Maretta, como ela desejava.~
+
+// Verin
+@400300 = ~Verin
+
+Eu encontrei uma pessoa estranha na Casa da Contagem - uma criatura chamada Verin. Ele parece desconfiar de mim.~
+
+@400301 = ~Verin
+
+Verin era o carcereiro da prisão de Waukeen. Com sua morte, um dos últimos obstáculos para libertar a deusa deve ser removido.~
+
+// ladrão de almas
+@400400 = ~O ladrão de almas Nabassu
+
+Um demônio Nabassu chamado Trar'gezal está roubando almas. Devo usar um forno ardente, que age como um portal, para viajar perto de sua morada e caçá-lo. O portal está localizado nos Campos de Alma ao sul de Samora, perto da Árvore dos Covardes. Depois, devo me reportar a Maretta na Casa da Contagem. No entanto, eu não preciso mais cumprir esta ordem, pois devo continuar a progredir rapidamente com o resgate de Waukeen.~
+
+@400401 = ~O ladrão de almas Nabassu
+
+O Nabassu Trar'gezal está morto. Devo reportar meu sucesso a Maretta.~
+
+@400402 = ~O ladrão de almas Nabassu
+
+Eu falei para Maretta sobre o Nabassu morto. Ela não tem mais utilidade para mim agora. Eu devo prosseguir com o resgate de Waukeen o mais rápido possível.~
+
+// informação de falha de feitiço
+@400500 = ~Magia no Abismo
+
+Alguns feitiços de mago não parecem estar funcionando corretamente no Abismo. Eu terei que encontrar alguém em Samora que esteja familiarizado com isso.~
+
+@400501 = ~Magia no Abismo
+
+Com a ajuda de Chaves de Feitiço (*Spellkeys*) para magos e Chaves de Poder (*Powerkeys*) para clérigos, eu sou capaz de conjurar feitiços no Abismo sem arriscar que eles falhem. Warwick no 'Solar Encharcado' (*Sodden Solar*) vende Chaves de Feitiço, um ser chamado Malashrihi em uma loja na cidade de Samora fora do 'Solar Encharcado' vende Chaves de Feitiço e Chaves de Poder.~
+
+@400502 = ~Magia no Abismo
+
+Eu testemunhei o feitiço de um mago ser corrompido no Abismo. O mago não sobreviveu. Devo ser cuidadoso com meus próprios feitiços para que o mesmo não ocorra comigo.~
+
+// riso de tolo
+@400600 = ~A garrafa contendo o riso de um tolo
+
+Por seus serviços, Mefisto exige que eu lhe forneça a garrafa contendo o riso de um tolo. A garrafa parece estar na posse de um Dretch, um demônio menor, que está escondido em um armazém abandonado ao norte das "Camas de Maretta" (*Maretta's Beds*) ao lado da taverna "Peões do Lorde" (*Lord's Pawns*) e bem em frente à "Fortuna Amaldiçoada" (*Cursed Fortune*).~
+
+@400601 = ~A garrafa contendo o riso de um tolo
+
+Eu peguei a garrafa. Eu tenho que levá-la para Mefisto na estátua de Graz'zt em Samora e esperar que ele cumpra sua parte do acordo.~
+
+// Ormad Sulpar
+@400900 = ~Ormad Sulpar
+
+Devo encontrar um mago chamado Ormad Sulpar na taverna "O Solar Encharcado" em Samora. De acordo com seu familiar, ele está em perigo e precisa da minha ajuda.~
+
+
+@410000 = ~A alma trocada em três vezes
+
+Eu encontrei o humano Ormad Sulpar no Solar Encharcado. Ele prometeu sua alma a três demônios (*fiends*) de uma vez - a Bruxa Noturna (*Nighthag*) Zhelamiss no oeste da cidade, a Súcubo Zaehvielle, que tem sua morada em frente ao bordel "Camas de Maretta", e Belthazaar, o Glabrezu. Ele está parado em uma cabine de almas em frente às "Camas de Maretta". Eu concordei em obter os três contratos de alma dos três demônios e levá-los para Ormad para que ele pudesse recuperar sua alma.~
+
+@410001 = ~A alma trocada em três vezes
+
+Eu enganei Ormad Sulpar para usar o travesseiro da Bruxa Noturna, o que lhe custou a vida. Agora eu posso retornar a Zhelamiss, a Bruxa Noturna, e reivindicar minha recompensa.~
+
+@410002 = ~A alma trocada em três vezes
+
+Eu recebi minha recompensa da Bruxa Noturna pela morte de Ormad Sulpar.~
+
+@410005 = ~A alma trocada em três vezes
+
+Eu concordei em apresentar um punhal a Ormad Sulpar em nome do Glabrezu Belthazaar. Se eu conseguir fazer com que Ormad se machuque com este punhal, isso lhe custará a vida e me renderá uma grande recompensa.~
+
+@410006 = ~A alma trocada em três vezes
+
+Eu enganei Ormad Sulpar para usar o punhal do Glabrezu, o que lhe custou a vida. Agora eu posso retornar a Belthazaar, o Glabrezu, e reivindicar minha recompensa.~
+
+@410007 = ~A alma trocada em três vezes
+
+Eu recebi minha recompensa do Glabrezu Belthazaar pela morte de Ormad Sulpar.~
+
+@410010 = ~A alma trocada em três vezes
+
+Eu entreguei todos os três contratos a Ormad Sulpar. Ele ficou grato e partiu imediatamente. Eu espero que ele repense suas ações e não se meta em problemas novamente.~
+
+@410100 = ~Contrato de Alma de Belthazaar
+
+O Glabrezu Belthazaar não vai me entregar o contrato de alma de Ormad Sulpar tão facilmente. Ele me deu um enigma que eu posso não ser capaz de resolver sozinho. Devo perguntar a Ormad Sulpar sobre este enigma no Solar Encharcado, afinal, é a alma dele que devo salvar.~
+
+@410101 = ~Contrato de Alma de Belthazaar
+
+Ormad Sulpar acredita que o Glabrezu Belthazaar frequentemente visita um armazém em ruínas no leste da cidade. Ele também parece ter brincado com as mãos ensanguentadas de suas vítimas mais vezes. Talvez eu possa encontrar um meio de entrar no covil do Glabrezu no referido armazém?~
+
+@410102 = ~Contrato de Alma de Belthazaar
+
+Eu consegui abrir uma porta no armazém e devo verificar se o contrato de alma de Belthazaar está escondido lá dentro.~
+
+@410103 = ~Contrato de Alma de Belthazaar
+
+Eu matei o Glabrezu Belthazaar e encontrei um enigma estranho em seu cadáver. Talvez Ormad Sulpar saiba do que se trata.~
+
+@410110 = ~Contrato de Alma de Belthazaar
+
+Eu recuperei o contrato de alma do Glabrezu Belthazaar. Agora eu só preciso levá-lo para Ormad Sulpar no Solar Encharcado.~
+
+@410111 = ~Contrato de Alma de Belthazaar
+
+Eu entreguei o contrato de alma do Glabrezu Belthazaar para Ormad Sulpar.~
+
+// Entradas do diário da missão de caça ao Bebilith de Maretta
+//(Um demônio entre demônios)
+@440000 = ~O Caçador de Demônios Bebilith
+
+Nos distritos fora da cidade, um demônio aranha caçador Tanar'ri, um chamado Bebilith, está causando estragos. A Súcubo Maretta, amante de Samora, me encarregou de caçá-lo para tornar a área segura para seus Tanar'ri novamente. Depois que eu cuidar do Bebilith, devo me reportar a ela na Casa da Contagem no noroeste de Samora.~
+
+@440010 = ~Recreação em Samora
+
+A Súcubo Maretta me concedeu permissão para passar a noite em seu bordel "Camas de Maretta" no centro de Samora gratuitamente a partir de agora.~
+
+@440070 = ~A Rosa do Abismo
+
+Para provar minha lealdade, Maretta me pede uma flor chamada "Rosa do Abismo". Ela cresce na "Câmara das Tentações", uma área abaixo de Samora. A entrada para esta câmara fica bem ao lado da taverna "A Deusa Chorosa" no norte da cidade.~
+
+@440071 = ~A Rosa do Abismo
+
+Eu recuperei a rosa e agora devo levá-la de volta para Maretta na Casa da Contagem.~
+
+@460010 = ~A Insígnia da Casa dos Fey'ri
+
+Eu encontrei Val'kreen, um Fey'ri, na taverna 'A Deusa Chorosa' em Samora. Ele me encarregou de recuperar sua Insígnia da Casa roubada de um Maurezhi que estaria rondando os Campos de Alma (*Soulfields*) logo fora de Samora. Embora Val'kreen seja arrogante, eu concordei em aceitar esta tarefa.~
+
+@460011 = ~A Insígnia da Casa dos Fey'ri
+
+Eu encontrei a Insígnia da Casa do Fey'ri. Agora devo devolvê-la a Val'kreen, o Fey'ri, na Taverna A Deusa Chorosa em Samora.~
+
+@460012 = ~A Insígnia da Casa dos Fey'ri
+
+Eu devolvi com sucesso a Insígnia da Casa roubada de Val'kreen e recebi a recompensa. Val'kreen demonstrou pouca gratidão e deixou sua arrogância transparecer, mas eu aprendi que este lugar no mundo não é sobre gratidão.~
+
+// Entradas do diário da busca do Nalfeshnee
+@470000 = ~Uma Larva para Margrog
+
+Eu encontrei o Nalfeshnee Margrog em Samora. Antes que ele me diga qualquer coisa sobre o paradeiro de Waukeen, ele me disse para lhe trazer uma Larva da Bruxa Noturna (*Nighthag*) Zhelamiss, cuja casa é em frente à de Margrog.~
+
+@470001 = ~Uma Larva para Margrog
+
+A Bruxa Noturna exige 1000 peças de ouro por uma Larva.~
+
+@470002 = ~Uma Larva para Margrog
+
+Eu adquiri um bilhete de penhor da Bruxa Noturna Zhelamiss, com o qual posso obter uma Larva de seu servo Saarixal, que está esperando na saída de seu covil ao lado das Larvas.~
+@470003 = ~Uma Larva para Margrog
+
+A Larva está em minha posse. Devo levar a criatura de volta para Margrog em sua casa no oeste de Samora para descobrir onde posso encontrar Waukeen.~
+@470004 = ~Uma Larva para Margrog
+
+Eu trouxe a Larva para Margrog.~
+@470010 = ~Outro recado para Margrog
+
+Margrog ainda não me dirá nada sobre o paradeiro de Waukeen. Ele quer que eu leve um pequeno recipiente para um ser chamado "Aphul", que está esperando na Escadaria Infinita perto da plataforma que leva a Samora.~
+@470011 = ~Outro recado para Margrog
+
+Eu entreguei o recipiente para o Abishai Aphul, um Baatezu, na Escadaria Infinita. Agora devo retornar a Margrog e finalmente insistir para que ele me diga onde Waukeen está.~
+
+@470020 = ~Mercenário da Guerra Sangrenta
+
+Maretta me pediu para me alistar como mercenário na Guerra Sangrenta. Devo encontrar um Babau chamado Garnuth no sudoeste da cidade ao lado de uma grande bandeira, que é o recrutador da Guerra Sangrenta na cidade.~
+@470021 = ~Mercenário da Guerra Sangrenta
+
+Eu me alistei para a Guerra Sangrenta através do Babau Garnuth. Assim que eu estiver pronto, ele abrirá um portal e eu poderei me juntar à batalha.~
+@470022 = ~Mercenário da Guerra Sangrenta
+
+Eu preciso atravessar um portal em Samora para chegar a um posto avançado Tanar'ri. Minha missão é cortar a cabeça de um comandante Baatezu e apresentá-la como um troféu para o Babau Garnuth em Samora. Isso pode me render maior confiança de Maretta e me aproximar um passo da localização de Waukeen.~
+@470023 = ~Mercenário da Guerra Sangrenta
+
+Eu peguei a cabeça do comandante Baatezu! Agora eu tenho que retornar a Samora através do portal para informar o Babau Garnuth sobre meu troféu.~
+
+@470030 = ~Um encontro com Maretta
+
+Devo oferecer a cabeça do General Baatezu a Maretta como um símbolo da minha vitória.~
+
+@470040 = ~O amuleto desaparecido
+
+Maretta me enviou para procurar nas regiões ao sul de Samora, que ela chama de Campos de Alma, uma horda de Tanar'ri que estavam a seu serviço e agora estão desaparecidos. Aparentemente, algo está caçando demônios. Se isso é uma boa ou má notícia, terei que descobrir por conta própria. Em todo caso, devo sair da cidade para o sul e recuperar um amuleto que um de seus oficiais estava carregando - um pingente em forma de pentagrama.~
+
+@470041 = ~O amuleto desaparecido
+
+Há um portal no leste dos 'Campos de Alma' de onde uma besta parecida com uma aranha caça Tanar'ri. Se eu colocar o chifre de um Tanar'ri na frente de uma pequena caverna, o portal pode ser ativado e eu posso descobrir o que está à espreita atrás dele. Vamos torcer para que a besta tenha mais apetite por demônios do que por um(a) <PRO_RACE>.~
+
+@470042 = ~O amuleto desaparecido
+
+Eu abri o portal por onde o caçador de demônios passou. Agora eu posso atravessar e descobrir do que se trata a criatura. Minha missão é recuperar um amuleto que um dos Tanar'ri perdidos estava carregando. O pingente tem a forma de um pentagrama.~
+
+@470043 = ~O amuleto desaparecido
+
+Nos 'Campos de Alma', dizem que há um portal em uma pequena caverna no leste da área, de onde uma besta parecida com uma aranha caça Tanar'ri. Se eu colocar um elemento de um Tanar'ri maior lá, o portal deve ativar. Pelo menos é o que afirma uma entidade que se autodenomina a 'Árvore dos Covardes'. Ela se ofereceu para me dar um pedaço de um Tanar'ri se eu a libertasse de seu medo eterno por um curto período de tempo.~
+
+@470100 = ~Margrog me chama
+
+O Nalfeshnee Margrog me convocou à sua casa. Parece ser urgente.~
+
+@470500 = ~Um encontro com Maretta
+
+Eu devo me tornar campeão da arena de Samora em "Fortuna Amaldiçoada" (*Cursed Fortune*) ou fazer o pregoeiro Mefisto falar de forma tão convincente sobre minha história que a amante de Samora notará minha presença e me concederá uma audiência. Já que o caminho para Waukeen é controlado por Maretta, devo ganhar cuidadosamente a confiança dela até ter uma oportunidade de entrar no calabouço da deusa.~
+
+@470501 = ~Um encontro com Maretta
+
+Mefisto cumpriu sua parte do acordo, e eu fui de fato convocado a Maretta na Casa da Contagem no oeste de Samora.~
+
+@470502 = ~Um encontro com Maretta
+
+Como Campeão da Arena de Samora, fui convocado pela Dama da Cidade, a Súcubo Maretta, na Casa da Contagem no oeste de Samora.~
+
+@470503 = ~Um encontro com Maretta
+
+Como campeão, as chances são boas de que eu seja convocado em breve para a Casa da Contagem.~
+
+@470601 = ~Margrog, o Nalfeshnee
+
+Margrog e sua casa bizarra fugiram da cena, aparentemente deixando Samora com pressa. Eu espero que ninguém suspeite de nada.~
+
+@470700 = ~Uma alma para a deusa
+
+Tharundar Olehm, o sacerdote de Waukeen, prometeu ao Nalfeshnee Margrog nada menos que sua própria alma como recompensa por ajudar a resgatar Waukeen. Pode haver uma maneira de prevenir este pacto. No entanto, pode ser difícil enquanto Margrog estiver na cidade.~
+
+@470701 = ~Uma alma para a deusa
+
+Agora que Margrog deixou a cidade, eu posso ter uma oportunidade de eliminá-lo para evitar o pacto que ele fez com o sacerdote de Waukeen, Tharundar Olehm. Quem poderá saber para onde o Nalfeshnee foi?~
+
+@470702 = ~Uma alma para a deusa
+
+Para rastrear Margrog, eu preciso de uma criatura que esteja acostumada a caçar demônios. Se eu souber como encontrar uma criatura como um Bebilith, eu poderia colocá-lo no encalço do Nalfeshnee para desfazer o contrato de alma que ele fez com o sacerdote de Waukeen, Tharundar Olehm.~
+
+@470703 = ~Uma alma para a deusa
+
+Eu coloquei Zzrakh, o Bebilith, para caçar Margrog, que imediatamente iniciou a perseguição com entusiasmo. Devo esperar na caverna do Bebilith até que ele retorne com Margrog em seu rastro.~
+
+@470704 = ~A alma para a deusa
+
+Com a ajuda de Zzrakh, o Bebilith, eu derrotei Margrog, o Nalfeshnee. Tharundar Olehm, o Sumo Sacerdote de Waukeen, ficará grato por manter sua alma.~
+
+// Annia Greystockings
+@500000 = ~Annia Meias-Cinzento
+
+Eu encontrei uma paladina na vastidão do Abismo. Ela ficou grata por eu ter lhe mostrado o caminho para a Escadaria Infinita.~
+// Entradas do diário da busca do teletransporte Bebilith
+@510000 = ~O Caçador de Demônios Bebilith
+
+Eu encontrei o Bebilith. Em vez de lutar contra ele, no entanto, eu concordei em ajudá-lo a entrar em Samora. Devo colocar um orbe mágico na base da estátua de Graz'zt na entrada de Samora, o que lhe permitirá se teletransportar para a cidade. Isso ainda pode ser útil se os habitantes da cidade não estiverem mais bem dispostos em relação a mim - especialmente se eu tiver que deixar a cidade após o resgate de Waukeen.~
+@510001 = ~O Caçador de Demônios Bebilith
+
+Eu coloquei o orbe na estátua de Graz'zt. Agora eu só tenho que esperar que Zzrakh, o Bebilith, cumpra o acordo e não ataque até que eu tenha libertado Waukeen.~
+@510002 = ~O Caçador de Demônios Bebilith
+
+Eu mudei de ideia e matei o Bebilith, afinal. Isso elimina a tarefa de conceder-lhe acesso à cidade.~
+
+@540000 = ~Prisioneiro e guarda em um só
+
+A entrada para o ex-guarda de Waukeen, o Vrock Clyddis, é guardada pelo dragão Daugralluvidan, que afirma ser do plano de Carceri. Ele não parece estar neste lugar por livre e espontânea vontade. Eu prometi procurar o feitiço 'Liberdade' (*Freedom*) - seja como feitiço ou pergaminho - e assim conceder a liberdade ao dragão Tartariano. Isso me permitiria visitar Clyddis sem ter que lutar contra o dragão.~
+
+@540004 = ~Prisioneiro e guarda em um só
+
+Eu decidi matar o dragão Tartariano Daugralluvidan em vez de libertá-lo.~
+
+@540005 = ~Prisioneiro e guarda em um só
+
+Eu concedi liberdade ao dragão Tartariano Daugralluvidan. Eu espero que ele faça bom uso dela.~
+
+@600000 = ~Aliados do Diabo
+
+Um bando de Abishai pretende se infiltrar na cidade demoníaca de Samora com minha assistência. Minha tarefa é entregar uma chave de portal ao seu líder, Aphul, para que ele possa controlar o portal do posto avançado Tanar'ri de volta para a cidade.~
+
+@600001 = ~Aliados do Diabo
+
+Eu entreguei a chave do portal ao Abishai e espero que o ataque deles à cidade seja vantajoso para mim em minha eventual fuga.~
+
+@800010 = ~A centelha de um Deva
+
+Um Deva capturado na prisão de Graz'zt me implorou para recuperar sua centelha. Ele suspeita que ela possa estar escondida em algum lugar dentro desta masmorra.~
+
+@800011 = ~A centelha de um Deva
+
+Eu devolvi a centelha do Deva a ele.~

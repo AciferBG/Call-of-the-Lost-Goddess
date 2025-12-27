@@ -1,0 +1,492 @@
+@0 = ~Chamado da deusa perdida~
+
+// spells and stores:
+@100 = ~Nuvem de Tristeza~
+@101 = ~Canção Difamatória de Graz'zt~
+@102 = ~Canção Difamatória de Graz'zt
+(Abjuração)
+
+Nível: 1
+Esfera: Encanto
+Alcance: 30 pés
+Duração: 1 hora
+Tempo de Lançamento: 1
+Área de Efeito: Raio de 15 pés
+Teste de Resistência: Nenhum
+
+O usuário pode se alegrar com esta diatribe, pois a canção retrata o lorde demônio Graz'zt tão mal que o expõe ao ridículo. Como resultado, todas as criaturas amigáveis ficam menos aterrorizadas pelos lacaios do lorde demônio e ficam imunes a falhas de moral e medo pela duração do efeito. Além disso, todas as criaturas afetadas são protegidas de serem encantadas. A canção só está disponível no reino de Graz'zt no Abismo. Ela perde seu efeito em qualquer outro local.~
+@103 = ~Convocação de Modrons~
+@104 = ~Convocação de Modrons
+(Conjuração/Invocação)
+
+Nível: 3
+Alcance: Linha de visão do conjurador
+Duração: 4 turnos
+Tempo de Lançamento: 3
+Área de Efeito: Raio de 50 pés
+Teste de Resistência: Nenhum
+
+Dentro de um turno após o lançamento deste feitiço, o conjurador convoca 4 Modrons Monodrone (criaturas extraplanares do plano exterior de Mechanus).
+Os Monodrones aparecem em qualquer lugar dentro da área de efeito do feitiço, conforme determinado pelo conjurador. Eles atacam os inimigos do conjurador com o melhor de sua capacidade até que o conjurador os ordene a parar de atacar, a duração do feitiço expire, ou as criaturas sejam mortas. Estas criaturas não fazem teste de moral, mas elas desaparecerão quando mortas. Se não houver oponente para lutar, os Modrons podem realizar outros serviços se o conjurador puder se comunicar com eles e eles forem fisicamente capazes de fazê-lo. Este feitiço foi tornado famoso pelo mago Argramund do Rochedo, cujo paradeiro atual é desconhecido.
+
+Monodrone
+Inteligência: Semi (2-4)
+Classe de Armadura: 7
+Dado de Vida: 1+1
+Thac0: 19 ou 20
+Nº de Ataques: 1
+Dano/ataque: 1d4
+Valor de XP: 120
+
+Combate: Os Monodrones são imunes a ilusões ou magia que afete a mente, como encanto, dominação, imobilização, paralisia e sono. Medo e outros feitiços de emoção são similarmente ineficazes contra um modron, assim como ataques que utilizam os Planos de Energia Positiva e Negativa (incluindo poderes de drenagem de vida) e as habilidades de Illithids e outros seres psiônicos.~
+@105 = ~Descarga de Esporos~
+@106 = ~Grito Estridente~
+@107 = ~Raio de Energia~
+@108 = ~Globo de Escuridão~
+@109 = ~Olhar da Morte~
+@110 = ~Grito do Vargouille~
+@111 = ~Beijo do Vargouille~
+@112 = ~Bazar Abissal~
+@113 = ~Mercador da Guilda Planar~
+@114 = ~Alojamentos da Guilda Planar~
+@115 = ~Abadia dos Pináculos Dourados~
+@116 = ~Mercado da Chave de Feitiço~
+@117 = ~Arcana do Arcanaloth~
+@118 = ~Camas de Maretta~
+@119 = ~Poções de Wilbur~
+@120 = ~Poções de Nocticula~
+@121 = ~Bebidas de Startail~
+@122 = ~Hidromel de Mel de Ysgard~
+@123 = ~Vinho de Groselha de Bytopia~
+@124 = ~Pérola de Cereja de Alzar~
+@125 = ~Cerveja de Sangue Baatoriana~
+@126 = ~Fogo de Enxofre~
+@127 = ~O Solar Encharcado~
+@128 = ~Cerveja de Sangue~
+@129 = ~Dor Líquida~
+@130 = ~Lágrimas de Deva~
+@131 = ~Essência de Espinho Sangrento~
+@132 = ~Curandeiro da Guilda Planar~
+@133 = ~Loja de Descontos do Aello Sortudo~
+@134 = ~Teia Ardente~
+@135 = ~Níimbus Terrível~
+@136 = ~Tentação da Marilith~
+@137 = ~Cerveja Escura do Yugoloth~
+@138 = ~Devorador de Almas~
+@139 = ~Brisa Abissal~
+@140 = ~Brebote de Sacrifício Camponês~
+@141 = ~Aquecer Metal~
+@142 = ~Nível Muito Alto para Vara da Morte~
+@143 = ~Corrente Ácida~
+@144 = ~Oásis Luzprateada~
+@145 = ~Encontro Maléfico~
+@146 = ~Vinho de Sangue Baatezu~
+@147 = ~Bile de Deva~
+@148 = ~Canção da Harpia~
+@149 = ~Proteção contra Veneno~
+@150 = ~Proteção contra Veneno
+(Abjuração)
+
+Nível: 2
+Alcance: Criatura tocada
+Duração: 10 rodadas
+Tempo de Lançamento: 3
+Área de Efeito: Criatura tocada
+Teste de Resistência: Nenhum
+
+Ao usar este feitiço, a criatura escolhida ganha imunidade a venenos e toxinas administrados através de contato com a pele, ingestão, picada, mordida ou arma. Toxinas de outros tipos continuam a afetar a criatura normalmente. Quaisquer venenos já no corpo quando o feitiço é lançado também não são afetados por este feitiço.~
+@151 = ~Sopro de Desespero Esmagador~
+@152 = ~Explosão Ácida~
+@153 = ~Semente de Sangue Criada~
+@154 = ~Não, <CHARNAME>, eu nunca vou vestir isso!~
+@155 = ~Mercantil Miragem Mística~
+@156 = ~Reflexão de Cores~
+@157 = ~Sacrifício de Sangue~
+
+// creatures
+@1000 = ~Rosto de Pedra~
+@1001 = ~Maryel~
+@1002 = ~Daugralluvidan~
+@1003 = ~Comedor de Inveja~
+@1004 = ~Abishai Vermelho~
+@1005 = ~Veterano de Guerra~
+@1006 = ~Órfão Excluído~
+@1007 = ~Pai Desesperado~
+@1008 = ~Viúva Doente~
+@1009 = ~Fazendeiro Pobre~
+@1010 = ~Grimsnag~
+@1011 = ~Sonhador~
+@1012 = ~Sonhador~
+@1013 = ~Palrethee~
+@1014 = ~Rastejador de Sonhos~
+@1015 = ~Kaiphas o Iludido~
+@1016 = ~Gulga a Ilimitada~
+@1017 = ~Gulgathrix~
+@1018 = ~Wyliniesh, a Súcubo~
+@1019 = ~Vohraris, o Íncubo~
+@1020 = ~Homem Velho~
+@1021 = ~Aranoth~
+@1022 = ~Eldrin~
+@1023 = ~Lyra~
+@1024 = ~Theron~
+@1025 = ~Morgrath o Corruptor~
+@1026 = ~Som Sombrio~
+@1027 = ~Kastighur~
+@1028 = ~Alistair Vonhardt~
+@1029 = ~Alma Amaldiçoada~
+@1030 = ~Horror Cáustico~
+@1031 = ~Emer, o Louco~
+@1032 = ~Kaelthar Darkware~
+@1033 = ~Ludovic, o Mestre de Jogo~
+@1034 = ~Nysara, a Ressequida~
+@1035 = ~Bharava~
+@1036 = ~Arsid~
+@1037 = ~Vulgrim Darkmane~
+@1038 = ~Belthazaar~
+@1039 = ~Trar'gezal~
+@1040 = ~Barba Ágil Cauda de Ondas~
+@1041 = ~Wilbur Iparos~
+@1042 = ~Aranha Tecer-Virilha~
+@1043 = ~Lanceiros da Dama~
+@1044 = ~Armanite~
+@1045 = ~Malashrihi~
+@1046 = ~Mestre de Jogo~
+@1047 = ~Vendedor de Fichas~
+@1048 = ~Piscoloth~
+@1049 = ~Bar-Lgura~
+@1050 = ~Cambion-Barão~
+@1051 = ~Dretch~
+@1052 = ~Tanarukk~
+@1053 = ~Startail~
+@1054 = ~Alkilith~
+@1055 = ~Jenkin~
+@1056 = ~Zaehvielle~
+@1057 = ~Zeep~
+@1058 = ~Ormad Sulpar~
+@1059 = ~Sannak, o Arcanaloth~
+@1060 = ~Masun~
+@1061 = ~Lorde Jessel~
+@1062 = ~Zakhum, o Mercador de Especiarias~
+@1063 = ~Máquina~
+@1064 = ~Garnuth, o Babau~
+@1065 = ~Babau~
+@1066 = ~Árbitro~
+@1067 = ~Gigante de Gelo~
+@1068 = ~Faerthae Garblueth~
+@1069 = ~Daerea Ethgil~
+@1070 = ~Hamatula~
+@1071 = ~Lêmure~
+@1072 = ~Gazgothan~
+@1073 = ~Xag-Ya~
+@1074 = ~Bodak~
+@1075 = ~Halanna~
+@1076 = ~Kyriani~
+@1077 = ~Tharundar Olehm~
+@1078 = ~Barasta Cleeith~
+@1079 = ~Cavaleiro da Lua~
+@1080 = ~Igraflyn~
+@1081 = ~Rhyssa~
+@1082 = ~Adonia~
+@1083 = ~Helena~
+@1084 = ~Waukeen~
+@1085 = ~Nasmaerae~
+@1086 = ~Homem Estranho~
+@1087 = ~Gildaar~
+@1088 = ~Demidicus~
+@1089 = ~Zabrina~
+@1090 = ~Lestiulus~
+@1091 = ~Maendir~
+@1092 = ~Assol~
+@1093 = ~Kayur~
+@1094 = ~Larva~
+@1095 = ~Maretta~
+@1096 = ~Shamurz~
+@1097 = ~Tentáculo~
+@1098 = ~Zzrakh, o Bebilith~
+@1099 = ~Margrog~
+@1100 = ~Urkag, o Vendedor de Asas~
+@1101 = ~Vrock~
+@1102 = ~Zhelamiss~
+@1103 = ~Saarixal~
+@1104 = ~Mefisto~
+@1105 = ~Gorzengral~
+@1106 = ~Vargouille~
+@1107 = ~Clyddis~
+@1108 = ~Annia Greystockings~
+@1109 = ~Faylah~
+@1110 = ~Verin~
+@1111 = ~Elemental de Sangue~
+//@1112 = ~Rutterkin~
+@1113 = ~Qyriesh~
+@1114 = ~Aello Sortudo~
+@1115 = ~Guardião~
+@1116 = ~Mercador Amniano~
+@1117 = ~Monodrone~
+@1118 = ~~
+@1119 = ~Amlech~
+@1120 = ~Dammir~
+@1121 = ~Lillend~
+@1122 = ~Warwick~
+@1123 = ~Aphul~
+@1124 = ~Aprendiz de Kayur~
+@1125 = ~Bardo~
+@1126 = ~Daemevera~
+@1127 = ~Az'zelbath~
+@1128 = ~Bezmodan~
+@1129 = ~Mercador Amniano~
+@1130 = ~Locutor Zumbi~
+@1131 = ~Baphitaur~
+@1132 = ~Ferreiro Baphitaur~
+@1133 = ~Zhornack Gruulhoof~
+@1134 = ~Val'kreen~
+@1135 = ~Elandra Moonsong~
+@1136 = ~Sirene da Alma~ //As Sirenes da Alma são um cabala de harpias a serviço do lorde demônio Ardat o Não Votado. Seus membros são harpias com sangue demoníaco.
+@1137 = ~Guardião da Doença Mutz~
+@1138 = ~Sariila Tebrentan~
+@1139 = ~Zaldranis Quixtor~
+@1140 = ~Baronesa Erinyes~
+@1141 = ~Nuksheid Rheshan~
+@1142 = ~Morloth Darkblade~
+@1143 = ~Punho Sangrento Guarda Sombria~
+@1144 = ~Presa de Sangue Vexthor~
+@1145 = ~Zardrak Escudo Terrível~
+@1146 = ~Diirmdliin Cortador Afiado~
+@1147 = ~Mercenário da Guerra Sangrenta~
+@1148 = ~Discípulo de Baalzebul~
+@1149 = ~Zumbi Gigante de Gelo~
+@1150 = ~Ossos em Chamas~
+@1151 = ~Rutterkin~
+@1152 = ~Hezrou~
+@1153 = ~Fedor~
+@1154 = ~THAC0 reduzido~
+@1155 = ~Mezzoloth~
+
+@1180 = ~Sua alma é meu poder.~ [AC#WNIH1] // Nighthag soundset
+@1181 = ~Sonhe um pequeno sonho comigo, mortal!~ [AC#WNIH2] // Nighthag soundset
+@1182 = ~Eu sou poder, prazer e perdição.~ [AC#WMAR1] // Maretta soundset
+@1183 = ~Bem-vindo(a) ao reino do desespero, onde nenhum consolo pode ser encontrado, mortal. Eu sou Maretta, senhora de Samora.~ [AC#WMAR2] // Maretta soundset
+@1184 = ~Contemple minha beleza ou vá embora.~ [AC#WMAR3] // Maretta soundset
+@1186 = ~Saudações, mortais.~ [AC#WMEF1] // Mefisto initial meeting
+@1187 = ~Saudações, mortais.~ [AC#WMEF1] //[AC#WMEF2] Mefisto#2, need to change later
+@1188 = ~Ah, é você de novo.~ [AC#WMEF3] // Mefisto
+@1190 = ~Dinheiro fala. Riqueza canta.~ [AC#WTHA2] // Tharundar Olehm
+@1191 = ~Bons negócios.~ [AC#WTHA5] // Tharundar Olehm
+@1195 = ~Saudações. Eu sou Kyriani Agrivar. Sacerdotisa de Selûne de Águas Profundas.~ [AC#WKYR1]
+
+@1210 = ~Fique parado(a), mortal!~ [AC#WBAB2]
+@1211 = ~Um exército marcha sobre seus mortais!~ [AC#WBAB1]
+@1212 = ~Eu estou de muito, muito mau humor.~ [AC#WDEM1]
+@1213 = ~Meus preços são os melhores ao sul de Buraco do Inferno (*Hellhole*).~ [AC#WMER1]
+@1214 = ~Minha taverna é tão suja quanto o traseiro de um demônio.~ [AC#WSOL1]
+@1215 = ~Tema-me, pois eu o(a) confundo.~ [AC#WDEM2]
+@1216 = ~Neste jogo de almas, a lei sempre vence.~ [AC#WAPH1]
+@1217 = ~Eu tenho muitas mercadorias vis!~ [AC#WMER2]
+@1218 = ~Eu sou gloriosamente glorioso!~ [AC#W75S1]
+@1219 = ~Ataque-me com o seu melhor golpe!~ [AC#W74W3]
+@1220 = ~Avance e liberte sua fúria.~ [AC#W74W4]
+@1221 = ~Revele sua raiva e mostre sua força.~ [AC#W74W5]
+@1222 = ~Melhor um peido de um demônio do que um dardo por trás.~ [AC#WDWR1]
+@1223 = ~Tantas camadas, tanto a aprender.~ [AC#WDWR2]
+@1224 = ~Pela glória de Baator!~ [AC#WAPH2]
+@1225 = ~Magia não é um simples truque de salão por aqui.~ [AC#WMSV1]
+@1226 = ~Você não pode lançar magia como lança cartas.~ [AC#WMSV2]
+@1227 = ~Abram caminho, pessoas altas!~ [AC#WSQRL]
+
+@1230 = ~Eu sou a deusa da riqueza. Sim, eu sou!~ [AC#WWAE0]
+@1240 = ~Por que usar seu próprio poder quando você pode fazer outros desperdiçarem o deles?~ [AC#WVER0]
+
+@1250 = ~Quem pisa na minha teia?~ [AC#WBEB0]
+@1251 = ~Sinta minha mordida venenosa!~ [AC#WBEB2]
+
+@1255 = ~Cuidado onde pisa.~ [AC#WLIL1]
+@1256 = ~O luar guia meu caminho.~ [AC#WLIL2]
+
+@1260 = ~Ahhh... tão escuro...~ [AC#WHALA]
+
+@1270 = ~Nós o(a) saudamos, ser de carne.~ [AC#WMONA]
+@1271 = ~Um olho, uma direção.~ [AC#WMON0]
+@1272 = ~Sujeito hostil com mentalidade singular detectado...~ [AC#WMONB]
+@1273 = ~Não há indivíduo melhor do que nós.~ [AC#WMONC]
+@1274 = ~Nós pensamos como um só.~ [AC#WMOND]
+@1275 = ~Um golpe simples contra todos nós.~ [AC#WMONE]
+@1276 = ~Deixando a comunidade mental...~ [AC#WMONF]
+
+@1280 = ~Eu sou malicioso.~ [AC#WBAP1]
+@1281 = ~Eu forte. Você fraco!~ [AC#WBAP2]
+
+@1285 = ~Destino ou não, eu não ficarei muito tempo neste lugar.~ [AC#WNYS1]
+@1286 = ~Eu devo ser livre.~ [AC#WNYS2]
+
+@1290 = ~~ [AM1900B1]
+
+@1300 = ~Que riquezas e prosperidade sigam cada passo seu.~ [AC#WWAUX]
+
+// Blood war merc soundsets
+@1311 = ~Que a vontade do Inferno seja feita!~ [AC#W60M1]
+@1312 = ~Pela glória de Baator!~ [AC#W60M2]
+@1313 = ~Pela hierarquia!~ [AC#W60M3]
+@1314 = ~O poder infernal comanda!~ [AC#W60M4]
+
+@1320 = ~Nenhuma boa ação fica impune!~ [AC#W4CF1]
+
+@1330 = ~Você chamou e eu respondi. Vamos juntos traçar um caminho de devastação pelas terras!~
+// #2000: items
+
+// are files
+@3000 = ~Uma luz ofuscante, incrivelmente brilhante, emana desta porta. Embora o brilho não pareça ser malicioso, você percebe que sua intensidade o(a) destruiria se você entrasse na área além da porta.~
+@3001 = ~Guilda Planar~
+@3002 = ~Voltar para o fundo da Escadaria~
+@3003 = ~Portal para o Abismo~
+@3004 = ~Máquina Modron~
+@3005 = ~Esta estátua representa a deusa Waukeen. Parece ter sido feita de ouro puro.~
+@3006 = ~Você pode observar a agitação da abadia desta janela saliente.~
+@3007 = ~Voltar para Faerûn~
+@3008 = ~Início da Escadaria Infinita~
+@3009 = ~Elandra Moonsong~
+@3010 = ~Esta porta parece levar da torre para o templo. Está trancada pelo outro lado, e um olhar dos guardas lhe diz que não seria uma boa ideia arrombá-la.~
+@3011 = ~Um pedestal de cristal azul~
+@3012 = ~Um pedestal de cristal verde~
+@3013 = ~Um pedestal de cristal vermelho~
+@3014 = ~Um pedestal de cristal amarelo~
+
+@4000 = ~Fortuna Amaldiçoada~
+@4001 = ~Peões do Lorde~
+@4002 = ~Camas de Maretta~
+@4003 = ~O Solar Encharcado~
+@4004 = ~A Deusa Chorosa~
+@4005 = ~Para a Escadaria Infinita~
+@4006 = ~Para o Abismo~
+@4007 = ~Praça de Graz'zt~
+@4008 = ~Praça dos Mercadores~
+@4009 = ~Casa da Bruxa Noturna (*Nighthag*)~
+@4010 = ~Casa de Margrog~
+@4011 = ~Casa de Contagem~
+@4012 = ~Forja de Fogo da Agonia~
+@4013 = ~Câmara das Tentações~
+@4014 = ~Casa de Daemevera~
+@4015 = ~Casa de Zhaevielle~
+@4016 = ~Local de Recrutamento da Guerra Sangrenta~
+@4017 = ~Esconderijo de Belthazaar~
+@4018 = ~Covil de Grimsnag~
+@4019 = ~A escultura de uma deusa, seu rosto distorcido pela dor, levantando as mãos em súplica. Um lamento e choro constante podem ser ouvidos de dentro da estátua.~
+
+@5000 = ~Árvore dos Covardes~
+@5001 = ~Forno Ardente Oriental~
+@5002 = ~Forno Ardente Ocidental~
+
+@5201 = ~Você deve se aproximar da criatura para conversar com ela.~
+
+@7000 = ~O símbolo de um machado~
+@7001 = ~O símbolo de um saco de dinheiro~
+@7002 = ~O símbolo de um coração em chamas~
+@7003 = ~O símbolo de uma coroa~
+@7004 = ~Esta é a estátua de um demônio Marilith jogando uma alma moribunda na lava. Uma pequena placa na borda da estátua diz:
+"Rendido ao orgulho, consumido pela ira,
+a alma em chamas no fogo da lava.
+tentações mortais, queimando quentes,
+sacrificadas neste nó abissal."~
+@7005 = ~O símbolo de uma cobra~
+@7006 = ~O símbolo de uma caneca de cerveja~
+@7007 = ~Um símbolo desconhecido~
+
+@8090 = ~Sua passagem é bloqueada por uma porta nojenta.~
+
+// crossmod content
+// Lava's Hephernaan
+@8100 = ~Me trazer para cá é bastante ridículo. Você deveria estar feliz por eu ainda ter alguns ases na minha manga diabólica.~
+@8101 = ~Agora, isso deve impedi-los de ver quem, ou mais importante O QUE eu sou. Demônios, diabos... Isso não importa. Eu escolho ficar de fora dessa.~
+@8102 = ~Mas não vamos ficar aqui por muito tempo, Cria de Bhaal. Isso seria bastante imprudente.~
+@8103 = ~Isso está ficando bastante problemático, Cria de Bhaal. Eu continuarei escondendo quem eu sou, mas você está jogando um jogo perigoso aqui.~
+@8104 = ~Seu(Sua) tolo(a)! Eu não posso me esconder deles nesta forma...!~
+@8105 = ~Você realmente pensou que nós não iríamos notá-lo(a), diabo?!~
+@8106 = ~Eu não sei o que você estava fazendo com ele, mas é melhor prevenir do que remediar, hahahaha!~
+
+// 2da entries
+@9000 = ~Ler~
+@9001 = ~Você ascende lentamente os degraus da Escadaria Infinita. À medida que você avança, o caminho se torna cada vez mais convoluto e nebuloso, tornando sua origem uma memória distante. Os degraus parecem estar em constante mudança em forma e construção, um testemunho das diferentes culturas envolvidas em sua criação.
+
+Portas bizarras pontuam sua subida, tentadoras, mas inexploradas, envoltas em mistério. Gradualmente, a estranheza deste reino alienígena se instala, reforçando sua confiança.
+
+Você se concentra severamente em sua tarefa e, apesar de seu cansaço, a incerteza o(a) impulsiona para frente.~ [AC#WNAR1] //[AC#WMUS1]
+@9002 = ~Finalmente, você conseguiu. Waukeen foi libertada e reintegrada ao panteão como uma divindade reverenciada.
+
+Você ainda não consegue dimensionar a magnitude deste feito, mas se deleita nas festividades jubilantes realizadas em sua homenagem na abadia. Em meio a celebrações extravagantes, aplausos e uma hipnotizante exibição de fogos de artifício, os desafios recentes desaparecem em segundo plano.
+
+À medida que a folia diminui, a tranquilidade retorna à abadia, e seus ocupantes retomam suas rotinas diárias. É hora de você embarcar em novas aventuras, sabendo que você será sempre bem-vindo(a) na Abadia de Waukeen novamente.~ [AC#WNAR2] //[AC#WMUS9]
+
+@9003 = ~Você falhou na missão de salvar Waukeen. As agonias que o(a) aguardam no Abismo estão além da imaginação. No entanto, seu esforço foi nobre, e suas ações ecoarão nos reinos mortais por um tempo. O destino que Graz'zt reserva para você ainda está para se desenrolar, mas não será um de favor.~ [AC#WNAR3] //[AC#WMUS1]
+
+// Script entries
+@10000 = ~Ajuda! O que está acontecendo comigo? Meu corpo está ficando pesado...~
+
+@19000 = ~Este portal parece funcionar apenas em uma direção. Você terá que encontrar outra maneira de voltar para Faerûn.~
+
+@30000 = ~A porta já foi aberta. Não há mais nada para operar na máquina.~
+@30001 = ~Atenção, <PRO_HESHE> está vindo! Preparem-se!~
+
+@40000 = ~Esta saída leva às Terras Exteriores fora da cidade. Sem um destino preciso em mente, uma viagem para estas regiões seria sua morte certa.~
+@40002 = ~Você atravessa o forno ardente esperando que ele o(a) leve para a prisão de Waukeen.~
+
+@43000 = ~Em uma inspeção mais próxima, você nota que a parede foi lavada várias vezes neste ponto. Você acha que pode discernir o contorno sombrio de uma mão.~
+@43001 = ~Você corta a palma da mão e desenha o símbolo de uma mão na parede usando seu próprio sangue. Isso parece ativar algum tipo de mecanismo.~
+@43002 = ~Uma parte desta parede parece ter sido recentemente manipulada...~
+@43003 = ~Nesta taverna, há um choro e lamento constante que desencadeia um desconforto inquietante dentro de você, pesando muito em suas mentes.~
+
+@48000 = ~Agora que todos os membros da Guilda Planar estão mortos, você tem um lugar seguro para descansar.~
+
+@49000 = ~As partes da chave estão se formando em uma chave completa.~
+@49100 = ~Atenção, lá vamos nós! Round 1...~
+@49101 = ~Round 2...~
+@49102 = ~Round 3!~
+@50000 = ~Seu feitiço foi corrompido pelo Abismo.~
+@50001 = ~Esta caverna avança apenas alguns metros na rocha e para por ali. No entanto, parece que uma grande criatura tem entrado e saído frequentemente.~
+@50002 = ~Esta parece ser a área de onde o caçador de demônios emergiu. Numerosas redes testemunham sua atividade acelerada. Você poderia colocar o Chifre Tanar'ri aqui para abrir o portal, talvez.~
+@50003 = ~Sem o pentáculo em seu inventário, parece que o forno ardente não pode ser ativado.~
+@50004 = ~Para o covil do Nabassu~
+@50005 = ~Para Yemach~
+@50006 = ~Grito~ [AC#VARGS]
+
+@51000 = ~As paredes e o chão deste corredor estão cobertos com teias grossas e pegajosas que dificultam seu progresso e o(a) lembram de uma teia de aranha. No entanto, a criatura que teceu essas teias deve ser muito maior.~
+
+@52000 = ~Finalmente, paz...~
+@52001 = ~Você despeja um pouco do ácido concentrado no capacete.~
+@52002 = ~Você despeja o ácido do capacete sobre o metal, que imediatamente começa a se dissolver.~
+@52003 = ~Você despeja o ácido sobre o metal, que imediatamente começa a se dissolver.~
+@52004 = ~A jaula não tem porta discernível, mas parece ter sido afetada pela acidez deste lugar no passado.~
+@52005 = ~Ácido forte flutua neste lago. Dado o item certo, você poderia coletar um pouco dele com segurança, caso contrário, você teria que coletar o ácido usando suas mãos nuas, o que queimaria sua pele muito rapidamente.~
+
+@70000 = ~O portal parece funcionar apenas em uma direção.~
+@70001 = ~O portal ainda está inativo. Você pode precisar completar uma tarefa antes de poder pegar este caminho.~
+@70002 = ~Você arranca a rosa. Como ela está cheia de espinhos, seu dedo é picado no processo.~
+@70003 = ~Esta parece ser a Rosa do Abismo. Você deve se aproximar para colhê-la.~
+@70004 = ~Esta parece ser a Rosa do Abismo. Se desejar, você pode colhê-la.~
+
+@71000 = ~As duas partes do colar se combinam magicamente para formar um pingente completo. Você sente que o pingente pode permitir que você saia da câmara novamente.~
+@71001 = ~Possuir o pingente abriu o portal de saída.~
+
+@72000 = ~Você joga o pedaço de osso no caldeirão. O caldo ferve brevemente, então o portal de saída se abre.~
+
+@80000 = ~O portal parece funcionar apenas em uma direção. Você terá que encontrar outra saída.~
+@80001 = ~Deste cadáver recém-dissecado foi retirado o coração. Algo parece estar preso na cavidade resultante no peito.~
+@80002 = ~Esta máquina nojenta está cheia de numerosos cadáveres de várias formas e tamanhos. O propósito que ela serve está além de sua imaginação.~
+@80003 = ~Você aprendeu a diatribe de Graz'zt, que pode fortalecê-lo(a) enquanto você habitar o reino de Graz'zt no Abismo.~
+@80004 = ~Você falhou em salvar Waukeen.~
+@89000 = ~Ao entrar na massa orgânica que reveste o corredor à frente, uma sensação de malevolência esmagadora o(a) inunda. As paredes parecem pulsar levemente e se mover quase imperceptivelmente, e você se pergunta com um crescente senso de horror se acabou de entrar em alguma forma vil de espécie viva.~
+@89001 = ~Você tem 18 minutos restantes para salvar Waukeen antes que não haja escapatória do Abismo para você.~
+@89002 = ~Você tem 9 minutos restantes para salvar Waukeen antes que não haja escapatória do Abismo para você.~
+@89003 = ~Você tem 6 minutos restantes para salvar Waukeen antes que não haja escapatória do Abismo para você.~
+
+// Store entries
+
+@90000 = ~Esta é a versão reversa de Curar Ferimentos Graves. Em vez de curar o alvo, o feitiço causa dano.~
+@90001 = ~O alvo do feitiço é dominado por um senso iminente de perdição. Pela duração do feitiço, o alvo recebe -2 em todos os testes (incluindo THAC0 e Testes de Resistência).~
+@90002 = ~Este feitiço pode ser usado para envenenar o alvo se o alvo falhar em um teste de resistência contra veneno.~
+@90003 = ~Deterioração Dolorosa é uma podridão e definhamento do corpo que se espalha rapidamente por toda a criatura afligida. A criatura alvo será automaticamente lenta por 2 rodadas. Além disso, se o alvo falhar em um Teste de Resistência vs. Veneno com uma penalidade de -2, <PRO_HESHE> sofrerá 1 ponto de dano por segundo até que um total de 50 pontos de dano seja infligido.~
+@90004 = ~Este feitiço é o reverso de Curar. Em vez de curar a criatura tocada, ele causa dano. Em um toque bem-sucedido do sacerdote, o feitiço reduz o alvo a 1 Ponto de Vida. O próximo ataque que o sacerdote fizer infligirá este efeito; no entanto, <PRO_HESHE> tem apenas 2 rodadas para fazer o ataque antes que o feitiço falhe. Se o sacerdote errar o alvo, o feitiço é desperdiçado. Não há Teste de Resistência.~
+// Script Entries
+@100000 = ~Você toca o espelho e o vidro de repente parece se liquefazer. Então você é puxado(a) para dentro do espelho...~
+@100040 = ~Você não pode convocar Elementais no Abismo sem as ferramentas apropriadas.~
+@100090 = ~Ao atacar o tentáculo, a massa carnuda de repente começa a se contorcer...~
+@100091 = ~A estranha boca se fecha brevemente e parece devorar vorazmente o órgão. Pouco depois, a massa amorfa à sua frente se move, e o órgão libera seu caminho.~
+@100092 = ~Com um golpe limpo, você corta o tentáculo. O aperto dos tentáculos sobre a cativa Waukeen parece afrouxar.~
+

@@ -13,7 +13,7 @@
 @12 = ~¿Qué tengo que hacer para seguir el juego?~
 @13 = ~Primero echad un vistazo. Si queréis jugar, necesitaréis nuestras fichas de alma. Podéis adquirirlas de nuestro vendedor de fichas en el pequeño puesto de venta en el centro de la sala.~
 @14 = ~Que así sea, valiente mortal. Los juegos os esperan. Que la fortuna maldita os favorezca.~
-@15 = ~¡El partido ha terminado!~
+@15 = ~¡La ronda ha terminado!~
 @16 = ~Ambos esclavos parecen seguir vivos. ¿Listos para la próxima partida?~
 @17 = ~Sí.~
 @18 = ~No, me rindo.~
@@ -28,7 +28,7 @@
 @27 = ~Este es el juego de azar que jugamos en esta zona. ¿Os explico las reglas?~
 @28 = ~Sí, explicadme las reglas.~
 @29 = ~No es necesario. Tengo que seguir adelante.~
-@30 = ~Así que tened cuidado. ¿Veis las dos jaulas detrás de mí? El esclavo de cada jugador entra en una jaula. La primera apuesta son cinco fichas de alma, pero se pueden usar más después. La partida dura tres rondas. En cada ronda, un pincho afilado sale disparado del suelo y se clava en la parte inferior o en los pies del esclavo. Después de tres rondas, cada uno tiene la opción de seguir jugando otras tres rondas o rendirse. El ganador recibe las fichas de juego de su oponente. Si un esclavo muere, las fichas de juego pasan al jugador del esclavo superviviente. Y el alma del esclavo muerto es mía. ¿Lo habéis entendido? No es tan difícil, ¿verdad?~
+@30 = ~Así que prestad atención. ¿Veis las dos jaulas detrás de mí? El esclavo de cada jugador entra en una jaula. La primera apuesta son cinco fichas de alma, pero se pueden usar más después. La partida dura tres rondas. En cada ronda, un pincho afilado sale disparado del suelo y se clava en la parte inferior o en los pies del esclavo. Después de tres rondas, cada uno tiene la opción de seguir jugando otras tres rondas o rendirse. El ganador recibe las fichas de juego de su oponente. Si un esclavo muere, las fichas de juego pasan al jugador del esclavo superviviente. Y el alma del esclavo muerto es mía. ¿Lo habéis entendido? No es tan difícil, ¿verdad?~
 @31 = ~¡Este es un juego terrible!~
 @32 = ~¿No gana automáticamente el más duro de los dos esclavos?~
 @33 = ~Lo tengo.~
@@ -42,12 +42,12 @@
 @41 = ~¡Pero no esperéis demasiado! ¡Cuanto antes os unáis, más rico seréis!~
 @42 = ~¡Una sabia elección!~
 @43 = ~¡Oh! Ahora mismo todos los esclavos han muerto. Volved más tarde cuando nuestros suministros se repongan.~
-@44 = ~Eso hace cinco fichas de alma~
+@44 = ~Eso hace un total de cinco fichas de alma.~
 @45 = ~Aquí están las fichas.~
 @46 = ~No tengo suficientes fichas de alma.~
 @47 = ~Aún no sé si debo jugar.~
 @48 = ~No quiero jugar después de todo.~
-@49 = ~¡Entonces deberíais comprar algunas cuanto antes! ¿Veis a la amable señora en la pequeña cabina en medio de la sala? Os venderá todas las fichas de alma que queráis por un módico precio.~
+@49 = ~¡Entonces deberíais comprar algunas cuanto antes! ¿Veis a la amable dama en la pequeña cabina en medio de la sala? Os venderá todas las fichas de alma que queráis por un módico precio.~
 @50 = ~¡Muy bueno! Sólo un recordatorio: El juego dura tres rondas, después de las cuales os preguntaré si queréis abandonar o seguir jugando. Entonces, ¡a la jaula con los esclavos!~
 @51 = ~Como queráis, mortales...~
 @52 = ~¡Saludos, <PRO_RACE>! ¿Os apetece un poco de juego?~ ~¡Saludos, <PRO_RACE>! ¿Os apetece un poco de juego?~

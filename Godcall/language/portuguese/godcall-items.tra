@@ -1,0 +1,1347 @@
+@2000 = ~Cachimbo do Abismo~
+@2001 = ~Este é um pequeno cachimbo de pedra moldado para se assemelhar à cabeça de um demônio.
+
+Quando o cachimbo é usado, ele emite grandes baforadas de vapores mortais vindos das camadas mais profundas do Abismo. No entanto, há sempre o perigo de inalar os vapores tóxicos.
+
+ESTATÍSTICAS:
+
+Habilidades por carga:
+– Conjura a magia "Nuvem Mortal" uma vez por dia.
+– 5% de risco de envenenar o próprio usuário por 5 rodadas ao usar o cachimbo
+
+Peso: 1~
+@2002 = ~Cachimbo do Luto~
+@2003 = ~Conta-se que este cachimbo foi criado por um xamã sombrio que fumava as cinzas de seus inimigos caídos nele. A fumaça que emanava do cachimbo continha o desespero e a dor concentrados dos moribundos e podia, assim, influenciar os corações e mentes dos vivos. O destino do xamã desapareceu nas brumas da história. O cachimbo, no entanto, vive e ainda pode ser usado para liberar o poder sufocante do desespero.
+
+ESTATÍSTICAS:
+
+Habilidades por carga:
+– Nuvem de luto uma vez por dia: Qualquer pessoa dentro desta nuvem sofre uma penalidade de moral de -4 nos testes de ataque e de Resistência por 10 rodadas (Teste de Resistência contra Sopro nega)
+  Duração: 3d8 turnos
+  Área de Efeito: Raio de 4,5 metros
+
+Peso: 3~
+@2004 = ~Escamas de Dragão Tártaro~
+@2005 = ~As escamas pesadas são de um dragão Tártaro, uma subespécie dos grandes vermes que habitam o plano maligno de Carceri. Os dragões Tártaros são tanto guardiões quanto prisioneiros deste plano. No entanto, dizem que há maneiras de libertá-los da maldição que os impede de deixar os Planos Inferiores. As criaturas são extremamente resistentes a qualquer coisa que afete seu movimento e capacidade de manuseio, devido às características de sua terra natal. Eles são capazes de conjurar magias poderosas que podem prender ou até mesmo aprisionar seus oponentes. Seu sopro consiste em uma onda de choque poderosa que estilhaça tanto o corpo quanto a mente de seus inimigos, infligindo dano, bem como uma penalidade para ataque e Testes de Resistência. Você conseguiu saquear um número considerável de escamas da carcaça do dragão Tártaro... talvez um ferreiro habilidoso possa forjar uma armadura com elas.~
+@2006 = ~Armadura de Escamas de Dragão Tártaro~
+@2007 = ~A armadura de escamas de dragão é leve, forte e resistente a várias forças nocivas. Por causa dessas propriedades, é muito procurada, mas encontrar, e muito menos matar, um poderoso dragão ancestral é quase impossível. Deve-se ter cuidado ao usá-la perto de dragões, no entanto, particularmente dragões Tártaros.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– O usuário é imune a tudo, mágico ou não, que afete a mobilidade de alguma forma. Isso inclui as magias Acelerar e Lentidão.
+– O usuário é imune a Aprisionamento.
+
+Classe de Armadura: 0
+Peso: 30~
+@2008 = ~Faísca Deva~
+@2009 = ~Uma aura luminosa que pertenceu a um Deva.~
+@2010 = ~Poção de Cura Pútrida~
+@2011 = ~Esta poção de cura, originalmente pura, foi tão corrompida pelas forças do Abismo que a garrafa agora contém apenas uma mistura pútrida.~
+@2012 = ~Kayur,
+fique vigilante nos degraus da Escadaria Infinita por um indivíduo <PRO_RACE> chamado <CHARNAME>. <PRO_HIMHER> se aproximará de Azzagrat vindo da direção de Argentil. Não permita que <PRO_HIMHER> prossiga em sua jornada sob quaisquer circunstâncias! Estarei esperando no ponto de encontro designado com a segunda parte de sua recompensa. Que o Sol Negro esteja com você!
+G.~
+@2013 = ~Derrota Dolorosa +3~
+@2014 = ~Forjada séculos atrás por um ferreiro duergar, a espada 'Derrota Dolorosa' foi criada para um guerreiro vaidoso de Ruathym. Projetada para aumentar sua proeza em batalhas terríveis, ela ativava seu poder quando ele estava enfraquecido. Apesar de suas habilidades formidáveis, o guerreiro encontrou seu fim em um covil de contempladores, sobrecarregado pelos devastadores raios oculares dessas aberrações.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Se os pontos de vida do usuário caírem abaixo de 25%, "Aceleração Aprimorada" é conjurada em <PRO_HIMHER> por três rodadas
+
+PACA0: -3
+Dano: 1d10+3 (corte)
+Fator de Velocidade: 7
+Tipo de Proficiência: Espada de Duas Mãos
+Tipo: Duas Mãos
+Requer:
+ 5 Força
+ 
+Peso: 8~
+@2015 = ~Chave da Câmara das Tentações~
+@2016 = ~Usando esta chave, você pode destrancar a porta para uma área abaixo de Samora chamada "Câmara das Tentações". Maretta lhe disse que uma Rosa do Abismo floresce lá, e sua tarefa é entregá-la a ela.~
+@2017 = ~Nota do Estudioso (Trecho)~
+@2018 = ~Na minha curiosidade insaciável, aventurei-me nas profundezas da câmara para desvendar seus segredos. As paredes escuras e os símbolos enigmáticos sugerem um significado que eu só posso adivinhar. Esta câmara parece ser um lugar de tentação, um lugar onde os lados sombrios da natureza mortal e seus desejos mais íntimos são postos à prova.
+
+Cada um dos sete portais que se abrem da câmara representa uma forma particular de desejo proibido. Daí os estranhos símbolos de ferro forjado nas paredes! A cobra representa a inveja, o saco de dinheiro a avareza. A coroa poderia representar a arrogância, mas não tenho certeza. O machado é certamente o símbolo da ira e da fúria.
+
+Na minha busca por conhecimento e percepção, excedi os limites da minha sanidade. Meu corpo está em rápido declínio e sinto o hálito gelado da morte. Mas deixarei estas notas como um aviso e guia para aqueles que vierem depois de mim.~
+@2019 = ~Falsa Devoção +3~
+@2020 = ~Carregada por um cavaleiro famoso por sua bravura e subsequente arrogância, esta espada longa incorporou seu espírito presunçoso. A lâmina foi amaldiçoada por forças celestiais para lembrar aos portadores que a humildade supera a soberba. O cavaleiro arrependido escondeu a espada, retirando-se para uma vida de penitência em um monastério de Ilmater.
+
+O fascínio da lâmina provou ser irresistível para empunhadores dignos. Inquieto, o item procura aqueles que incorporam sua essência, nunca se contentando com guerreiros medianos.
+
+ESTATÍSTICAS:
+
+Habilidades de combate:
+– 30% de chance de que o alvo seja cegado por uma rodada após um acerto bem-sucedido se falhar em um Teste de Resistência contra magias
+– Ao marcar um acerto crítico, o usuário é atingido por um Raio de Enfraquecimento por três rodadas se <PRO_HESHE> falhar em um Teste de Resistência contra magias.
+
+PACA0: -3
+Dano: 1d8+3 (corte)
+Fator de Velocidade: 2
+Tipo de Proficiência: Espada Longa
+Tipo: Uma Mão
+
+Requer:
+ 17 Carisma
+
+Peso: 3~
+@2021 = ~Riso de Tolo~
+@2022 = ~Uma risada rouca e histérica emana desta garrafa. Uma trava especial a mantém perfeitamente fechada, tornando impossível abri-la. Existem várias histórias em torno deste estranho item. A mais comum delas é que um tirano cruel torturou seu bobo da corte ameaçando executá-lo assim que ele parasse de rir. A risada foi então aprisionada nesta garrafa.~
+@2023 = ~Rosa do Abismo~
+@2024 = ~Esta rosa parece espinhosa e maligna. Você nem sabe como segurá-la corretamente sem se machucar. A fragrância que emana da flor é doce, mas cheira mais a decadência e podridão do que a flores sedutoras.~
+@2025 = ~Osso Ensanguentado~
+@2026 = ~Um osso ensanguentado que ainda tem tendões e outros tecidos pendurados. Parece que o osso foi cozido para torná-lo mais macio.~
+@2027 = ~Parte de um Colar~
+@2028 = ~Isto é parte de um colar.~
+@2029 = ~Últimos Ritos~
+@2030 = ~Este amuleto tem o formato de um coração dividido. Vários rumores giram em torno de suas origens, principalmente sobre dois amantes cujo triste destino foi selado por um reviravolta inesperada e de partir o coração. Acredita-se que este item foi criado por sacerdotes de Wee Jas, uma deusa que incorpora morte, magia e amor.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Resistência à Magia: +15%
+
+Habilidades por carga:
+Últimos Ritos (especial, uma vez por dia)
+– Ressurreição
+– O alvo é completamente curado
+– Os pontos de vida do usuário são reduzidos a 1
+  Alcance: Ilimitado
+  Área: 1 criatura
+
+Peso: 1
+~
+@2031 = ~Este anel poderoso é torcido e deformado. Ele concede uma quantidade não natural de proteção contra ataques de qualquer tipo. O anel parece ter sido forjado sob a influência do lorde demônio Alrunes, conhecido por seus seguidores como o 'Espírito Beneficente'.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Classe de Armadura: +3
+– Testes de Resistência: +3
+
+Peso: 0~
+@2032 = ~Desenho de Clyddis~
+@2033 = ~Este esboço de um pentagrama foi cortado da pele do vrock Clyddis. Ele o havia arranhado lá para ilustrar a função dos fornos de fogo em Samora. Com a ajuda deste esboço, você deve ser capaz de usar os fornos na ordem correta para entrar na prisão de Waukeen.~
+@2034 = ~Fogão de Pimenta de Gehenna~
+@2035 = ~Este arbusto é nativo dos planos inferiores e produz a pimenta de Gehenna.~
+@2036 = ~Elmo de Resistência a Ácido (Cheio)~
+@2037 = ~Este elmo está cheio do ácido corrosivo das piscinas de Yemach. O ácido não prejudicará o objeto, mas você deve ter cuidado para que o líquido não derrame do recipiente e queime sua mão.~
+@2038 = ~Elmo de Resistência a Ácido~
+@2039 = ~Elmo de Resistência a Ácido, 'Bana do Devorador de Ácido'
+Este elmo foi forjado para resistir ao sopro de dragões negros, em particular um ancestral wyrm de tempos passados que fez história como Acidragravagrex, ou simplesmente 'Devorador de Ácido'. Até hoje, o elmo carrega as marcas de batalhas passadas contra as criaturas aladas. O elmo protege contra ácido.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Resistência a ácido: +80%
+– Protege contra acertos críticos
+
+Peso: 3~
+@2040 = ~Peguei você!~
+@2041 = ~Enigma de Belthazaar~
+@2042 = ~Uma mão, misturada com sangue, o toque gentil do destino,
+Destranca os portões do perigo, onde jazem sepulturas escuras.
+Um toque de sangue, a carne treme e então,
+Com esta mão como chave, revela o covil do Glabrezu.
+Então, ó mortal, a porta se abrirá,
+Para o reino do Glabrezu, onde os destinos coincidem.
+Agora, mortal, dê o passo, resolva com cuidado,
+Pois no olhar do Glabrezu, prove seu valor justo, tanto à luz quanto na escuridão.~
+@2043 = ~A Época da Perturbação~
+@2044 = ~A Época da Perturbação
+No Ano das Sombras, 1358 CV (Contagem Vale), Faerûn foi abalada por uma sinistra agitação. Os próprios céus empalideceram quando os deuses dos Reinos Esquecidos foram forçados a deixar seus salões sagrados e assumir a forma de mortais. Uma era de caos e desordem desceu sobre a terra.
+
+O roubo de um artefato de poderoso esplendor desviou o curso do destino divino. Assim aconteceu que os deuses se tornaram vulneráveis e seus poderes diminuíram. Seus servos fiéis, sacerdotes piedosos e paladinos honrados, foram despojados de seus dons divinos, pois seus patronos não podiam mais conceder-lhes poder. Um vazio de orientação e proteção se abriu, e o povo de Faerûn se viu abandonado no meio do turbilhão.
+
+Naqueles tempos selvagens, os deuses agarraram desesperadamente a chance de recuperar seu poder e se libertar de sua situação. Batalhas violentas eclodiram entre os próprios deuses, entre seus seguidores e entre facções mortais que buscavam o favor de seus deuses. Novos deuses ascenderam para preencher a lacuna, enquanto outros perderam sua glória anterior ou foram destruídos.
+
+Mas o próprio mundo de Faerûn foi marcado pela agitação desta época. Os caminhos da magia foram abalados, e uma sombra se instalou sobre as correntes outrora poderosas. Sábios e magos lutaram para entender o mistério, e a terra afundou em uma aura de incerteza.
+À medida que os véus da tristeza começaram a se levantar, os deuses conseguiram retornar à sua glória divina. Mas a Época da Perturbação havia deixado sua marca, que perduraria por muito tempo. Alguns deuses, antes poderosos e exaltados, caíram ou mudaram suas esferas. Novos deuses tomaram seus lugares para preencher as lacunas, e seus nomes eram agora proferidos nos lábios mortais.
+
+O povo de Faerûn foi marcado pelas experiências da Época da Perturbação. Alguns mudaram suas crenças e fés, enquanto outros se perderam no caos, quebrados pela dor da mudança. No entanto, alguns encontraram nova força e propósito ao se voltarem para os deuses ascendidos e buscarem seu favor.~
+@2045 = ~Sobre a Ausência de Waukeen~
+@2046 = ~Sobre a Ausência de Waukeen
+Escrito pelo Irmão Aldric, devoto Sacerdote da Donzela da Moeda
+
+Nestes tempos terríveis que caíram sobre Faerûn, nos encontramos enfrentando a perda da presença divina de nossa amada Mestra da Moeda. Ela, o sol radiante do comércio, certa vez nos abençoou com sua presença, mas desapareceu como se sua luz tivesse se extinguido, envolvendo o templo da riqueza na escuridão.
+
+Oh, como ansiamos por seu brilho caloroso e pela abundância que ela outrora trouxe aos nossos corações e tesourarias! Sua presença era uma inspiração para todos que a serviam, e seu favor fazia nossos mercados florescerem como um magnífico campo de flores. No entanto, agora, nossos mercadores são atormentados pela dúvida, e nossos armazéns estão vazios, pois sem a luminosa presença de Waukeen, vagamos sem rumo como navios sem bússola, perdidos em um mar tempestuoso.
+
+Nós, os fiéis seguidores da Amiga dos Mercadores, oramos fervorosamente a ela, implorando por seu retorno e buscando sinais de que ela não nos abandonou. Mas o silêncio dos céus fala volumes, e nossas orações parecem ecoar contra o vazio gelado. O desespero nos domina, e estamos presos na incerteza, perguntando-nos quando Nossa Senhora do Ouro reaparecerá em toda a sua glória.
+
+Recordamos contos de eras passadas, quando o mundo estava envolto em horas sombrias, mas as divindades nos concederam suas bênçãos. A esperança tremeluz em nossos corações ao sermos lembrados das palavras dos sábios, de que a luz da divindade sempre ressurgirá para dissipar as sombras.
+
+Assim, neste livro de lembrança, reafirmemos nossa devoção inabalável a Waukeen, a Amiga dos Mercadores. Nós a honramos em nossas orações, em nossos cânticos e em nossa busca incansável por prosperidade. Que ela nos ouça e mais uma vez ilumine as terras de Faerûn com sua presença radiante, para que o esplendor do comércio e da riqueza preencha nossas almas.~
+@2047 = ~Sobre os Pináculos de Ouro~
+@2048 = ~Os Pináculos de Ouro - um santuário de esplendor e abundância
+  
+Fora dos muros movimentados da cidade de Athkatla ergue-se um templo orgulhoso chamado Pináculos de Ouro, anunciando o esplendor e as riquezas do domínio divino de Waukeen. Como raios de sol que alcançam os céus, essas torres se elevam majestosamente, capturando a luz e apresentando-a como um testemunho radiante do favor da deusa.
+
+Os fiéis se reúnem aqui para oferecer suas orações e sacrifícios, e para buscar a bênção da Amiga dos Mercadores. Os sacerdotes, vestidos com vestes de beleza preciosa, celebram ritos solenes e abençoam aqueles que buscam prosperidade e sucesso em seus empreendimentos. O cheiro de incenso e especiarias preenche o ar e se mistura com os sons de orações e cânticos que ecoam pelas paredes.
+
+Mas os Pináculos de Ouro são mais do que apenas um templo. São um centro de comércio e apoio para os fiéis. Registros comerciais são mantidos aqui, contratos são preservados e informações valiosas sobre mercados e negócios são coletadas. A sabedoria de mercadores e comerciantes é reunida aqui para guiar os fiéis e promover o comércio.
+
+Louvemos e honremos os Pináculos de Ouro, pois eles incorporam o esplendor e a abundância que Waukeen, a divina mestra do comércio, representa. Que os portões deste lugar sagrado estejam para sempre abertos para receber aqueles que buscam o comércio e lhes mostrar o caminho para o sucesso.~
+@2049 = ~Ficha de Alma~
+@2050 = ~Em Samora, a cidade do pecado, nenhum dinheiro é gasto em jogos de azar, mas sim fichas que os jogadores devem comprar ao custo de sua força vital. Estes "fichas de alma" podem ser usadas para participar nos vários tipos de jogos em oferta.~
+@2051 = ~Pena de Deva~
+@2052 = ~Esta é a pena de um Deva. Ela está brilhando de forma pura e resplandecente em sua mochila. Maretta quer que você entregue este item à sua residência na Casa da Contabilidade.~
+@2053 = ~Asa de Deva~
+@2054 = ~Esta é a asa decepada de um Deva.~
+@2055 = ~Poção de Proteção contra Ácido~
+@2056 = ~Quem ingerir esta poção desenvolve uma resistência mágica a qualquer tipo de ácido. Qualquer dano causado por ácido é reduzido em 50%. A resistência a ácido se aplica juntamente com quaisquer outras formas de resistência que uma pessoa possua. O efeito dura por 10 turnos, ou até ser dissipado.~
+@2057 = ~Parte da Chave da Arena~
+@2058 = ~Esta é uma parte de uma chave de formato estranho.~
+@2059 = ~Chave da Arena~
+@2060 = ~Esta chave estranha pode ser usada para abrir a porta de osso trancada na arena de gladiadores em Samora.~
+@2061 = ~Manual da Humilhação Física~
+@2062 = ~Como outros manuais deste tipo, a capa é feita de couro grosso e elaboradamente decorada, embora o livro pareça desagradavelmente retorcido, como se estivesse se contorcendo de dor.
+
+ESTATÍSTICAS:
+
+– O leitor do livro ganha +1 em Destreza, mas perde um ponto em Força e Constituição.
+– Especial: O livro é consumido após o uso
+– Uso: Coloque no slot de item rápido
+
+Peso: 25~
+@2063 = ~Destreza foi permanentemente aumentada em 1 ponto, Força e Constituição foram permanentemente reduzidas em 1 ponto.~
+@2064 = ~Manual do Tolo Resistente~
+@2065 = ~Como outros manuais deste tipo, a capa é feita de couro grosso e elaboradamente decorada, mas o livro parece desagradavelmente retorcido, como se estivesse se contorcendo de dor.
+
+ESTATÍSTICAS:
+
+– O leitor do livro ganha +1 em Constituição, mas perde um ponto em Destreza e Inteligência.
+– Especial: O livro é consumido após o uso
+– Uso: Coloque no slot de item rápido
+
+Peso: 25~
+@2066 = ~Constituição foi permanentemente aumentada em 1 ponto, Destreza e Inteligência foram permanentemente reduzidas em 1 ponto.~
+@2067 = ~Contrato de Alma de Zhelamiss~
+@2068 = ~Este papel contém frases em uma língua desconhecida. Uma marca vermelha vívida, claramente feita com sangue, adorna o canto inferior esquerdo. Este contrato sela o pacto de alma entre Ormad Sulpar e a Bruxa Noturna Zhelamiss. Ormad está muito ansioso para ter o contrato de volta, pois gostaria de manter sua alma. Você deve levar o documento para ele no "Solar Encharcado".~
+@2069 = ~Contrato de Alma de Zaehvielle~
+@2070 = ~Este papel contém frases em uma língua desconhecida. Uma marca vermelha vívida, claramente feita com sangue, adorna o canto inferior esquerdo. Este contrato sela o pacto de alma entre Ormad Sulpar e a súcubo Zaehvielle. Ormad está muito ansioso para ter o contrato de volta, pois gostaria de manter sua alma. Você deve levar o documento para ele no "Solar Encharcado".~
+@2071 = ~Contrato de Alma de Belthazaar~
+@2072 = ~Este papel contém frases em uma língua desconhecida. Uma marca vermelha vívida, claramente feita com sangue, adorna o canto inferior esquerdo. Este contrato sela o pacto de alma entre Ormad Sulpar e o Glabrezu Belthazaar. Ormad está muito ansioso para ter o contrato de volta, pois gostaria de manter sua alma. Você deve levar o documento para ele no "Solar Encharcado".~
+@2073 = ~Livro dos Demônios~
+@2074 = ~O livro tem uma encadernação feita da pele curtida do rosto de algum demônio e te encara com carranca. Dois pares de olhos vermelhos coriáceos o examinam criticamente e parecem seguir seus movimentos. O livro fede horrivelmente a couro e urina e parece ser muito antigo.~
+@2075 = ~Escudo do Infiel +4~
+@2076 = ~O Escudo do Infiel é um escudo encantado e poderoso, outrora carregado por Andelar, um grande paladino de eras passadas. Durante uma batalha contra um demônio, o escudo quebrou e caiu de seu braço, causando a Andelar sua lesão letal. Ele teve força suficiente para proferir uma maldição com seu último suspiro. Em vez de assumir a responsabilidade por seu fracasso na batalha, ele culpou o escudo e o amaldiçoou por falhar com seu dono em seu momento de maior necessidade. Desde então, o Escudo do Infiel tem traído todo guerreiro que o carregou. O escudo é feito de madeira resistente e emoldurado por uma borda de mithril.
+
+Quando usado por um guerreiro ou sacerdote, o escudo inicialmente concede um bônus de +4 à Classe de Armadura.
+No entanto, se o escudo for usado em combate contra inimigos, ele tem 5% de chance de falhar por acerto recebido e se torna um escudo amaldiçoado -4. Se a saúde do usuário cair abaixo de 25%, a chance de o escudo falhar aumenta para 10%.
+O portador não pode descartar o escudo amaldiçoado a menos que um sacerdote conjure uma magia Remover Maldição em <PRO_HIMHER>.
+
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Classe de Armadura: +4
+– Cada acerto tem 5% de chance de amaldiçoar o escudo, mudando sua classe de armadura para -4. Se a saúde do usuário cair abaixo de 25%, esta chance aumenta para 10%.
+
+Requer:
+ 9 Força
+
+Peso: 3~
+@2077 = ~O Escudo do Infiel -4 (amaldiçoado)~
+@2078 = ~O Escudo do Infiel é um escudo encantado e poderoso, outrora carregado por Andelar, um grande paladino de eras passadas. Durante uma batalha contra um demônio, o escudo quebrou e caiu de seu braço, causando a Andelar sua lesão letal. Ele teve força suficiente para proferir uma maldição com seu último suspiro. Em vez de assumir a responsabilidade por seu fracasso na batalha, ele culpou o escudo e o amaldiçoou por falhar com seu dono em seu momento de maior necessidade. Desde então, o Escudo do Infiel tem traído todo guerreiro que o carregou. O escudo é feito de madeira resistente e emoldurado por uma borda de mithril.
+
+Quando usado por um guerreiro ou sacerdote, o escudo inicialmente concede um bônus de +4 à Classe de Armadura.
+No entanto, se o escudo for usado em combate contra inimigos, ele tem 5% de chance de falhar por acerto recebido e se torna um escudo amaldiçoado -4. Se a saúde do usuário cair abaixo de 25%, a chance de o escudo falhar aumenta para 10%.
+O portador não pode descartar o escudo amaldiçoado a menos que um sacerdote conjure uma magia Remover Maldição em <PRO_HIMHER>.
+
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Só pode ser removido com uma magia Remover Maldição
+– Classe de Armadura: -4
+
+Requer:
+ 9 Força
+
+Peso: 3~
+@2079 = ~Crânio com Coluna Vertebral~
+@2080 = ~Cajado do Crânio~
+@2081 = ~Um crânio humano com uma coluna vertebral. Os tendões que seguram as vértebras não estão decompostos e fornecem estabilidade.~
+@2082 = ~Cajado do Crânio
+
+ESTATÍSTICAS:
+
+Habilidades especiais: O usuário pode invocar um grupo de esqueletos uma vez por dia
+Peso: 1
+~
+@2083 = ~Emblema Contra o Olhar Maligno~
+@2084 = ~Este emblema representa um grande olho. Destina-se a impedir que demônios no Abismo tomem conhecimento do conjurador durante magias de invocação e apareçam em vez da criatura invocada. Na maioria dos casos, demônios invocados são hostis e atacam o conjurador sem hesitação. Para conjurar com sucesso uma magia de invocação, é suficiente que o item seja colocado no inventário do conjurador. <PRO_HESHE> não precisa equipá-lo.
+
+ESTATÍSTICAS:
+
+Especial: Impede que demônios hostis apareçam no lugar de criaturas invocadas
+Uso: Coloque no inventário do conjurador
+
+Peso: 1~
+@2085 = ~Chave de Poder: Planos Malignos~
+@2086 = ~Uma criatura estranha está retratada no emblema. Este item é uma Chave de Poder que permite a clérigos de alinhamento maligno conjurar magias divinas no Abismo. Embora o próprio Abismo seja um plano de existência maligno, o uso de tal Chave de Poder é necessário para conjuradores divinos para que uma magia clerical realmente funcione. Para conjurar com sucesso uma magia, é suficiente que o item esteja no inventário do clérigo. <PRO_HESHE> não precisa equipá-lo.
+
+ESTATÍSTICAS:
+
+Especial: Impede a falha de magias divinas conjuradas por clérigos de alinhamento maligno
+Uso: Coloque no inventário do clérigo
+
+Peso: 1~
+@2087 = ~Chave de Poder: Planos Neutros~
+@2088 = ~O símbolo de uma divindade desconhecida está retratado no emblema. É uma Chave de Poder que permite a clérigos de alinhamento neutro conjurar magias divinas no Abismo. Devido à distância do Abismo dos Planos Exteriores neutros, o uso de tal Chave de Poder é obrigatório para garantir que uma magia divina conjurada não falhe. Para conjurar uma magia com sucesso, é suficiente que o item esteja no inventário do clérigo, <PRO_HESHE> não precisa equipá-lo.
+
+ESTATÍSTICAS:
+
+Especial: Impede a falha de magias divinas conjuradas por clérigos de alinhamento neutro
+Uso: Coloque no inventário do conjurador
+
+Peso: 1~
+@2089 = ~Chave de Poder: Planos do Bem~
+@2090 = ~Esta estatueta representa um Deva. É uma Chave de Poder que permite a clérigos de alinhamento bom conjurar magias divinas no Abismo. Devido à distância do Abismo dos planos exteriores do bem, o uso de tal Chave de Poder é obrigatório para garantir que uma magia divina conjurada não falhe. Para conjurar uma magia com sucesso, é suficiente que o item esteja no inventário do clérigo, <PRO_HESHE> não precisa equipá-lo.
+
+ESTATÍSTICAS:
+
+Especial: Impede a falha de magias divinas conjuradas por clérigos de alinhamento bom
+Uso: Coloque no inventário do conjurador
+
+Peso: 1~
+@2091 = ~Chave de Magia: Planos Interiores~
+@2092 = ~Com a ajuda desta chave de magia, o usuário é capaz de conjurar magias relacionadas aos Planos Interiores. Como os Planos Exteriores, como o Abismo, não têm conexão direta com os Planos Interiores, os conjuradores precisam usar itens para se conectar a eles. Neste caso particular, este item retrata a careta da cabeça de um elemental da terra.
+A chave de magia não pode ser equipada, mas deve ser mantida no inventário da pessoa que deseja conjurar magias elementais.
+
+ESTATÍSTICAS:
+
+Especial: Impede a falha de magias elementais que dependem dos Planos Interiores, como 'Invocar Elemental'
+Uso: Coloque no inventário do conjurador
+
+Peso: 6~
+@2093 = ~Sangue de Deva~
+@2094 = ~Este líquido está armazenado em um frasco vermelho. É, na verdade, o sangue de um Deva, extraído e coletado durante um ritual especial. O líquido causa 5d6 pontos de dano por ácido quando atirado em outra criatura. O frasco pode ser arremessado a cerca de 6 metros e deve atingir um alvo para ser eficaz. Como não é um item mágico, tecnicamente, a resistência à magia não protege contra os efeitos do líquido.
+
+ESTATÍSTICAS:
+
+Dano: 5d6 (Ácido; Teste de Resistência contra Sopro para metade)
+
+Alcance: 12 metros
+
+Peso: 1~
+@2095 = ~Chifre de Demônio~
+@2096 = ~O chifre de um demônio Tanar'ri, decepado da parte restante do demônio com um golpe poderoso. Parece ser capaz de abrir um portal para um demônio caçador de Tanar'ri.~
+@2097 = ~Bagem de Pimenta~
+@2098 = ~Pimenta de Gehenna~
+@2099 = ~Esta grande pimenta vermelha, que você não conhece, exala um aroma ardente e penetrante.~
+@2100 = ~Esta pimenta não é originária dos Reinos, mas de outra parte, mais sombria, do Multiverso, o plano de Gehenna, terra natal de demônios e diabos. Consequentemente, a picância desta pimenta está além da imaginação de qualquer mortal.~
+@2101 = ~Esfera de Bebilith~
+@2102 = ~Este orbe deve ser colocado na estátua de Graz'zt em Samora em nome do Bebilith. Isso permitirá que o demônio se teletransporte para a cidade e cause estragos. Isso pode funcionar a seu favor, caso você precise fugir de Samora com pressa.~
+@2103 = ~Chave da Prisão~
+@2104 = ~Esta chave estava na posse da súcubo Maretta. Ela pode ser usada para abrir a entrada da prisão de Waukeen.~
+@2105 = ~Chave do Portal~
+@2106 = ~Esta chave permite que você retorne à cidade de Samora.~
+@2107 = ~Pentáculo~
+@2108 = ~Um pentagrama invertido, uma estrela de cinco pontas, está preso a este amuleto. Enquanto os pentagramas voltados para cima são frequentemente usados como sinal de proteção, a forma invertida é preferida por criaturas dos planos inferiores. Diz-se que amuletos deste tipo podem ser usados para obter acesso a áreas proibidas. Este amuleto em particular parece estar ligado aos fornos de fogo verdes presentes em Samora. A Súcubo Maretta na Casa da Contabilidade deseja recuperá-lo.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– O usuário é imune ao medo
+– 'Neutralizar Veneno' uma vez por dia.
+
+Peso: 1~
+@2109 = ~Um pentagrama invertido, uma estrela de cinco pontas, está preso a este amuleto. Este amuleto especial é projetado para permitir que você passe pelos fornos de fogo no reino de Graz'zt. Ele lhe concederá acesso à prisão de Waukeen se você souber como usá-lo corretamente.
+
+  ESTATÍSTICAS:
+
+Habilidades equipadas:
+– O usuário é imune ao medo
+– 'Neutralizar Veneno' uma vez por dia.
+
+Peso: 1~
+@2110 = ~Cabeça do General Baatezu~
+@2111 = ~Esta era a cabeça do general Baatezu Gazgothan, um diabo Cornugon. Ele tem sorte de você ter cortado a cabeça dele, pois coisas muito piores teriam acontecido com ele se ele tivesse retornado aos Nove Infernos com a notícia de sua derrota. Você deve levar a cabeça para Samora como um troféu para provar sua vitória sobre os inimigos da Cidade Demoníaca. Isso certamente aumentará sua reputação na cidade.~
+@2112 = ~Cálice Ornamentado~
+@2113 = ~Este cálice parece precioso à primeira vista. No entanto, um olhar mais atento revela que as pedras preciosas são meramente vidro lapidado e o metal é feito de uma liga inferior.~
+@2114 = ~Invocar Modrons~
+@2115 = ~Invocar Modrons
+(Conjuração/Invocação)
+
+Nível: 3
+Alcance: Linha de visão do conjurador
+Duração: 4 turnos
+Tempo de Conjuração: 3
+Área de efeito: Raio de 15 metros
+Teste de Resistência: Nenhum
+
+Dentro de uma rodada após conjurar esta magia, o conjurador invoca 4 Modrons Monodrone (criaturas extraplanares do plano exterior de Mechanus).
+Os Monodrones aparecem em qualquer lugar dentro da área de efeito da magia, conforme determinado pelo conjurador. Eles atacam os inimigos do conjurador da melhor maneira possível até que o conjurador os ordene a parar de atacar, a duração da magia expire, ou as criaturas sejam mortas. Estas criaturas não fazem teste de moral, mas desaparecem quando mortas. Se não houver oponente para lutar, os Modrons podem realizar outros serviços se o conjurador puder se comunicar com eles e eles forem capazes de fazê-lo fisicamente. Esta magia foi tornada famosa pelo mago Argramund da Rocha, cujo paradeiro atual é desconhecido.
+
+Monodrone
+Inteligência: Semi (2-4)
+Classe de Armadura: 7
+Dados de Vida: 1+1
+PACA0: 19 ou 20
+Nº de ataques: 1
+Dano/ataque: 1d4
+Valor de XP: 120
+
+Combate: Monodrones são imunes a ilusões ou magias que afetam a mente, como encanto, dominação, imobilizar, paralisia e sono. Medo e outras magias de emoção são similarmente ineficazes contra um modron, assim como ataques que se baseiam nos Planos de Energia Positiva e Negativa (incluindo poderes de drenagem de vida) e as habilidades de Illithids e outros seres psiônicos.~
+
+@2116 = ~Mensagem Selada~
+@2117 = ~Este recipiente consiste em duas partes seladas de uma maneira que você desconhece. Está além de sua capacidade abri-lo. Você foi ordenado a entregar o recipiente a uma criatura chamada "Aphul" em nome do Nalfeshnee Margrog. A criatura está esperando na Escadaria Infinita, não muito longe da passagem que leva a Samora.~
+@2118 = ~Larva~
+@2119 = ~Você comprou esta Larva da Bruxa Noturna Zhelamiss. O Nalfeshnee Margrog deseja obtê-la antes de lhe dizer qualquer coisa sobre o paradeiro de Waukeen.~
+@2120 = ~Penhor~
+@2121 = ~O bilhete de penhor lhe dá o direito de obter uma Larva. Você o recebeu da Bruxa Noturna Zhelamiss e deve levá-lo ao servo dela, Saarixal, que está esperando na saída de sua morada, ao lado das Larvas.~
+@2122 = ~Chave de Magia: Alteração~
+@2123 = ~Esta chave de magia permite que magos conjurem com segurança magias da escola de Alteração no Abismo, que de outra forma correm um alto risco de sair pela culatra e produzir um resultado desagradável para o usuário.
+
+ESTATÍSTICAS:
+
+Especial: Permite ao conjurador lançar magias de Alteração sem riscos no Abismo.
+Uso: Coloque no inventário do conjurador
+
+Peso: 6~
+@2124 = ~Moeda Sagrada de Waukeen~
+@2125 = ~Você recebeu este amuleto da deusa Waukeen em gratidão por sua libertação das garras do príncipe demônio Graz'zt. O poderoso item foi retirado do lendário manto de moedas que a deusa sempre usa enrolado em seus ombros como a Senhora da Riqueza. Uma dessas moedas foi moldada por sua própria vontade neste magnífico amuleto e presenteada a você como um presente.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Resistência à Magia: +20%
+– Testes de Resistência: +2
+– Carisma: +2
+– Proteção contra a Morte: Protege contra os efeitos de magias como 'Lamento da Banshee' e 'Palavra de Poder: Morte'
+– Uma vez por dia, o usuário pode criar 1d100 moedas de ouro
+
+Peso: 1~
+@2126 = ~Coração Humano~
+@2127 = ~Este é o coração de um ser humano. Parece fresco, pois o sangue ainda não coagulou.~
+@2128 = ~Chave da Cela~
+@2129 = ~Esta chave, que você tirou da Marilith Nasmaerae, abre todas as celas da prisão na masmorra de Graz'zt.~
+@2130 = ~Chave de Maretta~
+@2131 = ~Esta chave pertenceu à súcubo Maretta, a amante de Samora. Ela provavelmente abre a porta para a saída da masmorra de Graz'zt.~
+@2132 = ~Chave do Cofre dos Pináculos de Ouro~
+@2133 = ~Você roubou esta chave de Faerthae Garblueth, a sacerdotisa de plantão nos Pináculos de Ouro. Você deve levá-la a um ladrão chamado Maendir.~
+@2134 = ~Alambique de Vitalização~
+@2135 = ~Um alambique é um dispositivo alquímico para a produção de essências. O corpo central deste alambique consiste em um caldeirão de cobre. Uma vez por dia, a magia do objeto ganha vida. Com um suave som borbulhante, ele coleta as energias vitais de seus arredores e as destila em seu interior. As energias se fundem em uma poção de cura que está pronta para ser usada por um aventureiro todos os dias.
+
+ESTATÍSTICAS:
+
+Habilidades por carga:
+– Cria uma poção de cura concentrada uma vez por dia.
+
+Peso: 15~
+@2136 = ~Alambique~
+@2137 = ~Um pote de cobre para a produção de uma essência desconhecida.~
+@2138 = ~Amuleto da Escuridão~
+@2139 = ~Este amuleto, que pertencia à Bruxa Noturna Zhelamiss, é típico daqueles carregados por todas as Bruxas Noturnas. Criado na Resíduo Cinzento, ele cura qualquer doença de seu dono e concede um bônus de +2 em todos os Testes de Resistência. As Bruxas Noturnas usam esses amuletos para se tornarem etéreas e invadir os sonhos dos mortais, muitas vezes sufocando suas vítimas adormecidas. A criação de tal amuleto requer um mês e 100 almas, tornando-os muito valorizados e ferozmente reclamados se roubados. Seres de alinhamento bom não podem usar este item.
+
+ESTATÍSTICAS:
+
+– Testes de Resistência: +2
+– Protege contra doenças
+– O usuário pode se tornar etéreo uma vez por dia por três rodadas. Neste estado, <PRO_HESHE> está sujeito apenas a ataques mágicos ou especiais, incluindo aqueles por armas de encantamento +1 ou superior, ou por criaturas de outra forma capazes de afetar aqueles atingidos apenas por armas mágicas. Enquanto etéreo, <PRO_HESHE> também ganha 25% de resistência a dano mágico.
+
+Peso: 1~
+@2140 = ~Manto dos Olhos~
+@2141 = ~Esta vestimenta valiosa parece estranha, pois é adornada com numerosos olhos tecidos de tecido e costurados no manto em todas as direções. O usuário é, assim, capaz de olhar em todas as direções simultaneamente.
+Seres astrais ou etéreos não podem ser detectados com este manto. No entanto, criaturas camufladas por magias ou escondidas nas sombras são facilmente detectadas, tornando impossível emboscar ou surpreender um personagem que esteja usando um Manto dos Olhos. O usuário do manto está protegido contra todos os efeitos que causam cegueira.
+Finalmente, o manto permite que o usuário ative um dos tapa-olhos, usando-o para investigar os arredores ou para conjurar uma magia Visão Verdadeira. Ao usar um dos olhos presos ao manto, uma carga é gasta. Se não houver mais olhos disponíveis para ativar a magia, o usuário pode continuar a usar o manto, mas perde a capacidade de usar as magias respectivas.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– O usuário está protegido contra ataques de apunhalar pelas costas
+– O usuário é imune à cegueira
+
+Habilidades por carga:
+– O usuário pode conjurar a magia "Visão Verdadeira" (como a magia de mago de 6º nível de mesmo nome)
+– O usuário pode conjurar a magia "Olho do Mago" (como a magia de mago de 4º nível de mesmo nome)
+
+Peso: 4~
+@2142 = ~Pele de Larvas~
+@2143 = ~A Pele de Larvas é uma armadura de couro coberta com larvas que se contorcem em espirais intermináveis sobre o corpo do usuário.
+
+A armadura concede resistência aumentada, mas também acarreta constante decadência e imundície. As larvas começam a invadir a pele do usuário, contorcendo-se em suas veias e consumindo sua carne, fazendo com que o dono da armadura fique doentio e repulsivo de se ver.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– +20% de resistência contra ataques de esmagamento, perfuração, corte e projéteis
+– Se o usuário for atingido, o oponente sofre 5 pontos de dano por mordidas de larvas e, em um Teste de Resistência contra morte falho, é infectado com uma doença que inflige 5 pontos de dano por rodada durante as cinco rodadas seguintes
+– Carisma: -2
+– Constituição: -2
+
+Classe de Armadura: 4 (2 contra corte, 3 contra perfuração e projéteis)
+Requer:
+ 6 Força
+
+Peso: 7~
+@2144 = ~Maça de Crânio~
+@2145 = ~Forjada a partir da tragédia, esta maça incorpora a corrupção. Certa vez, um paladino caiu lutando contra demônios em Thanatos, uma camada vil do Abismo. Seu crânio, decepado e amaldiçoado em rituais sombrios, agora forma esta arma perversa.
+
+A partir de então, esta arma pode ser usada para extrair força do alvo e transferi-la para o portador. Além disso, o crânio morde sua vítima em um acerto bem-sucedido, causando pouco dano, mas uma mordida desagradável.
+
+ESTATÍSTICAS:
+
+Habilidades de combate:
+– Drena um ponto de força do alvo e o transfere para o portador em 25% dos acertos (cumulativo, por cinco rodadas)
+
+PACA0: -3
+Dano: 1d6+3 (esmagamento), +1 perfuração
+Fator de Velocidade: 7
+Tipo de Proficiência: Maça
+Tipo: Uma Mão
+Requer:
+ 10 Força
+
+Peso: 3~
+@2146 = ~Poção da Redenção~
+@2147 = ~Esta poção escura e cintilante é infundida com uma aura misteriosa de bolhas flutuantes e brilhantes. Dizem que é uma essência infundida com as lágrimas de Aasimon, explicando a natureza luminosa do líquido. O elixir tem uma nota doce, mas amarga. Tem a capacidade de curar força vital drenada. Um personagem que bebe a poção pode recuperar níveis perdidos e remover os efeitos negativos associados.
+
+ESTATÍSTICAS:
+
+– Conjura "Restauração Menor"~
+@2148 = ~Trompa da Boa Vontade~
+@2149 = ~Forjada na reluzente Alta Academia Fochlucan de Lua Argêntea, esta trompa de bronze, apresentando um bocal moldado a partir do chifre de um unicórnio, é mais do que um mero instrumento musical. Criada por bardos visionários com ingredientes mágicos, ela incorpora a pura bondade. Quando tocada, suas melodias produzem um escudo radiante que protege contra o mal.
+
+ESTATÍSTICAS:
+
+Habilidades por carga:
+– Soprar a trompa cria o efeito 'Proteção Contra o Mal' uma vez por dia
+  Duração: 1 turno por nível
+  Área de Efeito: Raio de 4,5 metros
+
+Peso: 3~
+@2150 = ~Amuleto do Invocador~
+@2151 = ~Amuleto de Proteção +2, 'Amuleto do Invocador'
+Inúmeras eras atrás, numa época em que o véu entre os reinos era apenas um sussurro e as correntes arcanas surgiam sem controle, o estimado invocador Kaelarion forjou o Amuleto do Invocador. Ele foi empregado por Kaelarion para guiar círculos de magos na navegação segura dos delicados caminhos entre os planos. No entanto, o destino se manifestou mal quando, em meio a uma perigosa invocação de um Glabrezu, a traição de seu próprio aprendiz levou à morte de Kaelarion. O demônio, em um cruel ato de reciprocidade, prendeu o aprendiz traiçoeiro e o amuleto, arrastando ambos para as profundezas escuras do Abismo.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Classe de Armadura: +2
+– Testes de Resistência: +2
+– O usuário está permanentemente protegido contra o mal
+
+Peso: 1~
+@2152 = ~Cone da Árvore do Mundo~
+@2153 = ~Acredita-se que este cone seja uma semente da Árvore do Mundo, mas apenas um residente desta localização poderia testemunhar isso com certeza. Em qualquer caso, o cone concede ao usuário uma considerável quantidade de vitalidade quando consumido, o que se reflete em um aumento temporário de pontos de vida. O cone pode ser usado uma vez por dia, pois as sementes voltam a crescer durante a noite.
+
+ESTATÍSTICAS:
+
+Habilidades por carga:
+– Pontos de Vida: +10% (base apenas) uma vez por dia
+Duração: 10 rodadas
+
+Peso: 1~
+@2154 = ~Poção da Memória Agonizante~
+@2155 = ~Esta poção turva e malcheirosa traz de volta memórias perdidas e de curta duração. Isso permite que os conjuradores de magia recordem magias que já lançaram e sejam capazes de conjurá-las novamente. No entanto, a poção não é exatamente digerível; pelo contrário, é extremamente venenosa. Além disso, as memórias, dependendo do que são, podem causar estados temporários de confusão.
+
+ESTATÍSTICAS:
+
+– Restaura uma magia de 8º nível ou inferior
+– O usuário é envenenado por 10 segundos, sofrendo 2 pontos de dano por segundo
+– O usuário fica confuso por três rodadas (Teste de Resistência contra Magias nega)
+
+Peso: 1~
+@2156 = ~Bebê de Daemevera~
+@2157 = ~Este é o filho da súcubo Daemevera, ele próprio uma espécie de demônio, que muito provavelmente amadurecerá em um Alu-Diabo em um estágio posterior. Ele te encara sombriamente e cheio de malícia com seus olhos azuis brilhantes. Você deve levar o bebê a Mefisto em troca de ele revelar uma maneira de se livrar do sacerdote de Cyric, Gildaar.~
+@2158 = ~Chave de Daemevera~
+@2159 = ~Esta é uma chave estranha que pode ser uma mistura de chicote e chocalho.~
+@2160 = ~Garrafa de Água do Styx~
+@2161 = ~A garrafa que contém a água escura do Styx parece ser uma garrafa simples - sem sinal de suas origens sobrenaturais ou seu poder de oblívio.
+O frasco em si é feito de vidro transparente. Dentro está um líquido opaco e escuro; uma água obscura, de um negro azeviche, que balança calmamente e preguiçosamente na garrafa. A água parece engolir até mesmo a luz, e é impossível ver o seu fundo. Esta é a água do rio Styx, o rio que corre pelos Planos Inferiores. A exposição ao líquido pode causar amnésia incurável, e aqueles que o bebem ou entram em contato com ele correm o risco de perder suas próprias memórias e identidades.~
+@2162 = ~Tambor do Abismo~
+@2163 = ~O Tambor do Abismo é feito da própria essência do Abismo. Este tímpano, feito de couro escuro e endurecido, apresenta uma base adornada com a cabeça decepada de um lobo, presa em uma perpétua careta de agonia. Seus olhos, brilhando com um amarelo sinistro, estão cercados por pelos marcados com runas retorcidas que o ligam ao Abismo.
+
+A cada seis dias, o tambor pode invocar o Glabrezu Belthazaar, ao ser golpeado para produzir um estrondo abissal e trovejante. À medida que o tambor é tocado, a cabeça do lobo se ilumina, e sombras se enrolam ao redor dela, anunciando a chegada de Belthazaar. No entanto, Belthazaar é astuto e teimoso, buscando promover seus esquemas sombrios em vez de se curvar à vontade de qualquer invocador.
+
+ESTATÍSTICAS:
+
+Habilidades por carga:
+– Invoca o Glabrezu Belthazaar, que serve ao invocador por um minuto, mas não pode ser controlado diretamente
+– O instrumento pode ser usado diariamente, mas Belthazaar só responderá ao chamado a cada sexto dia
+
+Peso: 1~
+@2164 = ~Tambor~
+@2165 = ~Um Tímpano de Aparência Estranha.~
+@2166 = ~Adaga de Belthazaar~
+@2167 = ~Esta adaga foi dada a você pelo Glabrezu Belthazaar. Você deve fazer Ormad Sulpar se cortar com esta adaga.~
+@2168 = ~Travesseiro da Bruxa Noturna~
+@2169 = ~Você deve levar este travesseiro para Ormad Sulpar. Se ele cobrir o rosto com ele, ele sufocará. Sua alma pertencerá então finalmente à Bruxa Noturna Zhelamiss, que lhe prometeu uma recompensa por este ato maligno.~
+@2170 = ~Poção de Dez Mil Almas~
+@2171 = ~A Poção de Dez Mil Almas é um elixir escuro e perigoso, preparado pela Bruxa Noturna Zhelamiss. A garrafa é de cor preta profunda, e seu interior parece ser um turbilhão interminável de névoa sombria. Ela está armazenada em um frasco de vidro cuja superfície está repleta de pequenas rachaduras, como se mal fosse capaz de suportar a imensa pressão das almas presas lá dentro. O frasco é selado com uma tampa de prata gravada com símbolos estranhos e perturbadores. A poção é uma fonte perigosa de poder e conhecimento. Ao consumir este elixir, o usuário ganha imediatamente 10.000 pontos de experiência, o que é um enorme impulso em suas habilidades e perícias. Este influxo de conhecimento e experiência pode permitir que um personagem avance e se supere de maneiras antes inimagináveis. No entanto, o poder da poção tem um preço. Os 10.000 pontos de experiência que o usuário recebe não são tirados do nada. Eles foram extraídos das almas de dez mil pessoas falecidas que foram cruelmente capturadas pela Bruxa Noturna e depois destiladas na poção. Essas almas estão agora presas no elixir para sempre e gritam silenciosamente por libertação. Quando você consome a poção, as almas e todas as experiências que tiveram na vida são absorvidas por você.
+
+Cabe a cada consumidor decidir se será atormentado por um profundo sentimento de culpa e escuridão, sabendo que as almas dos falecidos foram sacrificadas por seu próprio poder e benefício.
+
+ESTATÍSTICAS:
+– Concede imediatamente ao usuário 10.000 pontos de experiência
+
+Peso: 1~
+@2172 = ~recebeu 10.000 pontos de experiência.~
+@2173 = ~Nota de Gildaar~
+@2174 = ~Gildaar,
+a operação de resgate da deusa parece estar começando. De acordo com as conversas que ouvi, um <PRO_RACE> chamado <CHARNAME> está liderando os resgatadores pela Escadaria Infinita para chegar à cidade de Samora em Azzagrat. Certifique-se de que o grupo não tenha sucesso, e eu o recompensarei ricamente assim que eu me tornar a amante da abadia, quando o velhote Tharundar Olehm não tiver mais o favor de seus fiéis.~
+@2175 = ~Pinha~
+@2176 = ~Uma pinha grande e com cheiro forte. Pesa bastante na mão.~
+@2177 = ~Cajado da Morte~
+@2178 = ~O crânio de um Nabassu está preso a este cajado. Apesar do fato de que o local onde os globos oculares do demônio estavam parece oco e vazio, o crânio parece prender seres com seu olhar. O cajado foi criado nas profundezas infinitas e caóticas do Abismo, onde a escuridão e o mal reinam. Suas origens e a história de sua criação estão envoltas em escuridão e horror.
+
+ESTATÍSTICAS:
+
+– Pode uma vez por dia transformar uma criatura humanoide que não tenha mais do que 8 Dados de Vida em um Fantasma se falhar em seu Teste de Resistência contra a Morte no final de uma rodada.
+– Criaturas humanoides com 9 ou mais Dados de Vida não são afetadas pelo cajado.
+– Criaturas que não sejam humanoides, como aberrações, mortos-vivos ou dragões, também não são afetadas pelo efeito do cajado.
+
+ Alcance: 1,5 metros
+ Duração: Permanente
+ Área: 1 criatura
+ Teste de Resistência: Sim (contra Morte)
+Requer:
+ 9 Inteligência
+
+Peso: 1~
+@2179 = ~Diadema do Fey'ri~
+@2180 = ~Este diadema, forjado pelos Fey'ri - híbridos demoníacos de Tanar'ri e elfos - contém uma joia vermelha infundida com o sangue de muitos Fey'ri sacrificados. Ele concede ao usuário asas negras e inúmeras resistências, espelhando a herança demoníaca de seus criadores.
+
+Estas características são extremamente repulsivas para a maioria dos habitantes dos Reinos. Personagens de alinhamento Bom devem passar em um Teste de Resistência vs. Polimorfia ao vestir o item, caso contrário, serão afetados pela influência demoníaca do diadema e mudarão seu alinhamento para caótico e mau.
+
+O diadema só pode ser usado por Elfos e Meio-elfos. Acredita-se que os Fey'ri usem este item para atrair mais de sua linhagem élfica para o lado demoníaco.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Carisma: -5
+– O usuário desenvolve asas negras que o fazem parecer uma criatura do Abismo
+– Resistência ao Fogo: +50
+– Resistência à Eletricidade: +50
+– Resistência a Veneno: +50
+– Item Fey: Só pode ser usado por Elfos e Meio-elfos
+– Personagens de alinhamento Bom tornam-se caóticos e maus na primeira vez que equipam o diadema se falharem em um Teste de Resistência vs. Polimorfia
+– Não protege contra acertos críticos
+
+Peso: 2~
+@2181 = ~Grito de Desespero~
+@2182 = ~Esta cota de placas é moldada para se assemelhar à carranca de um demônio.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Quando atingida em combate, a armadura lança Manto do Medo sobre o usuário em 5% dos casos
+Classe de Armadura: 0
+Bônus de CA:
+ -3 vs. armas de projétil
+ -3 vs. armas perfurantes
+ -4 vs. armas cortantes
+Requer:
+ 15 Força
+
+Peso: 35~
+@2183 = ~Insígnia da Casa Val'kreen~
+@2184 = ~Insígnia de Val'kreen da Casa Dlardrageth~
+@2185 = ~Esta placa circular é adornada com uma criatura alada. Inscrito na parte de trás, diz: 'Propriedade da Insígnia de Val'kreen, Fey'ri'.~
+@2186 = ~Esta insígnia representa o sinal da Casa Dlardrageth, uma dinastia de elfos demoníacos também conhecidos como Fey'ri. Estas criaturas são um híbrido de Tanar'ri e elfos. Elas não partilham mais muito com seus ancestrais élficos, pois são consideradas cruéis e implacáveis. A inscrição na parte de trás diz: 'Propriedade da insígnia de Val'kreen, Fey'ri'.~
+@2187 = ~Divisor de Diabos~
+@2188 = ~Esta alabarda foi feita com um único propósito: Aniquilar os habitantes dos Nove Infernos, que se autodenominam Baatezu e são geralmente chamados de diabos pelos mortais. A arma rústica, mas eficaz, foi encantada pelos ferreiros Tanar'ri do Abismo para causar dano extra contra seus arqui-inimigos.
+
+ESTATÍSTICAS:
+
+PACA0: +3
+Dano: 1d10+3, +6 vs. Baatezu
+Tipo de Dano: Perfurante
+Fator de Velocidade: 6
+Tipo de Proficiência: Alabarda
+Tipo: Duas mãos
+Requer:
+ 13 Força
+
+Peso: 12~
+@2189 = ~Modelador de Carne +3~
+@2190 = ~Este bastão é coberto de carne humana, que foi amarrada com os tendões de outra criatura desconhecida para formar uma arma. Como todos os bastões, a arma não inflige muito dano, mas é capaz de deformar a forma da vítima a cada golpe, resultando em dor severa e um dreno permanente em destreza e carisma que só pode ser revertido por Dissipar Magia.
+
+ESTATÍSTICAS:
+
+Habilidades de combate:
+– Cada acerto bem-sucedido deforma a forma da vítima, causando uma perda cumulativa de um ponto de Destreza e Carisma se a vítima falhar em um Teste de Resistência vs. Polimorfia. Esta alteração é permanente até ser dissipada com sucesso. Se um dos atributos cair para 0, a vítima se desintegra em uma massa carnuda e morre.
+
+PACA0: +3
+Dano: 1d6+3
+Tipo de Dano: Esmagamento
+Fator de Velocidade: 4
+Tipo de Proficiência: Bastão
+Tipo: Uma mão
+Requer:
+ 5 Força
+
+Peso: 3~
+@2191 = ~Perfurador de Corações~
+@2192 = ~Armas foram forjadas nas forjas escuras do Abismo desde o início dos tempos para torturar e atormentar mortais, e esta lança conhecida como 'Perfurador de Corações' não é exceção. Há rumores de que a lança foi forjada a partir de ferro escuro e imbuída com o poder de almas aprisionadas através de rituais sangrentos. O dente de um demônio poderoso e caído foi usado como ponta de lança para complementar a arma mortal.
+
+ESTATÍSTICAS:
+
+Habilidades de combate:
+– O alvo atingido começa a sangrar e sofre 2d4 de dano perfurante adicional (Teste de Resistência vs. Morte anula)
+
+PACA0: +3
+Dano: 1d6+3 (perfurante)
+Fator de Velocidade: 3
+Tipo de Proficiência: Lança
+Tipo: Duas mãos
+Requer:
+ 5 Força
+
+Peso: 3~
+@2193 = ~Estrelas Sempre Acessas de Selûne~
+@2194 = ~Diz-se que estas braçadeiras de prata, conhecidas como Estrelas Sempre Acessas de Selûne, guiam e protegem aqueles que as usam nas noites mais escuras, protegendo-os até das sombras mais perigosas. A lenda sustenta que as gemas que adornam ambas as braçadeiras são lágrimas cristalizadas derramadas pela própria Nossa Senhora da Prata.
+
+ESTATÍSTICAS:
+
+Habilidades de carga:
+– Auxílio (como a magia de clérigo de 2º nível) uma vez por dia
+– Mata uma sombra alvo uma vez por dia
+
+Habilidades equipadas:
+– Proteção contra Cegueira
+– Proteção contra a magia "Globo de Escuridão"
+– Classe de Armadura e Testes de Resistência: +2 vs. Sombras
+
+Peso: 1~
+@2195 = ~Taça~
+@2196 = ~Taça de Selûne~
+@2197 = ~Esta bela taça tem símbolos de estrelas gravados nela.
+
+Peso: 2~
+@2198 = ~Esta é uma taça sagrada de Selûne. Beber dela pode conceder a proteção da Donzela da Lua.
+
+ESTATÍSTICAS:
+
+Habilidades de carga:
+– Beber da Taça de Selûne concede aleatoriamente um dos dois efeitos: Proteção contra o Mal ou Santuário
+
+Peso: 2~
+@2199 = ~Cajado de Doce Deterioração~
+@2200 = ~Este cajado pertenceu a uma ex-amante de Graz'zt. Embora esta arma possa ter sido um ícone do poder da natureza, hoje é apenas uma caricatura distorcida de seu passado. Está coberto por um muco estranho e de cheiro doce. As poucas folhas que costumavam brotar dele são de cores não saudáveis. Há algum micélio crescendo na parte inferior do cajado.
+
+Diz-se que as doces toxinas que escoam do cajado podem ser bastante inebriantes, permitindo que quem o empunha tenha um certo charme, e o micélio pode ajudar a invocar micônides.
+
+ESTATÍSTICAS:
+
+Habilidades de carga:
+– Invocar Fungo uma vez por dia
+
+Habilidades equipadas:
+– Carisma: +1
+– Sorte: +1
+
+PACA0: +3
+Dano: 1d6+3, +1 Ácido
+Tipo de Dano: esmagamento
+Fator de Velocidade: 1
+Tipo de Proficiência: Cajado
+Tipo: Duas mãos
+Requer:
+ 5 Força
+
+Peso: 2~
+@2201 = ~Elmo do Cavaleiro-Assassino~
+@2202 = ~Este elmo foi usado por um cavaleiro Vlasnisz, que deixou sua irmandade depois que seus irmãos lhe viraram as costas quando ele dedicou sua vida a vingar sua amada, Vracl, cruelmente assassinada por uma cavaleira que ele simplesmente não conseguia amar.
+
+Vlasnisz decidiu que esse assassinato nunca poderia ser esquecido ou perdoado. Ele próprio se tornou uma besta, mas... sem sua amada, ele simplesmente não podia seguir outro caminho.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– PACA0: +1 (apenas corpo a corpo)
+– Multiplicador de Ataque Furtivo: +1
+– Protege contra acertos críticos
+– Só pode ser removido com uma magia Remover Maldição
+
+Peso: 2~
+@2203 = ~Alimentado-por-Sangue +2~
+@2204 = ~Conhecido como Alimentado-por-Sangue, este escudo médio voraz está repleto de lendas. Diz-se que quando os painéis do escudo são encharcados no sangue de seu portador, ele ganha força incomparável, fornecendo proteção formidável contra uma miríade de ameaças.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Inteligência: +1
+– Classe de Armadura: +3
+
+Habilidades de combate:
+– Quando os pontos de vida do portador do escudo caem abaixo de 25% de seus pontos de vida máximos, o portador ganha um bônus adicional de +2 na classe de armadura, bem como +1/2 ataque por rodada
+
+Requer:
+ 12 Força
+
+Peso: 5~
+@2205 = ~Frasco-Relâmpago~
+@2206 = ~Este recipiente foi usado para coletar relâmpagos. Diz o boato que os gnomos de Lanthan realizam esta tarefa perigosa voando com suas naus aéreas diretamente para uma tempestade para capturar o relâmpago. Quando o recipiente é aberto, o relâmpago é liberado. Até seis alvos podem ser atingidos desta forma. Uma vez que todo o relâmpago escapou do recipiente, ele se torna inútil. É preciso pelo menos um pequeno entendimento de como o item funciona e uma boa dose de destreza para compreender o complicado mecanismo de abertura e fechamento do recipiente; afinal, os gnomos que projetaram tal item não são considerados artesãos habilidosos sem motivo.
+
+ESTATÍSTICAS:
+
+Habilidades de carga:
+– Seis Relâmpagos
+  Dano: 3d6 elétrico (Teste de Resistência vs. Varinha para metade)
+  Alcance: 100 pés.
+  Área de Efeito: Caminho dos raios
+
+Requer:
+ 9 Inteligência
+ 13 Destreza
+
+Peso: 1~
+@2207 = ~Perdedor Condenado~
+@2208 = ~A 'Perdedor Condenado' é uma espada bastarda forjada por um ferreiro humano que procurava criar a arma definitiva. Excesso de confiança em suas habilidades, ele recrutou ajuda demoníaca para aperfeiçoar a espada, que ostentava poder formidável e precisão inigualável. No entanto, durante seu primeiro fracasso em combate, a espada declarou-se 'Perdedor Condenado' e desapareceu, teletransportando-se aleatoriamente através do Multiverso após o primeiro erro de seu portador.
+
+Desde então, a espada segue um padrão estranho. Ela aparece e depois desaparece assim que seu portador erra em combate ou comete um erro crítico, procurando um portador mais 'digno' que possa dominar a arte da espada. Uma vez que todos os mortais cometem erros às vezes, é óbvio que a lâmina ainda não encontrou um portador com quem ficará. A lista de ex-proprietários é tão longa quanto os inimigos que foram mortos com esta lâmina. Um guerreiro sábio deve considerar cuidadosamente antes de fazer uso das habilidades da arma, pois há uma grande chance de se encontrar repentinamente sem uma arma na batalha se ele falhar.
+
+ESTATÍSTICAS:
+
+Habilidades de combate:
+– Quando o portador erra em combate, a espada desaparece das mãos do portador e se teletransporta para outro local aleatório no Multiverso.
+
+PACA0: +5
+Dano: 2d4+5
+Tipo de Dano: Cortante
+Fator de Velocidade: 3
+Tipo de Proficiência: Espada Bastarda
+Tipo: Uma mão
+Requer:
+ 11 Força
+
+Peso: 5~
+@2209 = ~A Visão Ardente~
+@2210 = ~Se as lendas forem verdadeiras, este anel foi outrora um anel de infravisão bastante comum. No entanto, este anel específico foi usado por um ranger humano que foi levado aos Nove Infernos, onde foi queimado vivo por bestas malignas que chamam aquele lugar de lar. Diz-se que enquanto ele gritava, sua dor se misturou com o fogo e rachou o anel. Sua magia começou a queimar e mudou a natureza do anel para sempre.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Infravisão de até 120 pés.
+– Resistência ao Fogo: +10%
+– Resistência ao Frio: +10%
+
+– Sempre que aquele que usa o anel mata alguém, <PRO_HESHE> recebe +6% de Resistência ao Fogo e Frio por 3 rodadas; há também uma chance de 25% de o dono do anel receber +1 Teste de Resistência vs. Morte pela mesma duração
+
+Peso: 0~
+@2211 = ~Caras +3~
+@2212 = ~Esta espada curta +3, assim como sua espada gêmea "Coroas", pertenceu aos escolhidos de uma divindade da riqueza chamada Kol Korran. Kol Korran é adorado por comerciantes e negociantes honestos, mas também por ladrões e trapaceiros que se envolvem em negócios desonrosos. Há muitos contos sobre estas espadas. Alguns dizem que foram forjadas a partir de uma grande moeda de ouro do Senhor do Mundo e da Riqueza, que se originou de seu tesouro pessoal. Esta moeda foi dividida em duas no meio, criando as duas lâminas dicotômicas "Caras" e "Coroas".
+Embora esta espada tenha um encantamento poderoso por si só, ela está ligada à sua espada gêmea "Coroas". Se for empunhada separadamente, ela trai seu portador e "devora" seu ouro. A espada sempre parece quente ao toque.
+
+Se as lendas devem ser confiadas, ambas as espadas foram roubadas por algumas entidades demoníacas.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+- Sorte: +1
+- Carisma: +2
+- Classe de Armadura e Testes de Resistência: +2 (vs. ladrões)
+- Cada acerto bem-sucedido feito contra o portador desta arma destrói 10 peças de ouro, a menos que o portador também tenha equipado a lâmina gêmea: Coroas +3
+
+Habilidades de combate:
+- Ataca como uma arma +4
+
+PACA0: +3
+Dano: 1d6+3, +1 dano de fogo
+Tipo de Dano: perfurante
+Fator de Velocidade: 1
+Tipo de Proficiência: Espada Curta
+Tipo: Uma mão
+Requer:
+ 5 Força
+
+Peso: 2
+~
+@2213 = ~Coroas +3~
+@2214 = ~Esta espada curta +3, assim como sua espada gêmea "Caras", pertenceu aos escolhidos de uma divindade da riqueza chamada Kol Korran. Kol Korran é adorado por comerciantes e negociantes honestos, mas também por ladrões e trapaceiros que se envolvem em negócios desonrosos. Há muitos contos cercando estas espadas. Alguns dizem que foram forjadas a partir de uma grande moeda de ouro do Senhor do Mundo e da Riqueza, que se originou de seu tesouro pessoal. Esta moeda foi dividida em duas no meio, criando as duas lâminas dicotômicas "Caras" e "Coroas".
+Embora esta espada por si só já tenha um encantamento poderoso, ela está ligada à sua espada gêmea "Caras". Se for empunhada separadamente, ela trai seu portador e "devora" seu ouro. A espada sempre parece quente ao toque.
+
+Se as lendas devem ser confiadas, ambas as espadas foram roubadas por algumas entidades demoníacas.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+- Conhecimento: +12
+- Inteligência: +2
+- Classe de Armadura e Testes de Resistência: +2 (vs. ladrões)
+- Cada acerto bem-sucedido feito contra o portador desta arma destrói 10 peças de ouro, a menos que o portador também tenha equipado a lâmina gêmea: Caras +3
+
+Habilidades de combate:
+- Ataca como uma arma +4
+
+PACA0: +3
+Dano: 1d6+3, +1 dano mágico
+Tipo de Dano: perfurante
+Fator de Velocidade: 1
+Tipo de Proficiência: Espada Curta
+Tipo: Uma mão
+Requer:
+ 5 Força
+
+Peso: 2
+~
+@2215 = ~Pedra Ioun do Idiota~
+@2216 = ~Esta Pedra Ioun de aparência impressionante é amaldiçoada. Quando equipada, ela reduz a inteligência do usuário ao nível de um tolo.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Inteligência definida para 1
+
+Peso: 0~
+@2217 = ~Virote Banhado a Prata~
+@2218 = ~Virotes banhados a prata são virotes de besta regulares que são revestidos com prata, mas não feitos inteiramente de prata. A prata é geralmente um metal macio, o que significa que uma espada ou ponta de flecha feita de prata pura quebraria ou estilhaçaria rapidamente em combate. No entanto, revestir uma arma com prata fornece as vantagens da durabilidade do ferro ou aço, mas as propriedades da prata quando necessário.
+Alguns monstros que são imunes ou resistentes a armas não-mágicas são vulneráveis a armas de prata. Estes incluem demônios e diabos, certos mortos-vivos ou até mesmo criaturas feéricas como bruxas noturnas. Estas resistências podem ser superadas com uma arma banhada a prata. Seguidores de Selûne, no entanto, criam estes virotes de besta para um propósito muito diferente: Lutar contra licantropos como ratazanas-lobisomens e lobisomens.
+
+ESTATÍSTICAS:
+
+Habilidades de combate:
+– Ataca como uma arma mágica +5 vs. licantropos, mortos-vivos e demônios dos planos inferiores como Baatezu (diabos) e Tanar'ri (demônios)
+
+Dano: 1d8 (projétil)
+Lançador: Besta
+
+Peso: 0~
+@2219 = ~Poema de Riven~
+@2220 = ~A Escadaria Infinita
+
+Um poema de Riven Caminhante do Vento, Bardo a serviço da Donzela da Lua
+
+"Em passos sem fim que sobem tão alto,
+uma escadaria se eleva no céu.
+A lua, uma luz na escuridão da noite,
+revela segredos escondidos da vista.
+
+Uma dança de planos, um reino indomado,
+através da noite, onde tudo é inominado.
+Cada passo, um eco de tempos antigos,
+conta histórias com segredos ainda não contados.
+
+A Escadaria Infinita, um caminho tão vasto,
+acena com promessas, um enigma lançado.
+Mas no silêncio, neste tom abissal,
+ecos se dissipam, e espíritos se renovam.
+
+Lua e estrelas, como guias tão brilhantes,
+lideram o viajante através da noite sem fim.
+Que estes passos, através do tempo e espaço,
+conduzam à paz, à calma, a um lugar melhor."
+~
+@2221 = ~Anel da Proteção +3~
+@2222 = ~Se a ira não funcionar, tente a paz em vez disso.~
+@2223 = ~Diadema~
+@2224 = ~Esta peça de cabeça é decorada com uma joia vermelha.~
+@2225 = ~Cortador de Veneno~
+@2226 = ~Esta poderosa cimitarra foi forjada em uma camada do Abismo conhecida como 'Colmeias do Perfurador'. Nela reina Tharzax, o senhor demônio do veneno. Seus campeões mais leais receberam cimitarras deste tipo para espalhar a palavra do Senhor do Veneno pelo Multiverso.
+
+ESTATÍSTICAS:
+
+Habilidades de combate:
+– O alvo atingido sofre 1 ponto de dano de veneno por segundo durante 6 segundos (Teste de Resistência vs. Veneno anula)
+
+PACA0: +3
+Dano: 1d8+3 (cortante)
+Fator de Velocidade: 2
+Tipo de Proficiência: Cimitarra/Wakizashi/Ninjato
+Tipo: Uma mão
+Requer:
+ 10 Força
+
+Peso: 1~
+@2227 = ~Notas de Verin~
+@2228 = ~Este pergaminho contém algumas notas que Verin aparentemente escreveu. Elas estão em uma caligrafia elegante, mas de aparência perversa. Algumas entradas chamam sua atenção:
+- 'Maretta, ardilosa e sedutora, governa Samora com mão de ferro. Ela esconde suas verdadeiras intenções por trás de um véu de tentação e engano e em breve trairá Graz'zt. Secretamente presta homenagem a outro lorde demônio, mas qual? Orcus, talvez?'
+- 'Mefisto, o astuto pregoeiro da cidade, conhece os segredos mais sombrios de Samora. Suas palavras são como punhais, afiados com mentiras e intrigas. Ele dança ao som do poder. Mas no momento ele parece leal a Graz'zt. Eu disse a ele para ficar de olho em estranhos na cidade procurando pelo cativo de Graz'zt. Ele mencionou dois mortais aqui: Um humano chamado Gildaar e um <PRO_RACE> chamado <CHARNAME>. Ele está observando ambos e me reportará antes que qualquer um se torne perigoso.'
+'Margrog, o mercador Nalfeshnee, abriga o veneno da traição em seus olhos escuros. Negocia em almas como um açougueiro negocia em carne. Sua aparente lealdade é apenas um véu para suas ambições egoístas. Não é confiável.'
+'O cativeiro de Waukeen é uma fonte de instabilidade em Samora. Devemos garantir que ela seja impedida de ser libertada. Nossos esforços estão enfraquecendo sua presença divina, mas ela ainda é uma ameaça em potencial.'
+'<CHARNAME> é de determinação e força incomuns. Eu devo ficar de olho em <PRO_HIMHER>, pois o destino de <PRO_HISHER> pode ser crítico para o nosso. <PRO_HESHE> chegou para libertar Waukeen? Ou para se juntar a Maretta na tomada de Graz'zt de Samora?'
+~
+@2229 = ~Lâmina de Sangue~
+@2230 = ~Este punhal é revestido com a seiva da árvore Bocarra de Ferro. A árvore Bocarra de Ferro é uma planta dos Planos Inferiores que cresce principalmente no Abismo. A seiva da árvore impede que feridas sangrentas se fechem rapidamente - a vítima continua a sangrar por um longo tempo. A lâmina está permanentemente coberta de sangue fresco e pingando, testemunhando seu uso regular como instrumento de morte.
+
+ESTATÍSTICAS:
+
+Habilidades de combate:
+– O alvo começa a sangrar por 2 de dano extra a cada rodada até que 10 Pontos de Vida de dano sejam feitos
+
+PACA0: +3
+Dano: 1d4+3 (perfurante)
+Fator de Velocidade: 0
+Tipo de Proficiência: Punhal
+Tipo: Uma mão
+Requer:
+ 3 Força
+
+Peso: 0
+~
+@2231 = ~Proteção Contra Veneno~
+@2232 = ~Proteção Contra Veneno
+(Abjuração)
+
+Nível: 2
+Alcance: Criatura tocada
+Duração: 10 rodadas
+Tempo de Conjuração: 3
+Área de Efeito: Criatura tocada
+Teste de Resistência: Nenhum
+
+Ao usar esta magia, a criatura escolhida ganha imunidade a venenos e toxinas administrados por contato com a pele, ingestão, picada, mordida ou arma. Toxinas de outros tipos continuam a afetar a criatura normalmente. Quaisquer venenos já presentes no corpo quando a magia é conjurada também não são afetados por esta magia.~
+@2233 = ~Varinha da Coragem~
+@2234 = ~Uma Varinha da Coragem instila coragem nos recipientes da magia, elevando seu moral ao máximo. O moral dos recipientes será gradualmente redefinido para o normal à medida que a duração terminar. Se os recipientes forem afetados por medo mágico, eles recuperarão a compostura. Como todas as varinhas, a Varinha da Coragem só pode ser usada um número limitado de vezes antes de ser destruída.
+
+ESTATÍSTICAS:
+
+Habilidades de carga:
+– Conjura 'Resistir ao Medo'
+  Alcance: 100 pés.
+  Alvo: Uma criatura
+  Área de Efeito: Raio de 15 pés.
+  Duração: 1 hora
+
+Requer:
+ 9 Inteligência
+
+Peso: 1~
+@2235 = ~Amuleto de Resistência ao Medo~
+@2236 = ~Amuleto de Resistência ao Medo
+Este amuleto em forma de coração aumenta o moral do usuário e o protege de todos os efeitos do medo. Itens deste tipo são feitos em inúmeras variantes diferentes em muitos Planos de Existência diferentes; afinal, no Multiverso há sempre uma razão para fugir de algo ou alguém por puro medo.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– O usuário do amuleto está protegido de todo medo
+
+Peso: 1~
+@2237 = ~Espalhador de Ferrugem +3~
+@2238 = ~Espalhador de Ferrugem +3
+
+Nomeada de Espalhador de Ferrugem, esta wakizashi possui uma reputação sinistra por um bom motivo. Cada golpe desta lâmina nefasta carrega consigo a capacidade de espalhar uma ferrugem rastejante, enfraquecendo não apenas os inimigos, mas também o próprio portador.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Resistência a Ácido: +5%
+
+Habilidades de combate:
+– Cada acerto bem-sucedido tem uma chance de 18% de aplicar uma penalidade na Classe de Armadura no alvo, enfraquecendo a Classe de Armadura em 1 ponto por 2 rodadas (sem Teste de Resistência)
+– Cada acerto bem-sucedido tem uma chance de 4% de aplicar a mesma penalidade na Classe de Armadura no portador desta arma (sem Teste de Resistência)
+– Cada acerto bem-sucedido tem uma chance de 90% de causar 3d4 de dano adicional a Golems de Ferro
+
+PACA0: +3
+Dano: 1d8+3 (perfurante)
+Fator de Velocidade: 2
+Tipo de Proficiência: Cimitarra/Wakizashi/Ninjato
+Tipo: Uma mão
+Requer:
+ 5 Força
+
+Peso: 2
+~
+@2239 = ~Broquel de Coágulo~
+@2240 = ~Broquel de Coágulo
+
+Este broquel peculiar se assemelha a um coágulo maciço de sangue com um cabo afixado a ele. É difícil imaginar quem ou o que empunharia voluntariamente tal item. No entanto, alguém deve ter feito isso, dado o acessório do cabo a este objeto peculiar.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Classe de Armadura: +1, +3 vs. Contusão/Esmagamento
+– Nenhuma proteção contra ataques perfurantes e de projétil
+– Carisma: -2
+– Multiplicador de Ataque Furtivo: +1
+
+Peso: 2~
+@2241 = ~Carne e Furúnculos +4~
+@2242 = ~Carne e Furúnculos +4
+
+Este estranho bastão é conhecido como 'Carne e Furúnculos'. Parece um pedaço estranho de carne coberto por um furúnculo ácido. Por mais estranho que possa parecer, pode ser bastante útil em algumas situações. Mas quão confiável pode ser um pedaço de carne?
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Carisma: -1
+– Bônus em Testes de Resistência vs. Magias: +1
+
+Habilidades de combate:
+– Cada acerto bem-sucedido tem uma chance de 4% de explodir e causar 6d10 de dano ao alvo, no entanto, a explosão também destruirá permanentemente esta arma
+
+PACA0: +4
+Dano: 1d6+4 (esmagamento)
+Fator de Velocidade: 4
+Tipo de Proficiência: Bastão
+Tipo: Uma mão
+Requer:
+ 5 Força
+
+Peso: 3~
+@2243 = ~Navalha em Forma de Coração +3~
+@2244 = ~Navalha em Forma de Coração +3
+
+A lâmina desta pequena navalha é feita na forma de um coração, adicionando um toque inquietante à sua natureza já macabra. Descoberta em meio aos restos de um corpo dissecado, sua nitidez sugere seu uso anterior no corte de veias, pele e órgãos. Com suas origens sombrias e inscrição arrepiante - 'Você não pode esmagar o coração que já está faltando' - esta lâmina exala tanto poder quanto um fascínio de pesadelo.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Classe de Armadura: +1 vs. ataques esmagadores
+
+Habilidades de combate:
+– Quando o alvo é morto com esta arma, o portador ganha 'Semente de Sangue', uma costura de sangue coagulado, que pode ser consumida para recuperar 20 Pontos de Vida, bem como aumentar a Força em 1 ponto por 1 turno (se não for usada, a semente desaparecerá após 8 horas)
+
+PACA0: +3
+Dano: 1d4+3, +1 adicional vs. Humanoides
+Tipo de Dano: perfurante
+Fator de Velocidade: 0
+Tipo de Proficiência: Punhal
+Tipo: Uma mão
+Requer:
+ 3 Força
+
+Peso: 1~
+@2245 = ~Semente de Sangue~
+@2246 = ~A Semente de Sangue foi criada pelo item Navalha em Forma de Coração quando um alvo é morto por esta arma. Ela pode ser consumida para recuperar 20 Pontos de Vida, bem como para aumentar a força em 1 ponto por 1 turno. Se não for usada, a semente desaparecerá após 8 horas.
+
+ESTATÍSTICAS:
+
+Especial:
+– Cura 20 Pontos de Vida
+– Aumenta a força em 1 ponto por 1 turno
+– Desaparece após 8 horas.
+
+Peso: 0~
+@2247 = ~Manto de Cogumelo Venenoso~
+@2248 = ~Este manto amaldiçoado é conhecido como Manto de Cogumelo Venenoso e brilha tanto que é muito difícil para seus usuários se esconderem. Sim, é elegante, sim, parece muito bom, mas vale o preço? Muitos diriam, sem hesitar, que não.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Carisma: +1
+– Esconder nas Sombras: -10%
+– Penalidade na Classe de Armadura: -1
+– Só pode ser removido com uma magia Remover Maldição
+
+Peso: 3~
+@2249 = ~Pedra Ioun Magnética~
+@2250 = ~Pedra Ioun Magnética
+
+Embora a maioria das pedras Ioun seja conhecida por suas propriedades poderosas e bastante úteis, esta pedra atrai todos os projéteis, por isso é difícil chamá-la de útil ou benéfica. Deve ter sido criada como algum tipo de brincadeira. Possivelmente uma brincadeira mortal.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Penalidade na Classe de Armadura vs. Mísseis: -3
+– Só pode ser removida com uma magia Remover Maldição
+
+Peso: 0~
+@2251 = ~Tolos de Ouro~
+@2252 = ~Estas pulseiras podem parecer bonitas, mas são amaldiçoadas. Elas foram provavelmente criadas para atrair potenciais vítimas e então se alimentar de sua curiosidade e descuido.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Cada vez que os inimigos atingem com sucesso o dono do item, ele perde 1 peça de ouro
+– Só pode ser removida com uma magia Remover Maldição
+
+Peso: 1~
+@2253 = ~Traje de Passos Escassos~
+@2254 = ~Este arnês de couro foi encantado para proteger seu dono como uma armadura leve. Ao mesmo tempo, não bloqueia qualquer movimento, então pode ser usado até mesmo por ladinos e bardos sem o medo de que jamais os limite em suas artes. Embora seja bastante revelador, as propriedades deste acessório podem ser apreciadas por todos aqueles que valorizam a mobilidade e... a franqueza explícita e sem remorsos.
+
+O arnês, no entanto, não protege bem do clima gelado e só aceita usuários em boa forma física. Quando usado, ele se agarrará ao seu dono e o apresentará em toda a sua glória. Só pode ser retirado com o uso de magia.
+
+ESTATÍSTICAS:
+
+Habilidades de carga:
+– Pode conjurar Encantar uma vez por dia
+– Pode conjurar Chicote de Proteção de Khelben uma vez por dia
+
+Habilidades equipadas:
+– Carisma: +1
+– Destreza: +1
+– Resistência ao Frio: -20%
+– A conjuração de magias não é desativada
+– Só pode ser removido com uma magia Remover Maldição
+
+Classe de Armadura: 4 (2 vs. cortante, 3 vs. perfurante e projétil)
+Requer:
+ 6 Força
+ 14 Constituição
+
+Peso: 3~
+@2255 = ~Ácido Concentrado~
+@2256 = ~Este é um ácido extremamente corrosivo que queima a pele, couro e metal em um piscar de olhos.~
+@2257 = ~Cinto dos Três Ciclopes~
+@2258 = ~Em uma ilha remota no meio das Rochas Cantantes, na costa de Calimshan, viveu uma tríade de ciclopes conhecida por sua imensa força e maquinações sinistras. Os três ciclopes eram temidos pelos marinheiros que passavam pela ilha, pois atiravam pedregulhos maciços contra navios que passavam, afundando mais de um.
+
+Um dia, os três ciclopes foram mortos por bravos aventureiros. Eles pegaram seus olhos como um troféu para reivindicar sua recompensa. Um engenhoso gnomo Lantanês chamado Bilgim, o Habilidoso, decidiu incorporar os olhos em um cinto mágico para dar nova vida às suas habilidades únicas. O gnomo trabalhou no cinto por meses, eventualmente reforçando-o com os olhos dos três ciclopes e usando uma grande quantidade de magia para criar um cinto adequado para ele.
+
+Desde então, o Cinto dos Três Ciclopes teve muitos proprietários, desde bravos heróis até vilões inescrupulosos que queriam usar seu poder para seus próprios fins.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Força: +1
+– O usuário é imune a Encanto
+
+Habilidades de carga:
+– "Detectar Invisibilidade" uma vez por dia
+
+Peso: 2~
+@2259 = ~Bastão +4, A Maçaroca Nobre~
+@2260 = ~A Maçaroca Nobre é um bastão decorado com bandas de bronze que, segundo contos locais, era carregado por um nobre de Calimshan como um sinal de poder. Uma vez por dia, o bastão pode fazer chover uma saraivada de lascas de metal cintilante sobre todos dentro de seu alcance. Isso provou ser particularmente eficaz contra assassinos à espreita na Calimshan, cheia de intrigas, mas beneficia o portador em qualquer uma das terras ao longo da Costa da Espada.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Teste de Resistência vs. Sopro: +3
+
+Habilidades de carga:
+– Pó de Ouro uma vez por dia
+
+PACA0: +4
+Dano: 1d6+4 (esmagamento)
+Fator de Velocidade: 1
+Tipo de Proficiência: Bastão
+Tipo: Uma mão
+Requer:
+ 5 Força
+
+Peso: 1~
+@2261 = ~Virote da Rainha Graciosa +1~
+@2262 = ~Estes poderosos virotes são revestidos com um encantamento que os torna particularmente eficazes contra inimigos da retidão. Diz-se que a "Rainha Graciosa" que deu nome aos virotes foi uma antiga governante da ordem, alguns dizem uma seguidora de Ilmater, que pereceu no Ano das Teias Despedaçadas na esteira do caos mágico que reinava naquela época.
+
+ESTATÍSTICAS:
+
+PACA0: +1
+Dano: 1d8 (projétil), +3 vs. criaturas não-leais
+Lançador: Besta
+
+Peso: 0~
+@2263 = ~Elmo do Pesadelo Infantil~
+@2264 = ~Este elmo foi usado por seguidores de um culto de seres primordiais para determinar discípulos adequados. Em cavernas profundas e sem luz, seus sacerdotes das trevas realizavam ritos de iniciação nos quais jovens aspirantes tinham que usar o Elmo do Pesadelo Infantil para provar sua adequação. O elmo, envolto em sombras ancestrais, concedia ao usuário o poder de invocar uma sombra uma vez por dia para servir à vontade do usuário do elmo. No entanto, candidatos inadequados eram dominados pelo medo, dilacerados pelos mortos-vivos e suas almas arrastadas para a escuridão. Se o culto desapareceu novamente devido à falta de novos seguidores ou por outras razões, isso se perdeu no tempo.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Infravisão de até 120 pés.
+– Classe de Armadura: +1
+– Protege contra acertos críticos
+
+Habilidades de carga:
+– Invoca uma sombra uma vez por dia por 1 turno
+
+Peso: 2~
+@2265 = ~Calças e Suspensórios do Bruto de Peito Nu +1~
+@2266 = ~Criada nos becos empoeirados de Rel Astra, uma cidade em um reino distante, esta armadura áspera e resistente consiste apenas em calças de couro gastas e suspensórios robustos. Usada por um bruto corpulento que gostava de se envolver em brigas de taverna, as calças de couro, marcadas com inúmeras cicatrizes e manchas, ofereciam ao seu usuário surpreendente mobilidade e proteção contra os golpes e cortes de seus oponentes. Os suspensórios, firmes e confiáveis, mantinham a armadura no lugar e protegiam o usuário de ataques inesperados. No entanto, a verdadeira força desta armadura não convencional residia em sua aparência externa, mas na ferocidade inabalável de seu usuário, cujos socos caíam sobre seus oponentes com precisão e velocidade impiedosas.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– PACA0: +1
+
+Habilidades de combate:
+– 1 ataque extra por rodada
+
+Classe de Armadura: 7 (9 vs. perfurante e projétil)
+Requer:
+ 4 Força
+
+Peso: 3~
+@2267 = ~Lâmina Sombria Gotejante +2~
+@2268 = ~Esta lâmina, imersa em algumas tradições sombrias de Kara-Tur, se torna mais poderosa através do sacrifício da própria força vital. Quando seu portador perfura a própria carne, ela se transforma em uma katana aprimorada por uma hora, um presente perigoso de um antigo senhor da guerra que procurou conquistar a própria morte.
+
+ESTATÍSTICAS:
+
+Habilidades de carga:
+– Sacrifício de Sangue: Uma vez por dia, o portador pode sacrificar 4d10+5 de seus pontos de vida para transformar a lâmina em uma Katana +4 pela duração de uma hora. A arma magicamente criada não pode ser derrubada e reverte ao seu estado original após uma hora.
+
+PACA0: +2
+Dano: 1d10+2 (cortante)
+Fator de Velocidade: 1
+Tipo de Proficiência: Katana
+Tipo: Uma mão
+Requer:
+ 6 Força
+
+Peso: 3~
+// +3
+@2269 = ~Lâmina Sombria Gotejante +3~
+@2270 = ~Esta lâmina está pingando sangue - seu próprio sangue. Você sacrificou uma quantidade considerável dele para aumentar o poder da lâmina pela próxima hora.
+
+ESTATÍSTICAS:
+
+PACA0: +3
+Dano: 1d10+3 (cortante)
+Fator de Velocidade: 1
+Tipo de Proficiência: Katana
+Tipo: Uma mão
+Requer:
+ 6 Força
+
+Peso: 3~
+
+// +4
+@2271 = ~Lâmina Sombria Gotejante +4~
+@2272 = ~Esta lâmina está pingando sangue - seu próprio sangue. Você sacrificou uma quantidade considerável dele para aumentar o poder da lâmina pela próxima hora.
+
+ESTATÍSTICAS:
+
+PACA0: +4
+Dano: 1d10+4 (cortante)
+Fator de Velocidade: 1
+Tipo de Proficiência: Katana
+Tipo: Uma mão
+Requer:
+ 6 Força
+
+Peso: 3~
+// +5
+@2273 = ~Lâmina Sombria Gotejante +5~
+@2274 = ~Esta lâmina está pingando sangue - seu próprio sangue. Você sacrificou uma quantidade considerável dele para aumentar o poder da lâmina pela próxima hora.
+
+ESTATÍSTICAS:
+
+PACA0: +5
+Dano: 1d10+5 (cortante)
+Fator de Velocidade: 1
+Tipo de Proficiência: Katana
+Tipo: Uma mão
+Requer:
+ 6 Força
+
+Peso: 3~
+@2275 = ~As Cores de Seus Sonhos +2~
+@2276 = ~Este escudo é adornado com vários pedaços de vitrais coloridos e pequenas pedras preciosas que brilham em muitas cores diferentes. É muito eficaz em deslumbrar um oponente, mas como desvantagem o escudo é bastante pesado.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Classe de Armadura: +3, +1 extra vs. ataques de projétil
+
+Habilidades de carga:
+– Pode liberar um spray de cor uma vez por dia que cega todos na área de efeito por uma rodada (Teste de Resistência vs. Magia anula)
+
+Requer:
+ 15 Força
+
+Peso: 12~
+@2277 = ~Defensor de Waukeen +2~
+@2278 = ~Este foi o escudo pessoal de Tharundar Olehm, Sumo Sacerdote de Waukeen. Ele o concedeu a você em gratidão por salvar sua alma do Nalfeshnee Margrog. Uma série de escudos semelhantes pode ser encontrada em Faerûn nos templos de Waukeen, mas raramente desta alta qualidade e encantamento. O escudo é adornado com o símbolo do semblante dourado de Waukeen.
+
+ESTATÍSTICAS:
+
+Habilidades equipadas:
+– Classe de Armadura: +3
+– Testes de Resistência: +2
+– Resistência à Magia: 10%
+
+Requer:
+ 4 Força
+
+Peso: 4~
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+IF
+    Global("AC#PPMerSugGold","GLOBAL",1)
+    THEN
+        RESPONSE #100
+    AddStoreItem("ac#pptme","AC#PPBOW",1,1)
+    AddStoreItem("ac#pptme","AC#PPFLL",1,1)
+    AddStoreItem("ac#pptme","AC#PPHME",1,1)
+    AddStoreItem("ac#pptme","AC#PPMRN",1,1)
+    CreateCreature("ac#pptme",[1192.1037],0)
+    SetGlobal("AC#PPMerSugGold","GLOBAL",2)
+END

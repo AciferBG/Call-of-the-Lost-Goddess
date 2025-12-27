@@ -65,7 +65,7 @@
 @64 = ~Ormad está muerto. Él ha usado la daga.~
 @65 = ~¡No! ¿Realmente lo hizo? ¿Realmente lo obligasteis a hacerlo?~
 @66 = ~¡Esto es excelente! Sois un mortal realmente astuto, pequeño <PRO_RACE>!~ ~¡Esto es excelente! Sois una mortal realmente astuta, pequeña <PRO_RACE>!~
-@67 = ~¡De ahora en adelante, nos cruzaremos con más frecuencia y continuaremos nuestra fructífera colaboración, me atrevo a decir! Cumpliré mi parte de la promesa. Aquí tenéis un tambor. Llamadme si alguna vez necesitas ayuda en el plano material, y apareceré... ¡cada seis días! Y ahora, si me disculpáis, debo ver dónde aparecerá el alma de este Ormad y darle una bienvenida apropiada...~
+@67 = ~¡De ahora en adelante, nos cruzaremos con más frecuencia y continuaremos nuestra fructífera colaboración, me atrevo a decir! Cumpliré mi parte de la promesa. Aquí tenéis un tambor. Llamadme si alguna vez necesitáis ayuda en el plano material, y apareceré... ¡cada seis días! Y ahora, si me disculpáis, debo ver dónde aparecerá el alma de este Ormad y darle una bienvenida apropiada...~
 @68 = ~¿El débil tonto se ha buscado un aliado incipiente? No, olvidadlo. El alma de Ormad me pertenece. Y antes de que penséis en atacarme: no guardo mis contratos de alma aquí ni en mi libro. Están bien escondidos en un lugar seguro.~ ~¿El débil tonto se ha buscado una aliada incipiente? No, olvidadlo. El alma de Ormad me pertenece. Y antes de que penséis en atacarme: no guardo mis contratos de alma aquí ni en mi libro. Están bien escondidos en un lugar seguro.~
 @69 = ~¿No hay nada que os haga cambiar de opinión?~
 @70 = ~Adiós por ahora.~
@@ -111,8 +111,8 @@
 @110 = ~¡Si yo fuera vos, me pondría en marcha! Y ahora despejad el camino...~
 @111 = ~¡Alas de deva! ¡Recién cortadas! ¡Aún brillan blancas y sin manchas!~
 @112 = ~¿Venden alas de deva aquí?~
-@113 = ~¿De donde vienen las alas?~
-@114 = ~¿Para que necesitáis alas de deva?~
+@113 = ~¿De donde proceden las alas?~
+@114 = ~¿Para qué se necesitan las alas de los deva?~
 @115 = ~¡Eso es asqueroso!~
 @116 = ~Me gustaría comprar un ala de deva.~
 @117 = ~Puedo volver más tarde.~
@@ -129,7 +129,7 @@
 @128 = ~¡Asombroso! Aquí está una de ellas. El deva gritó mucho cuando le serramos sus suaves alas. ¡Divertíos tanto con ella como yo cuando la corté!~
 @129 = ~Bueno, eso es mala suerte para vos. ¡Entonces salid de mi círculo de alas!~
 @130 = ~¡Pregunta estúpida! ¡De los devas, por supuesto! Celestiales, ángeles, ¡llamadlos como queráis! De todos modos, tuvieron que sufrir mucho antes de que los cortara.~
-@131 = ~¿Cómo es, mortal?~
+@131 = ~¿Qué os parece, mortal?~
 @132 = ~¡Para todo tipo de cosas! Tendréis que preguntar vosotros mismos a mis compradores. Sólo vendo estas cosas aquí.~
 @133 = ~Como queráis, mortal.~
 @134 = ~¿Sabéis qué? ¡Iros a la mierda y encontrad un mercader más adecuado para vuestra delicada alma mortal!~
