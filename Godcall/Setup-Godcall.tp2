@@ -1,5 +1,5 @@
 /*************************************************************************
- * Call Of The Lost Goddess V 2.6
+ * Call Of The Lost Goddess V 2.7
  *
  *
  *
@@ -409,7 +409,7 @@ LANGUAGE ~Brazilian Portuguese by dextermorgan~
 // Godcall (main component)
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
-BEGIN ~Call Of The Lost Goddess V 2.6~
+BEGIN ~Call Of The Lost Goddess V 2.7~
 REQUIRE_PREDICATE (GAME_IS ~bg2ee eet~ && FILE_EXISTS ~engine.lua~) ~Requires BG2:EE or EET patched to 2.0 or higher.~  // Requires BG2:EE or EET patched to 2.0 or higher.
 DESIGNATED 0
 				 
