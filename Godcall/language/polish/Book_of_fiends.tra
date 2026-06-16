@@ -1,6 +1,6 @@
-@0 = ~(Księga ma odrażającą okładkę wykonaną z wysuszonej skóry jakiegoś biesa. Z dolnej krawędzi wystają zęby, a dwoje czerwonych, skórzastych oczu łypie na ciebie z niezadowoleniem).~
-@1 = ~*odłóż księgę na bok*~
-@2 = ~*otwórz księgę*~
+@0 = ~(Księga ma odrażającą okładkę wykonaną z wysuszonej skóry jakiegoś biesa. Z dolnej krawędzi wystają zęby, a para czerwonych, skórzastych oczu łypie na ciebie z niezadowoleniem).~
+@1 = ~*Odłóż księgę na bok*.~
+@2 = ~*Otwórz księgę*.~
 @3 = ~(Gdy próbujesz otworzyć księgę, ta rozwiera się sama, odsłaniając wielką paszczę w miejscu, gdzie normalnie powinny znajdować się stronice).~
 @4 = ~Świetnie, znowu ktoś mnie wyzyskuje. Mam nadzieję, że twoje pytania będą przynajmniej odrobinę ciekawsze niż te zadawane przez żałosnych kretynów, którzy używali mnie przed tobą.~
 @5 = ~Kim jesteś?~
@@ -8,7 +8,7 @@
 @7 = ~Nie mogę sprawić, byś odnosił się do mnie nieco lepiej?~
 @8 = ~Jak się nazywasz?~
 @9 = ~Jaki będę mieć z ciebie pożytek?~
-@10 = ~*zamknij księgę i odłóż ją na bok*~
+@10 = ~*Zamknij księgę i odłóż ją na bok*.~
 @11 = ~Nawet nie próbuj, nędzna istoto. Jestem rozżalony nie bez powodu i chciałbym móc wydostać się z tej księgi! Jednak nie mogę tego zrobić. Zrobię więc to, o co prosisz, lecz nie oczekuj ode mnie uprzejmości ani uległości. Nie zdołasz mnie zmienić, więc nie marnuj ani tchu ze swej żałosnej egzystencji na tak niedorzeczne pomysły.~
 @12 = ~Na razie wystarczy. Porozmawiamy później.~
 @13 = ~Jakże uroczo z twojej strony, że wierzysz, iż masz choć cień przywileju, by poznać moje imię, miernoto. Moje miano to mroczny sekret znany tylko tym, którzy są gotowi zapłacić za niego wysoką cenę. Twoja ciekawość do niczego cię nie doprowadzi, gdyż nie wyjawię mojego imienia. Wystarczy ci świadomość, że masz przed sobą demona przepełnionego niezmierzoną złością i potęgą. Żałosne pocieszenie, prawda?~
@@ -29,7 +29,7 @@
 @28 = ~Szukam nalfeshnee imieniem Margrog.~
 @29 = ~Chcę wiedzieć coś o pewnej osobie.~
 @30 = ~Opowiedz mi o Nieskończonych Schodach.~
-@31 = ~*zamknij księgę i odłóż ją na bok*~
+@31 = ~*Zamknij księgę i odłóż ją na bok*.~
 @32 = ~Co zamierzasz zrobić z tą szumowiną? No cóż, nie wnikam,  twoja sprawa. Jego dom na nogach, którego ten nielegalny handlarz używa do przemieszczania się z miejsca na miejsce, znajduje się obecnie w zachodniej Samorze, naprzeciwko Izby Obrachunkowej.~
 @33 = ~Mam kolejne pytanie.~
 @34 = ~Zapewne nie jesteś do końca pewien, gdzie chcesz sprzedać swą duszę? Mów śmiało, z chęcią pomogę ci w twoim upadku. Nie znam wszystkich miejsc zepsucia w tym mieście, lecz mogę ci opowiedzieć o „Przemokniętym Solarze”, zamtuzie „Łoża Maretty” i salonie gier zwanym „Przeklętą Fortuną”.~ ~Zapewne nie jesteś do końca pewna, gdzie chcesz sprzedać swą duszę? Mów śmiało, z chęcią pomogę ci w twoim upadku. Nie znam wszystkich miejsc zepsucia w tym mieście, lecz mogę ci opowiedzieć o „Przemokniętym Solarze”, zamtuzie „Łoża Maretty” i salonie gier zwanym „Przeklętą Fortuną”.~
