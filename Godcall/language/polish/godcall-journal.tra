@@ -1,0 +1,633 @@
+// Journal Entries
+
+@100001 = ~Ocalenie Waukeen
+
+Waukeen została uratowana z mrocznych szponów władcy demonów Graz'zta i bezpiecznie wyprowadzona z Otchłani. Czy można oczekiwać czegoś więcej, niż cieszyć się względami bogini bogactwa?~
+
+@100010 = ~Misja Kościoła Waukeen
+
+Po odwiedzeniu Świątyni Waukeen w Dzielnicy Rządowej i rozmowie z tamtejszym kapłanem okazało się, że nie jest on w stanie podać żadnych szczegółów dotyczących powierzonego zadania. Padła jednak prośba o odwiedzenie opactwa Złotych Iglic na północ od Athkatli. Tamtejszy przywódca kościoła, Tharundar Olehm, ma dokładnie wyjaśnić, na czym polega cała misja.~
+
+@100030 = ~Zew Zaginionej Bogini
+
+Przyjąłem zadanie od arcykapłana Waukeen, Tharundara Olehma – mam wyruszyć do Otchłani i oswobodzić boginię z rąk samego władcy demonów, Graz'zta. Z pomocą Kyriani, kapłanki Selûne, przejdę przez świątynię w Waterdeep, by dotrzeć do Nieskończonych Schodów. Ta niezwykła struktura pozwoli mi przemierzyć cały wieloświat i zejść prosto w Otchłań. Na miejscu muszę dowiedzieć się, gdzie dokładnie Waukeen jest więziona w Samorze, mieście demonów, a następnie bezpiecznie odeskortować ją z lochów Graz'zta z powrotem do Schodów. Tharundar i Kyriani nakazali mi solidnie przygotować się do tej wyprawy; oboje czekają na mnie na pierwszym piętrze Opactwa Złotych Iglic, póki nie będę gotowy na tę przygodę.~ ~Zew Zaginionej Bogini
+
+Przyjęłam zadanie od arcykapłana Waukeen, Tharundara Olehma – mam wyruszyć do Otchłani i oswobodzić boginię z rąk samego władcy demonów, Graz'zta. Z pomocą Kyriani, kapłanki Selûne, przejdę przez świątynię w Waterdeep, by dotrzeć do Nieskończonych Schodów. Ta niezwykła struktura pozwoli mi przemierzyć cały wieloświat i zejść prosto w Otchłań. Na miejscu muszę dowiedzieć się, gdzie dokładnie Waukeen jest więziona w Samorze, mieście demonów, a następnie bezpiecznie odeskortować ją z lochów Graz'zta z powrotem do Schodów. Tharundar i Kyriani nakazali mi solidnie przygotować się do tej wyprawy; oboje czekają na mnie na pierwszym piętrze Opactwa Złotych Iglic, póki nie będę gotowa na tę przygodę.~
+
+@100031 = ~Zew Zaginionej Bogini
+
+Wyruszając ze świątyni w Waterdeep, muszę odnaleźć drogę w górę Nieskończonych Schodów, aż do platformy prowadzącej do Samory. Na miejscu mam się spotkać z nalfeshnee imieniem Margrog, który jest moim kontaktem w tym mieście demonów.~ 
+
+//thief quest, alt. title: Tainted Gold?
+@100200 = ~Złodziej w Złotych Iglicach
+
+Przed świątynią Waukeen natknąłem się na złodzieja imieniem Maendir. Zgodziłem się pomóc mu w dość podejrzanym planie wykradzenia złota ze skarbca opactwa. Moim zadaniem jest skraść klucz, który podobno ma przy sobie przebywająca w świątyni kapłanka Faerthae Garblueth. Gdy tylko go zdobędę, mam go dostarczyć czekającemu na zewnątrz Maendirowi, który zajmie się całą resztą.~ ~Złodziej w Złotych Iglicach
+
+Przed świątynią Waukeen natknęłam się na złodzieja imieniem Maendir. Zgodziłam się pomóc mu w dość podejrzanym planie wykradzenia złota ze skarbca opactwa. Moim zadaniem jest skraść klucz, który podobno ma przy sobie przebywająca w świątyni kapłanka Faerthae Garblueth. Gdy tylko go zdobędę, mam go dostarczyć czekającemu na zewnątrz Maendirowi, który zajmie się całą resztą.~
+
+@100201 = ~Złodziej w Złotych Iglicach
+
+Ukradłem kapłance Waukeen klucz do skarbca. Teraz muszę zanieść go złodziejowi Maendirowi, który czeka na zewnątrz opactwa Złotych Iglic.~ ~Złodziej w Złotych Iglicach
+
+Ukradłam kapłance Waukeen klucz do skarbca. Teraz muszę zanieść go złodziejowi Maendirowi, który czeka na zewnątrz opactwa Złotych Iglic.~
+//@100202 = ~~
+@100203 = ~Złodziej w Złotych Iglicach
+
+Przyniosłem klucz Maendirowi. Natychmiast z nim zniknął, ruszając do swojego „zadania”. Ponownie spotkam się z nim za jeden dzień – miejmy nadzieję.~ ~Złodziej w Złotych Iglicach
+
+Przyniosłam klucz Maendirowi. Natychmiast z nim zniknął, ruszając do swojego „zadania”. Ponownie spotkam się z nim za jeden dzień – miejmy nadzieję.~
+
+@100204 = ~Złodziej w Złotych Iglicach
+
+Kradzież w Złotych Iglicach nie skończyła się dobrze. Złodziej zamienił się w złoty posąg. Na szczęście sam nie tknąłem ani krzty tego złota!~ ~Złodziej w Złotych Iglicach
+
+Kradzież w Złotych Iglicach nie skończyła się dobrze. Złodziej zamienił się w złoty posąg. Na szczęście sama nie tknęłam ani krzty tego złota!~
+
+@100210 = ~Złodziej w Złotych Iglicach
+
+Zgłosiłem strażnikom złodzieja, który próbował obrabować świątynię Waukeen. Dzięki temu w Złotych Iglicach powinno być teraz odrobinę bezpieczniej.~ ~Złodziej w Złotych Iglicach
+
+Zgłosiłam strażnikom złodzieja, który próbował obrabować świątynię Waukeen. Dzięki temu w Złotych Iglicach powinno być teraz odrobinę bezpieczniej.~
+
+@110000 = ~Wrogowie wiary Waukeen
+
+Po odwiedzeniu świątyni Waukeen w Dzielnicy Rządowej Athkatli napotkałem osobowego człowieka, który usiłował odwieść mnie od pomagania Kościołowi. Nie wiem, kim jest ani skąd pochodzi, ale muszę bacznie uważać na swoje kolejne kroki. Wygląda na to, że tutejszy Kościół ma nie tylko przyjaciół.~ ~Wrogowie wiary Waukeen
+
+Po odwiedzeniu świątyni Waukeen w Dzielnicy Rządowej Athkatli napotkałam osobowego człowieka, który usiłował odwieść mnie od pomagania Kościołowi. Nie wiem, kim jest ani skąd pochodzi, ale muszę bacznie uważać na swoje kolejne kroki. Wygląda na to, że tutejszy Kościół ma nie tylko przyjaciół.~
+// Goldspires - merchant thievery accusation
+@110001 = ~Wrogowie wiary Waukeen
+
+Pewien kupiec w opactwie Waukeen próbował oskarżyć mnie o kradzież. Przyznał się, że wynajął go ten sam człowiek, który pod świątynią w Dzielnicy Rządowej chciał odwieść mnie od mojej misji.~
+
+// Infinite Staircase - Mages
+@110002 = ~Wrogowie wiary Waukeen
+
+Na Nieskończonych Schodach napotkałem kilku magów. Najwyraźniej nasłał ich ten odziany w czerń osobnik z Athkatli, by mnie powstrzymać. Ten osobnik musiał jakoś wpaść na mój trop i dotrzeć za mną aż tutaj. Powinienem postępować nader ostrożnie.~ ~Wrogowie wiary Waukeen
+
+Na Nieskończonych Schodach napotkałam kilku magów. Najwyraźniej nasłał ich ten odziany w czerń osobnik z Athkatli, by mnie powstrzymać. Ten osobnik musiał jakoś wpaść na mój trop i dotrzeć za mną aż tutaj. Powinnam postępować nader ostrożnie.~
+
+@110003 = ~Wrogowie wiary Waukeen
+
+Wygląda na to, że Gildaar lada chwila wyjawi Maretcie moje plany. Muszę być gotowy na konfrontację z kapłanem – w najgorszym wypadku dojdzie do niej w samej sali tronowej Maretty. Nie mogę dopuścić, by zdradził moje cele, gdyż to obróciłoby przeciwko mnie całe miasto. Muszę wymyślić sposób, by szybko wyeliminować lub uciszyć Gildaara.~ ~Wrogowie wiary Waukeen
+
+Wygląda na to, że Gildaar lada chwila wyjawi Maretcie moje plany. Muszę być gotowa na konfrontację z kapłanem – w najgorszym wypadku dojdzie do niej w samej sali tronowej Maretty. Nie mogę dopuścić, by zdradził moje cele, gdyż to obróciłoby przeciwko mnie całe miasto. Muszę wymyślić sposób, by szybko wyeliminować lub uciszyć Gildaara.~
+
+/*
+// Samora - Solar??
+@110003 =
+*/
+
+@110010 = ~Wrogowie wiary Waukeen
+
+Na Nieskończonych Schodach spotkałem tego dziwnego człowieka, który podszedł do mnie w Athkatli i próbował odwieść od zamiaru podróży do Otchłani. Wyjawił, że nazywa się Gildaar i jest kapłanem Cyrica, po czym udał się w kierunku Samory. Muszę go odnaleźć w tym demonicznym mieście, bo podejrzewam, że nadal będzie próbował pokrzyżować moje plany.~ ~Wrogowie wiary Waukeen
+
+Na Nieskończonych Schodach spotkałam tego dziwnego człowieka, który podszedł do mnie w Athkatli i próbował odwieść od zamiaru podróży do Otchłani. Wyjawił, że nazywa się Gildaar i jest kapłanem Cyrica, po czym udał się w kierunku Samory. Muszę go odnaleźć w tym demonicznym mieście, bo podejrzewam, że nadal będzie próbował pokrzyżować moje plany.~
+// Infinite Staircase - Mages
+@110011 = ~Wrogowie wiary Waukeen
+
+Kapłan Cyrica, Gildaar, próbował donieść na mnie straży miejskiej, Lansjerkom Pani. Na szczęście biesy mu nie uwierzyły. Muszę jednak jak najszybciej znaleźć sposób, by się go pozbyć. To tylko kwestia czasu, zanim wyjawi komuś prawdziwy powód mojej obecności w tym miejscu.~
+
+@110012 = ~Wrogowie wiary Waukeen
+
+Nalfeshnee Margrog zasugerował, by porozmawiać o Gildaarze z tutejszym obwoływaczem, Mefisto. Brzmi to jak szalenie lekkomyślne przedsięwzięcie, ale wygląda na to, że nie mam innego wyjścia.~
+
+@110013 = ~Wrogowie wiary Waukeen
+
+Rozmawiałem z Mefistem. Chce, żebym przyniósł mu niemowlę, którego matką jest sukkub o imieniu Daemevera, nim pomoże mi w walce z Gildaarem. Jej dom znajduje się w zachodniej części miasta, na placu, gdzie trwa werbunek na Wojnę Krwi.~ ~Wrogowie wiary Waukeen
+
+Rozmawiałam z Mefistem. Chce, żebym przyniosła mu niemowlę, którego matką jest sukkub o imieniu Daemevera, nim pomoże mi w walce z Gildaarem. Jej dom znajduje się w zachodniej części miasta, na placu, gdzie trwa werbunek na Wojnę Krwi.~
+
+@110014 = ~Wrogowie wiary Waukeen
+
+Mefisto zaproponował, by użyć wód Styksu do wymazania wspomnień Gildaara. W tawernie „Lamentująca Bogini” na północy miasta zatrzymał się merrenolot imieniem Az'zelbath, który żegluje po tej rzece i mógłby dostarczyć nam fiolkę. Nie wiem, jak tego użyć, ale pomysł wydaje się wart spróbowania.~
+
+@110015 = ~Wrogowie wiary Waukeen
+
+Merrenolot Az'zelbath wręczył mi flakon z wodą ze Styksu. Teraz muszę tylko poczekać, aż spotkam Gildaara, by cisnąć mu tym płynem prosto w twarz, tak aby zapomniał, dlaczego w ogóle chciał przeciwko mnie spiskować.~
+
+@110016 = ~Wrogowie wiary Waukeen
+
+Mam butelkę wody ze Styksu! Teraz muszę poczekać na spotkanie z Gildaarem, by cisnąć mu tym płynem w twarz, tak aby zapomniał, dlaczego zamierzał przeciwko mnie knuć.~
+
+@110017 = ~Wrogowie wiary Waukeen
+
+Gildaar nie żyje. Być może przy jego ciele znajdę jakąś wskazówkę prowadzącą do jego mocodawców.~
+
+@110018 = ~Wrogowie wiary Waukeen
+
+Przy zwłokach Gildaara odkryłem list sugerujący obecność zdrajcy w samym opactwie Złotych Iglic. Po powrocie muszę o tym powiadomić Tharundara Olehma.~ ~Wrogowie wiary Waukeen
+
+Przy zwłokach Gildaara odkryłam list sugerujący obecność zdrajcy w samym opactwie Złotych Iglic. o powrocie muszę o tym powiadomić Tharundara Olehma.~
+
+@110019 = ~Wrogowie wiary Waukeen
+
+Przekazałem znaleziony przy Gildaarze list Tharundarowi Olehmowi, który zamierza osobiście zająć się kwestią zdrajcy. Mam się z nim spotkać na pierwszym piętrze Złotych Iglic, by poznać najnowsze ustalenia dotyczące tego śledztwie.~ ~Wrogowie wiary Waukeen
+
+Przekazałam znaleziony przy Gildaarze list Tharundarowi Olehmowi, który zamierza osobiście zająć się kwestią zdrajcy. Mam się z nim spotkać na pierwszym piętrze Złotych Iglic, by poznać najnowsze ustalenia dotyczące tego śledztwie.~
+
+@110020 = ~Wrogowie wiary Waukeen
+
+Zdrajczyni została schwytany i postawiona przed obliczem sprawiedliwości. To ostatecznie rozwiązuje zagadkę kapłana Cyrica, Gildaara, który podążył za mną aż do samej Otchłani.~
+
+@110021 = ~Wrogowie wiary Waukeen
+
+Odebrałem niemowlę sukkubowi Daemeverze. Aby uzyskać pomoc w pozbyciu się Gildaara, muszę teraz przekazać dziecko Mefistowi.~ ~Wrogowie wiary Waukeen
+
+Odebrałam niemowlę sukkubowi Daemeverze. Aby uzyskać pomoc w pozbyciu się Gildaara, muszę teraz przekazać dziecko Mefistowi.~
+
+// Quest for Riven, bard poet on the Infinite Staircase
+@190000 = ~Strofy na schodach
+
+Kapłanka Elandra Księżycowa Pieśń poprosiła mnie, abym podczas dalszej podróży rozejrzał się za bardem zwącym się Riven Kroczący z Wiatrem, który wyruszył na badanie Nieskończonych Schodów i dotąd nie powrócił. Zamierzał on również napisać o nich poemat. Moim zadaniem jest bezpieczne odprowadzenie go z powrotem do podnóża schodów.~ ~Strofy na schodach
+
+Kapłanka Elandra Księżycowa Pieśń poprosiła mnie, abym podczas dalszej podróży rozejrzała się za bardem zwącym się Riven Kroczący z Wiatrem, który wyruszył na badanie Nieskończonych Schodów i dotąd nie powrócił. Zamierzał on również napisać o nich poemat. Moim zadaniem jest bezpieczne odprowadzenie go z powrotem do podnóża schodów.~
+
+@190001 = ~Strofy na schodach
+
+Bard Riven Kroczący z Wiatrem nie żyje. Odnalazłem jego poemat przy zwłokach na jednym z krańców Nieskończonych Schodów. Powinienem zanieść to dzieło z powrotem do Elandry Księżycowej Pieśni, która znajduje się u podnóża schodów i przekazać jej smutną wieść o jego śmierci.~ ~Strofy na schodach
+
+Bard Riven Kroczący z Wiatrem nie żyje. Odnalazłam jego poemat przy zwłokach na jednym z krańców Nieskończonych Schodów. Powinnam zanieść to dzieło z powrotem do Elandry Księżycowej Pieśni, która znajduje się u podnóża schodów i przekazać jej smutną wieść o jego śmierci.~
+
+@190002 = ~Strofy na schodach
+
+Odniosłem poemat Rivena Kroczącego z Wiatrem Elandrze Księżycowej Pieśni, która znajdowała się u podnóża schodów i przekazałem jej, że bard nie żyje.~ ~Strofy na schodach
+
+Odniosłam poemat Rivena Kroczącego z Wiatrem Elandrze Księżycowej Pieśni, która znajdowała się u podnóża schodów i przekazałam jej, że bard nie żyje.~
+
+// Samora Journal entries
+@400000 = ~Zew Zaginionej Bogini
+
+Dotarłem do położonego w Otchłani miasta Samora. Muszę teraz odszukać nalfeshnee imieniem Margrog. Mam nadzieję, że ten demon pomoże mi w poszukiwaniach Waukeen.~ ~Zew Zaginionej Bogini
+
+Dotarłam do położonego w Otchłani miasta Samora. Muszę teraz odszukać nalfeshnee imieniem Margrog. Mam nadzieję, że ten demon pomoże mi w poszukiwaniach Waukeen.~
+
+@400001 = ~Zew Zaginionej Bogini
+
+Pierwszy etap podróży mam już za sobą. Odnalazłem Margroga. Teraz muszę zachować najwyższą ostrożność w Samorze, by dowiedzieć się, gdzie dokładnie więziona jest Waukeen.~ ~Zew Zaginionej Bogini
+
+Pierwszy etap podróży mam już za sobą. Odnalazłam Margroga. Teraz muszę zachować najwyższą ostrożność w Samorze, by dowiedzieć się, gdzie dokładnie więziona jest Waukeen.~
+
+@400010 = ~Ocalenie Waukeen
+
+Otrzymałem od Maretty pentakl, który kontroluje działanie ognistych pieców. Jeśli uda mi się teraz dowiedzieć, gdzie przebywa Waukeen, będę mógł ją uwolnić.~ ~Ocalenie Waukeen
+
+Otrzymałam od Maretty pentakl, który kontroluje działanie ognistych pieców. Jeśli uda mi się teraz dowiedzieć, gdzie przebywa Waukeen, będę mogła ją uwolnić.~
+
+@400011 = ~Ocalenie Waukeen
+
+Maretta wspomniała o zdrajcy, którego wrzucono do Kwasowych Sadzawek Yemach. Jeśli cokolwiek z niego zostało, być może znajdę tam wskazówkę, jak dostać się do więzienia Waukeen. Powinienem omówić to z nalfeshnee Margrogiem w jego domostwie, naprzeciwko Izby Obrachunkowej.~ ~Ocalenie Waukeen
+
+Maretta wspomniała o zdrajcy, którego wrzucono do Kwasowych Sadzawek Yemach. Jeśli cokolwiek z niego zostało, być może znajdę tam wskazówkę, jak dostać się do więzienia Waukeen. Powinnam omówić to z nalfeshnee Margrogiem w jego domostwie, naprzeciwko Izby Obrachunkowej.~
+
+@400012 = ~Ocalenie Waukeen
+
+Dawny strażnik Waukeen – upadły wrok imieniem Clyddis – wie, jak dostać się do więzienia bogini za pomocą portali w ognistych piecach Samory. Obecnie sam jest więziony w miejscu zwanym Kwasowymi Sadzawkami Yemach, do którego mogę dotrzeć przez ognisty piec na Polach Dusz. Będę jednak potrzebować odpowiedniego przedmiotu, by go aktywować.~
+
+@400013 = ~Ocalenie Waukeen
+
+Dawny strażnik Waukeen, upadły wrok Clyddis, wie, jak dostać się do więzienia bogini przez portale ognistych pieców. Margrog dowiedział się, że bies jest przetrzymywany w miejscu zwanym Kwasowymi Sadzawkami Yemach, gdzie powoli torturują go na śmierć. Za pomocą pentaklu, który dała mi Maretta, mogę skorzystać z zachodniego ognistego pieca na Polach Dusz, aby dotrzeć do więzienia Clyddisa i przesłuchać go w sprawie miejsca pobytu Waukeen.~
+
+@400020 = ~Ocalenie Waukeen
+
+Dawny strażnik Waukeen – wrok Clyddis – wyjaśnił mi działanie zielonych ognistych pieców w Samorze. Aby wkroczyć do więzienia Waukeen, trzeba przejść przez piece w ściśle określonej kolejności, odtwarzając kształt odwróconego pentagramu. Muszę zacząć przy posągu Graz'zta. Jeśli wskoczę w piec, z którego właśnie wyszedłem, wyląduję przy kolejnym. Clyddis miał na ciele rysunek przedstawiający właściwą sekwencję, ale prawidłową drogę może mi też wskazać symbol wyryty na miejskim bruku.~ ~Ocalenie Waukeen
+
+Dawny strażnik Waukeen – wrok Clyddis – wyjaśnił mi działanie zielonych ognistych pieców w Samorze. Aby wkroczyć do więzienia Waukeen, trzeba przejść przez piece w ściśle określonej kolejności, odtwarzając kształt odwróconego pentagramu. Muszę zacząć przy posągu Graz'zta. Jeśli wskoczę w piec, z którego właśnie wyszłam, wyląduję przy kolejnym. Clyddis miał na ciele rysunek przedstawiający właściwą sekwencję, ale prawidłową drogę może mi też wskazać symbol wyryty na miejskim bruku.~
+
+@400021 = ~Ocalenie Waukeen
+
+Przeszedłem przez ostatni ognisty piec w Samorze i wygląda na to, że w końcu dotarłem do więzienia, w którym przetrzymywana jest Waukeen. W jednej z cel przede mną musi znajdować się bogini, którą mam uwolnić.~ ~Ocalenie Waukeen
+
+Przeszłam przez ostatni ognisty piec w Samorze i wygląda na to, że w końcu dotarłam do więzienia, w którym przetrzymywana jest Waukeen. W jednej z cel przede mną musi znajdować się bogini, którą mam uwolnić.~
+
+@400022 = ~Ocalenie Waukeen
+
+Uwolniłem Waukeen z celi. Teraz muszę jak najszybciej wydostać się z Samory i pozostaje mi tylko mieć nadzieję, że nie depcze mi po piętach zbyt wiele biesów.~ ~Ocalenie Waukeen
+
+Uwolniłam Waukeen z celi. Teraz muszę jak najszybciej wydostać się z Samory i pozostaje mi tylko mieć nadzieję, że nie depcze mi po piętach zbyt wiele biesów.~
+
+@400023 = ~Ocalenie Waukeen
+
+Przeszedłem przez drzwi w Izbie Obrachunkowej i wygląda na to, że w końcu dotarłem do więzienia Waukeen. Nie zostało mi wiele czasu na jej oswobodzenie – walka z Marettą postawiła wszystkich na nogi i to tylko kwestia czasu, zanim zostanę osaczony przez rozwścieczone demony.~ ~Ocalenie Waukeen
+
+Przeszłam przez drzwi w Izbie Obrachunkowej i wygląda na to, że w końcu dotarłam do więzienia Waukeen. Nie zostało mi wiele czasu na jej oswobodzenie – walka z Marettą postawiła wszystkich na nogi i to tylko kwestia czasu, zanim zostanę osaczona przez rozwścieczone demony.~
+
+@400100 = ~Zagubiony amulet
+
+Bebilith Zzrakh przekazał mi amulet – pentakl, którego zwrotu żąda Maretta. Muszę go teraz odnieść do Izby Obrachunkowej.~
+
+@400120 = ~Zagubiony amulet
+
+Zabiłem bebilitha. Jako że ten demon pożarł wiele sług Maretty, powinienem przeszukać jego truchło, aby sprawdzić, czy znajdę pentakl, którego szuka ten sukkub.~ ~Zagubiony amulet
+
+Zabiłam bebilitha. Jako że ten demon pożarł wiele sług Maretty, powinnam przeszukać jego truchło, aby sprawdzić, czy znajdę pentakl, którego szuka ten sukkub.~
+
+@400121 = ~Zagubiony amulet
+
+Odnalazłem pentakl przy truchle bebilitha. Teraz muszę go odnieść Maretcie do Izby Obrachunkowej.~ ~Zagubiony amulet
+
+Odnalazłam pentakl przy truchle bebilitha. Teraz muszę go odnieść Maretcie do Izby Obrachunkowej.~
+
+@400122 = ~Zagubiony amulet
+
+Odniosłem pentakl z powrotem do Maretty.~ ~Zagubiony amulet
+
+Odniosłam pentakl z powrotem do Maretty.~
+
+@400200 = ~Pióro devy
+
+Maretta pragnie pióra devy do swojego obrazu. Mam nadzieję, że znajdę na targowisku w Samorze kupca, który takowe sprzedaje.~
+
+@400201 = ~Pióro devy
+
+Otrzymałem pióro devy. Teraz muszę zanieść je z powrotem Maretcie do Izby Obrachunkowej.~ ~Pióro devy
+
+Otrzymałam pióro devy. Teraz muszę zanieść je z powrotem Maretcie do Izby Obrachunkowej.~
+
+@400202 = ~Pióro devy
+
+Przekazałem pióro devy Maretcie, zgodnie z jej życzeniem.~ ~Pióro devy
+
+Przekazałam pióro devy Maretcie, zgodnie z jej życzeniem.~
+
+// Verin
+@400300 = ~Verin
+
+W Izbie Obrachunkowej spotkałem osobliwą postać – stworzenie zwane Verinem. Zdaje się mi nie ufać.~ ~Verin
+
+W Izbie Obrachunkowej spotkałam osobliwą postać – stworzenie zwane Verinem. Zdaje się mi nie ufać.~
+
+@400301 = ~Verin
+
+Verin był strażnikiem więzienia Waukeen. Wraz z jego śmiercią powinna zniknąć jedna z ostatnich przeszkód na drodze do uwolnienia bogini.~
+
+// soul thief
+@400400 = ~Nabassu – złodziej dusz
+
+Demon nabassu imieniem Trar'gezal kradnie dusze. Mam użyć ognistego pieca służącego za portal, by przenieść się w pobliże jego leża i go zgładzić. Ów portal znajduje się na Polach Dusz na południe od Samory, niedaleko Drzewa tchórzy. Po wszystkim muszę zdać relację Maretcie w Izbie Obrachunkowej. Nie muszę już jednak wykonywać tego rozkazu, jako że powinienem skupić się na sprawnym oswobodzeniu Waukeen.~ ~Nabassu – złodziej dusz
+
+Demon nabassu imieniem Trar'gezal kradnie dusze. Mam użyć ognistego pieca służącego za portal, by przenieść się w pobliże jego leża i go zgładzić. Ów portal znajduje się na Polach Dusz na południe od Samory, niedaleko Drzewa tchórzy. Po wszystkim muszę zdać relację Maretcie w Izbie Obrachunkowej. Nie muszę już jednak wykonywać tego rozkazu, jako że powinnam skupić się na sprawnym oswobodzeniu Waukeen.~
+
+@400401 = ~Nabassu – złodziej dusz
+
+Nabassu Trar'gezal nie żyje. Powinienem powiadomić Marettę o swoim sukcesie.~ ~Nabassu – złodziej dusz
+
+Nabassu Trar'gezal nie żyje. Powinnam powiadomić Marettę o swoim sukcesie.~
+
+@400402 = ~Nabassu – złodziej dusz
+
+Powiadomiłem Marettę o zgładzeniu nabassu. Nie jestem jej już do niczego potrzebny, więc powinienem jak najszybciej powrócić do misji oswobodzenia Waukeen.~ ~Nabassu – złodziej dusz
+
+Powiadomiłam Marettę o zgładzeniu nabassu. Nie jestem jej już do niczego potrzebna, więc powinnam jak najszybciej powrócić do misji oswobodzenia Waukeen.~
+
+// spell failure info
+@400500 = ~Magia w Otchłani
+
+Niektóre czary magów zdają się nie działać w Otchłani poprawnie. Będę musiał znaleźć w Samorze kogoś, kto dobrze orientuje się w tutejszych realiach.~ ~Magia w Otchłani
+
+Niektóre czary magów zdają się nie działać w Otchłani poprawnie. Będę musiała znaleźć w Samorze kogoś, kto dobrze orientuje się w tutejszych realiach.~
+
+@400501 = ~Magia w Otchłani
+
+Dzięki kluczom czarów dla magów oraz kluczom mocy dla kapłanów mogę bezpiecznie rzucać zaklęcia w Otchłani bez ryzyka, że zakończą się one niepowodzeniem. Warwick w „Przemokniętym Solarze” sprzedaje klucze czarów, z kolei istota imieniem Malashrihi, prowadząca sklep na zewnątrz tego przybytku, ma w swojej ofercie zarówno klucze czarów, jak i klucze mocy.~
+
+@400502 = ~Magia w Otchłani
+
+Byłem świadkiem, jak czar pewnego maga został koszmarnie wypaczony przez naturę Otchłani. Ów nieszczęśnik tego nie przeżył. Powinienem zachować wielką ostrożność przy rzucaniu własnych zaklęć, aby nie spotkał mnie ten sam los.~ ~Magia w Otchłani
+
+Byłam świadkiem, jak czar pewnego maga został koszmarnie wypaczony przez naturę Otchłani. Ów nieszczęśnik tego nie przeżył. Powinnam zachować wielką ostrożność przy rzucaniu własnych zaklęć, aby nie spotkał mnie ten sam los.~
+// fool's laughter
+@400600 = ~Butelka zawierająca śmiech głupca
+
+Mefisto w zamian za swoje usługi żąda dostarczenia mu butelki zawierającej śmiech głupca. Ów przedmiot znajduje się najwyraźniej w posiadaniu dretcha – niższego demona, który ukrywa się w opuszczonym magazynie na północ od „Łóż Maretty”, tuż obok tawerny „Pionki Pana” i naprzeciwko „Przeklętej Fortuny”.~
+
+@400601 = ~Butelka zawierająca śmiech głupca
+
+Zabrałem butelkę. Muszę ją teraz zanieść Mefistowi, który czeka przy posągu Graz'zta w Samorze, i mieć nadzieję, że dotrzyma on swojej części umowy.~ ~Butelka zawierająca śmiech głupca
+
+Zabrałam butelkę. Muszę ją teraz zanieść Mefistowi, który czeka przy posągu Graz'zta w Samorze, i mieć nadzieję, że dotrzyma on swojej części umowy.~
+
+// Ormad Sulpar
+@400900 = ~Ormad Sulpar
+
+Mam się spotkać z magiem imieniem Ormad Sulpar w tawernie „Przemoknięty Solar” w Samorze. Jak twierdzi jego chowaniec, czarodziej wpadł w tarapaty i potrzebuje mojej pomocy.~
+
+@410000 = ~Po trzykroć zaprzedana dusza
+
+W „Przemokniętym Solarze” spotkałem człowieka imieniem Ormad Sulpar. Obiecał on swoją duszę trzem biesom naraz – nocnej wiedźmie Zhelamiss na zachodzie miasta, sukkubowi Zaehvielle, która mieszka naprzeciwko zamtuza „Łoża Maretty”, oraz glabrezu Belthazaarowi. Ów demon stoi przy stoisku z duszami przed „Łożami Maretty”. Zgodziłem się odzyskać trzy kontrakty na duszę od tych biesów i przynieść je Ormadowi, aby mógł uwolnić się z tej matni.~ ~Po trzykroć zaprzedana dusza
+
+W „Przemokniętym Solarze” spotkałam człowieka imieniem Ormad Sulpar. Obiecał on swoją duszę trzem biesom naraz – nocnej wiedźmie Zhelamiss na zachodzie miasta, sukkubowi Zaehvielle, która mieszka naprzeciwko zamtuza „Łoża Maretty”, oraz glabrezu Belthazaarowi. Ów demon stoi przy stoisku z duszami przed „Łożami Maretty”. Zgodziłam się odzyskać trzy kontrakty na duszę od tych biesów i przynieść je Ormadowi, aby mógł uwolnić się z tej matni.~
+
+@410001 = ~Po trzykroć zaprzedana dusza
+
+Podstępem skłoniłem Ormada Sulpara do użycia poduszki nocnej wiedźmy, co kosztowało go życie. Teraz mogę wrócić do wiedźmy Zhelamiss po swoją nagrodę.~ ~Po trzykroć zaprzedana dusza
+
+Podstępem skłoniłam Ormada Sulpara do użycia poduszki nocnej wiedźmy, co kosztowało go życie. Teraz mogę wrócić do wiedźmy Zhelamiss po swoją nagrodę.~
+
+@410002 = ~Po trzykroć zaprzedana dusza
+
+Otrzymałem od nocnej wiedźmy nagrodę za śmierć Ormada Sulpara.~ ~Po trzykroć zaprzedana dusza
+
+Otrzymałam od nocnej wiedźmy nagrodę za śmierć Ormada Sulpara.~
+
+@410005 = ~Po trzykroć zaprzedana dusza
+
+Zgodziłem się wręczyć Ormadowi Sulparowi sztylet w imieniu glabrezu Belthazaara. Jeśli uda mi się sprawić, by Ormad zranił się tym ostrzem, straci życie, a ja otrzymam sowitą nagrodę.~ ~Po trzykroć zaprzedana dusza
+
+Zgodziłam się wręczyć Ormadowi Sulparowi sztylet w imieniu glabrezu Belthazaara. Jeśli uda mi się sprawić, by Ormad zranił się tym ostrzem, straci życie, a ja otrzymam sowitą nagrodę.~
+
+@410006 = ~Po trzykroć zaprzedana dusza
+
+Podstępem skłoniłem Ormada Sulpara do użycia sztyletu glabrezu, co kosztowało go życie. Teraz mogę wrócić do Belthazaara po swoją nagrodę.~ ~Po trzykroć zaprzedana dusza
+
+Podstępem skłoniłam Ormada Sulpara do użycia sztyletu glabrezu, co kosztowało go życie. Teraz mogę wrócić do Belthazaara po swoją nagrodę.~
+
+@410007 = ~Po trzykroć zaprzedana dusza
+
+Otrzymałem od glabrezu Belthazaara nagrodę za śmierć Ormada Sulpara.~ ~Po trzykroć zaprzedana dusza
+
+Otrzymałam od glabrezu Belthazaara nagrodę za śmierć Ormada Sulpara.~
+
+@410010 = ~Po trzykroć zaprzedana dusza
+
+Przekazałem Ormadowi Sulparowi wszystkie trzy kontrakty. Był wdzięczny i natychmiast odszedł. Mam nadzieję, że przemyśli swoje postępowanie i nie wpakuje się ponownie w kłopoty.~ ~Po trzykroć zaprzedana dusza
+
+Przekazałam Ormadowi Sulparowi wszystkie trzy kontrakty. Był wdzięczny i natychmiast odszedł. Mam nadzieję, że przemyśli swoje postępowanie i nie wpakuje się ponownie w kłopoty.~
+
+@410100 = ~Cyrograf Belthazaara
+
+Glabrezu Belthazaar nie odda mi kontraktu na duszę Ormada Sulpara tak łatwo. Zadał mi zagadkę, której mogę nie zdołać rozwiązać sam. Powinienem zapytać o nią Ormada w „Przemokniętym Solarze” – w końcu to jego duszę mam uratować.~ ~Cyrograf Belthazaara
+
+Glabrezu Belthazaar nie odda mi kontraktu na duszę Ormada Sulpara tak łatwo. Zadał mi zagadkę, której mogę nie zdołać rozwiązać sama. Powinnam zapytać o nią Ormada w „Przemokniętym Solarze” – w końcu to jego duszę mam uratować.~
+
+@410101 = ~Cyrograf Belthazaara
+
+Ormad Sulpar uważa, że glabrezu Belthazaar często odwiedza zrujnowany magazyn we wschodniej części miasta. Ponoć bies lubi też zabawiać się zakrwawionymi dłońmi swoich ofiar. Może we wspomnianym magazynie znajdę sposób na dostanie się do legowiska tego demona?~
+
+@410102 = ~Cyrograf Belthazaara
+
+Udało mi się otworzyć drzwi w magazynie. Powinienem sprawdzić, czy w środku nie ukryto kontraktu wystawionego przez Belthazaara.~ ~Cyrografy Belthazaara
+
+Udało mi się otworzyć drzwi w magazynie. Powinnam sprawdzić, czy w środku nie ukryto kontraktu wystawionego przez Belthazaara.~
+
+@410103 = ~Cyrograf Belthazaara
+
+Zgładziłem glabrezu Belthazaara i znalazłem przy jego zwłokach osobliwą zagadkę. Być może Ormad Sulpar będzie wiedział, o co w tym wszystkim chodzi.~ ~Cyrografy Belthazaara
+
+Zgładziłam glabrezu Belthazaara i znalazłam przy jego zwłokach osobliwą zagadkę. Być może Ormad Sulpar będzie wiedział, o co w tym wszystkim chodzi.~
+
+@410110 = ~Cyrografy Belthazaara
+
+Odzyskałem kontrakt na duszę należący do glabrezu Belthazaara. Teraz muszę tylko zanieść go Ormadowi Sulparowi do „Przemokniętego Solara”.~ ~Cyrografy Belthazaara
+
+Odzyskałam kontrakt na duszę należący do glabrezu Belthazaara. Teraz muszę tylko zanieść go Ormadowi Sulparowi do „Przemokniętego Solara”.~
+
+@410111 = ~Cyrograf Belthazaara
+
+Przekazałem Ormadowi Sulparowi kontrakt na duszę, który był w posiadaniu glabrezu Belthazaara.~ ~Cyrograf Belthazaara
+
+Przekazałam Ormadowi Sulparowi kontrakt na duszę, który był w posiadaniu glabrezu Belthazaara.~
+
+// Maretta Bebilith hunting quest journal entries
+//(A demon among demons)
+@440000 = ~Polowanie na bebilitha
+
+W rejonach poza miastem grasuje bebilith – pająkowaty demon polujący na tanar'ri. Sukkub Maretta, władczyni Samory, zleciła mi zgładzenie potwora, aby okolica znów stała się bezpieczna dla jej poddanych. Gdy uporam się z bestią, mam zdać relację w Izbie Obrachunkowej w północno-zachodniej Samorze.~
+
+@440010 = ~Odpoczynek w Samorze
+
+Sukkub Maretta pozwoliła mi od teraz bezpłatnie odpoczywać w swoim zamtuzie „Łoża Maretty”, znajdującym się w samym centrum Samory.~
+
+@440070 = ~Róża Otchłani
+
+Jako dowód lojalności Maretta zażądała ode mnie przyniesienia kwiatu zwanego Różą Otchłani. Rośnie on w Komnacie Pokus – podziemnym obszarze rozciągającym się pod Samorą. Wejście do tej komnaty znajduje się tuż obok tawerny „Lamentująca Bogini” na północy miasta.~
+
+@440071 = ~Róża Otchłani
+
+Zdobyłem różę i muszę ją teraz odnieść Maretcie do Izby Obrachunkowej.~ ~Róża Otchłani
+
+Zdobyłam różę i muszę ją teraz odnieść Maretcie do Izby Obrachunkowej.~
+
+@460010 = ~Insygnium rodowe fey'ri
+
+W tawernie „Lamentująca Bogini” w Samorze spotkałem fey'ri imieniem Val'kreen. Zlecił mi odzyskanie jego skradzionego insygnium rodowego od maurezhi, który rzekomo kręci się po Polach Dusz tuż za miastem. Choć Val'kreen jest niezwykle arogancki, zgodziłem się przyjąć to zadanie.~ ~Insygnium rodowe fey'ri
+
+W tawernie „Lamentująca Bogini” w Samorze spotkałam fey'ri imieniem Val'kreen. Zlecił mi odzyskanie jego skradzionego insygnium rodowego od maurezhi, który rzekomo kręci się po Polach Dusz tuż za miastem. Choć Val'kreen jest niezwykle arogancki, zgodziłam się przyjąć to zadanie.~
+
+@460011 = ~Insygnium rodowe fey'ri
+
+Odnalazłem insygnium rodowe fey'ri. Muszę je teraz odnieść Val'kreenowi do tawerny „Lamentująca Bogini” w Samorze.~ ~Insygnium rodowe fey'ri
+
+Odnalazłam insygnium rodowe fey'ri. Muszę je teraz odnieść Val'kreenowi do tawerny „Lamentująca Bogini” w Samorze.~
+
+@460012 = ~Insygnium rodowe fey'ri
+
+Pomyślnie zwróciłem skradzione insygnium rodowe Val'kreena i otrzymałem nagrodę. Fey'ri nie okazał zbyt wielkiej wdzięczności, dając upust swojej wrodzonej arogancji, ale przekonałem się już, że w tym zakątku świata wdzięczność niewiele znaczy.~ ~Insygnium rodowe fey'ri
+
+Pomyślnie zwróciłam skradzione insygnium rodowe Val'kreena i otrzymałam nagrodę. Fey'ri nie okazał zbyt wielkiej wdzięczności, dając upust swojej wrodzonej arogancji, ale przekonałam się już, że w tym zakątku świata wdzięczność niewiele znaczy.~
+
+// Nalfeshnee quest journal entries
+@470000 = ~Larwa dla Margroga
+
+W Samorze spotkałem nalfeshnee imieniem Margrog. Zanim wyjawi mi cokolwiek o miejscu pobytu Waukeen, nakazał mi przynieść larwę od nocnej wiedźmy Zhelamiss, której dom znajduje się naprzeciwko jego siedziby.~ ~Larwa dla Margroga
+
+W Samorze spotkałam nalfeshnee imieniem Margrog. Zanim wyjawi mi cokolwiek o miejscu pobytu Waukeen, nakazał mi przynieść larwę od nocnej wiedźmy Zhelamiss, której dom znajduje się naprzeciwko jego siedziby.~
+
+@470001 = ~Larwa dla Margroga
+
+Nocna wiedźma żąda tysiąca sztuk złota za larwę.~
+
+@470002 = ~Larwa dla Margroga
+
+Zdobyłem od nocnej wiedźmy Zhelamiss kwit zastawny, dzięki któremu mogę odebrać larwę od jej sługi Saarixala. Czeka on przy wyjściu z jej leża, tuż obok znajdujących się tam larw.~ ~Larwa dla Margroga
+
+Zdobyłam od nocnej wiedźmy Zhelamiss kwit zastawny, dzięki któremu mogę odebrać larwę od jej sługi Saarixala. Czeka on przy wyjściu z jej leża, tuż obok znajdujących się tam larw.~
+
+@470003 = ~Larwa dla Margroga
+
+Larwa jest już w moim posiadaniu. Powinienem zanieść to stworzenie Margrogowi do jego domu w zachodniej Samorze, aby dowiedzieć się, gdzie odnajdę Waukeen.~ ~Larwa dla Margroga
+
+Larwa jest już w moim posiadaniu. Powinnam zanieść to stworzenie Margrogowi do jego domu w zachodniej Samorze, aby dowiedzieć się, gdzie odnajdę Waukeen.~
+
+@470004 = ~Larwa dla Margroga
+
+Przyniosłem Margrogowi larwę.~ ~Larwa dla Margroga
+
+Przyniosłam Margrogowi larwę.~
+
+@470010 = ~Kolejna przysługa dla Margroga
+
+Margrog wciąż nie chce wyjawić niczego o miejscu pobytu Waukeen. Żąda dostarczenia małego naczynia istocie zwanej Aful, która czeka na Nieskończonych Schodach w pobliżu podestu prowadzącego do Samory.~
+
+@470011 = ~Kolejna przysługa dla Margroga
+
+Dostarczyłem naczynie abishai Afulowi, jednemu z baatezu na Nieskończonych Schodach. Teraz powinienem wrócić do Margroga i kategorycznie zażądać wyjawienia miejsca pobytu Waukeen.~ ~Kolejna przysługa dla Margroga
+
+Dostarczyłam naczynie abishai Afulowi, jednemu z baatezu na Nieskończonych Schodach. Teraz powinnam wrócić do Margroga i kategorycznie zażądać wyjawienia miejsca pobytu Waukeen.~
+
+@470020 = ~Najemnik w Wojnie Krwi
+
+Maretta poprosiła mnie, bym zaciągnął się jako najemnik w Wojnie Krwi. Mam odszukać na południowym zachodzie miasta babau imieniem Garnuth, który stoi obok wielkiego sztandaru, gdzie urzęduje tutejszy werbownik biesów.~ ~Najemnik w Wojnie Krwi
+
+Maretta poprosiła mnie, bym zaciągnęła się jako najemniczka w Wojnie Krwi. Mam odszukać na południowym zachodzie miasta babau imieniem Garnuth, który stoi obok wielkiego sztandaru, gdzie urzęduje tutejszy werbownik biesów.~
+
+@470021 = ~Najemnik w Wojnie Krwi
+
+Zaciągnąłem się do Wojny Krwi u babau Garnutha. Gdy tylko będę gotowy, otworzy on portal, przez który dołączę do bitwy.~ ~Najemnik w Wojnie Krwi
+
+Zaciągnęłam się do Wojny Krwi u babau Garnutha. Gdy tylko będę gotowa, otworzy on portal, przez który dołączę do bitwy.~
+
+@470022 = ~Najemnik w Wojnie Krwi
+
+Muszę przejść przez portal w Samorze, aby dotrzeć do placówki tanar'ri. Moim zadaniem jest odcięcie głowy dowódcy baatezu i wręczenie jej jako trofeum babau Garnuthowi w Samorze. Może to pozwoli mi zyskać większe zaufanie Maretty i przybliży mnie o krok do miejsca uwięzienia Waukeen.~
+
+@470023 = ~Najemnik w Wojnie Krwi
+
+Zdobyłem głowę dowódcy baatezu! Muszę teraz wrócić przez portal do Samory, aby poinformować babau Garnutha o moim trofeum.~ ~Najemnik w Wojnie Krwi
+
+Zdobyłam głowę dowódcy baatezu! Muszę teraz wrócić przez portal do Samory, aby poinformować babau Garnutha o moim trofeum.~
+
+@470030 = ~Spotkanie z Marettą
+
+Powinienem zaoferować Maretcie głowę generała baatezu jako dowód mojego zwycięstwa.~ ~Spotkanie z Marettą
+
+Powinnam zaoferować Maretcie głowę generała baatezu jako dowód mojego zwycięstwa.~
+
+@470040 = ~Zaginiony amulet
+
+Maretta wysłała mnie na Pola Dusz – jak nazywa rejony na południe od Samory – bym odszukał zaginioną hordę tanar'ri, która służyła pod jej rozkazami. Najwyraźniej coś poluje tu na demony. Sam będę musiał się przekonać, czy to dobra, czy zła wiadomość. Tak czy inaczej, mam udać się na południe od miasta i odzyskać amulet, który nosił jeden z ich oficerów – wisiorek w kształcie pentagramu.~ ~Zaginiony amulet
+
+Maretta wysłała mnie na Pola Dusz – jak nazywa rejony na południe od Samory – bym odszukała zaginioną hordę tanar'ri, która służyła pod jej rozkazami. Najwyraźniej coś poluje tu na demony. Sama będę musiała się przekonać, czy to dobra, czy zła wiadomość. Tak czy inaczej, mam udać się na południe od miasta i odzyskać amulet, który nosił jeden z ich oficerów – wisiorek w kształcie pentagramu.~
+
+@470041 = ~Zaginiony amulet
+
+We wschodniej części Pól Dusz znajduje się portal, z którego wyłania się pająkowata bestia polująca na tanar'ri. Jeśli umieszczę róg tanar'ri przed niewielką jaskinią, powinno to aktywować ów portal i pozwolić mi odkryć, co kryje się po drugiej stronie. Miejmy nadzieję, że bestia ma większy apetyt na demony niż na śmiertelników.~
+
+@470042 = ~Zaginiony amulet
+
+Otworzyłem portal, przez który przeszedł łowca demonów. Mogę teraz przejść na drugą stronę, aby dowiedzieć się więcej o tej istocie. Moim zadaniem jest odzyskanie amuletu, który miał przy sobie jeden z zaginionych tanar'ri. Ów wisiorek ma kształt pentagramu.~ ~Zaginiony amulet
+
+Otworzyłam portal, przez który przeszedł łowca demonów. Mogę teraz przejść na drugą stronę, aby dowiedzieć się więcej o tej istocie. Moim zadaniem jest odzyskanie amuletu, który miał przy sobie jeden z zaginionych tanar'ri. Ów wisiorek ma kształt pentagramu.~
+
+@470043 = ~Zaginiony amulet
+
+Podobno we wschodniej części Pól Dusz, w niewielkiej jaskini, znajduje się portal, z którego pająkowata bestia wyrusza na łowy na tanar'ri. Jeśli umieszczę tam cząstkę wyższego tanar'ri, portal powinien się aktywować. A przynajmniej tak twierdzi istota nazywająca siebie Drzewem tchórzy. Zaoferowała, że da mi fragment ciała tanar'ri, jeśli na krótką chwilę uwolnię ją od wiecznego strachu.~
+
+@470100 = ~Margrog mnie wzywa
+
+Nalfeshnee Margrog wezwał mnie do swojego domu. Wygląda na to, że to pilna sprawa.~
+
+@470500 = ~Spotkanie z Marettą
+
+Muszę albo zostać czempionem areny w Samorze, mieszczącej się w „Przeklętej Fortunie”, albo skłonić obwoływacza Mefista, by tak przekonująco opowiedział moją historię, żeby władczyni Samory zwróciła na mnie uwagę i udzieliła mi audiencji. Ponieważ droga do Waukeen jest kontrowana przez Marettę, muszę ostrożnie zdobywać jej zaufanie, póki nie nadarzy się okazja, by wkroczyć do lochu bogini.~
+
+@470501 = ~Spotkanie z Marettą
+
+Mefisto dotrzymał swojej części umowy i rzeczywiście zostałem wezwany przed oblicze Maretty do Izby Obrachunkowej w zachodniej Samorze.~ ~Spotkanie z Marettą
+
+Mefisto dotrzymał swojej części umowy i rzeczywiście zostałam wezwana przed oblicze Maretty do Izby Obrachunkowej w zachodniej Samorze.~
+
+@470502 = ~Spotkanie z Marettą
+
+Jako czempion areny w Samorze zostałem wezwany przed oblicze władczyni miasta, sukkuba Maretty, do Izby Obrachunkowej w zachodniej Samorze.~ ~Spotkanie z Marettą
+
+Jako czempionka areny w Samorze zostałam wezwana przed oblicze władczyni miasta, sukkuba Maretty, do Izby Obrachunkowej w zachodniej Samorze.~
+
+@470503 = ~Spotkanie z Marettą
+
+Jako czempion mam spore szanse na to, że wkrótce zostanę wezwany do Izby Obrachunkowej.~ ~Spotkanie z Marettą
+
+Jako czempionka mam spore szanse na to, że wkrótce zostanę wezwana do Izby Obrachunkowej.~
+
+@470601 = ~Nalfeshnee Margrog
+
+Margrog i jego osobliwy dom zniknęli, najwyraźniej opuszczając Samorę w wielkim pośpiechu. Mam nadzieję, że nikt niczego nie podejrzewa.~
+
+@470700 = ~Dusza dla bogini
+
+Tharundar Olehm, kapłan Waukeen, obiecał nalfeshnee Margrogowi własną duszę w nagrodę za pomoc w ocaleniu bogini. Być może istnieje sposób, by zapobiec temu paktowi, jednak może to być trudne, dopóki Margrog przebywa w mieście.~
+
+@470701 = ~Dusza dla bogini
+
+Skoro Margrog opuścił miasto, pojawia się okazja, by go wyeliminować i w ten sposób zapobiec paktowi, który zawarł z kapłanem Waukeen, Tharundarem Olehmem. Kto może wiedzieć, dokąd udał się ten nalfeshnee?~
+
+@470702 = ~Dusza dla bogini
+
+Aby wytropić Margroga, potrzebuję stworzenia, które służy do polowania na demony. Jeśli dowiem się, jak znaleźć istotę pokroju bebilitha, mógłbym poszczuć nią nalfeshnee, by unieważnić kontrakt na duszę, jaki ten zawarł z kapłanem Waukeen, Tharundarem Olehmem.~ ~Dusza dla bogini
+
+Aby wytropić Margroga, potrzebuję stworzenia, które służy do polowania na demony. Jeśli dowiem się, jak znaleźć istotę pokroju bebilitha, mogłabym poszczuć nią nalfeshnee, by unieważnić kontrakt na duszę, jaki ten zawarł z kapłanem Waukeen, Tharundarem Olehmem.~
+
+@470703 = ~Dusza dla bogini
+
+Nasłałem na Margroga bebilitha Zzrakha, a ten natychmiast z entuzjazmem rzucił się w pogoń. Mam zaczekać w jaskini bebilitha, aż bies powróci wraz z tropionym nalfeshnee.~ ~Dusza dla bogini
+
+Nasłałam na Margroga bebilitha Zzrakha, a ten natychmiast z entuzjazmem rzucił się w pogoń. Mam zaczekać w jaskini bebilitha, aż bies powróci wraz z tropionym nalfeshnee.~
+
+@470704 = ~Dusza dla bogini
+
+Z pomocą bebilitha Zzrakha pokonałem nalfeshnee Margroga. Wielki kapłan Waukeen, Tharundar Olehm, z pewnością będzie wdzięczny za ocalenie swojej duszy.~ ~Dusza dla bogini
+
+Z pomocą bebilitha Zzrakha pokonałam nalfeshnee Margroga. Wielki kapłan Waukeen, Tharundar Olehm, z pewnością będzie wdzięczny za ocalenie swojej duszy.~
+
+// Annia Graystockings
+@500000 = ~Annia Szaropończoszanka
+
+W bezkresach Otchłani spotkałem paladynkę. Była wdzięczna, że wskazałem jej drogę na Nieskończone Schody.~ ~Annia Szaropończoszanka
+
+W bezkresach Otchłani spotkałam paladynkę. Była wdzięczna, że wskazałam jej drogę na Nieskończone Schody.~
+
+// Bebilith teleport quest journal entries
+@510000 = ~Polowanie na bebilitha
+
+Odnalazłem bebilitha. Zamiast z nim walczyć, zgodziłem się pomóc mu dostać się do Samory. Mam umieścić magiczną kulę u podnóża posągu Graz'zta przy wejściu do Samory, co pozwoli mu przeteleportować się do miasta. To rozwiązanie wciąż może okazać się przydatne, gdyby mieszkańcy przestali być wobec mnie przychylni – zwłaszcza jeśli po oswobodzeniu Waukeen będę musiał uciekać z miasta.~ ~Polowanie na bebilitha
+
+Odnalazłam bebilitha. Zamiast z nim walczyć, zgodziłam się pomóc mu dostać się do Samory. Mam umieścić magiczną kulę u podnóża posągu Graz'zta przy wejściu do Samory, co pozwoli mu przeteleportować się do miasta. To rozwiązanie wciąż może okazać się przydatne, gdyby mieszkańcy przestali być wobec mnie przychylni – zwłaszcza jeśli po oswobodzeniu Waukeen będę musiała uciekać z miasta.~
+
+@510001 = ~Polowanie na bebilitha
+
+Umieściłem kulę przy posągu Graz'zta. Teraz pozostaje mi tylko mieć nadzieję, że bebilith Zzrakh dotrzyma umowy i nie zaatakuje, dopóki nie uwolnię Waukeen.~ ~Polowanie na bebilitha
+
+Umieściłam kulę przy posągu Graz'zta. Teraz pozostaje mi tylko mieć nadzieję, że bebilith Zzrakh dotrzyma umowy i nie zaatakuje, dopóki nie uwolnię Waukeen.~
+
+@510002 = ~Polowanie na bebilitha
+
+Rozmyśliłem się i ostatecznie zgładziłem bebilitha. To zdejmuje ze mnie obowiązek zapewnienia mu dostępu do miasta.~ ~Polowanie na bebilitha
+
+Rozmyśliłam się i ostatecznie zgładziłam bebilitha. To zdejmuje ze mnie obowiązek zapewnienia mu dostępu do miasta.~
+
+@540000 = ~Więzień i strażnik w jednym
+
+Wejścia do celi dawnego strażnika Waukeen, wroka Clyddisa, strzeże smok Daugralluvidan, który twierdzi, że pochodzi ze sfery Carceri. Wygląda na to, że nie przebywa w tym miejscu z własnej woli. Obiecałem, że rozejrzę się za czarem Uwolnienie – w formie zaklęcia lub zwoju – i w ten sposób podaruję tartariańskiemu smokowi wolność. Pozwoliłoby mi to odwiedzić Clyddisa bez konieczności walki ze smokiem.~ ~Więzień i strażnik w jednym
+
+Wejścia do celi dawnego strażnika Waukeen, wroka Clyddisa, strzeże smok Daugralluvidan, który twierdzi, że pochodzi ze sfery Carceri. Wygląda na to, że nie przebywa w tym miejscu z własnej woli. Obiecałam, że rozejrzę się za czarem Uwolnienie – w formie zaklęcia lub zwoju – i w ten sposób podaruję tartariańskiemu smokowi wolność. Pozwoliłoby mi to odwiedzić Clyddisa bez konieczności walki ze smokiem.~
+
+@540004 = ~Więzień i strażnik w jednym
+
+Postanowiłem zgładzić tartariańskiego smoka Daugralluvidana zamiast go uwalniać.~ ~Więzień i strażnik w jednym
+
+Postanowiłam zgładzić tartariańskiego smoka Daugralluvidana zamiast go uwalniać.~
+
+@540005 = ~Więzień i strażnik w jednym
+
+Podarowałem wolność tartariańskiemu smokowi Daugralluvidanowi. Mam nadzieję, że zrobi z niej dobry użytek.~ ~Więzień i strażnik w jednym
+
+Podarowałam wolność tartariańskiemu smokowi Daugralluvidanowi. Mam nadzieję, że zrobi z niej dobry użytek.~
+
+@600000 = ~Diabelscy sojusznicy
+
+Gromada abishai zamierza z moją pomocą przeniknąć do Samory, miasta demonów. Moim zadaniem jest dostarczenie klucza do portalu ich przywódcy, Afulowi, aby mógł kontrolować portal w placówce tanar'ri prowadzący z powrotem do miasta.~
+
+@600001 = ~Diabelscy sojusznicy
+
+Przekazałem klucz do portalu abishai i mam nadzieję, że ich szturm na miasto okaże się pomocny przy mojej ewentualnej ucieczce.~ ~Diabelscy sojusznicy
+
+Przekazałam klucz do portalu abishai i mam nadzieję, że ich szturm na miasto okaże się pomocny przy mojej ewentualnej ucieczce.~
+
+@800010 = ~Iskra devy
+
+Uwięziony w lochu Graz'zta deva błagał mnie o odzyskanie jego iskry. Podejrzewa, że może być ukryta gdzieś w tym więzieniu.~
+
+@800011 = ~Iskra devy
+
+Zwróciłem devie jego iskrę.~ ~Iskra devy
+
+Zwróciłam devie jego iskrę.~

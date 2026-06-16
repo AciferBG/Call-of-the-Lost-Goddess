@@ -1,0 +1,248 @@
+@0 = ~Bądź pozdrowiona, bogini Faerûnu, i ty również, <CHARNAME>, jej mężny zbawco! Jakże się cieszę, że zdążyłam na czas, skoro tak nagle spieszno wam do wyjścia!~ [AC#WMAR1] ~Bądź pozdrowiona, bogini Faerûnu, i ty również, <CHARNAME>, jej mężna zbawczyni! Jakże się cieszę, że zdążyłam na czas, skoro tak nagle spieszno wam do wyjścia!~ [AC#WMAB1]
+@1 = ~Daruj sobie te uprzejmości, biesi pomiocie! Zbyt długo znosiłam upokorzenia ze strony twojej i twoich sióstr, by nie wiedzieć, że nie przychodzisz tu po to, by życzyć mi szerokiej drogi!~ [AC#WWAU8]
+@2 = ~Buta jak widać nigdy cię nie opuszcza, bogini! Powiedz mi zatem, jaki masz teraz ten swój genialny plan? Spopielisz mnie wzrokiem? A może zamienisz w larwę jednym machnięciem ręki?~ [AC#WMAB2]
+@3 = ~Obawiam się jednak, że na nic ci się to nie zda, Waukeen. Jesteś całkowicie bezsilna, zdana wyłącznie na mój gniew... a ja nie mam najmniejszego zamiaru puścić cię wolno.~
+@4 = ~Dla wszystkich będzie najlepiej, jeśli ty i te twoje sługusy po prostu tu zginiecie. Wtedy cała chwała za udaremnienie ucieczki przypadnie wyłącznie mnie, a przy okazji pokrzyżuję plany samemu Graz'ztowi.~
+@5 = ~O jakich planach Graz'zta mówisz, demonico? Gadaj!~
+@6 = ~Naiwna bogini, naprawdę nie masz pojęcia, po co cię tu sprowadzono, prawda? Graz'zt zaplanował umieścić jedno ze swoich zepsutych pomiotów w twojej powłoce, by w ten sposób wprowadzić go do panteonu! Wydarłby ci twoją boską duszę, a na twoim miejscu posadziłby jedną ze swoich córek.~
+@7 = ~Więc tylko dlatego mnie tu więziono? Graz'zt to nędzny głupiec, jeśli wierzy, że zdoła dokonać czegoś takiego bez wiedzy i sankcji ze strony Pana Ao!~
+@8 = ~Sukces Graz'zta wcale nie byłby mi na rękę. Twoja śmierć otwiera przede mną znacznie ciekawsze perspektywy, a całą winą obarczę tych twoich bohaterskich wybawicieli! Okazałeś się niezwykle posłusznym narzędziem w moich rękach, <CHARNAME>. Gdy tylko cię ujrzałam, od razu wiedziałam, po co tu przybywasz i jak zaprząc cię do realizacji moich własnych celów.~ ~Sukces Graz'zta wcale nie byłby mi na rękę. Twoja śmierć otwiera przede mną znacznie ciekawsze perspektywy, a całą winą obarczę tych twoich bohaterskich wybawicieli! Okazałaś się niezwykle posłusznym narzędziem w moich rękach, <CHARNAME>. Gdy tylko cię ujrzałam, od razu wiedziałam, po co tu przybywasz i jak zaprząc cię do realizacji moich własnych celów.~
+@9 = ~Wyręczyłeś mnie w usunięciu wszystkich moich rywali, na czele z tym podłym Verinem. Teraz Graz'zt uzna MNIE za swoją wybrankę! A ty jesteś mi już zupełnie niepotrzebny.~ ~Wyręczyłaś mnie w usunięciu wszystkich moich rywali, na czele z tym podłym Verinem. Teraz Graz'zt uzna MNIE za swoją wybrankę! A ty jesteś mi już zupełnie niepotrzebna.~
+@10 = ~Szykuj się na śmierć, bogini!~ [AC#WMAB3]
+@11 = ~Dzięki tobie znów rozbłysnę dawnym blaskiem!~
+@12 = ~Muszę ruszać w dalszą drogę. Niechaj światłość i nadzieja zawsze wam towarzyszą. Dzielę się z tobą cząstką mojej niebiańskiej energii. Sam znajdę wyjście z tych lochów.~
+@13 = ~Znowu nowi strażnicy? Nie, jednak nie. Jesteście śmiertelnikami! I nie jesteście więźniami, jak ja! Pozdrawiam was zatem. Jestem Maryel, deva, choć obecnie przypominam udręczonego sokoła w ciasnej klatce. Ze złamanymi skrzydłami, odarty z wolności. Co was sprowadza do tego mrocznego miejsca?~
+@14 = ~Jestem <CHARNAME> i poszukuję bogini Waukeen.~
+@15 = ~To nie twój interes.~
+@16 = ~Zdaje mi się, że widziałem cię tam na górze, w Samorze.~ ~Zdaje mi się, że widziałam cię tam na górze, w Samorze.~
+@17 = ~Wybacz, to nie ta cela.~
+@18 = ~Wrócę później.~
+@19 = ~Jesteś wolny, powinieneś natychmiast opuścić to miejsce.~
+@20 = ~Witajcie ponownie, śmiertelnicy.~
+@21 = ~Poszukuję bogini Waukeen.~
+@22 = ~Możesz mi pomóc uwolnić Waukeen?~
+@23 = ~W sprawie twojej iskry...~
+@24 = ~Jakie biesy mogę tu napotkać?~
+@25 = ~Pojmała mnie horda wroków i sprowadziła tutaj. Moja iskra devy, mój najcenniejszy, pełen blasku skarb, została mi odebrana przez jakąś nędzną marilith.~
+@26 = ~Kim jest marilith?~
+@27 = ~Marilith... to budzące grozę stworzenia, znane ze sprytu i śmiertelnie niebezpiecznej biegłości w posługiwaniu się bronią. Te sześcioramienne demonice są mistrzyniami miecza i podstępu. Ich niebywałe umiejętności bojowe czynią z nich straszliwych przeciwników. Wykorzystują swoje sześć ramion, by władać wieloma broniami jednocześnie, co pozwala im na zadawanie druzgocących ciosów. Radzę uważnie obserwować ich ruchy i przewidywać ataki. Szukajcie słabych punktów i spróbujcie je osaczyć.~
+@28 = ~Tak? Znalazłeś ją?~ ~Tak? Znalazłaś ją?~
+@29 = ~Tak mi się wydaje.~
+@30 = ~Jeszcze nie.~
+@31 = ~Cóż za niebiańska niespodzianka! Dziękuję za pomoc! Chwileczkę...~
+@32 = ~Oczywiście, to całkiem możliwe. Musisz jednak zrozumieć, że nie pamiętam naszej znajomości – niewola w tym miejscu mocno nadwątliła moją pamięć. Co was sprowadza do tego mrocznego miejsca?~
+@33 = ~To zrozumiałe, że macie wątpliwości, komu możecie zaufać. Nie mam wam tego za złe.~
+@34 = ~Dziękuję za otwarcie drzwi mojej celi.~
+@35 = ~Co zamierzasz teraz zrobić?~
+@36 = ~W takim razie na pewno sam znajdziesz stąd wyjście.~
+@37 = ~Powiadasz, że więżą tu boginię? Nie znam jej imienia, moja wiedza nie sięga domen wszystkich panteonów. Jeśli jednak ją tu trzymają, musi być w opłakanym stanie.~
+@38 = ~Miałem nadzieję, że wskażesz mi drogę do jej celi.~ ~Miałam nadzieję, że wskażesz mi drogę do jej celi.~
+@39 = ~Wiesz może, gdzie znajduje się bogini Waukeen?~
+@40 = ~Nie widziałem jej. Wygląda na to, że w mrokach tego lochu więzionych jest znacznie więcej nieszczęsnych dusz. Im dalej się zapuszczacie, tym bardziej nierealne i odrażające staje się to miejsce.~
+@41 = ~Przykro mi, nie pomogę wam. Sam mam do spełnienia świętą misję. Ale spójrzcie na mnie: moje skrzydła są złamane, a wola zdruzgotana.~
+@42 = ~Jakże chciałbym rozwinąć skrzydła i po prostu stąd odlecieć! W czasach chwały moja głowa roztaczała jasny blask, a aura lśniła niczym gwiazda w ciemnościach. Gdy mnie schwytano, odebrano mi moją iskrę.~
+@43 = ~Moje światło zgasło i poczułem się odarty z boskości. Gdybym tylko odzyskał tę iskrę, odnowiłbym swoje siły i mógł ruszyć w dalszą drogę.~
+@44 = ~Gdzie może być teraz ta iskra?~
+@45 = ~Nie wiem, ale czuję, że wciąż znajduje się gdzieś blisko, w tym lochu.~
+@46 = ~Poszukam twojej iskry i przyniosę ci ją z powrotem.~
+@47 = ~Ruszajcie więc, dzielni bohaterowie, i niechaj światłość zawsze wam sprzyja. Moje siły są ograniczone, lecz moje modlitwy będą was wspierać w waszej misji.~
+@48 = ~Niech i tak będzie. Niechaj światłość i nadzieja zawsze wam towarzyszą. Sam znajdę drogę przez te lochy.~
+@49 = ~Gdybyście zdołali przynieść mi moją iskrę, odzyskałbym moc i mógł zostawić to miejsce daleko za sobą.~
+@50 = ~Och, jakże to uprzejme z waszej strony, że wypuściliście mnie z celi. Nie liczcie jednak na cień wdzięczności. Jesteście jedynie wygodnymi narzędziami w moim planie ponownego podporządkowania sobie Graz'zta!~
+@51 = ~Spodziewałem się choć odrobiny wdzięczności.~ ~Spodziewałam się choć odrobiny wdzięczności.~
+@52 = ~W takim razie zamknę cię tu z powrotem!~
+@53 = ~Och, wybacz, pomyłka celi.~
+@54 = ~Wdzięczności? Za to, że śmieliście zakłócić moją czcigodną obecność? Wy, głupcy, nie macie pojęcia, jaka potęga i majestat były niegdyś moim udziałem. Nikt was o pomoc nie prosił, a teraz poniesiecie konsekwencje wtrącania się w moje sprawy!~
+@55 = ~Na to już za późno! Całe stulecia mijały mi na obmyślaniu, co zrobię z kimś na tyle głupim, by zwrócić mi wolność. Wasz kres jest bliski, a ja zatriumfuję nad waszymi skażonymi ciałami!~
+@56 = ~Witaj, śmiertelniku! Ja, niegdyś pełen życia bard, dziś jestem zaledwie szeptem dawnego siebie, uwięzionym w wiecznym mroku, z duszą naznaczoną śmiercią.~ ~Witaj, śmiertelniczko! Ja, niegdyś pełen życia bard, dziś jestem zaledwie szeptem dawnego siebie, uwięzionym w wiecznym mroku, z duszą naznaczoną śmiercią.~
+@57 = ~Co ci się przytrafiło?~
+@58 = ~Szybko, uciekaj stąd!~
+@59 = ~Zaśpiewasz jeszcze raz ten paszkwil na Graz'zta?~
+@60 = ~Na razie żegnaj.~
+@61 = ~Nie, nie. Ta pieśń nie powinna już nigdy więcej wybrzmieć. Niech zamilknie na wieki – tak będzie najlepiej.~
+@62 = ~Pieśni, które niegdyś przynosiły mi chwałę, dawno już utonęły w grobowej ciszy. Moje dłonie, które z taką lekkością trącały struny yartinga, obróciły się w zbutwiałe kości. Zostałem uwięziony w tym koszmarnym kręgu udręki – przeklęty, by tworzyć sztukę nawet po śmierci.~
+@63 = ~Jak do tego doszło?~
+@64 = ~Wystąpiłem przeciwko samemu Graz'ztowi, władcy Otchłani. Za czasów mojego śmiertelnego żywota stworzyłem hymn oporu – pełną radości i niezłomnego optymizmu diatrybę wymierzoną w księcia demonów. Miałem czelność rzucić mu wyzwanie, a pieśń uczynić swoim jedynym orężem.~
+@65 = ~W swojej bezgranicznej złośliwości Graz'zt zamienił mnie w nieumarłego sługę, barda-zombie, skazanego na wieczne opłakiwanie własnego losu w najgłębszych trzewiach tej fortecy. Moje utwory, dawniej pełne szczęścia i nadziei, zostały skażone biesią klątwą.~
+@66 = ~Z moich melodii bezpowrotnie ulotniła się harmonia, ustępując miejsca nieznośnemu żalowi. Pieśni, które ze mnie płyną, brzmią jak zawodzenie potępionej duszy. Mój głos, niegdyś tętniący życiem i pasją, dławi się teraz grobowym szlochem i zepsuciem. Potrafię wykrzesać z siebie jedynie rzewne tony, będące echem nędzy i katorgi całej Otchłani. Stałem się instrumentem czystej rozpaczy, a moja twórczość niesie ze sobą wyłącznie brzemię potępienia.~
+@67 = ~Mogę cię uwolnić!~
+@68 = ~Chętnie posłucham jednej z twoich smutnych pieśni.~
+@69 = ~Pamiętasz jeszcze słowa tego paszkwilu na Graz'zta?~
+@70 = ~Możesz już opuścić swoją celę.~
+@71 = ~Ja... nie wiem... nie potrafię... pamięć mnie zawodzi... ciąży na mnie klątwa...~
+@72 = ~Wytęż umysł, na pewno coś pamiętasz!~
+@73 = ~Mniejsza z tym. Tak czy owak, droga wolna.~
+@74 = ~Tak, nagle powróciły do mnie i melodia, i słowa... Jesteś pewien, że chcesz to usłyszeć? To wyjątkowo... jadowity utwór.~ ~Tak, nagle powróciły do mnie i melodia, i słowa... Jesteś pewna, że chcesz to usłyszeć? To wyjątkowo... jadowity utwór.~
+@75 = ~Nie, jednak podziękuję.~
+@76 = ~Z chęcią posłucham.~
+@77 = ~Tym bardziej zamieniam się w słuch!~
+@78 = ~O Graz’zcie, głupota w czerepie twym rządzi,
+Marna twa potęga, rozum twój wciąż błądzi.
+Rożek twój skurczony, piskliwie śmiejesz się,
+Zwycięstwa nie ujrzysz, bo wola zdradzi cię.~
+@79 = ~Włos masz tak splątany jak twoje knowania,
+Przegniły twój uśmiech próchno kłów odsłania.
+Przechwalasz się mocą i czynem zuchwałym,
+A robakiemś jeno uwiędłym i małym!~
+@80 = ~Pycha twa wciąż puchnie, nadyma się, rośnie,
+Pod nią jednak duch twój wygląda żałośnie.
+W pustym twym umyśle nie ma nic prócz mroku,
+Słudzy potajemnie na każdym drwią kroku.~
+@81 = ~Ty głupcze, co myślisz, żeś bogiem jest czczonym,
+Na stryczku zawiśniesz, przez wszystkich wzgardzonym.
+Strachu twe królestwo wnet w gruzy się zmieni,
+Ku wielkiej radości mieszkańców tej ziemi.~
+@82 = ~Pieśń to obelżywa na błazna z Otchłani,
+Świat wnet zatriumfuje, koniec twej tyranii!
+Bo kres twój nadchodzi, stanął już na drodze,
+Słuchaj więc tej pieśni, przygotuj się w trwodze!~
+@83 = ~...~
+@84 = ~To... już po pieśni... i nic się nie wydarzyło?~
+@85 = ~Ta pieśń dodała nam otuchy. Dziękuję!~
+@86 = ~Dzięki tej pieśni nic ci tutaj nie grozi. Graz'zt utracił już władzę nad tym miejscem.~
+@87 = ~Niezła pieśń. Tak przy okazji, możesz już opuścić swoją celę.~
+@88 = ~To... krzepiące wieści, choć nie znajdę już prawdziwego ukojenia. Może jedynie odrobinę ulgi i chwilowe wytchnienie od mej wiecznej ponurości mroku.~
+@89 = ~W takim razie powinieneś już wyjść z celi.~
+@90 = ~W lochów tych starych murach, gdzie chłód wieczny gości,
+Śpiewam o mojej krzywdzie i wiecznej żałości.
+Nie ma szeptu nadziei, blask światła umiera,
+Tylko żałobna nuta mrok nocy rozdziera.
+
+Melodia ta ciężka jest, posępna i głucha,
+Mówi o wielkiej stracie i cierpieniu ducha.
+Dźwięk przedziera się cicho przez lodowe wały,
+Pieśń rozpaczy króluje, głosi smutek cały.~
+@91 = ~Gorzkie płyną łzy cicho, ból serce rozrywa,
+Pieśń ta o duszach zmarłych pamięć wciąż przyzywa.
+W ciemnościach nikły ognik już powoli gaśnie,
+Gdy pieśń smutku rozbrzmiewa ponuro i strasznie.
+
+Usłysz me narzekanie, smętne zawołanie,
+Zgubione w samotności nigdy nie ustanie.
+Pieśń to pełna zepsucia, wiecznego cierpienia,
+W lochu serce me pęka bez dnia ocalenia.~
+@92 = ~Cień powoli umyka, lecz czas wciąż zostaje,
+Świadectwo wiecznych więzów, które smutek daje.
+Usłysz po raz ostatni dzwon ten zatrwożony,
+W ciemności tej otchłani, gdzie duch potępiony.~
+@93 = ~To poruszająca pieśń.~
+@94 = ~Możesz już opuścić to miejsce.~
+@95 = ~Dziękuję.~
+@96 = ~Graz'zt przykuł mnie do tego miejsca, pieczętując mój los jako zatraconej duszy. Nawet gdyby udało się mnie stąd uwolnić, wciąż istniałbym tylko w mroku, a moje żałobne melodie rozpływałyby się w bezmiarze Otchłani. Moją nadzieję już dawno pogrzebała rezygnacja. Nie ma dla mnie zbawienia ani wyzwolenia z okowów klątwy; jestem skazany na śpiewanie rzewnych tonów przez całą wieczność. Wasza pomoc nie ukoi mojej agonii – nawet jeśli rozkujecie moje łańcuchy, mój głos na zawsze pozostanie przepełniony żalem.~
+@97 = ~Ale przecież możesz już stąd odejść.~
+@98 = ~Nie. Prawda jest taka, że dla mnie nie ma stąd ucieczki. Każda próba opuszczenia tego lochu przynosiła mi jedynie kolejne cierpienia i katorgę. Graz'zt sprowadził mnie tutaj, bym dopełnił swego żałosnego przeznaczenia, i jestem skazany na to, by tu pozostać.~
+@99 = ~W takim razie zostawię cię w spokoju.~
+@100 = ~Żegnaj zatem i żyj pełnią życia za mnie. Moja nadzieja zgasła, a ja pogodziłem się z losem. Lepiej zatracić się tutaj, w mroku, niż powrócić do świata jako złamana dusza.~
+@101 = ~Widzisz te otwarte drzwi? To nie jawa... to iluzja utkana z moich własnych lęków i zwątpienia. Próbuję przez nie przejść, lecz one bezustannie zmieniają kształt, szydząc ze mnie swoim żelaznym grymasem. Za nimi skrywa się prawda, lecz moje zmysły są zamglone i nie potrafię odnaleźć właściwej ścieżki.~
+@102 = ~Uwolniłem cię i żądam należnej nagrody!~ ~Uwolniłam cię i żądam należnej nagrody!~
+@103 = ~Te drzwi naprawdę są otwarte.~
+@104 = ~O czym ty w ogóle mówisz?~
+@105 = ~Zostaw mnie w spokoju, dziwaku!~
+@106 = ~Spójrz na mnie, nieznajomy, spójrz mi w oczy – w te okna mojej zdruzgotanej duszy. W moim szaleństwie może tlić się iskra świadomości, klucz do wolności... albo po prostu kolejna ułuda. Strzeż się jednak, gdyż ścieżki obłędu są zdradliwe i nieprzewidywalne. Idź dalej, jeśli starczy ci odwagi, lecz bacz, byś nie zgubił się w zamęcie własnego umysłu.~ ~Spójrz na mnie, nieznajoma, spójrz mi w oczy – w te okna mojej zdruzgotanej duszy. W moim szaleństwie może tlić się iskra świadomości, klucz do wolności... albo po prostu kolejna ułuda. Strzeż się jednak, gdyż ścieżki obłędu są zdradliwe i nieprzewidywalne. Idź dalej, jeśli starczy ci odwagi, lecz bacz, byś nie zgubiła się w zamęcie własnego umysłu.~
+@107 = ~Zupełnie straciłeś rozum!~
+@108 = ~Masz do powiedzenia cokolwiek, co mogłoby nam teraz pomóc?~
+@109 = ~Strzeż się sześcioramiennych niewiast, istot z innego wymiaru. Ich wdzięk poraża nieziemskim pięknem, lecz ich ramiona... te niezliczone ramiona sięgają po mój mózg, by posiekać go na tysiąc strzępów! Ich dotyk jest jak ogień i lód jednocześnie; to ekstaza zmieszana z bólem, która rozpala moje zmysły!~
+@110 = ~Widzę ich taniec, tych sześcioramiennych kobiet... ich ruchy to prawdziwy wir zmysłowości i obłędu. Kusi mnie ich drapieżny śpiew, lecz wiem, że ich uścisk zwiastuje zgubę. Próbuję opierać się tej zwodniczej potędze, ale ich płonące ślepia przewiercają mnie niczym rozżarzone noże.~
+@111 = ~Lepiej stąd odejdę, zanim i ja stracę zmysły.~
+@112 = ~Żegnaj.~
+@113 = ~Szepczą mi do ucha swoje sekrety, mówią, że cały ten świat jest tylko ułudą. Labiryntem kłamstw, który trzyma nas w potrzasku. Każdy nasz krok to zaledwie taniec na linie nad otchłanią szaleństwa. Och, jakże oplatają mnie swoimi ramionami, jakże wciągają mnie w mrok...~
+@114 = ~Każdy nasz krok to zaledwie taniec na linie nad otchłanią szaleństwa...~
+@115 = ~O, jak mniemam, kolejne pożywienie dla maszyny pani?~
+@116 = ~Pożywienie? Maszyna? O czym ty mówisz?~
+@117 = ~Giń, ty mały biesie!~
+@118 = ~No, dla tej maszyny w komnacie po drugiej stronie korytarza. Tworzy sługi dla pani.~
+@119 = ~Kim jest twoja pani? Sukkubem o imieniu Maretta?~
+@120 = ~Co robisz z tymi zwłokami na stole?~
+@121 = ~Chcesz skrzywdzić biednego, małego robaka? Phi, pani cię wkrótce ukarze!~
+@122 = ~Nie, skądże. Sukkub nie ma tu nic do gadania. Pani i Maretta szczerze się nienawidzą, wiecie? Ale imienia pani nie wolno wymawiać, bo się rozzłości.~
+@123 = ~Gadaj, bo inaczej sam się rozzłoszczę...~ ~Gadaj, bo inaczej sama się rozzłoszczę...~
+@124 = ~Wiesz, jak mogę się stąd wydostać?~
+@125 = ~Trzeba szykować trupy dla wielkiej maszyny. Głodna maszyna, bardzo głodna... Pani potrzebuje dla niej mnóstwa żarcia...~
+@126 = ~Karmisz maszynę zwłokami? Pora z tym skończyć!~
+@127 = ~No, przez te wielkie drewniane drzwi na północy. Tylko kluczy trzeba.~
+@128 = ~A kto ma klucz?~
+@129 = ~Pani Maretta. Ale Maretty tu nie ma, więc wy też stąd nie wyjdziecie. No, nagadałem się już pod dostatkiem, muszę wracać do roboty.~
+@130 = ~Witajcie, dzielni bohaterowie! Niechże ktoś pomoże damie w opałach i mnie uwolni!~
+@131 = ~Oczywiście, pani! Chwileczkę...~
+@132 = ~A z jakiej racji niby miałbym cię uwalniać?~ ~A z jakiej racji niby miałabym cię uwalniać?~
+@133 = ~Och, dziękuję! Pospieszcie się, proszę!~
+@134 = ~Nie chcecie mi pomóc? Cóż za okrutne z was istoty!~
+@135 = ~Och, dziękuję za oswobodzenie, mój wybawco!~
+@136 = ~Czy zdołacie mnie jeszcze obronić przed tymi barbarzyńcami za waszymi plecami?~
+@137 = ~Barbarzyńcami?~
+@138 = ~Trzymaj się ode mnie z daleka!~
+@139 = ~No tam, wasi dawni przyjaciele! Przyjrzyjcie się im uważniej!~
+@140 = ~Och, dziękuję za oswobodzenie, moja pani!~
+@141 = ~Nadszedł najwyższy czas, by szczodrze was wynagrodzić...~
+@142 = ~Obiecałeś, że mnie stąd wyciągniesz. Możesz się trochę pospieszyć?~ ~Obiecałaś, że mnie stąd wyciągniesz. Możesz się trochę pospieszyć?~
+@143 = ~Tak, odrobinę cierpliwości! Natychmiast cię uwolnię!~
+@144 = ~Rozmyśliłem się. Zostawię cię w tej celi.~ ~Rozmyśliłam się. Zostawię cię w tej celi.~
+@145 = ~Wygląda na to, że wcale nie chcesz mi pomóc. Ale to już bez znaczenia.~ [AC#WWAE6]
+@146 = ~Cóż za naiwność, by wierzyć w moją iluzję, <CHARNAME>! Wywalczyłeś sobie drogę przez całą Otchłań, by ostatecznie polec tuż przed samym celem!~ ~Cóż za naiwność, by wierzyć w moją iluzję, <CHARNAME>! Wywalczyłaś sobie drogę przez całą Otchłań, by ostatecznie polec tuż przed samym celem!~
+@147 = ~Nie jesteś Waukeen? Kim więc jesteś?~
+@148 = ~Udało ci się mnie zwieść, ale najpóźniej w otwartej walce obrócę cię w pył!~
+@149 = ~Chcesz ujrzeć moją potworną chwałę? Proszę bardzo!~
+@150 = ~Cała twa wściekłość na nic się nie zda. Poniosłeś klęskę, a jedyna łaska, jakiej dostąpisz, to objawienie mojej prawdziwej natury...~ ~Cała twa wściekłość na nic się nie zda. Poniosłaś klęskę, a jedyna łaska, jakiej dostąpisz, to objawienie mojej prawdziwej natury...~
+@151 = ~Wspaniale! Naprawdę mnie uwolniliście! Cóż za wielkoduszność! Chodźcie za mną, znam bezpieczną drogę wyjścia z tych lochów!~ [AC#WWAE3]
+@152 = ~Ruszaj przodem, pójdę za tobą.~
+@153 = ~Rozmyśliłem się. Zabiję cię.~ ~Rozmyśliłam się. Zabiję cię.~
+@154 = ~Za nic na świecie nie uwierzę, że jesteś Waukeen!~
+@155 = ~Wyjście jest tuż obok, to niedaleko...~
+@156 = ~W takim razie pospiesz się trochę, proszę!~
+@157 = ~W końcu nadszedł czas mojego ocalenia.~ [AC#WWAE1]
+@158 = ~Przybyliście mnie uwolnić, prawda? Jestem Waukeen – bogini monet, której szukacie. Pospieszcie się, proszę, i wyciągnijcie mnie stąd, bo wasze wtargnięcie na pewno nie umknęło niczyjej uwadze. Musimy natychmiast uciekać.~ [AC#WWAE2]
+@159 = ~Naprawdę jesteś Waukeen? Wyobrażałem sobie ciebie nieco... inaczej.~ ~Naprawdę jesteś Waukeen? Wyobrażałam sobie ciebie nieco... inaczej.~
+@160 = ~Tak, oczywiście, natychmiast cię stąd wyprowadzę!~
+@161 = ~Jesteś boginią handlu, zgadza się? Jaką nagrodę oferujesz mi w zamian za wolność?~
+@162 = ~Nawet nie myślę o uwalnianiu ciebie.~
+@163 = ~Mam poważne wątpliwości, czy naprawdę jesteś boginią Waukeen, za którą się podajesz. Nie ufam ci.~
+@164 = ~Nie, nie dam się nabrać na tę tanią sztuczkę po raz drugi. Uwolniłem już tutaj jedną młodą kobietę, która okazała się biesem. Najpierw udowodnij mi, że jesteś tą, której szukam!~ ~Nie, nie dam się nabrać na tę tanią sztuczkę po raz drugi. Uwolniłam już tutaj jedną młodą kobietę, która okazała się biesem. Najpierw udowodnij mi, że jesteś tą, której szukam!~
+@165 = ~Przed uwięzieniem całkowicie odarto mnie z boskiej mocy. Teraz jestem zaledwie bezsilną śmiertelniczką. Nie mamy jednak czasu na długie wyjaśnienia. Dalej, uwolnij mnie, proszę!~
+@166 = ~Pospiesz się więc! Zbiry Graz'zta z pewnością już tu zmierzają! Nie zostało nam wiele czasu!~ [AC#WWAE5]
+@167 = ~Bądź pewien, że hojnie nagrodzę twoje starania. Gdy tylko odzyskam wolność, spłyną na ciebie potęga i bogactwo! Ale najpierw musisz mnie wyciągnąć z tej nędznej celi, i to szybko!~ ~Bądź pewna, że hojnie nagrodzę twoje starania. Gdy tylko odzyskam wolność, spłyną na ciebie potęga i bogactwo! Ale najpierw musisz mnie wyciągnąć z tej nędznej celi, i to szybko!~
+@168 = ~Przemierzyłeś całą drogę do Azzagratu, a teraz, u kresu wędrówki, odmawiasz mi pomocy? Chyba nie mówisz poważnie!~ ~Przemierzyłaś całą drogę do Azzagratu, a teraz, u kresu wędrówki, odmawiasz mi pomocy? Chyba nie mówisz poważnie!~
+@169 = ~Pomyśl tylko o wszystkich błogosławieństwach, jakie przyniesie ci moje uwolnienie! Sława, bogactwo, potęga i wpływy staną się twoim udziałem – osobiście o to zadbam.~
+@170 = ~Nie, nie zmienię zdania. Nie budzisz mojego zaufania. Musisz znaleźć sobie kogoś innego, kto cię stąd wyciągnie.~
+@171 = ~W porządku, przekonałaś mnie. Spróbuję otworzyć drzwi twojej celi.~
+@172 = ~Obawiam się, że nie mam jak udowodnić, iż jestem Waukeen. Lecz jaki miałabym powód, by kłamać? Musisz mi po prostu zaufać.~
+@173 = ~Jednak możesz mi to udowodnić. Mam pewien pomysł. Podaj mi imię swojego arcykapłana – człowieka, który mnie tu przysłał!~
+@174 = ~Masz rację. Uwolnię cię.~
+@175 = ~Zdecydowałem, że ci nie pomogę. Musisz znaleźć kogoś innego, kto cię stąd wyciągnie.~ ~Zdecydowałam, że ci nie pomogę. Musisz znaleźć kogoś innego, kto cię stąd wyciągnie.~
+@176 = ~Ech! Trzeba było się tego domyślić, <CHARNAME>. Zmarnowałam swój czas na próżne dysputy z tobą. Nie ujrzysz miłosierdzia ani odkupienia – czeka cię tylko zguba!~ [AC#WWAE4]
+@177 = ~Śmiesz mnie testować? Śmiesz podawać w wątpliwość słowa bogini?~
+@178 = ~Wybacz moje wątpliwości, ale chcę mieć całkowitą pewność, że jesteś tą, której szukam.~
+@179 = ~Cóż, to nadzwyczaj proste pytanie, nie uważasz? No dalej, odpowiedz na nie!~
+@180 = ~To niepotrzebne. Ufam ci.~
+@181 = ~To niedorzeczne! Sami dobrze wiecie, że od wielu lat nie miałam najmniejszego kontaktu ze Sferą Materialną! Jak niby mam odpowiedzieć na takie pytanie?~
+@182 = ~Zapewniam cię, że znasz tę osobę, gdyż od dawna piastuje ona urząd twojego arcykapłana.~
+@183 = ~Masz rację. Ufam ci i wyciągnę cię stąd najszybciej, jak to możliwe.~
+@184 = ~Cóż, w takim razie... daj mi chwilę do namysłu...~
+@185 = ~Mój ukochany arcykapłan nazywa się Tharundar Olehm i służy w opactwie Złotych Iglic w Athkatli. Czy teraz jesteś usatysfakcjonowany?~ ~Mój ukochany arcykapłan nazywa się Tharundar Olehm i służy w opactwie Złotych Iglic w Athkatli. Czy teraz jesteś usatysfakcjonowana?~
+@186 = ~Wydobyłaś to imię z mojego umysłu! Wcale go nie znałaś!~
+@187 = ~Coś ty mi właśnie zrobiła, „bogini”? Wdarłaś się do mojego umysłu, żeby poznać odpowiedź?~
+@188 = ~Pęka mi głowa.~
+@189 = ~Zrobiłam to tylko po to, by upewnić się, czy ty również znasz prawidłową odpowiedź. Jaki pożytek miałabym z podania właściwego imienia, gdybyś sam go nie znał?~ ~Zrobiłam to tylko po to, by upewnić się, czy ty również znasz prawidłową odpowiedź. Jaki pożytek miałabym z podania właściwego imienia, gdybyś sama go nie znała?~
+@190 = ~Cóż, odpowiedziałam na twoje pytanie. Wypuść mnie stąd, proszę.~
+@191 = ~Nie! Nie znałaś odpowiedzi! Nie jesteś boginią, której szukam!~
+@192 = ~W porządku, przekonałaś mnie. Uwolnię cię.~
+@193 = ~Arcykapłan mojej wiary nazywa się Alaundo.~
+@194 = ~Ha! Wiedziałem! To błąd! Wcale nie jesteś Waukeen!~ ~Ha! Wiedziałam! To błąd! Wcale nie jesteś Waukeen!~
+@195 = ~Arcykapłan mojej wiary nazywa się Elminster.~
+@196 = ~Arcykapłanem mojej wiary jest Gorion.~
+@197 = ~Rozszarpię wasze ciała na strzępy i rzucę na pożarcie mojemu panu! Nigdy nie ujrzycie tej opuszczonej bogini! A teraz gińcie, nędzne robaki!~ [AC#WWAE7]
+@198 = ~Jestem Nasmaerae, mistrzyni zwodzenia i lojalna służka Graz'zta, władcy demonów. Wynagrodzi mnie hojnie za udaremnienie waszej żałosnej próby ratunku.~
+@199 = ~Dalej, zmierz się ze mną! Bez trudu pokonam cię w uczciwej walce!~
+@200 = ~Szczerze wątpię. Zresztą do żadnej walki nie dojdzie, choć z rozkoszą nakarmiłabym cię twoim własnym, wciąż bijącym sercem. Nie, zostaniesz tu na zawsze jako więzień Graz'zta!~ ~Szczerze wątpię. Zresztą do żadnej walki nie dojdzie, choć z rozkoszą nakarmiłabym cię twoim własnym, wciąż bijącym sercem. Nie, zostaniesz tu na zawsze jako więźniarka Graz'zta!~
+@201 = ~(Nagle wyczuwasz obcą obecność w swoim umyśle. Z początku jesteś zdezorientowany, lecz w ułamku sekundy zdajesz sobie sprawę, że Waukeen przeszukuje twój umysł w poszukiwaniu jednego słowa – właściwej odpowiedzi na twoje pytanie: imienia jej arcykapłana. Twoja wola oporu wobec nieustępliwego psychicznego nacisku słabnie z każdą chwilą, a twój umysł jest bliski wyjawienia tajemnicy).~ ~(Nagle wyczuwasz obcą obecność w swoim umyśle. Z początku jesteś zdezorientowana, lecz w ułamku sekundy zdajesz sobie sprawę, że Waukeen przeszukuje twój umysł w poszukiwaniu jednego słowa – właściwej odpowiedzi na twoje pytanie: imienia jej arcykapłana. Twoja wola oporu wobec nieustępliwego psychicznego nacisku słabnie z każdą chwilą, a twój umysł jest bliski wyjawienia tajemnicy).~
+@202 = ~(Nie potrafisz już dłużej opierać się psychicznemu naporowi. Twój opór załamuje się, a twoje myśli ujawniają poszukiwane imię).~
+@203 = ~(Resztkami sił psychicznych zmuszasz się do skupienia myśli na jednym jedynym słowie – imieniu, którego Waukeen szuka w twym umyśle...)~
+@204 = ~Alaundo.~
+@205 = ~Elminster.~
+@206 = ~Gorion.~
+@207 = ~Tharundar Olehm.~
+@208 = ~(Czujesz się całkowicie wycieńczony po tym psychicznym pojedynku, a Waukeen patrzy na ciebie z triumfem.)~ ~(Czujesz się całkowicie wycieńczona po tym psychicznym pojedynku, a Waukeen patrzy na ciebie z triumfem.)~
+@209 = ~Czekaj, <CHARNAME>! Od tej istoty bije na wskroś złowroga aura. Nie jest tą, za którą się podaje.~
+@210 = ~Ty tam! Nie wiem, jaką istotą jesteś, ale bez wątpienia zasługujesz na to, by zgnić w tym zamknięciu! Paladyn bez trudu dostrzeże twoje niecne zamiary!~
+@211 = ~Nie sposób nie dostrzec twego czarnego serca, istoto. Nie jesteś boginią, której szukamy. Twoje gierki na nic się nie zdadzą.~
+@212 = ~Czekaj, <CHARNAME>, mam pewien pomysł. Waukeen, musisz odpowiedzieć tylko na jedno pytanie, by udowodnić, że naprawdę jesteś boginią. Jak nazywa się arcykapłan twojego kościoła? To on nas tutaj przysłał, więc musisz znać jego imię!~
+@213 = ~Czekaj, <CHARNAME>, pozwól mi przemówić do tego stworzenia. Ty tam! Podaj nam imię głowy swojego kościoła, a rozważymy twoje uwolnienie!~

@@ -1,0 +1,1378 @@
+@2000 = ~Fajka Otchłani~
+@2001 = ~Ta niewielka kamienna fajka została wyrzeźbiona na kształt głowy demona.
+
+Po zapaleniu wydobywają się z niej kłęby śmiercionośnych wyziewów wprost z najgłębszych warstw Otchłani. Używający jej musi jednak liczyć się z ryzykiem przypadkowego wdychania toksycznych oparów.
+
+PARAMETRY:
+
+Specjalne:
+– 5% szans na zatrucie użytkownika na 5 rund przy każdym użyciu
+
+Właściwości ładunków:
+– Zabójcza chmura, raz dziennie
+
+Waga: 1~
+@2002 = ~Fajka boleści~
+@2003 = ~Ponoć fajkę tę stworzył niegdyś ponury szaman, który zwykł palić w niej prochy swych poległych wrogów. Wydobywający się z niej dym zawierał skondensowaną rozpacz oraz żal konających i potrafił wpływać na serca i umysły żywych. Dalsze losy szamana zaginęły w mrokach dziejów, lecz sama fajka przetrwała i wciąż może służyć do uwalniania dławiącej mocy rozpaczy.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Chmura smutku, raz dziennie
+Specjalne: każdy w obszarze działania otrzymuje modyfikator -4 do morale, rzutów na trafienie i rzutów obronnych na 10 rund (rzut obronny przeciw zionięciom neguje)
+Czas działania: 3k8 tur
+Obszar działania: w promieniu 4,5 metra
+
+Waga: 3~
+@2004 = ~Łuski tartariańskiego smoka~
+@2005 = ~Te ciężkie łuski należały do smoka Tartaru – podgatunku wielkich gadów zamieszkujących złowieszczą sferę Carceri. Smoki te są jednocześnie strażnikami i więźniami tej sfery. Krążą jednak pogłoski o sposobach na zdjęcie klątwy, która uniemożliwia im opuszczenie Sfer NIższych. Dzięki naturze swej ojczyzny, stworzenia te są niezwykle odporne na wszystko, co mogłoby ograniczyć ich swobodę ruchu. Potrafią też rzucać potężne zaklęcia, które pętają, a nawet więżą ich przeciwników. Ich zionięciem jest potężna fala uderzeniowa, która druzgoce ciało i umysł wroga, zadając obrażenia oraz nakładając kary do rzutów na trafienie i rzutów obronnych. Z truchła tartariańskiego smoka udało ci się pozyskać znaczną liczbę łusek... być może wprawny kowal zdołałby wykuć z nich zbroję.~
+@2006 = ~Zbroja z łusek tartariańskiego smoka~
+@2007 = ~Zbroje ze smoczych łusek są lekkie, wytrzymałe i odporne na działanie wielu szkodliwych sił. Ze względu na te właściwości cieszą się wielkim uznaniem, lecz znalezienie, a co dopiero zgładzenie potężnego, starożytnego smoka, graniczy z cudem. Należy jednak zachować ostrożność, nosząc ten pancerz w obecności innych smoków, zwłaszcza tych z Tartaru.
+
+PARAMETRY:
+
+Specjalne:
+– Użytkownik jest odporny na wszelkie efekty, magiczne i zwykłe, wpływające na swobodę ruchu (dotyczy to również czarów Przyspieszenie i Spowolnienie)
+– Odporność na Uwięzienie
+
+Klasa Pancerza: 0
+Waga: 30~
+@2008 = ~Iskra devy~
+@2009 = ~Świetlista aura, która należała niegdyś do devy.~
+@2010 = ~Cuchnąca mikstura lecznicza~
+@2011 = ~Ta mikstura lecznicza, pierwotnie czysta, została tak skażona przez siły Otchłani, że w butelce nie pozostało nic prócz cuchnącej mazi.~
+@2012 = ~Kayurze,
+bądź czujny na stopniach Nieskończonych Schodów. Wypatruj istoty imieniem <CHARNAME>, która będzie zbliżać się do Azzagratu od strony Argentil. Pod żadnym pozorem nie pozwól mu kontynuować podróży! Będę czekać w wyznaczonym miejscu z drugą częścią nagrody. Niech Czarne Słońce ci sprzyja!
+G.~ ~Kayurze,
+bądź czujny na stopniach Nieskończonych Schodów. Wypatruj istoty imieniem <CHARNAME>, która będzie zbliżać się do Azzagratu od strony Argentil. Pod żadnym pozorem nie pozwól jej kontynuować podróży! Będę czekać w wyznaczonym miejscu z drugą częścią nagrody. Niech Czarne Słońce ci sprzyja!
+G.~
+@2013 = ~Dotkliwa porażka +3~
+@2014 = ~Wykuty przed wiekami przez kowala duergarów miecz „Dotkliwa porażka” powstał dla próżnego wojownika z Ruathym. Oręż miał wspomagać go w najcięższych bojach, aktywując swoją moc, gdy właściciel słabł. Pomimo potężnych właściwości broni, wojownik dokonał żywota w leżu obserwatorów, przytłoczony niszczycielskimi promieniami z ich oczu.
+
+PARAMETRY:
+
+Specjalne:
+– Jeśli punkty życia użytkownika spadną poniżej 25%, zostaje rzucone zaklęcie Ulepszone przyspieszenie ruchów (czas działania: 3 rundy).
+
+Obrażenia: 1k10 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 7
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 8~
+@2015 = ~Klucz do Komnaty Pokus~
+@2016 = ~Za pomocą tego klucza możesz otworzyć drzwi do obszaru pod Samorą, zwanego Komnatą Pokus. Maretta wspomniała, że rozkwita tam Róża Otchłani, a twoim zadaniem jest jej dostarczenie.~
+@2017 = ~Notatki uczonego (fragment)~
+@2018 = ~W swej nienasyconej ciekawości zapuściłem się w głąb komnaty, by odkryć jej sekrety. Mroczne ściany i enigmatyczne symbole sugerują znaczenie, którego mogę się jedynie domyślać. To miejsce zdaje się być komnatą pokus – miejscem, gdzie mroczne strony śmiertelnej natury i najskrytsze pragnienia zostają poddane próbie.
+
+Każdy z siedmiu portali wychodzących z komnaty reprezentuje konkretną formę zakazanego pożądania. Stąd te dziwne symbole z kutej stali na ścianach! Wąż oznacza zazdrość, mieszek pieniędzy – chciwość. Korona mogłaby symbolizować pychę, choć nie mam pewności. Topór to bez wątpienia znak gniewu i furii.
+
+W pogoni za wiedzą i oświeceniem przekroczyłem granice poczytalności. Moje ciało marnieje w oczach, czuję już lodowaty oddech śmierci. Zostawiam jednak te zapiski jako ostrzeżenie i przewodnik dla tych, którzy przyjdą po mnie.~
+@2019 = ~Fałszywa duma +3~
+@2020 = ~Dzierżony przez rycerza słynącego z męstwa, a później z pychy, ten długi miecz stał się ucieleśnieniem jego zarozumiałego ducha. Ostrze zostało przeklęte przez siły niebiańskie, by przypominać każdemu właścicielowi, że pokora jaśnieje mocniej niż buta. Skruszony rycerz ukrył miecz i wycofał się do klasztoru Ilmatera, by wieść życie pełne pokuty.
+
+Urok miecza okazał się jednak nie do odparcia dla tych, którzy pragną uznania. Oręż nieustannie poszukuje tych, którzy pasują do jego natury, nigdy nie zadowalając się przeciętnymi wojownikami.
+
+PARAMETRY:
+
+Specjalne:
+– 30% szans na oślepienie ofiary na jedną rundę po trafieniu (rzut obronny przeciw czarom neguje)
+– Przy trafieniu krytycznym użytkownik zostaje trafiony Promieniem osłabienia na trzy rundy (rzut obronny przeciw czarom neguje)
+
+Obrażenia: 1k8 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 2
+Rodzaj biegłości: miecz długi
+Typ broni: 1-ręczna
+
+Wymagania:
+– Charyzma: 17
+
+Waga: 3~
+@2021 = ~Śmiech głupca~
+@2022 = ~Z tej butelki dobiega chrapliwy, histeryczny śmiech. Specjalna blokada sprawia, że naczynie jest szczelnie zamknięte i nie sposób go otworzyć. Istnieje wiele opowieści na temat tego osobliwego przedmiotu. Najpopularniejsza mówi o okrutnym tyranie, który torturował swego błazna, grożąc mu egzekucją w chwili, gdy ten przestanie się śmiać. Śmiech nieszczęśnika został uwięziony w tej właśnie butelce.~
+@2023 = ~Róża Otchłani~
+@2024 = ~Ta róża wygląda złowieszczo, a jej łodyga jest usiana kolcami. Trudno ją nawet chwycić, by się nie zranić. Zapach wydobywający się z pąka jest słodki, lecz kojarzy się raczej z rozkładem i zgnilizną niż z wonią czarujących kwiatów.~
+@2025 = ~Zakrwawiona kość~
+@2026 = ~Zakrwawiona kość, z której wciąż zwisają ścięgna i resztki tkanek. Wygląda na to, że została wygotowana, by nieco zmiękła.~
+@2027 = ~Część naszyjnika~
+@2028 = ~To część naszyjnika.~
+@2029 = ~Ostatnie namaszczenie~
+@2030 = ~Ten amulet ma kształt pękniętego serca. Krążą pogłoski o jego pochodzeniu, najczęściej wspominające o dwojgu kochanków, których smutny los przypieczętował nagły i bolesny zwrot wydarzeń. Wierzy się, że przedmiot ten stworzyli kapłani Wee Jas – bogini ucieleśniającej śmierć, magię i miłość.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na magię: +15%
+
+Właściwości ładunków:
+– Ostatnie namaszczenie, raz dziennie
+Specjalne: wybrana postać zostaje wskrzeszona i całkowicie uleczona, jednak punkty życia posiadacza zostają zredukowane do 1
+Zasięg: nieograniczony
+Obszar działania: 1 istota
+
+Waga: 1~
+@2031 = ~Ten potężny pierścień jest powykręcany i wypaczony. Zapewnia nienaturalną ochronę przed wszelkimi atakami. Zdaje się, że został wykuty pod wpływem władcy demonów Alrunesa, znanego swym wyznawcom jako „Dobroczynny duch”.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +3
+– Rzuty obronne: +3
+
+Waga: 0~
+@2032 = ~Rysunek Clyddisa~
+@2033 = ~Szkic pentagramu wycięty ze skóry wroka o imieniu Clyddis. Demon wydrapał go tam, by zilustrować działanie ognistych pieców w Samorze. Dzięki temu rysunkowi powinno udać ci się użyć pieców w odpowiedniej kolejności, co pozwoli dostać się do więzienia Waukeen.~
+@2034 = ~Krzew papryki z Gehenny~
+@2035 = ~Krzew ten pochodzi ze Sfer Niższych. Rośnie na nim papryka z Gehenny.~
+@2036 = ~Hełm odporności na kwas (pełny)~
+@2037 = ~Ten hełm został wypełniony żrącym kwasem z sadzawek Yemach. Substancja nie uszkodzi samego przedmiotu, lecz musisz uważać, by płyn nie wylał się i nie poparzył ci dłoni.~
+@2038 = ~Hełm odporności na kwas~
+@2039 = ~„Zguba Kwasowego łupieżcy”
+Hełm ten wykuto tak, by mógł wytrzymać zionięcie czarnych smoków – a konkretnie starożytnego gada z zamierzchłych czasów, znanego jako Acidragravagrex lub po prostu „Kwasowy łupieżca”. Do dziś na powierzchni pancerza widnieją ślady dawnych bitew ze skrzydlatymi poczwarami. Hełm zapewnia ochronę przed kwasem.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na kwas: +80%
+– Chroni przed trafieniami krytycznymi
+
+Waga: 3~
+@2040 = ~Mam cię!~
+@2041 = ~Zagadka Belthazaara~
+@2042 = ~Dłoń we krwi skąpana, przeznaczenia tchnienie,
+Drzwi otwiera zguby, czeka zatracenie.
+Tam posoki dotyk, wpada ciało w drżenie,
+Dłoń jak klucz ukaże, gdzie ma bies schronienie.
+Wtedy, śmiertelniku, drzwi staną otworem,
+W glabrezu domenie, gdzie los jest horrorem.
+Ruszaj więc, i rozwiąż to z wielką uwagą,
+By wzrok biesa z twoją zmierzył się odwagą~
+@2043 = ~Czas Niepokojów~
+@2044 = ~Czas Niepokojów
+W Roku Cieni, 1358 według Kalendarza Dolin, Faerûn został wstrząśnięty złowrogim zamętem. Niebiosa pobladły, gdy bogowie Zapomnianych Krain zostali zmuszeni do opuszczenia swych niebiańskich siedzib i przybrania śmiertelnych postaci. Nad krainą nastała era chaosu i bezprawia.
+
+Kradzież potężnego artefaktu zburzyła boski porządek. Sprawiło to, że bogowie stali się śmiertelni, a ich moc osłabła. Wierni słudzy – pobożni kapłani i honorowi paladyni – zostali odcięci od swych darów, gdyż ich patroni nie mogli już im udzielać łaski. Powstała pustka, a lud Faerûnu został porzucony w samym sercu szalejącego sztormu.
+
+W tych burzliwych czasach bogowie desperacko chwytali się każdej okazji, by odzyskać dawną potęgę. Wybuchały gwałtowne walki między samymi bóstwami, ich wyznawcami oraz frakcjami śmiertelników zabiegającymi o boskie względy. Niektóre bóstwa upadły, tracąc dawną chwałę lub zostając unicestwionymi, podczas gdy w ich miejsce powstawały nowe.
+
+Sam świat Faerûnu został naznaczony bliznami tego okresu. Sploty magii zadrżały, a nad niegdyś potężnymi nurtami mocy zaległ cień. Mędrcy i czarodzieje próbowali zgłębić tę tajemnicę, a kraina pogrążyła się w niepewności.
+
+Gdy wreszcie zasłona smutku opadła, bogom udało się powrócić do swej boskiej chwały. Czas Niepokojów pozostawił jednak ślady, które miały być widoczne jeszcze długo. Niektórzy potężni niegdyś bogowie odeszli, a ich miejsce zajęli nowi, których imiona zaczęto szeptać na ustach śmiertelników.
+
+Mieszkańcy Faerûnu na zawsze zmienili się pod wpływem tych doświadczeń. Część porzuciła dawną wiarę, inni zaś zginęli w chaosie, złamani bólem przemian. Byli jednak i tacy, którzy znaleźli nową siłę, zwracając się ku nowym bóstwom i szukając u nich przychylności.~
+@2045 = ~O nieobecności Waukeen~
+@2046 = ~O nieobecności Waukeen
+Spisane przez brata Aldrica, oddanego kapłana Panny Monety
+
+W tych mrocznych czasach, które nawiedziły Faerûn, przyszło nam zmierzyć się z utratą boskiej obecności naszej ukochanej Pani monet. Ona, promienne słońce handlu, która niegdyś błogosławiła nas swym obliczem, zniknęła, jak gdyby jej światło zgasło, spowijając świątynię bogactwa w ciemnościach.
+
+Och, jakże tęsknimy za jej rozgrzewającym blaskiem i obfitością, którą wnosiła do naszych serc i skarbców! Jej obecność była inspiracją dla wszystkich, którzy jej służyli, a jej łaska sprawiała, że rynki rozkwitały niczym wspaniałe ogrody. Teraz jednak naszych kupców dręczą wątpliwości, a magazyny świecą pustkami, gdyż bez jasnego przewodnictwa Waukeen dryfujemy bez celu niczym statki bez kompasu, zagubione na wzburzonym morzu.
+
+My, wierni słudzy Przyjaciółki Kupców, żarliwie modlimy się o jej powrót, szukając jakiegokolwiek znaku, że nas nie opuściła. Cisza niebios jest jednak dojmująca, a nasze prośby zdają się odbijać od lodowatej pustki. Ogarnia nas rozpacz, trwamy w niepewności, pytając, kiedy Nasza Złota Pani ukaże się nam ponownie w pełnej chwale.
+
+Wspominamy dawne ery, gdy świat spowijały mroczne godziny, lecz bóstwa wciąż zsyłały nam swe błogosławieństwa. W naszych sercach tli się nadzieja, gdy przypominamy sobie słowa mędrców: światło boskości zawsze wzejdzie ponownie, by rozproszyć cienie.
+
+Niech więc ta księga pamięci będzie potwierdzeniem naszego niezachwianego oddania Waukeen. Czcimy ją w modlitwach, pieśniach i nieustannym dążeniu do dobrobytu. Niechaj nas usłyszy i raz jeszcze oświetli ziemie Faerûnu swą promienną obecnością, by blask handlu i bogactwa znów wypełnił nasze dusze.~
+@2047 = ~O Złotych Iglicach~
+@2048 = ~Złote Iglice – sanktuarium przepychu i obfitości
+
+Poza gwarnymi murami Athkatli wznosi się dumna świątynia zwana Złotymi Iglicami, zwiastująca chwałę i bogactwo boskich rządów Waukeen. Niczym promienie słońca sięgające niebios, wieże te pną się majestatycznie, chwytając światło i prezentując je jako lśniące świadectwo łaski bogini.
+
+Wierni gromadzą się tutaj, by składać modły i ofiary oraz prosić Przyjaciółkę Kupców o błogosławieństwo. Kapłani, odziani w szaty o niezwykłej urodzie, sprawują uroczyste obrzędy, błogosławiąc tych, którzy dążą do sukcesu w swych przedsięwzięciach. Woń kadzideł i przypraw wypełnia powietrze, mieszając się z echem modlitw i pieśni płynących między murami.
+
+Złote Iglice to jednak coś więcej niż tylko świątynia. To centrum handlu i wsparcia dla wiernych. Przechowuje się tutaj rejestry handlowe, chroni kontrakty i zbiera cenne informacje o rynkach i interesach. Mądrość kupców i handlarzy łączy się w tym miejscu, by prowadzić wiernych ku pomyślności.
+
+Wysławiajmy i czcijmy Złote Iglice, gdyż ucieleśniają one splendor i obfitość, które reprezentuje Waukeen, boska pani handlu. Niech bramy tego świętego miejsca będą na zawsze otwarte dla poszukujących zysku i wskazują im drogę do sukcesu.~
+@2049 = ~Żeton duszy~
+@2050 = ~W Samorze, mieście grzechu, w hazardzie nie używa się złota, lecz żetonów, które gracze muszą wykupić za cenę własnych sił życiowych. Te „żetony dusz” pozwalają na udział w najróżniejszych grach oferowanych w mieście.~
+@2051 = ~Pióro devy~
+@2052 = ~To pióro devy. Lśni czystym blaskiem, rozświetlając wnętrze twojego plecaka. Maretta chce, abyś dostarczył ten przedmiot do jej siedziby w Izbie Obrachunkowej.~ ~To pióro devy. Lśni czystym blaskiem, rozświetlając wnętrze twojego plecaka. Maretta chce, abyś dostarczyła ten przedmiot do jej siedziby w Izbie Obrachunkowej.~
+@2053 = ~Skrzydło devy~
+@2054 = ~To odcięte skrzydło devy.~
+@2055 = ~Mikstura ochrony przed kwasem~
+@2056 = ~Każdy, kto wypije tę miksturę, zyskuje magiczną odporność na wszelkie rodzaje kwasu. Obrażenia zadawane przez kwas zostają zredukowane o 50%. Odporność ta kumuluje się z innymi formami ochrony, jakie posiada dana osoba. Efekt utrzymuje się przez 10 tur lub do momentu rozproszenia.~
+@2057 = ~Część klucza do areny~
+@2058 = ~To fragment klucza o niezwykłym kształcie.~
+@2059 = ~Klucz do areny~
+@2060 = ~Ten osobliwy klucz służy do otwierania ryglowanych kościanych drzwi na arenie gladiatorów w Samorze.~
+@2061 = ~Podręcznik fizycznego poniżenia~
+@2062 = ~Podobnie jak w przypadku innych woluminów tego typu, okładkę wykonano z grubej, kunsztownie zdobionej skóry, jednak sama księga wygląda odpychająco – jest powykręcana, jak gdyby wiła się w bólu.
+
+PARAMETRY:
+
+Specjalne:
+– Zręczność: +1
+– Siła: -1
+– Kondycja: -1
+– Księga znika po użyciu
+– Użycie: umieść w polu przedmiotu podręcznego
+
+Waga: 25~
+@2063 = ~Zręczność została na stałe zwiększona o 1 punkt, Siła i Kondycja zostały na stałe zmniejszone o 1 punkt.~
+@2064 = ~Podręcznik wytrzymałego głupca~
+@2065 = ~Podobnie jak w przypadku innych woluminów tego typu, okładkę wykonano z grubej, kunsztownie zdobionej skóry, jednak sama księga wygląda odpychająco – jest powykręcana, jak gdyby wiła się w bólu.
+
+PARAMETRY:
+
+Specjalne:
+– Kondycja: +1
+– Zręczność: -1
+– Inteligencja: -1
+– Księga znika po użyciu
+– Użycie: umieść w polu przedmiotu podręcznego
+
+Waga: 25~
+@2066 = ~Kondycja została na stałe zwiększona o 1 punkt, Zręczność i Inteligencja zostały na stałe zmniejszone o 1 punkt.~
+@2067 = ~Kontrakt na duszę Zhelamiss~
+@2068 = ~Na arkuszu widnieją frazy zapisane w nieznanym języku. W lewym dolnym rogu widnieje jaskrawoczerwony znak, wyraźnie nakreślony krwią. Dokument ten pieczętuje pakt o duszę zawarty między Ormadem Sulparem a nocną wiedźmą Zhelamiss. Ormadowi bardzo zależy na odzyskaniu kontraktu, gdyż chciałby zachować swą duszę. Masz dostarczyć mu ten dokument do „Przemokniętego Solara”.~
+@2069 = ~Kontrakt na duszę Zaehvielle~
+@2070 = ~Na arkuszu widnieją frazy zapisane w nieznanym języku. W lewym dolnym rogu widnieje jaskrawoczerwony znak, wyraźnie nakreślony krwią. Dokument ten pieczętuje pakt o duszę zawarty między Ormadem Sulparem a sukkubem Zaehvielle. Ormadowi bardzo zależy na odzyskaniu kontraktu, gdyż chciałby zachować swą duszę. Masz dostarczyć mu ten dokument do „Przemokniętego Solara”.~
+@2071 = ~Kontrakt na duszę Belthazaara~
+@2072 = ~Na arkuszu widnieją frazy zapisane w nieznanym języku. W lewym dolnym rogu widnieje jaskrawoczerwony znak, wyraźnie nakreślony krwią. Dokument ten pieczętuje pakt o duszę zawarty między Ormadem Sulparem a glabrezu Belthazaarem. Ormadowi bardzo zależy na odzyskaniu kontraktu, gdyż chciałby zachować swą duszę. Masz dostarczyć mu ten dokument do „Przemokniętego Solara”.~
+@2073 = ~Księga biesów~
+@2074 = ~Oprawa tej księgi powstała z wygarbowanej skóry twarzy jakiegoś biesa, który teraz wykrzywia się ku tobie w grymasie. Dwie pary skórzastych, czerwonych ślepi przyglądają ci się krytycznie i zdają się śledzić każdy twój ruch. Tom cuchnie przeraźliwie skórą oraz moczem i wygląda na bardzo stary.~
+@2075 = ~Tarcza niewiernych +4~
+@2076 = ~Tarcza niewiernych to potężny, zaklęty rynsztunek, który należał niegdyś do Andelara, wielkiego paladyna z dawnych lat. Podczas bitwy z biesem tarcza pękła i zsunęła się z jego ramienia, co pozwoliło przeciwnikowi zadać Andelarowi śmiertelny cios. Rycerzowi starczyło sił jedynie na to, by ostatnim tchnieniem wypowiedzieć klątwę. Zamiast wziąć odpowiedzialność za własną klęskę, obwinił on tarczę i przeklął ją za to, że zawiodła swego pana w godzinie największej potrzeby. Od tamtej pory Tarcza niewiernych zdradza każdego wojownika, który zdecyduje się ją nosić. Przedmiot wykonano z solidnego drewna i wzmocniono mithrilową obręczą.
+
+Gdy tarcza jest używana przez wojownika lub kapłana, początkowo zapewnia premię +4 do Klasy Pancerza. Jeśli jednak zostanie użyta w walce, istnieje 5% szans przy każdym otrzymanym trafieniu, że jej moc zawiedzie, a ona sama zmieni się w przeklętą tarczę -4 (jeśli punkty życia użytkownika spadną poniżej 25%, szansa na to wzrasta do 10%). Posiadacz nie może odrzucić przeklętej tarczy, dopóki kapłan nie rzuci czaru Zdjęcie klątwy.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +4
+– 5% szans przy otrzymaniu trafienia na przeklęcie tarczy, co zmienia jej premię do Klasy Pancerza na -4 (jeśli punkty życia użytkownika spadną poniżej 25%, szansa ta wzrasta do 10%)
+
+Wymagania:
+– Siła: 9
+
+Waga: 3~
+@2077 = ~Tarcza niewiernych -4 (przeklęta)~
+@2078 = ~Tarcza niewiernych to potężny, zaklęty rynsztunek, który należał niegdyś do Andelara, wielkiego paladyna z dawnych lat. Podczas bitwy z biesem tarcza pękła i zsunęła się z jego ramienia, co pozwoliło przeciwnikowi zadać Andelarowi śmiertelny cios. Rycerzowi starczyło sił jedynie na to, by ostatnim tchnieniem wypowiedzieć klątwę. Zamiast wziąć odpowiedzialność za własną klęskę, obwinił on tarczę i przeklął ją za to, że zawiodła swego pana w godzinie największej potrzeby. Od tamtej pory Tarcza niewiernych zdradza każdego wojownika, który zdecyduje się ją nosić. Przedmiot wykonano z solidnego drewna i wzmocniono mithrilową obręczą.
+
+Gdy tarcza jest używana przez wojownika lub kapłana, początkowo zapewnia premię +4 do Klasy Pancerza. Jeśli jednak zostanie użyta w walce, istnieje 5% szans przy każdym otrzymanym trafieniu, że jej moc zawiedzie, a ona sama zmieni się w przeklętą tarczę -4. Jeśli punkty życia użytkownika spadną poniżej 25%, szansa na to wzrasta do 10%. Posiadacz nie może odrzucić przeklętej tarczy, dopóki kapłan nie rzuci czaru Zdjęcie klątwy.
+
+PARAMETRY:
+
+Specjalne:
+– Można zdjąć tylko po rzuceniu czaru Zdjęcie klątwy
+– Klasa Pancerza: -4
+
+Wymagania:
+– Siła: 9
+
+Waga: 3~
+@2079 = ~Czaszka z kręgosłupem~
+@2080 = ~Kostur czaszki~
+@2081 = ~Ludzka czaszka z dołączonym kręgosłupem. Ścięgna spajające kręgi jeszcze nie zgniły, dzięki czemu całość zachowuje stabilność.~
+@2082 = ~„Kostur czaszki”
+Ten kostur zrobiono z ludzkiego kręgosłupa i czaszki. Przedmiot emanuje chłodem i nekromancją.
+
+PARAMETRY:
+
+Specjalne:
+– Użytkownik może raz dziennie przywołać grupę szkieletów
+
+Waga: 1~
+@2083 = ~Amulet przeciw złemu oku~
+@2084 = ~Ten emblemat przedstawia wielkie oko. Ma on zapobiegać sytuacji, w której demony z Otchłani dostrzegłyby czarownika podczas rzucania zaklęć przywołania i pojawiały się zamiast wezwanej istoty. W większości przypadków takie demony są wrogo nastawione i bez wahania atakują rzucającego. Aby amulet zadziałał, wystarczy trzymać go w ekwipunku – nie trzeba go zakładać.
+
+PARAMETRY:
+
+Specjalne:
+– Zapobiega pojawianiu się wrogich demonów w miejsce przywołanych istot
+– Działanie: wystarczy posiadać w ekwipunku
+
+Waga: 1~
+@2085 = ~Klucz Mocy: Sfery Złe~
+@2086 = ~Na tym medalionie widnieje wizerunek dziwnej istoty. Jest to Klucz Mocy, który pozwala kapłanom o złym charakterze rzucać czary w Otchłani. Choć sama Otchłań jest sferą zła, użycie takiego klucza jest niezbędne, aby moc bóstwa mogła tam dotrzeć i zamanifestować się w formie zaklęcia. Aby klucz zadziałał, wystarczy trzymać go w ekwipunku – nie trzeba go zakładać.
+
+PARAMETRY:
+
+Specjalne:
+– Zapobiega niepowodzeniu czarów kapłańskich rzucanych przez postacie o złym charakterze
+– Działanie: wystarczy posiadać w ekwipunku
+
+Waga: 1~
+@2087 = ~Klucz Mocy: Sfery Neutralne~
+@2088 = ~Na tym medalionie widnieje symbol nieznanego bóstwa. Jest to Klucz Mocy pozwalający neutralnym kapłanom rzucać czary w Otchłani. Ze względu na odległość dzielącą Otchłań od neutralnych Sfer Zewnętrznych, użycie klucza jest konieczne, by zaklęcie nie zakończyło się fiaskiem. Aby klucz zadziałał, wystarczy trzymać go w ekwipunku – nie trzeba go zakładać.
+
+PARAMETRY:
+
+Specjalne:
+– Zapobiega niepowodzeniu czarów kapłańskich rzucanych przez postacie o neutralnym charakterze
+– Działanie: wystarczy posiadać w ekwipunku
+
+Waga: 1~
+@2089 = ~Klucz Mocy: Sfery Dobre~
+@2090 = ~Ta statuetka przedstawia devę. Jest to Klucz Mocy, który umożliwia kapłanom o dobrym charakterze rzucanie czarów w Otchłani. Ze względu na dystans dzielący Otchłań od dobrych Sfer Zewnętrznych, posiadanie klucza jest wymagane, by zaklęcie odniosło skutek. Aby klucz zadziałał, wystarczy trzymać go w ekwipunku – nie trzeba go zakładać.
+
+PARAMETRY:
+
+Specjalne:
+– Zapobiega niepowodzeniu czarów kapłańskich rzucanych przez postacie o dobrym charakterze
+– Działanie: wystarczy posiadać w ekwipunku
+
+Waga: 1~
+@2091 = ~Klucz Czarów: Sfery Wewnętrzne~
+@2092 = ~Dzięki temu kluczowi użytkownik jest w stanie rzucać czary powiązane ze Sferami Wewnętrznymi. Jako że Sfery Zewnętrzne, takie jak Otchłań, nie mają bezpośredniego połączenia z Wewnętrznymi, magowie muszą posiłkować się przedmiotami stanowiącymi swego rodzaju łącznik. W tym konkretnym przypadku przedmiot przedstawia głowę żywiołaka ziemi wykrzywioną w grymasie. Klucza nie trzeba zakładać, wystarczy posiadać go w ekwipunku.
+
+PARAMETRY:
+
+Specjalne:
+– Zapobiega niepowodzeniu czarów żywiołów opartych na Sferach Wewnętrznych (np. Przywołanie żywiołaka)
+– Działanie: wystarczy posiadać w ekwipunku
+
+Waga: 6~
+@2093 = ~Krew devy~
+@2094 = ~Ciecz ta znajduje się w czerwonej fiolce. Jest to prawdziwa krew devy, pozyskana i zebrana podczas specjalnego rytuału. Zadaje 5k6 punktów obrażeń od kwasu przy trafieniu w inną istotę. Fiolką można rzucić na odległość około 12 metrów. Jako że nie jest to przedmiot magiczny, odporność na magię nie chroni przed skutkami kontaktu z płynem.
+
+PARAMETRY:
+
+Obrażenia: 5k6 od kwasu (połowa po rzucie obronnym przeciw zionięciom)
+Zasięg: 12 metrów
+
+Waga: 1~
+@2095 = ~Róg demona~
+@2096 = ~Róg demona tanar'ri, odrąbany od reszty biesa potężnym ciosem. Zdaje się, że może on posłużyć do otwarcia portalu prowadzącego do istoty polującej na tanar'ri.~
+@2097 = ~Papryka~
+@2098 = ~Papryka z Gehenny~
+@2099 = ~Ta duża, czerwona papryka o nieznanym ci pochodzeniu wydziela ognisty, przenikliwy aromat.~
+@2100 = ~Ta papryka pochodzi z mrocznej części wieloświata – sfery Gehenny, ojczyzny czartów i demonów. Nic więc dziwnego, że jej ostrość wykracza daleko poza wyobrażenia jakiegokolwiek śmiertelnika.~
+@2101 = ~Kula bebilitha~
+@2102 = ~Tę kulę należy w imieniu bebilitha umieścić przy posągu Graz'zta w Samorze. Dzięki temu demon będzie mógł przeteleportować się do miasta i siać w nim spustoszenie. Przedmiot może ci się przydać, jeśli kiedykolwiek przyjdzie ci uciekać z Samory w pośpiechu.~
+@2103 = ~Klucz do więzienia~
+@2104 = ~Klucz ten był w posiadaniu sukkuba Maretty. Służy do otwarcia wejścia do więzienia, w którym przetrzymywana jest Waukeen.~
+@2105 = ~Klucz do portalu~
+@2106 = ~Ten klucz pozwala ci powrócić do miasta Samora.~
+@2107 = ~Pentakl~
+@2108 = ~Do amuletu przytwierdzony jest odwrócony pentagram, pięcioramienna gwiazda. Podczas gdy pentagramy skierowane w górę służą często jako znak ochronny, forma odwrócona jest faworyzowana przez istoty ze Sfer Niższych. Mówi się, że tego typu amulety pozwalają na dostęp do miejsc zakazanych. Ten konkretny egzemplarz zdaje się być powiązany z zielonymi ognistymi piecami w Samorze. Sukkub Maretta z Izby Obrachunkowej chce go odzyskać.
+
+PARAMETRY:
+
+Specjalne:
+– Użytkownik jest odporny na strach
+
+Właściwości ładunków:
+– Neutralizacja trucizny, raz dziennie
+
+Waga: 1~
+@2109 = ~Do amuletu przytwierdzony jest odwrócony pentagram, pięcioramienna gwiazda. Ten specjalny talizman zaprojektowano tak, aby umożliwić przejście przez ogniste piece w królestwie Graz'zta. Jeśli wiesz, jak go użyć, zapewni ci dostęp do więzienia, w którym znajduje się Waukeen.
+
+PARAMETRY:
+
+Specjalne:
+– Użytkownik jest odporny na strach
+
+Właściwości ładunków:
+– Neutralizacja trucizny, raz dziennie
+
+Waga: 1~
+@2110 = ~Głowa generała baatezu~
+@2111 = ~To głowa Gazgothana, generała baatezu, diabła z rzędu kornugonów. Miał szczęście, że zginął z twojej ręki – gdyby wrócił do Dziewięciu Piekieł z wieściami o klęsce, spotkałby go znacznie gorszy los. Masz dostarczyć tę głowę do Samory jako trofeum, by dowieść zwycięstwa nad wrogami miasta demonów. To z pewnością podniesie twoją reputację.~
+@2112 = ~Ozdobny kielich~
+@2113 = ~Kielich ten na pierwszy rzut oka wygląda na cenny. Jednak przy bliższych oględzinach okazuje się, że klejnoty to tylko szlifowane szkło, a metal jest marnym stopem.~
+@2114 = ~Przyzwanie modronów~
+@2115 = ~Przyzwanie modronów
+(Sprowadzanie/Przywoływanie)
+
+Poziom: 3
+Zasięg: pole widzenia rzucającego
+Czas działania: 4 tury
+Czas rzucania: 3
+Obszar działania: w promieniu 15 metrów
+Rzut obronny: brak
+
+W ciągu jednej rundy od rzucenia tego czaru mag przywołuje 4 monodrony (modrony pochodzące ze sfery zewnętrznej, Mechanusa). Monodrony pojawiają się w dowolnym miejscu w obszarze działania czaru, wskazanym przez maga. Będą atakować wrogów czarodzieja najlepiej jak potrafią, dopóki ten nie nakaże im przestać, czas działania czaru nie dobiegnie końca lub istoty nie zginą. Stworzenia te nie wykonują testów morale, a po śmierci znikają. Jeśli w pobliżu nie ma żadnych przeciwników, modrony mogą świadczyć inne usługi, o ile mag potrafi się z nimi porozumieć, a one są fizycznie zdolne do ich wykonania. Zaklęcie to spopularyzował mag Argramund ze Skały, którego obecne miejsce pobytu nie jest znane.
+
+Monodron:
+Inteligencja: niska (2-4)
+Klasa Pancerza: 7
+Kostki Wytrzymałości: 1+1
+TraK0: 19 lub 20
+Liczba ataków: 1
+Obrażenia: 1k4
+Wartość PD: 120
+
+Walka: Monodrony są odporne na iluzje oraz magię wpływającą na umysł, taką jak zauroczenie, dominacja, unieruchomienie, paraliż czy uśpienie. Strach i inne czary oddziałujące na emocje są wobec modronów równie bezskuteczne, podobnie jak ataki czerpiące ze Sfer Pozytywnej i Negatywnej Energii (w tym wyssanie poziomów) oraz zdolności illithidów i innych istot psionicznych.~
+
+@2116 = ~Zapieczętowana wiadomość~
+@2117 = ~Naczynie to składa się z dwóch części, spojonych w nieznany ci sposób. Otwarcie go przekracza twoje możliwości. Z polecenia nalfeshnee Margroga masz dostarczyć ten pojemnik istocie imieniem „Aful”. Czeka ona na Nieskończonych Schodach, niedaleko przejścia prowadzącego do Samory.~
+@2118 = ~Larwa~
+@2119 = ~Tę larwę kupiłeś od nocnej wiedźmy Zhelamiss. Nalfeshnee Margrog domaga się jej wydania, zanim wyjawi ci cokolwiek na temat miejsca pobytu Waukeen.~ ~Tę larwę kupiłaś od nocnej wiedźmy Zhelamiss. Nalfeshnee Margrog domaga się jej wydania, zanim wyjawi ci cokolwiek na temat miejsca pobytu Waukeen.~
+@2120 = ~Zabezpieczenie~
+@2121 = ~Ten kwit uprawnia do odebrania larwy. Otrzymałeś go od nocnej wiedźmy Zhelamiss i powinieneś zanieść go jej słudze Saarixalowi, który czeka przy wyjściu z jej siedziby, tuż obok larw.~ ~Ten kwit uprawnia do odebrania larwy. Otrzymałaś go od nocnej wiedźmy Zhelamiss i powinnaś zanieść go jej słudze Saarixalowi, który czeka przy wyjściu z jej siedziby, tuż obok larw.~
+@2122 = ~Klucz Czarów: Przemiany~
+@2123 = ~Ten klucz pozwala magom bezpiecznie rzucać zaklęcia ze szkoły przemian w Otchłani, gdzie w przeciwnym razie istnieje wysokie ryzyko, że czar wymknie się spod kontroli i przyniesie opłakane skutki dla rzucającego.
+
+PARAMETRY:
+
+Specjalne:
+– Pozwala rzucającemu bez ryzyka używać czarów ze szkoły Przemian w Otchłani
+– Działanie: wystarczy posiadać w ekwipunku
+
+Waga: 6~
+@2124 = ~Święta Moneta Waukeen~
+@2125 = ~Ten amulet ofiarowała ci bogini Waukeen w dowód wdzięczności za uwolnienie jej z rąk księcia demonów Graz'zta. Ten potężny przedmiot pochodzi z legendarnego płaszcza z monet, który Panna Moneta zawsze nosi na ramionach. Jedna z tych monet, mocą jej woli, została przekształcona w ten wspaniały amulet i podarowana tobie.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na magię: +20%
+– Rzuty obronne: +2
+– Charyzma: +2
+– Ochrona przed śmiercią: chroni przed skutkami takich czarów jak Zawodzenie banshee czy Słowo mocy: śmierć
+– Raz dziennie użytkownik może stworzyć 1k100 sztuk złota
+
+Waga: 1~
+@2126 = ~Ludzkie serce~
+@2127 = ~To ludzkie serce. Wygląda na świeże, krew jeszcze nie zdążyła zakrzepnąć.~
+@2128 = ~Klucz do celi~
+@2129 = ~Klucz odebrany marilith Nasmaerae. Otwiera wszystkie cele w lochach Graz'zta.~
+@2130 = ~Klucz Maretty~
+@2131 = ~Klucz ten należał niegdyś do sukkuba Maretty, władczyni Samory. Najprawdopodobniej otwiera drzwi prowadzące do wyjścia z lochów Graz'zta.~
+@2132 = ~Klucz do sejfu w Złotych Iglicach~
+@2133 = ~Ukradłeś ten klucz Faerthae Garblueth, kapłance pełniącej służbę w Złotych Iglicach. Powinieneś zanieść go złodziejowi imieniem Maendir.~ ~Ukradłaś ten klucz Faerthae Garblueth, kapłance pełniącej służbę w Złotych Iglicach. Powinnaś zanieść go złodziejowi imieniem Maendir.~
+@2134 = ~Alembik witalizacji~
+@2135 = ~Alembik to alchemiczne urządzenie służące do wytwarzania esencji. Główną część tego przyrządu stanowi miedziany kocioł. Raz dziennie magia przedmiotu budzi się do życia – wśród delikatnego bulgotu alembik zbiera energię życiową z otoczenia i destyluje ją w swym wnętrzu. Energie te łączą się w miksturę leczniczą, z której poszukiwacz przygód może korzystać każdego dnia.
+
+PARAMETRY:
+
+Specjalne:
+– Raz dziennie tworzy skoncentrowaną miksturę leczniczą
+
+Waga: 15~
+@2136 = ~Alembik~
+@2137 = ~Miedziany kociołek służący do wytwarzania nieznanej esencji.~
+@2138 = ~Talizman ciemności~
+@2139 = ~Talizman ten, należący wcześniej do nocnej wiedźmy Zhelamiss, jest typowym przedmiotem noszonym przez przedstawicielki jej gatunku. Wykuty na Szarych Pustkowiach, leczy każdą chorobę swego właściciela i zapewnia premię +2 do wszystkich rzutów obronnych. Nocne wiedźmy używają tych amuletów, aby stawać się eterycznymi i nawiedzać sny śmiertelników, często dusząc swoje śpiące ofiary. Stworzenie takiego talizmanu trwa miesiąc i wymaga poświęcenia stu dusz, co czyni go niezwykle cennym. Postacie o dobrym charakterze nie mogą go używać.
+
+PARAMETRY:
+
+Specjalne:
+– Rzuty obronne: +2
+– Ochrona przed chorobami
+
+Właściwości ładunków:
+– Eteryczność, raz dziennie
+Specjalne: noszący staje się podatny jedynie na ataki magiczne lub specjalne, w tym na broń o umagicznieniu +1 lub wyższym, zyskuje również 25% odporności na obrażenia magiczne
+Czas działania: 3 rundy
+
+Waga: 1~
+@2140 = ~Szata oczu~
+@2141 = ~To cenne odzienie prezentuje się nader osobliwie, zdobią je bowiem liczne oczy wyhaftowane i naszyte na materiał tak, by spoglądały w każdym możliwym kierunku. Dzięki nim użytkownik jest w stanie widzieć wszystko, co dzieje się wokół niego.
+Szata nie pozwala dostrzec istot astralnych ani eterycznych, lecz sprawia, że postacie ukryte w cieniu lub zamaskowane magią stają się łatwe do wykrycia. Uniemożliwia to zaskoczenie lub zajście od tyłu osoby noszącej ten ubiór. Właściciel Szaty oczu zyskuje również całkowitą odporność na ślepotę.
+Co więcej, szata pozwala aktywować jedno z oczu, by zbadać otoczenie lub rzucić zaklęcie Prawdziwego widzenia. Każdorazowe użycie tej mocy zużywa jeden ładunek. Gdy wszystkie oczy zostaną wykorzystane, szata nadal zapewnia stałe premie, lecz traci zdolność rzucania wspomnianych czarów.
+
+PARAMETRY:
+
+Specjalne:
+– Noszący jest odporny na ciosy w plecy
+– Niewrażliwość na oślepienie
+
+Właściwości ładunków:
+– Prawdziwe widzenie (jak czar maga z 6 poziomu)
+– Czarodziejskie oko (jak czar maga z 4 poziomu)
+
+Waga: 4~
+@2142 = ~Skóra czerwia~
+@2143 = ~Skóra czerwia to zbroja skórzana pokryta rojem larw, które wiją się w niekończących się splotach na ciele właściciela.
+
+Pancerz ten zapewnia zwiększoną odporność na obrażenia, lecz ceną za to jest nieustanny rozkład i smród. Czerwie zaczynają przenikać pod skórę użytkownika, wijąc się w jego żyłach i pożerając tkanki, co sprawia, że nieszczęśnik marnieje w oczach i budzi powszechną odrazę.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na obrażenia fizyczne: +20%
+– Przy każdym trafieniu przeciwnik otrzymuje 5 punktów obrażeń od ukąszeń czerwi oraz musi wykonać rzut obronny przeciw śmierci (niepowodzenie oznacza zarażenie chorobą zadającą 5 punktów obrażeń na rundę przez 5 kolejnych rund)
+– Charyzma: -2
+– Kondycja: -2
+
+Klasa Pancerza: 4 (-2 przeciw broniom siecznym, -1 przeciw broniom kłutym i pociskom)
+
+Wymagania:
+– Siła: 6
+
+Waga: 7~
+@2144 = ~Kościana wekiera~
+@2145 = ~Wykuta w ogniu tragedii, wekiera ta jest ucieleśnieniem zepsucia. Powstała po śmierci paladyna, który poległ w walce z demonami na Tanatos – plugawym poziomie Otchłani. Jego czaszka, odrąbana i przeklęta podczas mrocznych rytuałów, stanowi teraz głownię tej niegodziwej broni.
+
+Oręż pozwala wysysać siły życiowe z ofiary i przekazywać je posiadaczowi. Ponadto czaszka kąsa trafionego przeciwnika – uścisk jej szczęk nie zadaje wielkich ran, lecz jest nadzwyczaj bolesny.
+
+PARAMETRY:
+
+Specjalne:
+– 25% szans na wyssanie ofierze jednego punktu Siły i przekazanie go użytkownikowi przy trafieniu (efekt kumuluje się i trwa pięć rund)
+
+Obrażenia: 1k6 +3, +1 obrażenie kłute
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 7
+Rodzaj biegłości: wekiera
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 3~
+@2146 = ~Mikstura odkupienia~
+@2147 = ~Ta mroczna, połyskująca mikstura emanuje tajemniczą aurą i jest pełna unoszących się, świetlistych bąbelków. Krążą pogłoski, że to esencja nasycona łzami aasimonów, co tłumaczyłoby jej blask. Eliksir ma słodki, choć podszyty goryczą smak. Posiada on moc przywracania utraconych sił życiowych. Postać, która go wypije, odzyska utracone poziomy doświadczenia i pozbędzie się negatywnych skutków ich wyssania.
+
+PARAMETRY:
+
+– Rzuca czar Pomniejsze przywrócenie~
+@2148 = ~Róg dobrej woli~
+@2149 = ~Wykuty w murach lśniącej Wyższej Akademii Fochlucan w Silverymoon, ten brązowy róg z ustnikiem wyrzeźbionym z rogu jednorożca jest czymś więcej niż zwykłym instrumentem. Stworzony przez wizjonerskich bardów przy użyciu magicznych składników, stanowi manifestację czystego dobra. Gdy się weń zadmie, płynąca zeń melodia tworzy świetlistą tarczę chroniącą przed złem.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Ochrona przed złem, raz dziennie
+Czas działania: 1 tura na poziom
+Obszar działania: w promieniu 4,5 metra
+
+Waga: 3~
+@2150 = ~Amulet przywoływacza~
+@2151 = ~„Amulet przywoływacza”
+Przed wiekami, gdy zasłona między sferami była cienka niczym szept, a nurty magii płynęły nieskrępowane, słynny przywoływacz Kaelarion stworzył ten amulet. Przedmiot służył mu do prowadzenia kręgów magów przez zdradliwe ścieżki między sferami. Los okazał się jednak przewrotny – podczas ryzykownego wezwania glabrezu, zdrada ucznia doprowadziła do śmierci Kaelariona. Demon, w akcie okrutnej wzajemności, porwał wiarołomnego ucznia wraz z amuletem w mroczne otchłanie swojego świata.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +2
+– Rzuty obronne: +2
+– Noszący znajduje się pod stałym działaniem czaru Ochrona przed złem
+
+Waga: 1~
+@2152 = ~Szyszka Drzewa Świata~
+@2153 = ~Wierzy się, że ta szyszka to nasiono Drzewa Świata, choć potwierdzić to mógłby jedynie mieszkaniec tamtych krain. W każdym razie, po zjedzeniu zapewnia ona sporą dawkę witalności, co objawia się tymczasowym zwiększeniem liczby punktów życia. Szyszki można używać raz dziennie, gdyż nasiona odrastają w ciągu nocy.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Punkty życia: +10% (do bazowej wartości), raz dziennie
+Czas działania: 10 rund
+
+Waga: 1~
+@2154 = ~Mikstura rozdzierających wspomnień~
+@2155 = ~Ten mętny, cuchnący wywar przywołuje utracone, ulotne wspomnienia. Pozwala to czarownikom przypomnieć sobie rzucone już zaklęcia, by móc użyć ich ponownie. Mikstura nie należy jednak do lekkostrawnych – wręcz przeciwnie, jest skrajnie toksyczna. Co więcej, gwałtowny powrót wspomnień może wywołać u pijącego przejściowy stan pomieszania zmysłów.
+
+PARAMETRY:
+
+– Przywraca czar poziomu 8. lub niższego
+– Pijący zostaje zatruty na 10 sekund (otrzymuje 2 punkty obrażeń na sekundę)
+– Pijący wpada w stan pomieszania na trzy rundy (rzut obronny przeciw czarom neguje)
+
+Waga: 1~
+@2156 = ~Niemowlę Daemevery~
+@2157 = ~To dziecko sukkuba Daemevery, samo będące rodzajem demona, które z czasem najpewniej dojrzeje i stanie się alu-biesem. Spogląda na ciebie ponuro swoimi jasnoniebieskimi ślepiami, w których czai się czysta złośliwość. Masz dostarczyć niemowlę Mefistowi w zamian za wskazanie sposobu na pozbycie się Gildaara, kapłana Cyrica.~
+@2158 = ~Klucz Daemevery~
+@2159 = ~To osobliwy klucz, przypominający połączenie bicza z grzechotką.~
+@2160 = ~Butelka wody ze Styksu~
+@2161 = ~Naczynie zawierające mroczne wody Styksu wygląda nader zwyczajnie – nie zdradza swego nadnaturalnego pochodzenia ani niszczycielskiej mocy zapomnienia.
+Sama flasza jest wykonana z przezroczystego szkła. Wewnątrz przelewa się leniwie nieprzejrzysta, czarna ciecz, mętna niczym smoła. Woda zdaje się pochłaniać nawet światło, a dostrzeżenie dna butelki jest niemożliwe. To woda z rzeki Styks, płynącej przez Sfery Niższe. Kontakt z tym płynem wywołuje nieuleczalną amnezję, a ci, którzy go wypiją, ryzykują bezpowrotną utratę pamięci i własnej tożsamości.~
+@2162 = ~Bęben Otchłani~
+@2163 = ~Bęben Otchłani został stworzony z samej esencji tej mrocznej sfery. Ten kocioł, wykonany z ciemnej, utwardzonej skóry, wspiera się na podstawie zdobionej uciętą głową wilka, zastygłą w wiecznym grymasie agonii. Jego ślepia jarzą się złowrogą żółcią, a futro pokrywają wypaczone runy wiążące przedmiot z Otchłanią.
+
+Uderzenie w bęben wywołuje potężny, otchłanny huk, który raz na sześć dni pozwala przywołać glabrezu Belthazaara. Podczas gry głowa wilka rozbłyska, a wokół instrumentu wiją się cienie zwiastujące nadejście biesa. Belthazaar jest jednak istotą przebiegłą i upartą – zamiast naginać się do woli przyzywającego, zawsze stara się realizować własne, mroczne plany.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Przywołuje glabrezu Belthazaara, który służy przyzywającemu przez jedną minutę, lecz nie można go bezpośrednio kontrolować
+Specjalne: instrumentu można używać codziennie, lecz Belthazaar odpowie na wezwanie tylko co szósty dzień
+
+Waga: 1~
+@2164 = ~Bęben~
+@2165 = ~Dziwnie wyglądający taraban.~
+@2166 = ~Sztylet Belthazaara~
+@2167 = ~To sztylet, który przekazał ci glabrezu Belthazaar. Masz sprawić, by Ormad Sulpar zranił się tym ostrzem.~
+@2168 = ~Poduszka nocnej wiedźmy~
+@2169 = ~Masz dostarczyć tę poduszkę Ormadowi Sulparowi. Jeśli zakryje nią twarz, udusi się, a jego dusza należeć będzie do nocnej wiedźmy Zhelamiss, która obiecała ci nagrodę za ten podły czyn.~
+@2170 = ~Mikstura dziesięciu tysięcy dusz~
+@2171 = ~Mikstura dziesięciu tysięcy dusz to mroczny i niebezpieczny eliksir uwarzony przez nocną wiedźmę Zhelamiss. Fiolka ma głęboki, czarny kolor, a jej wnętrze zdaje się wypełniać niekończący się wir cieni i mgły. Szkło naczynia gęsto pokrywają drobne pęknięcia, jak gdyby z trudnością wytrzymywało ono ogromny napór uwięzionych wewnątrz dusz. Srebrna zatyczka została ozdobiona dziwnymi, niepokojącymi symbolami.
+
+Mikstura stanowi potężne źródło mocy i wiedzy. Po jej wypiciu użytkownik natychmiast zyskuje 10 000 punktów doświadczenia, co pozwala na gwałtowny rozwój zdolności i umiejętności. Ów przypływ mądrości może sprawić, że postać przekroczy własne ograniczenia w sposób wcześniej niewyobrażalny. Potęga ta ma jednak swoją cenę. Doświadczenie to nie wzięło się znikąd – zostało wyssane z dusz dziesięciu tysięcy zmarłych osób, które nocna wiedźma schwytała, a następnie poddała destylacji. Dusze te są uwięzione w eliksirze na wieki, niemo krzycząc o wolność. Pijąc miksturę, wchłaniasz je wszystkie wraz z całym bagażem ich przeżyć.
+
+Tylko od pijącego zależy, czy poczucie winy i mrok wynikające ze świadomości, że czyjeś istnienie zostało poświęcone dla jego własnych korzyści, będą go dręczyć do końca dni.
+
+PARAMETRY:
+
+Specjalne:
+– Natychmiast zapewnia użytkownikowi 10 000 punktów doświadczenia
+
+Waga: 1~
+@2172 = ~otrzymuje 10 000 punktów doświadczenia.~
+@2173 = ~Notatka Gildaara~
+@2174 = ~Gildaarze,
+misja ratunkowa bogini zdaje się nabierać rozpędu. Z podsłuchanych rozmów wynika, że osoba imieniem <CHARNAME> prowadzi wybawicieli w górę Nieskończonych Schodów, by dotrzeć do Samory w Azzagracie. Dopilnuj, aby ta wyprawa zakończyła się niepowodzeniem, a hojnie cię wynagrodzę – gdy tylko zostanę panią opactwa, po tym jak ten stary ramol, Tharundar Olehm, straci łaskę swoich wiernych.~
+@2175 = ~Szyszka~
+@2176 = ~Duża, intensywnie pachnąca szyszka sosny. Jest zaskakująco ciężka.~
+@2177 = ~Berło śmierci~
+@2178 = ~Do tego kostura przytwierdzono czaszkę nabassu. Mimo że oczodoły demona są puste, odnosi się wrażenie, że czaszka świdruje wzrokiem każdą napotkaną istotę. Przedmiot powstał w bezkresnych, chaotycznych głębiach Otchłani, gdzie panuje zło i mrok. Jego pochodzenie i historia stworzenia owiane są grozą.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Raz dziennie może przemienić humanoidalną istotę o liczbie Kostek Wytrzymałości nie większej niż 8 w ghasta (rzut obronny przeciw śmierci na koniec rundy neguje)
+Specjalne:
+– Nie działa na humanoidy o liczbie Kostek Wytrzymałości równej 9 lub większej
+– Nie działa na istoty inne niż humanoidalne (np. aberracje, nieumarłych czy smoki)
+Zasięg: 1,5 metra
+Czas działania: na stałe
+Obszar działania: 1 istota
+Rzut obronny: neguje
+
+Wymagania:
+– Inteligencja: 9
+
+Waga: 1~
+@2179 = ~Diadem fey'ri~
+@2180 = ~Ten diadem, wykuty przez fey'ri – demoniczne hybrydy tanar'ri i elfów – zdobi czerwony klejnot nasycony krwią wielu złożonych w ofierze pobratymców. Artefakt sprawia, że na plecach użytkownika wyrastają czarne skrzydła, oraz zapewnia mu liczne odporności, odzwierciedlając demoniczne dziedzictwo twórców.
+
+Cechy te budzą odrazę u większości mieszkańców Krain. Postacie o dobrym charakterze muszą wykonać rzut obronny przeciw polimorfii w chwili założenia przedmiotu. Niepowodzenie oznacza ulegnięcie demonicznym wpływom i zmianę charakteru na chaotyczny zły.
+
+Jako przedmiot fey'ri diadem może być noszony wyłącznie przez elfy i półelfy. Wierzy się, że fey'ri używają go, by przeciągać swoich elfich krewniaków na stronę ciemności.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na ogień: +50%
+– Odporność na elektryczność: +50%
+– Odporność na trucizny: +50%
+– Postacie o dobrym charakterze stają się chaotyczne złe przy pierwszym założeniu diademu (rzut obronny przeciw polimorfii neguje)
+– Charyzma: -5
+– Użytkownikowi wyrastają czarne skrzydła, upodabniające go do istot z Otchłani
+– Nie chroni przed trafieniami krytycznymi
+
+Waga: 2~
+@2181 = ~Krzyk rozpaczy~
+@2182 = ~Ta zbroja płytowa została uformowana na kształt wykrzywionej w grymasie twarzy biesa.
+
+PARAMETRY:
+
+Specjalne:
+– 5% szans, że po otrzymaniu trafienia w walce na noszącego zostanie rzucone zaklęcie Płaszcz strachu
+
+Klasa Pancerza: 0 (-4 przeciw broniom siecznym, -3 przeciw broniom kłutym i pociskom)
+
+Wymagania:
+– Siła: 15
+
+Waga: 35~
+@2183 = ~Insygnia rodu Val'kreena~
+@2184 = ~Insygnia Val'kreena z rodu Dlardrageth~
+@2185 = ~Ta okrągła plakietka jest ozdobiona wizerunkiem uskrzydlonej istoty. Inskrypcja na odwrocie głosi: „Insygnia stanowiące własność Val'kreena, fey'ri”.~
+@2186 = ~Ta plakietka stanowi symbol rodu Dlardrageth – dynastii demonicznych elfów znanych jako fey'ri. Istoty te są hybrydami tanar'ri oraz elfów i niewiele już dzielą ze swymi szlachetnymi przodkami, uchodzą bowiem za okrutne i bezlitosne. Inskrypcja na odwrocie głosi: „Insygnia stanowiące własność Val'kreena, fey'ri”.~
+@2187 = ~Rozpruwacz diabłów~
+@2188 = ~Tę halabardę stworzono w jednym celu: by unicestwiać mieszkańców Dziewięciu Piekieł, którzy mienią się baatezu, a przez śmiertelników zwani są diabłami. Tę surową, lecz skuteczną broń zaklęli kowale tanar'ri z Otchłani, by zadawała dotkliwe rany ich odwiecznym wrogom.
+
+PARAMETRY:
+
+Obrażenia: 1k10 +3, +6 przeciw baatezu
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 6
+Rodzaj biegłości: halabarda
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 13
+
+Waga: 12~
+@2189 = ~Rzeźbiarz ciała +3~
+@2190 = ~Ta maczuga jest pokryta ludzką skórą, którą zszyto ścięgnami jakiegoś nieznanego stworzenia, tworząc tę upiorną broń. Jak każda maczuga, nie zadaje ona wielkich obrażeń, lecz z każdym ciosem potrafi wypaczyć kształt ofiary. Powoduje to potworny ból oraz trwałą utratę zręczności i charyzmy, którą można cofnąć jedynie za pomocą rozproszenia magii.
+
+PARAMETRY:
+
+Specjalne:
+– Każde trafienie wypacza kształt ofiary, powodując kumulatywną utratę jednego punktu Zręczności i Charyzmy (rzut obronny przeciw polimorfii neguje; zmiana ta jest trwała, dopóki nie zostanie skutecznie rozproszona; jeśli któryś z atrybutów spadnie do 0, ofiara rozpada się w bezkształtną masę i ginie)
+
+Obrażenia: 1k6 +3
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 4
+Rodzaj biegłości: maczuga
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+@2191 = ~Przebijacz serc~
+@2192 = ~W mrocznych kuźniach Otchłani od zarania dziejów wykuwa się oręż służący do torturowania śmiertelników, a ta włócznia – zwana „Przebijaczem serc” – nie jest wyjątkiem. Krążą pogłoski, że wytopiono ją z mrocznego żelaza i nasycono mocą uwięzionych dusz poprzez krwawe rytuały. Jako grotu użyto zęba potężnego, upadłego demona.
+
+PARAMETRY:
+
+Specjalne:
+– Trafiona ofiara zaczyna krwawić i otrzymuje dodatkowe 2k4 obrażeń kłutych (rzut obronny przeciw śmierci neguje)
+
+Obrażenia: 1k6 +3
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 3
+Rodzaj biegłości: włócznia
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+@2193 = ~Wiecznie płonące gwiazdy Selûne~
+@2194 = ~Te srebrne bransolety, znane jako Wiecznie płonące gwiazdy Selûne, mają za zadanie prowadzić i chronić właściciela podczas najmroczniejszych nocy, osłaniając go nawet przed najgroźniejszymi cieniami. Legenda głosi, że klejnoty zdobiące oba naramienniki to skrystalizowane łzy uronione przez samą Srebrną Panią.
+
+PARAMETRY:
+
+Specjalne:
+– Ochrona przed oślepieniem
+– Ochrona przed czarem Kula ciemności
+– Klasa Pancerza i rzuty obronne: +2 przeciw cieniom
+– Raz dziennie niszczy jeden wskazany cień
+
+Właściwości ładunków:
+– Pomoc (jak czar kapłana z 2 poziomu), raz dziennie
+
+Waga: 1~
+@2195 = ~Puchar~
+@2196 = ~Puchar Selûne~
+@2197 = ~Piękny puchar z wygrawerowanymi symbolami gwiazd.
+
+Waga: 2~
+@2198 = ~To święte naczynie należące do Selûne. Napicie się z niego może zapewnić ochronę Księżycowej Panny.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Napicie się z Pucharu Selûne losowo zapewnia jeden z dwóch efektów: Ochronę przed złem lub Sanktuarium
+
+Waga: 2~
+@2199 = ~Kostur słodkiego rozkładu~
+@2200 = ~Ten kostur należał niegdyś do byłej kochanki Graz'zta. Choć broń ta mogła być niegdyś symbolem potęgi natury, dziś jest jedynie wypaczoną karykaturą samej siebie. Pokrywa ją dziwny, słodko pachnący śluz, a nieliczne wyrastające z niej liście mają chorobliwą barwę. U podstawy kostura widać rosnącą grzybnię.
+
+Mówi się, że słodkie toksyny sączące się z drewna mają odurzające właściwości, które nadają posiadaczowi specyficzny urok, a grzybnia pozwala przywoływać mykonidy.
+
+PARAMETRY:
+
+Specjalne:
+– Charyzma: +1
+– Szczęście: +1
+
+Właściwości ładunków:
+– Przywołanie grzybów, raz dziennie
+
+Obrażenia: 1k6 +3, +1 od kwasu
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 2~
+@2201 = ~Hełm rycerza-zabójcy~
+@2202 = ~Hełm ten należał niegdyś do rycerza Vlasnisza, który opuścił swe bractwo, gdy towarzysze odwrócili się od niego w chwili próby. Rycerz ów poświęcił życie zemście za śmierć swej ukochanej, Vracl, którą z nienawiści zgładziła pewna szlachcianka.
+
+Vlasnisz uznał, że morderstwo to nie może zostać zapomniane ani wybaczone. Sam stał się bestią, lecz po utracie najdroższej osoby nie potrafił już kroczyć inną ścieżką.
+
+PARAMETRY:
+
+Specjalne:
+– TraK0: +1 do walki wręcz
+– Modyfikator ciosu w plecy: +1
+– Chroni przed trafieniami krytycznymi
+– Można zdjąć tylko po rzuceniu czaru Zdjęcie klątwy
+
+Waga: 2~
+@2203 = ~Krwiożerca +2~
+@2204 = ~Ta żarłoczna średnia tarcza, zwana Krwiożercą, jest owiana legendami. Mówi się, że gdy jej obicie spłynie krwią posiadacza, zyskuje ona nadprzyrodzoną moc, zapewniając potężną ochronę przed wieloma zagrożeniami.
+
+PARAMETRY:
+
+Specjalne:
+– Inteligencja: +1
+– Klasa Pancerza: +3
+– Jeśli punkty życia posiadacza spadną poniżej 25% maksymalnej wartości, zyskuje on dodatkową premię +2 do Klasy Pancerza oraz +1/2 ataku na rundę
+
+Wymagania:
+– Siła: 12
+
+Waga: 5~
+@2205 = ~Flasza błyskawic~
+@2206 = ~To naczynie służyło do chwytania piorunów. Plotka głosi, że gnomy z Lantan podejmują się tego niebezpiecznego zadania, wlatując swoimi podniebnymi statkami prosto w serce burzy. Po otwarciu flaszy następuje wyładowanie uwięzionej energii, która może porazić do sześciu celów jednocześnie. Gdy błyskawice opuszczą pojemnik, staje się on bezużyteczny. Skomplikowany mechanizm otwierania wymaga od użytkownika odrobiny wiedzy technicznej oraz sprawnej dłoni – w końcu gnomy nie bez powodu uchodzą za genialnych wynalazców.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Sześć Błyskawic
+Obrażenia: 3k6 od elektryczności (połowa po rzucie obronnym przeciw różdżkom)
+Zasięg: 33 metry
+Obszar działania: wszystko na drodze błyskawicy
+
+Wymagania:
+– Inteligencja: 9
+– Zręczność: 13
+
+Waga: 1~
+@2207 = ~Przeklęty nieudacznik~
+@2208 = ~„Przeklęty nieudacznik” to miecz półtoraręczny wykuty przez kowala, który pragnął stworzyć broń niezwykłej potęgi. Zbyt pewny swych umiejętności, wezwał na pomoc demony, by nadały głowni niespotykaną precyzję i moc. Jednakże przy pierwszym niepowodzeniu w walce, miecz sam ogłosił się „Przeklętym nieudacznikiem” i zniknął, teleportując się w losowe miejsce w wieloświecie zaraz po tym, jak jego pan chybił celu.
+
+Od tamtej pory ostrze powtarza ten sam schemat. Pojawia się, by zaraz potem zniknąć, gdy tylko dzierżący go wojownik spudłuje lub popełni krytyczny błąd – miecz nieustannie szuka „godnego” mistrza fechtunku. Ponieważ każdy śmiertelnik czasem się myli, jasne jest, że klinga ta wciąż nie znalazła stałego właściciela. Lista jej poprzednich panów jest równie długa, co lista wrogów, których zgładziła. Rozsądny wojownik powinien dwa razy się zastanowić, zanim zaufa tej broni, bowiem istnieje wysokie ryzyko, że w samym środku bitwy nagle zostanie z pustymi rękami.
+
+PARAMETRY:
+
+Specjalne:
+– Gdy użytkownik chybi w walce, miecz znika z jego dłoni i teleportuje się w losowe miejsce w wieloświecie
+
+Obrażenia: 2k4 +5
+TraK0: +5
+Typ obrażeń: sieczne
+Opóźnienie: 3
+Rodzaj biegłości: miecz półtoraręczny
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 11
+
+Waga: 5~
+@2209 = ~Płonąca wizja~
+@2210 = ~Jeśli wierzyć legendom, był to niegdyś zwykły pierścień infrawizji. Ten konkretny egzemplarz należał jednak do ludzkiego łowcy, który został wciągnięty do Dziewięciu Piekieł i spalony żywcem przez tamtejsze bestie. Mówi się, że gdy krzyczał z bólu, jego cierpienie zmieszało się z ogniem, powodując pęknięcie klejnotu. Zawarta w nim magia zaczęła płonąć, na zawsze zmieniając naturę przedmiotu.
+
+PARAMETRY:
+
+Specjalne:
+– Infrawizja: 40 metrów
+– Odporność na ogień: +10%
+– Odporność na zimno: +10%
+– Za każdym razem, gdy użytkownik kogoś zabije, otrzymuje +6% do odporności na ogień i zimno na 3 rundy; istnieje również 25% szans, że otrzyma w tym czasie premię +1 do rzutów obronnych przeciw śmierci
+
+Waga: 0~
+@2211 = ~Orzeł +3~
+@2212 = ~Ten miecz krótki +3, podobnie jak jego bliźniak „Reszka”, należał do wybrańców bóstwa bogactwa zwanego Kol Korranem. Bóstwo to czczone jest przez uczciwych kupców, ale także przez złodziei i krętaczy zajmujących się brudnymi interesami. O broniach tych krążą liczne podania. Niektórzy twierdzą, że zostały wykute z wielkiej złotej monety pochodzącej z osobistego skarbca Pana Świata i Bogactwa. Moneta ta została rozdzielona na pół, tworząc dwa odmienne ostrza.
+
+Choć miecz sam w sobie posiada potężne umagicznienie, jest nierozerwalnie związany ze swym bliźniakiem. Jeśli włada się nim samodzielnie, zdradza właściciela i „pożera” jego złoto. Głownia jest zawsze ciepła w dotyku.
+
+Jeśli ufać legendom, oba miecze zostały niegdyś skradzione przez demoniczne byty.
+
+PARAMETRY:
+
+Specjalne:
+– Charyzma: +2
+– Szczęście: +1
+– Klasa Pancerza i rzuty obronne: +2 przeciw złodziejom
+– Każde trafienie zadane posiadaczowi niszczy 10 sztuk złota, chyba że włada on jednocześnie bliźniaczym ostrzem: Reszka +3
+– Traktowany jak broń +4
+
+Obrażenia: 1k6 +3, +1 od ognia
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: miecz krótki
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 2~
+@2213 = ~Reszka +3~
+@2214 = ~Ten miecz krótki +3, podobnie jak jego bliźniak „Orzeł”, należał do wybrańców bóstwa bogactwa zwanego Kol Korranem. Bóstwo to czczone jest przez uczciwych kupców, ale także przez złodziei i krętaczy zajmujących się brudnymi interesami. O broniach tych krążą liczne podania. Niektórzy twierdzą, że zostały wykute z wielkiej złotej monety pochodzącej z osobistego skarbca Pana Świata i Bogactwa. Moneta ta została rozdzielona na pół, tworząc dwa odmienne ostrza.
+
+Choć miecz sam w sobie posiada potężne umagicznienie, jest nierozerwalnie związany ze swym bliźniakiem. Jeśli włada się nim samodzielnie, zdradza właściciela i „pożera” jego złoto. Głownia jest zawsze ciepła w dotyku.
+
+Jeśli ufać legendom, oba miecze zostały niegdyś skradzione przez demoniczne byty.
+
+PARAMETRY:
+
+Specjalne:
+– Inteligencja: +2
+– Wiedza: +12
+– Klasa Pancerza i rzuty obronne: +2 przeciw złodziejom
+– Każde trafienie zadane posiadaczowi niszczy 10 sztuk złota, chyba że włada on jednocześnie bliźniaczym ostrzem: Orzeł +3
+– Traktowany jak broń +4
+
+Obrażenia: 1k6 +3, +1 od magii
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: miecz krótki
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 2~
+@2215 = ~Kamień ioun idioty~
+@2216 = ~Ten imponująco wyglądający kamień ioun jest przeklęty. Po założeniu obniża inteligencję użytkownika do poziomu głupca.
+
+PARAMETRY:
+
+Specjalne:
+– Inteligencja: ustawiona na 1
+
+Waga: 0~
+@2217 = ~Srebrzony bełt~
+@2218 = ~Srebrzone bełty to zwykłe pociski do kuszy, które pokryto warstwą srebra, lecz nie wykonano ich z niego w całości. Srebro jest miękkim metalem, co oznacza, że miecz lub grot wykonany z czystego kruszcu szybko pękłby lub wyszczerbił się w walce. Pokrycie broni srebrem pozwala zachować trwałość żelaza lub stali, zapewniając jednocześnie właściwości srebra, gdy zajdzie taka potrzeba.
+Niektóre potwory, odporne na broń niemagiczną, są podatne na oręż srebrny. Należą do nich biesy, niektóre nieumarłe poczwary, a nawet istoty sferyczne, jak nocne wiedźmy. Srebrzona broń pozwala przełamać ich odporności. Wyznawcy Selûne wytwarzają te bełty jednak w zupełnie innym celu: do walki z likantropami, takimi jak szczurołaki i wilkołaki.
+
+PARAMETRY:
+
+Specjalne:
+– Traktowane jak broń magiczna +5 przeciw likantropom, nieumarłym oraz biesom ze Sfer Niższych, jak baatezu (diabły) i tanar’ri (demony)
+
+Obrażenia: 1k8
+Typ obrażeń: pocisk
+Wyrzutnia: kusza
+
+Waga: 0~
+@2219 = ~Wiersz Rivena~
+@2220 = ~Nieskończone Schody
+
+Poemat Rivena Kroczącego z Wiatrem, barda w służbie Księżycowej Panny
+
+„Po stopniach bez kresu, co pną się ku górze,
+Schodów moc się wznosi, ginąc w niebios chmurze.
+I księżyc, co w nocy głębokim lśni mroku,
+Najskrytsze sekrety odsłania dla wzroku.
+
+Sfer taniec, kraina to nieokiełznana,
+Przez noc, gdzie rzecz każda jest wciąż nienazwana.
+Krok po stopniach każdy – lat echem pradawnych,
+Snuje opowieści spraw dotąd niejawnych.
+
+Nieskończone Schody, drogą niezbadaną,
+Kuszą obietnicą, zagadką zadaną.
+Otchłannej się barwy cisza rozpościera,
+Duchy się gromadzą, echo w niej zamiera.
+
+Księżyc zaś i gwiazdy, co w jasności brodzą,
+Przez noc wędrowcowi bezmierną przewodzą.
+Niech ciche te kroki, przez czas i przestrzenie,
+wiodą w lepsze miejsce, niosą ukojenie”.~
+@2221 = ~Pierścień ochrony +3~
+@2222 = ~Jeśli gniew zawodzi, spróbuj zaznać spokoju.~
+@2223 = ~Diadem~
+@2224 = ~To nakrycie głowy zdobi czerwony klejnot.~
+@2225 = ~Przecinacz jadu~
+@2226 = ~Ten potężny sejmitar wykuto na poziomie Otchłani zwanym „Ulami Świdrowców”. Panuje tam Tharzax, demoniczny władca trucizn. Jego najwierniejsi czempioni otrzymują broń tego rodzaju, aby nieść słowo Pana Trucizn po całym wieloświecie.
+
+PARAMETRY:
+
+Specjalne:
+– Trafiony cel otrzymuje 1 punkt obrażeń od trucizny na sekundę przez 6 sekund (rzut obronny przeciw truciźnie neguje)
+
+Obrażenia: 1k8 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 2
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 1~
+@2227 = ~Notatki Verina~
+@2228 = ~Ten zwój zawiera notatki sporządzone najwyraźniej przez Verina. Pismo jest eleganckie, choć bije z niego jakieś zło. Kilka wpisów przykuwa twoją uwagę:
+– „Maretta, intrygantka i kusicielka, rządzi Samorą żelazną ręką. Skrywa swe prawdziwe zamiary za zasłoną pokus i oszustw; wkrótce zdradzi Graz'zta. Potajemnie oddaje hołd innemu władcy demonów, ale któremu? Czyżby Orcusowi?”
+– „Mefisto, przebiegły obwoływacz, zna najmroczniejsze sekrety Samory. Jego słowa są jak sztylety zaostrzone kłamstwem i intrygą. Tańczy tak, jak mu zagra władza. Obecnie zdaje się być lojalny wobec Graz'zta. Poleciłem mu wypatrywać w mieście obcych szukających więźniarki Graz'zta. Wspomniał o dwójce śmiertelników: człowieku imieniem Gildaar i nieznanej istocie zwanej <CHARNAME>. Obserwuje ich obu i złoży mi raport, zanim którykolwiek stanie się niebezpieczny”.
+– „Margrog, kupiec nalfeshnee, skrywa w swych ślepiach jad zdrady. Handluje duszami niczym rzeźnik mięsem. Jego rzekoma lojalność to tylko zasłona dla własnych ambicji. Nie można mu ufać”.
+– „Uwięzienie Waukeen jest źródłem niestabilności w Samorze. Musimy dopilnować, by nie została uwolniona. Nasze starania osłabiają jej boską obecność, lecz wciąż stanowi potencjalne zagrożenie”.
+– „<CHARNAME> wykazuje niezwykłą determinację i siłę. Muszę mieć na niego oko, gdyż jego los może okazać się kluczowy także dla nas. Czy przybył on, by uwolnić Waukeen? A może chce pomóc Maretcie w wyrwaniu Samory z rąk Graz'zta?”~ ~Ten zwój zawiera notatki sporządzone najwyraźniej przez Verina. Pismo jest eleganckie, choć bije z niego jakieś zło. Kilka wpisów przykuwa twoją uwagę:
+– „Maretta, intrygantka i kusicielka, rządzi Samorą żelazną ręką. Skrywa swe prawdziwe zamiary za zasłoną pokus i oszustw; wkrótce zdradzi Graz'zta. Potajemnie oddaje hołd innemu władcy demonów, ale któremu? Czyżby Orcusowi?”
+– „Mefisto, przebiegły obwoływacz, zna najmroczniejsze sekrety Samory. Jego słowa są jak sztylety zaostrzone kłamstwem i intrygą. Tańczy tak, jak mu zagra władza. Obecnie zdaje się być lojalny wobec Graz'zta. Poleciłem mu wypatrywać w mieście obcych szukających więźniarki Graz'zta. Wspomniał o dwójce śmiertelników: człowieku imieniem Gildaar i nieznanej istocie zwanej <CHARNAME>. Obserwuje ich obu i złoży mi raport, zanim którykolwiek stanie się niebezpieczny”.
+– „Margrog, kupiec nalfeshnee, skrywa w swych ślepiach jad zdrady. Handluje duszami niczym rzeźnik mięsem. Jego rzekoma lojalność to tylko zasłona dla własnych ambicji. Nie można mu ufać”.
+– „Uwięzienie Waukeen jest źródłem niestabilności w Samorze. Musimy dopilnować, by nie została uwolniona. Nasze starania osłabiają jej boską obecność, lecz wciąż stanowi potencjalne zagrożenie”.
+– „<CHARNAME> wykazuje niezwykłą determinację i siłę. Muszę mieć na nią oko, gdyż jej los może okazać się kluczowy także dla nas. Czy przybyła ona, by uwolnić Waukeen? A może chce pomóc Maretcie w wyrwaniu Samory z rąk Graz'zta?”~
+@2229 = ~Krwawe ostrze~
+@2230 = ~Ten sztylet pokryto sokiem drzewa żelaznej paszczy. Jest to roślina ze Sfer Niższych, rosnąca głównie w Otchłani. Jego lepka wydzielina sprawia, że krwawiące rany nie chcą się zasklepiać – ofiara krwawi przez długi czas. Ostrze jest na stałe spowite świeżą, kapiącą krwią, co świadczy o jego częstym używaniu w charakterze narzędzia mordu.
+
+PARAMETRY:
+
+Specjalne:
+– Ofiara zaczyna krwawić, otrzymując 2 dodatkowe obrażenia w każdej rundzie, dopóki nie otrzyma w ten sposób łącznie 10 obrażeń
+
+Obrażenia: 1k4 +3
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 0
+Rodzaj biegłości: sztylet
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 3
+
+Waga: 0~
+@2231 = ~Ochrona przed trucizną~
+@2232 = ~Ochrona przed trucizną
+(Odrzucanie)
+
+Poziom: 2
+Zasięg: dotknięta istota
+Czas działania: 10 rund
+Czas rzucania: 3
+Obszar działania: dotknięta istota
+Rzut obronny: brak
+
+Dzięki temu zaklęciu wybrana istota zyskuje odporność na trucizny i jady podane poprzez kontakt ze skórą, spożycie, użądlenie, ugryzienie lub za pomocą broni. Toksyny innego rodzaju nadal oddziałują na istotę normalnie. Zaklęcie nie neutralizuje również trucizn, które znajdowały się w organizmie w chwili rzucania czaru.~
+@2233 = ~Różdżka męstwa~
+@2234 = ~Różdżka męstwa budzi odwagę w sercach tych, na których zostanie użyta, podnosząc ich morale do najwyższego poziomu. Efekt ten stopniowo słabnie wraz z upływem czasu działania. Jeśli cel znajduje się pod wpływem magicznego strachu, natychmiast odzyskuje spokój. Jak każda różdżka, ten przedmiot posiada ograniczoną liczbę ładunków.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Rzuca czar Odporność na strach
+Zasięg: 30 metrów
+Obszar działania: w promieniu 4,5 metra
+Czas działania: 1 godzina
+
+Wymagania:
+– Inteligencja: 9
+
+Waga: 1~
+@2235 = ~Amulet Odporności na strach~
+@2236 = ~Ten amulet w kształcie serca podnosi morale użytkownika i chroni przed wszelkimi efektami strachu. Przedmioty tego rodzaju wytwarzane są w niezliczonych wariantach w wielu różnych sferach istnienia – w końcu w wieloświecie zawsze znajdzie się powód, by uciekać przed czymś lub przed kimś w szczerym przerażeniu.
+
+PARAMETRY:
+
+Specjalne:
+– Noszący jest chroniony przed wszelkimi efektami strachu
+
+Waga: 1~
+@2237 = ~Roznosiciel rdzy +3~
+@2238 = ~To wakizashi nie bez powodu cieszy się złą sławą. Każdy cios zadany tym niegodziwym ostrzem niesie ze sobą pełzającą rdzę, która osłabia nie tylko wrogów, ale i samego użytkownika.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na kwas: +5%
+– 18% szans na nałożenie modyfikatora -1 do Klasy Pancerza ofiary na 2 rundy, po trafieniu (bez rzutu obronnego)
+– 4% szans na nałożenie tego samego modyfikatora na posiadacza broni, po trafieniu (bez rzutu obronnego)
+– 90% szans na zadanie dodatkowych 3k4 obrażeń żelaznym golemom, po trafieniu
+
+Obrażenia: 1k8 +3
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 2
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 2~
+@2239 = ~Puklerz skrzepu~
+@2240 = ~Ten osobliwy puklerz przypomina potężny skrzep krwi z przymocowanym doń uchwytem. Trudno sobie wyobrazić, kto lub co dobrowolnie dzierżyłoby taki przedmiot, niemniej jednak obecność uchwytu sugeruje, że ktoś musiał z niego korzystać.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +1, +3 przeciw broniom obuchowym
+– Modyfikator ciosu w plecy: +1
+– Nie chroni przed obrażeniami kłutymi i pociskami
+– Charyzma: -2
+
+Waga: 2~
+@2241 = ~Mięso i czyraki +4~
+@2242 = ~Ta dziwna maczuga znana jest jako „Mięso i czyraki”. Wygląda jak kuriozalny kawał ochłapu pokryty kwasowymi wrzodami. Choć wydaje się to niedorzeczne, w pewnych sytuacjach bywa całkiem użyteczna. Pozostaje jednak pytanie: jak bardzo można polegać na kawałku mięsa?
+
+PARAMETRY:
+
+Specjalne:
+– Charyzma: -1
+– Premia do rzutów obronnych przeciw czarom: +1
+– 4% szans na eksplozję, która zada celowi 6k10 obrażeń, jednak wybuch ten nieodwracalnie zniszczy broń, po trafieniu
+
+Obrażenia: 1k6 +4
+TraK0: +4
+Typ obrażeń: obuchowe
+Opóźnienie: 4
+Rodzaj biegłości: maczuga
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+@2243 = ~Sercowata brzytwa +3~
+@2244 = ~Ostrze tej niewielkiej brzytwy wykuto w kształcie serca, co nadaje jej makabrycznego charakteru. Odnaleziona pośród szczątków poddanych sekcji zwłok, swą ostrością zdradza, że służyła do przecinania żył, skóry i organów. Mroczne pochodzenie oraz złowieszcza inskrypcja – „Nie zdołasz zmiażdżyć serca, którego już nie ma” – nadają tej broni nimb koszmarnej potęgi.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +1 przeciw broniom obuchowym
+– Gdy cel zostanie zabity tą bronią, jej posiadacz otrzymuje „krwawe nasienie” – grudkę skrzepniętej krwi, którą można spożyć, by odzyskać 20 punktów życia oraz zwiększyć Siłę o 1 na 1 turę (jeśli nie zostanie wykorzystane, nasienie zniknie po 8 godzinach)
+
+Obrażenia: 1k4 +3, +1 przeciw humanoidom
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 0
+Rodzaj biegłości: sztylet
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 3
+
+Waga: 1~
+@2245 = ~Krwawe nasienie~
+@2246 = ~Krwawe nasienie powstaje dzięki mocy Sercowatej brzytwy, gdy przeciwnik zostanie nią zgładzony. Można je spożyć, aby odzyskać 20 punktów życia oraz zwiększyć Siłę o 1 na 1 turę. Nieużyte nasienie znika po 8 godzinach.
+
+PARAMETRY:
+
+Specjalne:
+– Leczy 20 punktów życia
+– Zwiększa Siłę o 1 na 1 turę
+– Znika po 8 godzinach
+
+Waga: 0~
+@2247 = ~Płaszcz muchomora~
+@2248 = ~Ten przeklęty płaszcz lśni tak jasnym blaskiem, że jego użytkownikom niezwykle trudno jest się ukryć. Owszem, jest modny i prezentuje się nader efektownie, ale czy jest wart swojej ceny? Wielu bez wahania odrzekłoby, że nie.
+
+PARAMETRY:
+
+Specjalne:
+– Charyzma: +1
+– Krycie się w cieniu: -10%
+– Kara do Klasy Pancerza: -1
+– Można zdjąć tylko po rzuceniu czaru Zdjęcie klątwy
+
+Waga: 3~
+@2249  = ~Magnetyczny kamień ioun~
+@2250  = ~Magnetyczny kamień ioun
+
+Podczas gdy większość kamieni ioun słynie z potężnych i pomocnych właściwości, ten konkretny przyciąga wszelkie pociski, więc trudno nazwać go użytecznym. Musiał powstać jako owoc czyjegoś żartu – najpewniej śmiertelnie groźnego.
+
+PARAMETRY:
+
+Specjalne:
+– Kara do Klasy Pancerza przeciw pociskom: -3
+– Można zdjąć tylko po rzuceniu czaru Zdjęcie klątwy
+
+Waga: 0~
+@2251  = ~Złoto głupców~
+@2252  = ~Te bransolety może i wyglądają pięknie, lecz są przeklęte. Stworzono je prawdopodobnie po to, by wabić potencjalne ofiary, a następnie żerować na ich ciekawości i nieostrożności.
+
+PARAMETRY:
+
+Specjalne:
+– Za każdym razem, gdy wróg trafi właściciela przedmiotu, traci on 1 sztukę złota
+– Można zdjąć tylko po rzuceniu czaru Zdjęcie klątwy
+
+Waga: 1~
+@2253 = ~Skąpa skóra skoku~
+@2254 = ~Tę skórzaną uprząż zaklęto tak, by chroniła właściciela równie dobrze, co lekka zbroja. Jednocześnie nie krępuje ona ruchów, dzięki czemu mogą z niej korzystać złodzieje i bardowie bez obaw, że ograniczy ich w rzemiośle. Choć strój ten jest nader skąpy, jego właściwości docenią wszyscy miłujący swobodę oraz... bezpardonową bezpośredniość.
+
+Uprząż nie chroni jednak przed mrozem i akceptuje jedynie użytkowników o nienagannej kondycji fizycznej. Raz założona, opina ciało właściciela, prezentując go w pełnej krasie. Można ją zdjąć tylko przy użyciu magii.
+
+PARAMETRY:
+
+Specjalne:
+– Charyzma: +1
+– Zręczność: +1
+– Odporność na zimno: -20%
+– Pozwala na rzucanie czarów
+– Można zdjąć tylko po rzuceniu czaru Zdjęcie klątwy
+
+Właściwości ładunków:
+– Zauroczenie, raz dziennie
+– Bicz ochronny Khelbena, raz dziennie
+
+Klasa Pancerza: 4 (2 przeciw broniom siecznym, 3 przeciw broniom kłutym i pociskom)
+
+Wymagania:
+– Siła: 6
+– Kondycja: 14
+
+Waga: 3~
+@2255 = ~Skoncentrowany kwas~
+@2256 = ~To niezwykle żrąca substancja, która w mgnieniu oka przepala skórę, rzemień i metal.~
+@2257 = ~Pas trzech cyklopów~
+@2258 = ~Na odległej wyspie pośród Śpiewających Skał u wybrzeży Calimshanu żyła niegdyś triada cyklopów, znana z ogromnej siły i złowieszczych intryg. Budzili oni lęk wśród żeglarzy, miotając potężnymi głazami w przepływające statki i posyłając niejeden na dno.
+
+Pewnego dnia cyklopy padły z rąk dzielnych śmiałków, którzy zabrali ich oczy jako trofeum. Sprytny gnom z Lantan, Bilgim Zręczny, postanowił tchnąć życie w unikalne zdolności potworów, osadzając ich ślepia w magicznym pasie. Bilgim pracował nad nim miesiącami, aż w końcu, przy pomocy potężnej magii, stworzył artefakt godny swego kunsztu.
+
+Od tego czasu Pas trzech cyklopów miał wielu właścicieli – od szlachetnych bohaterów po bezlitosnych łotrów pragnących wykorzystać jego moc do własnych celów.
+
+PARAMETRY:
+
+Specjalne:
+– Siła: +1
+– Użytkownik jest odporny na zauroczenie
+
+Właściwości ładunków:
+– Wykrycie niewidzialności, raz dziennie
+
+Waga: 2~
+@2259 = ~Maczuga +4: Maczuga dostojnika~
+@2260 = ~Maczuga dostojnika to broń ozdobiona brązowymi opaskami, która – jak głoszą miejscowe podania – była niegdyś noszona przez możnowładcę z Calimshanu. Raz dziennie broń ta potrafi zesłać deszcz lśniących metalicznych opiłków na wszystkich, którzy znajdą się w jej zasięgu. Okazało się to szczególnie skuteczne przeciw czającym się zabójcom w pełnym intryg Calimshanie, lecz przynosi korzyść posiadaczowi w każdej krainie wzdłuż Wybrzeża Mieczy.
+
+PARAMETRY:
+
+Specjalne:
+– Rzuty obronne przeciw zionięciom: +3
+
+Właściwości ładunków:
+– Migoczący pył, raz dziennie
+
+Obrażenia: 1k6 +4
+TraK0: +4
+Typ obrażeń: obuchowe
+Opóźnienie: 1
+Rodzaj biegłości: maczuga
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 1~
+@2261 = ~Bełt Łaskawej królowej +1~
+@2262 = ~Te potężne bełty zostały nasycone magią, która czyni je szczególnie zabójczymi dla wrogów prawości. „Łaskawa królowa”, od której pochodzi nazwa pocisków, była ponoć starożytną władczynią miłującą ład. Niektórzy twierdzą, że podążała ścieżką Ilmatera i poległa w Roku Rozdartych Sieci, pośród magicznego chaosu panującego w tamtym czasie.
+
+PARAMETRY:
+
+Obrażenia: 1k8, +3 przeciw istotom o charakterze innym niż praworządny
+TraK0: +1
+Typ obrażeń: pocisk
+Wyrzutnia: kusza
+
+Waga: 0~
+@2263 = ~Hełm dziecięcego koszmaru~
+@2264 = ~Hełm ten służył wyznawcom kultu pierwotnych bytów do wyłaniania godnych uczniów. W głębokich, pozbawionych światła jaskiniach, mroczni kapłani przeprowadzali rytuały inicjacji, podczas których młodzi aspiranci musieli założyć ten artefakt, by dowieść swej wartości. Hełm, spowity prastarymi cieniami, pozwalał noszącemu raz dziennie przywołać cień, by służył jego woli. Kandydaci, którzy okazali się zbyt słabi, zostawali jednak sparaliżowani strachem i rozszarpani przez nieumarłych, a ich dusze zostawały wciągnięte w wieczną ciemność. Czy kult zanikł z braku nowych wyznawców, czy z innych przyczyn – tego historia nie zapamiętała.
+
+PARAMETRY:
+
+Specjalne:
+– Infrawizja: 40 metrów
+– Klasa Pancerza: +1
+– Chroni przed trafieniami krytycznymi
+
+Właściwości ładunków:
+– Przywołanie cienia, raz dziennie
+Czas działania: 1 tura
+
+Waga: 2~
+@2265 = ~Spodnie i szelki brutala z gołą klatą +1~
+@2266 = ~Ten surowy i wytrzymały pancerz powstał w zakurzonych zaułkach Rel Astra, miasta w odległej krainie. Składa się on wyłącznie ze zniszczonych skórzanych spodni i solidnych szelek. Nosił go niegdyś potężny osiłek, uwielbiający karczemne bójki. Naznaczone licznymi skazami i plamami spodnie zapewniały mu zaskakującą swobodę ruchów oraz ochronę przed ciosami i cięciami, a niezawodne szelki utrzymywały całość na miejscu podczas walki. Prawdziwa siła tej nietypowej zbroi nie tkwiła jednak w jej wyglądzie, lecz w nieustępliwej zaciekłości właściciela, którego pięści spadały na przeciwników z bezlitosną precyzją i szybkością.
+
+PARAMETRY:
+
+Specjalne:
+– TraK0: +1
+– Jeden dodatkowy atak na rundę
+
+Klasa Pancerza: 7 (-2 przeciw broniom kłutym i pociskom)
+
+Wymagania:
+– Siła: 4
+
+Waga: 3~
+@2267 = ~Ociekająca mroczna klinga +2~
+@2268 = ~Ostrze to, wykute zgodnie z mrocznymi tradycjami Kara-Tur, zyskuje na sile dzięki ofierze z energii życiowej. Gdy użytkownik przebije nim własne ciało, broń na godzinę zmienia się w potężną katanę – to niebezpieczny dar od starożytnego watażki, który pragnął rzucić wyzwanie samej śmierci.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Krwawa ofiara, raz dziennie
+Specjalne: użytkownik może poświęcić 4k10+5 punktów życia, aby przemienić broń w katanę +4. Magicznie stworzonej broni nie można upuścić; powraca ona do pierwotnej postaci po upływie czasu działania.
+Czas działania: 1 godzina
+
+Obrażenia: 1k10 +2
+TraK0: +2
+Typ obrażeń: sieczne
+Opóźnienie: 1
+Rodzaj biegłości: katana
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 3~
+// +3
+@2269 = ~Ociekająca mroczna klinga +3~
+@2270 = ~Ostrze ocieka krwią – twoją własną. Poświęcono jej znaczną ilość, by wzmocnić moc broni na następną godzinę.
+
+PARAMETRY:
+
+Obrażenia: 1k10 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 1
+Rodzaj biegłości: katana
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 3~
+
+// +4
+@2271 = ~Ociekająca mroczna klinga +4~
+@2272 = ~Ostrze ocieka krwią – twoją własną. Poświęcono jej znaczną ilość, by wzmocnić moc broni na następną godzinę.
+
+PARAMETRY:
+
+Obrażenia: 1k10 +4
+TraK0: +4
+Typ obrażeń: sieczne
+Opóźnienie: 1
+Rodzaj biegłości: katana
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 3~
+// +5
+@2273 = ~Ociekająca mroczna klinga +5~
+@2274 = ~Ostrze ocieka krwią – twoją własną. Poświęcono jej znaczną ilość, by wzmocnić moc broni na następną godzinę.
+
+PARAMETRY:
+
+Obrażenia: 1k10 +5
+TraK0: +5
+Typ obrażeń: sieczne
+Opóźnienie: 1
+Rodzaj biegłości: katana
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 3~
+@2275 = ~Kolory jego snów +2~
+@2276 = ~Tarcza ta została ozdobiona fragmentami barwnego szkła oraz drobnymi klejnotami, które mienią się wieloma kolorami. Doskonale nadaje się do oślepiania przeciwnika feerią blasków, lecz ma to swoją cenę – tarcza jest dość ciężka.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +3
+– Klasa Pancerza przeciw pociskom: +4
+
+Właściwości ładunków:
+– Migoczące barwy, raz dziennie
+Specjalne: oślepia wszystkich w obszarze działania na jedną rundę (rzut obronny przeciw czarom neguje)
+
+Wymagania:
+– Siła: 15
+
+Waga: 12~
+@2277 = ~Obrońca Waukeen +2~
+@2278 = ~Była to osobista tarcza Tharundara Olehma,arcykapłana Waukeen. Podarował ci ją w dowód wdzięczności za ocalenie jego duszy z rąk nalfeshnee Margroga. Podobne tarcze można znaleźć w świątyniach Waukeen w całym Faerûnie, lecz rzadko która dorównuje tej jakością wykonania i potęgą zaklęć. Tarczę zdobi symbol złotego oblicza Waukeen.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +3
+– Rzuty obronne: +2
+– Odporność na magię: 10%
+
+Wymagania:
+– Siła: 4
+
+Waga: 4~

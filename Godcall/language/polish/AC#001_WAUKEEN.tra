@@ -1,0 +1,16 @@
+@0    = ~Cóż, to niestety jedyna pomoc, jaką mogę wam zaoferować. A teraz ruszajmy się, pora stąd znikać.~
+@1    = ~Czyżbym miała trafić do nowej celi, wy potworności? Czy może przybyliście tu, by...?~ [AC#WWAU5]
+@2    = ~Czekajcie... czuję od was woń Torilu! Nie jesteście sługami Graz'zta! Czy wizje, które zesłałam młodej kapłance Halannie, skłoniły mego wiernego sługę Tharundara, by przywiódł was przed moje oblicze?~ [AC#WWAU6]
+@3    = ~Przybyliśmy cię uwolnić. Nazywam się <CHARNAME> i zostałem wysłany przez Tharundara Olehma na ratunek.~ ~Przybyliśmy cię uwolnić. Nazywam się <CHARNAME> i zostałam wysłana przez Tharundara Olehma na ratunek.~
+@4    = ~Rozumiem, że masz wiele pytań, ale najpierw wydostańmy się z Otchłani. Na rozmowy przyjdzie czas później.~ [AC#WWAU0]
+@5    = ~Przebyliście całą drogę do Otchłani, by mnie ocalić? Musicie być doprawdy potężni. Wielokrotnie próbowałam stąd uciec, lecz dotąd każda próba kończyła się klęską. Graz'zt ograbił mnie z całej boskiej energii – jestem teraz ledwie słabą śmiertelniczką.~
+@6    = ~Z całego serca dziękuję za ratunek, obawiam się jednak, że to dopiero połowa sukcesu. Ucieczka z tego miejsca w moim towarzystwie będzie znacznie trudniejsza niż samo dotarcie tutaj. Graz'zt strzeże każdego wyjścia ze swego królestwa.~
+@7    = ~Strzeże wielu wyjść, ale nie wszystkich. Przybyłem tu przez Nieskończone Schody i tą samą drogą bezpiecznie stąd odejdziemy.~ ~Strzeże wielu wyjść, ale nie wszystkich. Przybyłam tu przez Nieskończone Schody i tą samą drogą bezpiecznie stąd odejdziemy.~
+@8    = ~Nieskończone Schody? Nie wiedziałam, że prowadzą do tego przeklętego miejsca. Mam mnóstwo pytań, tak jak z pewnością i ty, ale błagam – śpieszmy się. Moje uwolnienie na pewno zostało zauważone.~
+@9    = ~Prawdę mówiąc, liczyłem na nagrodę już tutaj. Jesteś w końcu boginią bogactwa.~ ~Prawdę mówiąc, liczyłam na nagrodę już tutaj. Jesteś w końcu boginią bogactwa.~
+@10   = ~Tak, wynośmy się stąd w diabły!~
+@11   = ~Moi towarzysze są ranni i rozpaczliwie potrzebują odpoczynku. Musimy najpierw odzyskać siły i przygotować czary.~
+@12   = ~Nie mam nic poza szatami, które mam na sobie. Odebrano mi całe bogactwo i moc. Nie mogę ci dać niczego prócz obietnicy szczodrej nagrody w późniejszym czasie.~
+@13   = ~No dobrze, ruszajmy zatem. Trzymam cię za słowo.~
+@14   = ~Choć wszyscy jesteśmy u kresu sił, nie powinniśmy tu zostawać ani chwili dłużej. Tylko tak mamy szansę na ucieczkę. Spróbuję wykrzesać resztki boskiej magii, by nam pomóc, a potem uciekajmy stąd jak najszybciej.~
+@15   = ~Będę trzymać się tuż za wami, choć obawiam się, że w walce na niewiele się przydam. Ruszajmy.~ [AC#WWAU7]
