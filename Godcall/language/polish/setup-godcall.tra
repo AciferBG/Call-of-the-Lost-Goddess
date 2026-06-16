@@ -1,0 +1,500 @@
+@0 = ~Call of the Lost Goddess~
+
+// components:
+@1000000 = ~Call Of The Lost Goddess mod do BG II EE i EET~
+@1000001 = ~Call Of The Lost Goddess: portrety głównych NPCów~
+@1000002 = ~Call Of The Lost Goddess: lektor AI dla głównych NPCów (po angielsku)~
+@1000010 = ~Wymaga BG II EE lub EET zaktualizowanych do wersji 2.0 lub wyższej.~
+@1000011 = ~Ten komponent do instalacji wymaga zainstalowanego głównego komponentu.~
+
+// spells and stores:
+@100 = ~Chmura żalu~
+@101 = ~Oszczercza pieśń na Graz'zta~
+@102 = ~Oszczercza pieśń na Graz'zta
+(Odrzucanie)
+
+Poziom: 1
+Sfera: Uroki
+Zasięg: 9 metrów
+Czas trwania: 1 godzina
+Czas rzucania: 1 
+Obszar działania: promień 4,5 metra
+Rzut obronny: brak
+
+Użytkownik może czerpać satysfakcję z tej diatryby, gdyż pieśń przedstawia władcę demonów, Graz'zta, w tak złym świetle, że wystawia go na pośmiewisko. W rezultacie wszystkie przyjazne istoty odczuwają mniejszy lęk przed sługami władcy demonów, stając się odporne na strach i spadek morale na czas trwania efektu. Ponadto wszystkie objęte działaniem istoty zyskują ochronę przed zauroczeniem. Pieśń jest dostępna wyłącznie w domenie Graz'zta w Otchłani; traci swoją moc w każdej innej lokalizacji.~
+@103 = ~Przyzwanie modronów~
+@104 = ~Przyzwanie modronów
+(Sprowadzanie/Przywoływanie)
+
+Poziom: 3
+Zasięg: pole widzenia rzucającego
+Czas trwania: 4 tury
+Czas rzucania: 3
+Obszar działania: w promieniu 15 metrów
+Rzut obronny: brak
+
+W ciągu jednej rundy od rzucenia zaklęcia mag przywołuje 4 monodrony (modrony pochodzące ze sfery zewnętrznej, Mechanusa). Monodrony pojawiają się w dowolnym miejscu w obszarze działania czaru, wskazanym przez maga. Będą atakować wrogów czarodzieja najlepiej jak potrafią, dopóki ten nie nakaże im przestać, czas działania czaru nie dobiegnie końca lub istoty nie zginą. Stworzenia te nie wykonują testów morale, a po śmierci znikają. Jeśli w pobliżu nie ma żadnych przeciwników, modrony mogą świadczyć inne usługi, o ile mag potrafi się z nimi porozumieć, a one są fizycznie zdolne do ich wykonania. Zaklęcie to spopularyzował mag Argramund ze Skały, którego obecne miejsce pobytu nie jest znane.
+
+Monodron
+Inteligencja: niska (2-4)
+Klasa Pancerza: 7
+Kostki Wytrzymałości: 1+1
+TraK0: 19 lub 20
+Liczba ataków: 1
+Obrażenia: 1k4
+Wartość PD: 120
+
+Walka: Monodrony są odporne na iluzje oraz magię wpływającą na umysł, taką jak zauroczenie, dominacja, unieruchomienie, paraliż czy uśpienie. Strach i inne czary oddziałujące na emocje są wobec modronów równie bezskuteczne, podobnie jak ataki czerpiące ze Sfer Pozytywnej i Negatywnej Energii (w tym wyssanie poziomów) oraz zdolności illithidów i innych istot psionicznych.~
+@105 = ~Wyrzut zarodników~
+@106 = ~Pisk~
+@107 = ~Pocisk energii~
+@108 = ~Kula ciemności~
+@109 = ~Spojrzenie śmierci~
+@110 = ~Krzyk wargulca~
+@111 = ~Pocałunek wargulca~
+@112 = ~Bazar Otchłani~
+@113 = ~Kupiec Gildii Sfer~
+@114 = ~Kwatery sypialne Gildii Sfer~
+@115 = ~Opactwo Złotych Iglic~
+@116 = ~Targ Kluczy Czarów~
+@117 = ~Arkana Arcanalotha~
+@118 = ~Łoża Maretty~
+@119 = ~Mikstury Wilbura~
+@120 = ~Mikstury Nocticuli~
+@121 = ~Trunki Gwiezdnego Ogona~
+@122 = ~Ysgardiański Miód pitny~
+@123 = ~Bytopijskie Wino agrestowe~
+@124 = ~Alzarska Wiśniowa Perła~
+@125 = ~Baatorskie piwo krwawe~
+@126 = ~Siarkowy ogień~
+@127 = ~Przemoknięty Solar~
+@128 = ~Krwawe piwo~
+@129 = ~Płynny ból~
+@130 = ~Łzy devy~
+@131 = ~Esencja krwawego ciernia~
+@132 = ~Uzdrowiciel Gildii Sfer~
+@133 = ~Tanie Towary Szczęściarza Aello~
+@134 = ~Płonąca sieć~
+@135 = ~Przerażający nimb~
+@136 = ~Pokusa marilith~
+@137 = ~Mroczny wywar yugolotha~
+@138 = ~Pożeracz dusz~
+@139 = ~Otchłanna Bryza~
+@140 = ~Ofiara Gminu~
+@141 = ~Rozgrzanie metalu~
+@142 = ~Zbyt wysoki poziom dla Berła śmierci~
+@143 = ~Strumień kwasu~
+@144 = ~Oaza Srebrzystego Światła~
+@145 = ~Złowrogi miód pitny~
+@146 = ~Wino krwawe baatezu~
+@147 = ~Żółć devy~
+@148 = ~Pieśń harpii~
+@149  = ~Ochrona przed trucizną~
+@150  = ~Ochrona przed trucizną 
+(Odrzucanie)
+
+Poziom: 2
+Zasięg: dotknięta istota
+Czas trwania: 10 rund 
+Czas rzucania: 3
+Obszar działania: dotknięta istota
+Rzut obronny: brak
+
+Dzięki temu zaklęciu wybrana istota zyskuje odporność na trucizny i jady podane poprzez kontakt ze skórą, spożycie, użądlenie, ugryzienie lub za pomocą broni. Toksyny innego rodzaju nadal oddziałują na istotę normalnie. Zaklęcie nie neutralizuje również trucizn, które znajdowały się w organizmie w chwili rzucania czaru.~
+@151 = ~Oddech miażdżącej rozpaczy~
+@152 = ~Eksplozja kwasu~
+@153 = ~Stworzono krwawe nasienie~
+@154 = ~Nie, <CHARNAME>, nigdy tego nie założę!~
+@155 = ~Skład handlowy Mistyczny Miraż~
+@156 = ~Odbicie barw~
+@157 = ~Krwawa ofiara~
+
+// creatures
+@1000 = ~Kamienna Twarz~
+@1001 = ~Maryel~
+@1002 = ~Daugralluvidan~
+@1003 = ~Pożeracz zazdrości~
+@1004 = ~Czerwony abishai~
+@1005 = ~Weteran wojenny~
+@1006 = ~Wyklęta sierota~
+@1007 = ~Zdesperowany ojciec~
+@1008 = ~Chora wdowa~
+@1009 = ~Biedny rolnik~
+@1010 = ~Grimsnag~
+@1011 = ~Śniąca~
+@1012 = ~Śniący~
+@1013 = ~Palrethee~
+@1014 = ~Zmora snów~
+@1015 = ~Kajfasz Omamiony~
+@1016 = ~Gulga Nieskrępowana~
+@1017 = ~Gulgathrix~
+@1018 = ~Sukkub Wyliniesh~
+@1019 = ~Inkub Vohraris~
+@1020 = ~Starzec~
+@1021 = ~Aranoth~
+@1022 = ~Eldrin~
+@1023 = ~Lyra~
+@1024 = ~Theron~
+@1025 = ~Morgrath Plugawiciel~
+@1026 = ~Pieśń Cieni~
+@1027 = ~Kastighur~
+@1028 = ~Alistair Vonhardt~
+@1029 = ~Potępiona dusza~
+@1030 = ~Żrąca groza~
+@1031 = ~Emer Szaleniec~
+@1032 = ~Kaelthar Mroczny Towar~
+@1033 = ~Mistrz gry Ludovic~
+@1034 = ~Nysara Uwiędła~
+@1035 = ~Bharava~
+@1036 = ~Arsid~
+@1037 = ~Vulgrim Mrocznogrzywy~
+@1038 = ~Belthazaar~
+@1039 = ~Trar'gezal~
+@1040 = ~Bystrobrody Pręgoogon~
+@1041 = ~Wilbur Iparos~
+@1042 = ~Pająk Kroczotkacz~
+@1043 = ~Lansjerka Pani~
+@1044 = ~Armanita~
+@1045 = ~Malashrihi~
+@1046 = ~Mistrz gry~
+@1047 = ~Sprzedawczyni żetonów~
+@1048 = ~Piscoloth~
+@1049 = ~Bar-lgura~
+@1050 = ~Baron kambionów~
+@1051 = ~Dretch~
+@1052 = ~Tanarukk~
+@1053 = ~Gwiezdny Ogon~
+@1054 = ~Alkilith~
+@1055 = ~Jenkin~
+@1056 = ~Zaehvielle~
+@1057 = ~Zeep~
+@1058 = ~Ormad Sulpar~
+@1059 = ~Arcanaloth Sannak~
+@1060 = ~Masun~
+@1061 = ~Lord Jessel~
+@1062 = ~Handlarz korzenny Zakhum~
+@1063 = ~Maszyna~
+@1064 = ~Babau Garnuth~
+@1065 = ~Babau~
+@1066 = ~Sędzia~
+@1067 = ~Lodowy olbrzym~
+@1068 = ~Faerthae Garblueth~
+@1069 = ~Daerea Ethgil~
+@1070 = ~Hamatula~
+@1071 = ~Lemur~
+@1072 = ~Gazgothan~
+@1073 = ~Xag-ya~
+@1074 = ~Bodak~
+@1075 = ~Halanna~
+@1076 = ~Kyriani~
+@1077 = ~Tharundar Olehm~
+@1078 = ~Barasta Cleeith~
+@1079 = ~Księżycowy rycerz~
+@1080 = ~Igraflyn~
+@1081 = ~Rhyssa~
+@1082 = ~Adonia~
+@1083 = ~Helena~
+@1084 = ~Waukeen~
+@1085 = ~Nasmaerae~
+@1086 = ~Tajemniczy mężczyzna~
+@1087 = ~Gildaar~
+@1088 = ~Demidicus~
+@1089 = ~Zabrina~
+@1090 = ~Lestiulus~
+@1091 = ~Maendir~
+@1092 = ~Assol~
+@1093 = ~Kayur~
+@1094 = ~Larwa~
+@1095 = ~Maretta~
+@1096 = ~Shamurz~
+@1097 = ~Macka~
+@1098 = ~Bebilith Zzrakh~
+@1099 = ~Margrog~
+@1100 = ~Handlarz skrzydłami Urkag~
+@1101 = ~Wrok~
+@1102 = ~Zhelamiss~
+@1103 = ~Saarixal~
+@1104 = ~Mefisto~
+@1105 = ~Gorzengral~
+@1106 = ~Wargulec~
+@1107 = ~Clyddis~
+@1108 = ~Annia Szaropończoszanka~
+@1109 = ~Faylah~
+@1110 = ~Verin~
+@1111 = ~Żywiołak krwi~
+//@1112 = ~Rutterkin~
+@1113 = ~Qyriesh~
+@1114 = ~Szczęściarz Aello~
+@1115 = ~Strażnik~
+@1116 = ~Amnijski kupiec~
+@1117 = ~Monodron~
+@1118 = ~~
+@1119 = ~Amlech~
+@1120 = ~Dammir~
+@1121 = ~Lillend~
+@1122 = ~Warwick~
+@1123 = ~Aful~
+@1124 = ~Uczeń Kayura~
+@1125 = ~Bard~
+@1126 = ~Daemevera~
+@1127 = ~Az'zelbath~
+@1128 = ~Bezmodan~
+@1129 = ~Amnijski kupiec~
+@1130 = ~Zombie zapowiadacz~
+@1131 = ~Bafitaur~
+@1132 = ~Kowal bafitaurów~
+@1133 = ~Zhornack Twardokopyt~
+@1134 = ~Val'kreen~
+@1135 = ~Elandra Księżycowa Pieśń~
+@1136 = ~Syrena dusz~ //The Soul Sirens are a cabal of harpies in the service of the demon lord Ardat the Unavowed. Their members are harpies with demonic blood. 
+@1137 = ~Opiekun chorowitych Mutz~
+@1138 = ~Sariila Tebrentan~
+@1139 = ~Zaldranis Quixtor~
+@1140 = ~Baronowa erynii~
+@1141 = ~Nuksheid Rheshan~
+@1142 = ~Morloth Mroczne Ostrze~
+@1143 = ~Grimward Gorefist~
+@1144 = ~Vexthor Krwawy Kieł~
+@1145 = ~Zardrak Groźna Tarcza~
+@1146 = ~Diirmdliin Ostrzybród~
+@1147 = ~Najemnik Wojny Krwi~
+@1148 = ~Uczeń Baalzebula~
+@1149 = ~Zombie lodowego olbrzyma~
+@1150 = ~Płonące kości~
+@1151 = ~Rutterkin~
+@1152 = ~Hezrou~
+@1153 = ~Smród~
+@1154 = ~Obniżone TraK0~
+@1155 = ~Mezzoloth~
+
+@1180 = ~Twoja dusza zasili mą potęgę.~ [AC#WNIH1] // Nighthag soundset
+@1181 = ~Śnij o mnie słodko, śmiertelna istoto!~ [AC#WNIH2]  // Nighthag soundset
+@1182 = ~Jestem potęgą, rozkoszą i zatraceniem.~ [AC#WMAR1] // Maretta soundset
+@1183 = ~Witaj w krainie rozpaczy,śmiertelna istoto, Tu nie zaznasz ukojenia. Jam jest Maretta, władczyni Samory.~ [AC#WMAR2] // Maretta soundset
+@1184 = ~Podziwiaj me piękno albo precz z moich oczu.~ [AC#WMAR3] // Maretta soundset
+@1186 = ~Witajcie, śmiertelnicy.~ [AC#WMEF1] // Mefisto initial meeting
+@1187 = ~Witajcie, śmiertelnicy.~ [AC#WMEF1] //[AC#WMEF2] Mefisto#2, need to change later
+@1188 = ~Och, to znowu wy.~ [AC#WMEF3] // Mefisto
+@1190 = ~Pieniądz mówi. Bogactwo śpiewa.~ [AC#WTHA2] // Tharundar Olehm
+@1191 = ~Dobry interes.~ [AC#WTHA5] // Tharundar Olehm
+@1195 = ~Pozdrowienia. Nazywam się Kyriani Agrivar. Jestem kapłanką Selûne z Waterdeep.~ [AC#WKYR1]
+
+@1210 = ~Stój spokojnie, śmiertelna istoto!~ [AC#WBAB2]
+@1211 = ~Armia maszeruje po trupach swoich śmiertelników!~ [AC#WBAB1]
+@1212 = ~Mam bardzo, bardzo zły humor.~ [AC#WDEM1]
+@1213 = ~Mam najlepsze ceny na południe od tej piekielnej dziury.~ [AC#WMER1]
+@1214 = ~W mojej tawernie jest brudniej niż w czarciej dupie.~ [AC#WSOL1]
+@1215 = ~Lękaj się mnie, bo sprowadzę na ciebie obłęd.~ [AC#WDEM2]
+@1216 = ~W tej grze dusz prawo zawsze zwycięża.~ [AC#WAPH1]
+@1217 = ~Mam mnóstwo podłych towarów!~ [AC#WMER2]
+@1218 = ~Jestem ucieleśnieniem chwały!~ [AC#W75S1]
+@1219 = ~Pokaż, na co cię stać!~ [AC#W74W3]
+@1220 = ~Wystąp i uwolnij swój gniew.~ [AC#W74W4]
+@1221 = ~Ujawnij swą wściekłość i pokaż swą moc.~ [AC#W74W5]
+@1222 = ~Lepszy pierd biesa niż bełt w plecach.~ [AC#WDWR1]
+@1223 = ~Tyle sfer, tyle nauki.~ [AC#WDWR2]
+@1224 = ~Ku chwale Baator!~ [AC#WAPH2]
+@1225 = ~Magia tutaj to nie jest zwykła sztuczka kuglarska.~ [AC#WMSV1]
+@1226 = ~Nie rzucaj czarów tak, jak rzucasz karty.~ [AC#WMSV2]
+@1227 = ~Z drogi, wielkoludy!~ [AC#WSQRL]
+
+@1230 = ~Jestem boginią bogactwa. O tak!~ [AC#WWAE0]
+@1240 = ~Po co używać własnej mocy, skoro można zmusić innych do marnowania ich własnej?~ [AC#WVER0]
+
+
+@1250 = ~Kto wchodzi w mą sieć?~ [AC#WBEB0]
+@1251 = ~Poczuj me jadowite ukąszenie!~ [AC#WBEB2]
+
+@1255 = ~Patrz pod nogi.~ [AC#WLIL1]
+@1256 = ~Blask księżyca prowadzi mnie przez mrok.~ [AC#WLIL2]
+
+@1260 = ~Achhh... tak ciemno...~ [AC#WHALA]
+
+@1270 = ~Pozdrawiamy cię, istotko z mięsa.~ [AC#WMONA]
+@1271 = ~Jedno oko, jeden kierunek.~ [AC#WMON0]
+@1272 = ~Wykryto wrogi obiekt o pojedynczym ukierunkowaniu...~ [AC#WMONB]
+@1273 = ~Nie ma lepszych jednostek od nas.~ [AC#WMONC]
+@1274 = ~Myślimy jako jedność.~ [AC#WMOND]
+@1275 = ~Pojedynczy atak przeciwko nam wszystkim.~ [AC#WMONE]
+@1276 = ~Opuszczanie wspólnoty umysłowej...~ [AC#WMONF]
+
+@1280 = ~Ja zły.~ [AC#WBAP1]
+@1281 = ~Ja silny. Ty słaby!~ [AC#WBAP2]
+
+@1285 = ~Przeznaczenie czy nie, nie zagoszczę tu długo.~ [AC#WNYS1]
+@1286 = ~Muszę być wolna.~ [AC#WNYS2]
+
+@1290 = ~~ [AM1900B1]
+
+@1300 = ~Niech bogactwo i pomyślność towarzyszą każdemu twojemu krokowi.~ [AC#WWAUX]
+
+// Blood war merc soundsets
+@1311 = ~Niech dzieje się wola Piekieł!~ [AC#W60M1]
+@1312 = ~Ku chwale Baator!~ [AC#W60M2]
+@1313 = ~Za hierarchię!~ [AC#W60M3]
+@1314 = ~Piekielna moc rozkazuje!~ [AC#W60M4]
+
+@1320 = ~Żaden dobry uczynek nie ujdzie bezkarnie!~ [AC#W4CF1]
+
+@1330 = ~Wezwaliście mnie, więc przybywam. Wspólnie wyżłóbmy przez te krainy ścieżkę spustoszenia!~
+// #2000: items
+
+// are files
+@3000 = ~Zza tych drzwi bije olśniewające, nieprawdopodobnie jasne światło. Choć blask nie wydaje się wrogi, należy mieć świadomość, że jego intensywność niosłaby za sobą unicestwienie w razie próby wejścia do środka.~
+@3001 = ~Gildia Sfer~
+@3002 = ~Powrót na dół Nieskończonych Schodów~
+@3003 = ~Przejście do Otchłani~
+@3004 = ~Maszyna modronów~
+@3005 = ~Ten posąg przedstawia boginię Waukeen. Wygląda na to, że wykonano go z czystego złota.~
+@3006 = ~Z tego okna wykuszowego możesz obserwować zgiełk panujący w opactwie.~
+@3007 = ~Powrót do Faerûnu~
+@3008 = ~Początek Nieskończonych Schodów~
+@3009 = ~Elandra Księżycowa Pieśń~
+@3010 = ~Te drzwi prowadzą z wieży w dół, do świątyni. Są zamknięte od drugiej strony, a spojrzenia strażników jasno dają do zrozumienia, że próba ich wyważenia nie byłaby najlepszym pomysłem.~
+@3011 = ~Niebieski kryształowy piedestał~
+@3012 = ~Zielony kryształowy piedestał~
+@3013 = ~Czerwony kryształowy piedestał~
+@3014 = ~Żółty kryształowy piedestał~
+
+@4000 = ~Przeklęta Fortuna~
+@4001 = ~Pionki Pana~
+@4002 = ~Łoża Maretty~
+@4003 = ~Przemoknięty Solar~
+@4004 = ~Lamentująca Bogini~
+@4005 = ~Na Nieskończone Schody~
+@4006 = ~Do Otchłani~
+@4007 = ~Plac Graz'zta~
+@4008 = ~Plac Kupców~
+@4009 = ~Dom nocnej wiedźmy~
+@4010 = ~Dom Margroga~
+@4011 = ~Izba Obrachunkowa~
+@4012 = ~Kuźnia Ognia Agonii~
+@4013 = ~Komnata Pokus~
+@4014 = ~Dom Daemevery~
+@4015 = ~Dom Zhaevielle~
+@4016 = ~Punkt werbunkowy Wojny Krwi~
+@4017 = ~Kryjówka Belthazaara~
+@4018 = ~Legowisko Grimsnaga~
+@4019 = ~Rzeźba bogini, której twarz wykrzywia ból, a dłonie wzniesione są w błagalnym geście. Z wnętrza posągu dobiega nieustanny lament i szloch.~
+
+@5000 = ~Drzewo tchórzy~
+@5001 = ~Wschodni ognisty piec~
+@5002 = ~Zachodni ognisty piec~
+
+@5201 = ~Musisz podejść bliżej, aby porozmawiać z istotą.~
+
+@7000 = ~Symbol topora~
+@7001 = ~Symbol sakiewki~
+@7002 = ~Symbol płonącego serca~
+@7003 = ~Symbol korony~
+@7004 = ~To posąg marilith wrzucającej konającą duszę w lawę. Mała tabliczka na krawędzi głosi:
+„Pychą owładnięta, ogniem nadtrawiona,
+dusza w żarze lawy na zawsze stracona.
+Śmiertelne pokusy, gorące i mroczne,
+złożone w ofierze giną tu bezzwłocznie”.~
+@7005 = ~Symbol węża~
+@7006 = ~Symbol kufla piwa~
+@7007 = ~Nieznany symbol~
+
+@8090 = ~Dalszą drogę blokują ci odrażające drzwi.~
+
+// crossmod content
+// Lava's Hephernaan
+@8100 = ~Przywleczenie mnie w to miejsce jest doprawdy niedorzeczne. Raduj się lepiej, że wciąż mam kilka asów w swym piekielnym rękawie.~
+@8101 = ~To powinno wystarczyć, by nie dostrzegli, kim – a co ważniejsze: CZYM – jestem. Demony czy diabły... Co za różnica. Wolę przeczekać to widowisko z boku.~
+@8102 = ~Nie zostawajmy tu jednak zbyt długo, dziecię Bhaala. Byłoby to nader lekkomyślne.~
+@8103 = ~Zaczyna robić się gorąco, dziecię Bhaala. Nadal będę skrywać swą naturę, ale miej świadomość, że igrasz z ogniem.~
+@8104 = ~Głupcy! W tej formie nie zdołam się przed nimi ukryć!~
+@8105 = ~Naprawdę sądziłeś, że cię nie wyczujemy, ty piekielny pomiocie?!~
+@8106 = ~Nie wiem, co za układ z nim masz, ale lepiej dmuchać na zimne, hahahaha!~
+
+
+// 2da entries
+@9000 = ~Czytaj~
+@9001 = ~Powoli wspinasz się po stopniach Nieskończonych Schodów. W miarę postępów droga staje się coraz bardziej zawiła i mglista, zmieniając miejsce, z którego przybywasz, w odległe wspomnienie. Schody zdają się nieustannie zmieniać kształt i konstrukcję – to świadectwo różnorodności kultur, które brały udział w ich tworzeniu.
+
+Twą wspinaczkę przerywają dziwaczne przejścia - kuszące, choć niezbadane, spowite całunem tajemnicy. Stopniowo obcość tego nieziemskiego królestwa mija, a ty nabierasz pewności siebie.
+
+Z ponurą determinacją skupiasz się na zadaniu. Mimo zmęczenia niepewność popycha cię naprzód.~ [AC#WNAR1] //[AC#WMUS1]
+@9002 = ~Misja zakończyła się pełnym sukcesem. Waukeen została wyzwolona, odzyskując należne jej miejsce w panteonie jako czczona bogini handlu i dostatku.
+
+Choć pełen ogrom tego dokonania pozostaje jeszcze poza sferą pełnego zrozumienia, nadszedł czas na celebrowanie zwycięstwa podczas uroczystości zorganizowanych w opactwie. Wśród wystawnych uczt, radosnych wiwatów i widowiskowych pokazów sztucznych ogni, niedawne trudy i niebezpieczeństwa schodzą na dalszy plan.
+
+Wraz z wygaśnięciem radosnego zgiełku, do murów opactwa powoli powraca spokój, a mieszkańcy podejmują przerwane obowiązki. To odpowiedni moment na wyruszenie ku nowym wyzwaniom, niosąc ze sobą pewność, że progi opactwa Waukeen pozostaną na zawsze otwarte dla swoich wybawców.~ [AC#WNAR2] //[AC#WMUS9]
+
+@9003 = ~Twoja misja ratowania Waukeen zakończyła się klęską. Męki, które czekają cię w Otchłani, wykraczają poza granice wyobraźni. Mimo to twoje starania były szlachetne, a echo twoich czynów będzie przez pewien czas pobrzmiewać w krainach śmiertelników. Przeznaczenie, jakie przygotował dla ciebie Graz'zt, jeszcze się nie dopełniło, lecz z pewnością nie będzie ono łaskawe.~ [AC#WNAR3] //[AC#WMUS1]
+
+// Script entries
+@10000 = ~Ratunku! Co się ze mną dzieje? Moje ciało staje się strasznie ciężkie...~
+
+@19000 = ~Ten portal zdaje się działać tylko w jedną stronę. Musisz znaleźć inną drogę powrotną do Faerûnu.~
+
+@30000 = ~Drzwi zostały już otwarte. Maszyna nie oferuje już żadnych funkcji.~
+@30001 = ~Uwaga, nadchodzi! Przygotujcie się!~
+
+@40000 = ~To wyjście prowadzi na bezdroża poza miastem. Wyprawa w te rejony bez precyzyjnie określonego celu oznaczałaby dla was pewną śmierć.~
+@40002 = ~Wchodzisz do ognistego pieca z nadzieją, że przeniesie cię on do więzienia Waukeen.~
+
+@43000 = ~Po bliższych oględzinach zauważasz, że ściana w tym miejscu była wielokrotnie zmywana. Wydaje ci się, że dostrzegasz niewyraźny zarys dłoni.~
+@43001 = ~Nacinasz swoją dłoń i własną krwią rysujesz na ścianie symbol dłoni. Najwyraźniej aktywuje to jakiś mechanizm.~
+@43002 = ~Wygląda na to, że ktoś ostatnio manipulował przy tej części ściany...~
+@43003 = ~W tej tawernie nieustannie słychać płacz i zawodzenie, które budzą w tobie głęboki niepokój.~
+
+@48000 = ~Skoro wszyscy członkowie Gildii Sfer nie żyją, więc możesz teraz bezpiecznie tu odpoczywać.~
+
+@49000 = ~Fragmenty klucza łączą się w całość.~
+@49100 = ~Uwaga, zaczynamy! Runda 1...~
+@49101 = ~Runda 2...~
+@49102 = ~Runda 3!~
+@50000 = ~Twój czar został spaczony przez Otchłań.~
+@50001 = ~Ta grota wnika w skałę na jakiś metr. Widać wyraźnie, że często bywa tu jakieś wielkie stworzenie.~
+@50002 = ~To chyba stąd wyłonił się łowca demonów. Liczne sieci świadczą o jego ożywionej aktywności. Być może umieszczenie tutaj rogu tanar'ri pozwoli otworzyć portal.~
+@50003 = ~Bez pentaklu w ekwipunku nie uda ci się aktywować ognistego pieca.~
+@50004 = ~Do leża nabassu~
+@50005 = ~Do Yemach~
+@50006 = ~Krzyk~ [AC#VARGS]
+
+@51000 = ~Ściany i podłogę tego korytarza pokrywają gęste, lepkie pajęczyny, które utrudniają marsz. Stworzenie, które je wytkało, musi być ogromne.~
+
+@52000 = ~Wreszcie spokój...~
+@52001 = ~Wlewasz odrobinę skoncentrowanego kwasu do hełmu.~
+@52002 = ~Wylewasz kwas z hełmu na metal, który natychmiast zaczyna się rozpuszczać.~
+@52003 = ~Polewasz metal kwasem, a ten natychmiast zaczyna się rozpuszczać.~
+@52004 = ~Klatka nie ma widocznych drzwi, wygląda jednak na to, że żrąca atmosfera tego miejsca nadwerężyła jej konstrukcję.~
+@52005 = ~W tej sadzawce znajduje się silny kwas. Mając odpowiedni przedmiot, dałoby się zebrać go bezpiecznie. Bez właściwego naczynia jego zebranie byłoby równoznaczne z poparzeniem skóry.~
+
+@70000 = ~Portal zdaje się działać tylko w jedną stronę.~
+@70001 = ~Portal jest wciąż nieaktywny. Możliwe, że musisz najpierw wykonać jakieś zadanie, zanim ruszysz tą drogą.~
+@70002 = ~Zrywasz różę. Jest najeżona kolcami, więc przy okazji kłujesz się w palec.~
+@70003 = ~To chyba Róża Otchłani. Musisz podejść bliżej, by ją zerwać.~
+@70004 = ~To chyba Róża Otchłani. Jeśli chcesz, możesz ją zerwać.~
+
+@71000 = ~Dwie części naszyjnika łączą się magicznie w kompletny wisior. Czujesz, że dzięki niemu będziesz w stanie opuścić tę komnatę.~
+@71001 = ~Dzięki posiadanemu wisiorowi portal wyjściowy został otwarty.~
+
+@72000 = ~Wrzucasz kość do kociołka. Wywar krótko wrze, po czym portal wyjściowy staje otworem.~
+
+@80000 = ~Portal zdaje się działać tylko w jedną stronę. Musisz znaleźć inne wyjście.~
+@80001 = ~Z tych świeżo rozczłonkowanych zwłok wycięto serce. W powstałej jamie w piersiowej tkwi coś obcego.~
+@80002 = ~Ta odrażająca maszyna jest wypełniona licznymi ciałami różnych kształtów i rozmiarów. Trudno ci nawet odgadnąć, jakiemu celowi służy.~
+@80003 = ~Udało ci się nauczyć diatryby na Graz'zta, który może cię wzmacniać tak długo, jak przebywasz w jego domenie w Otchłani.~
+@80004 = ~Nie udało ci się uratować Waukeen.~
+@89000 = ~Gdy wchodzisz w organiczną masę wyściełającą korytarz, ogarnia cię uczucie wszechobecnego zła. Ściany zdają się lekko pulsować i poruszać niemal niedostrzegalnie. Z narastającym przerażeniem zastanawiasz się, czy czasami nie jesteś właśnie we wnętrzu jakiejś ohydnej, żywej istoty.~
+@89001 = ~Zostało ci osiemnaście minut na uratowanie Waukeen, nim ucieczka z Otchłani stanie się niemożliwa.~
+@89002 = ~Zostało ci dziewięć minut na uratowanie Waukeen, nim ucieczka z Otchłani stanie się niemożliwa.~
+@89003 = ~Zostało ci sześć minut na uratowanie Waukeen, nim ucieczka z Otchłani stanie się niemożliwa.~
+
+// Store entries
+
+@90000 = ~To odwrócona wersja Leczenia poważnych ran. Zamiast leczyć cel, czar zadaje mu obrażenia.~
+@90001 = ~Cel zostaje owładnięty poczuciem nadchodzącej zguby. Na czas trwania zaklęcia cel otrzymuje modyfikator -2 do wszystkich rzutów (w tym do TraK0 i rzutów obronnych).~
+@90002 = ~Czar ten zatruwa cel, jeśli nie powiedzie mu się rzut obronny przeciw truciznom.~
+@90003 = ~Bolesny rozkład to proces gnicia i usychania ciała, który szybko rozprzestrzenia się w organizmie dotkniętej istoty. Cel zostanie automatycznie spowolniony na 2 rundy. Ponadto, jeśli nie powiedzie mu się rzut obronny przeciwko truciźnie z modyfikatorem -2, będzie otrzymywać 1 punkt obrażeń na sekundę, aż do otrzymania łącznie 50 punktów obrażeń.~
+@90004 = ~Czar ten stanowi przeciwieństwo Uzdrowienia. Zamiast leczyć dotkniętą istotę, zadaje jej obrażenia. Udany dotyk kapłana sprawia, że celowi zostaje tylko 1 punkt życia. Efekt ten zostaje nałożony wraz z kolejnym atakiem kapłana, ma on jednak tylko dwie rundy na wykonanie ataku, nim czar wygaśnie. Jeśli kapłan chybi, czar przepada. Przed zaklęciem nie chroni rzut obronny.~
+// Script Entries
+@100000 = ~Dotykasz lustra, a szkło nagle wydaje się upłynniać. Po chwili coś wciąga cię do środka...~
+@100040 = ~W Otchłani nie można przywoływać żywiołaków bez odpowiednich narzędzi.~
+@100090 = ~Gdy atakujesz mackę, mięsista masa nagle zaczyna się wić...~
+@100091 = ~Dziwaczna paszcza kłapnie na moment i zdaje się łapczywie pochłaniać narząd. Chwilę później bezkształtna masa przed tobą porusza się, a przejście zostaje odsłonięte.~
+@100092 = ~Precyzyjnym ruchem odcinasz mackę. Uścisk macek krępujących Waukeen wyraźnie słabnie.~
+

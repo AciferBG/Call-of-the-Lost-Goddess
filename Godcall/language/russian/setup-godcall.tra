@@ -492,3 +492,8 @@ THAC0: 19 или 20
 @100091 = ~Странная пасть на мгновение смыкается и, кажется, жадно пожирает орган. Вскоре после этого аморфная масса перед вами смещается, и орган освобождает путь.~
 @100092 = ~Одним точным ударом вы отсекаете щупальце. Хватка щупалец на плененной Вокин, похоже, ослабевает.~
 
+@1000000 = ~Call Of The Lost Goddess~
+@1000001 = ~Install portraits for the major NPCs of the mod~
+@1000002 = ~Install AI voiceover for major NPCs of the mod (mostly in English)~
+@1000010 = ~Requires BG2:EE or EET patched to 2.0 or higher.~
+@1000011 = ~This component requires the full version to be installed.~

@@ -404,13 +404,65 @@ LANGUAGE ~Brazilian Portuguese by dextermorgan~
          ~godcall/language/portuguese/planar_guild.tra~
          ~godcall/language/portuguese/Spellkey_merchant.tra~
          ~godcall/language/portuguese/Verin.tra~
+
+LANGUAGE ~Polish (by my_summertime, SoM Membress, part of CoB Clan)~
+         ~polish~
+         ~godcall/language/polish/setup-godcall.tra~
+         ~godcall/language/polish/godcall-journal.tra~
+         ~godcall/language/polish/godcall-items.tra~
+         ~godcall/language/polish/01_Quest_start_in_Athkatla.tra~
+         ~godcall/language/polish/AC#001_WAUKEEN.tra~
+         ~godcall/language/polish/AC#W44_Counting_House_Maretta.tra~
+         ~godcall/language/polish/AC#W01_Dialogues_Goldspires_outside.tra~
+         ~godcall/language/polish/AC#W03_Goldspire_temple_interior.tra~
+         ~godcall/language/polish/AC#W4A_Succubus_lair.tra~
+         ~godcall/language/polish/AC#W4C_Gladiator_area.tra~
+         ~godcall/language/polish/AC#W4D_Dretch_area.tra~
+         ~godcall/language/polish/AC#W4G_Glabrezu_lair.tra~
+         ~godcall/language/polish/AC#W4S_Succubus_child_area.tra~
+         ~godcall/language/polish/AC#W4W_Azzelbath_weeping_goddess.tra~
+         ~godcall/language/polish/AC#W4W_weeping_goddess_sidechars.tra~
+         ~godcall/language/polish/AC#W06_8_Goldspire_tents.tra~
+         ~godcall/language/polish/AC#W12_Sojourner_Portal.tra~
+         ~godcall/language/polish/AC#W19_Infinite_Staircase_first_level.tra~
+         ~godcall/language/polish/AC#W30_Infinite_Staircase.tra~
+         ~godcall/language/polish/AC#W30_Modron_machine.tra~
+         ~godcall/language/polish/AC#W40_Mefisto.tra~
+         ~godcall/language/polish/AC#W40_Samora.tra~
+         ~godcall/language/polish/AC#W41_Sodden_solar.tra~
+         ~godcall/language/polish/AC#W42_Marettas_Beds.tra~
+         ~godcall/language/polish/AC#W44_Counting_House_Maretta.tra~
+         ~godcall/language/polish/AC#W45_Nighthag_house.tra~
+         ~godcall/language/polish/AC#W47_Nalfeshnee.tra~
+         ~godcall/language/polish/AC#W50_abyssal_plains.tra~
+         ~godcall/language/polish/AC#W51_Bebilith_Lair.tra~
+         ~godcall/language/polish/AC#W52_traitor_prison.tra~
+         ~godcall/language/polish/AC#W54_56_57.tra~
+         ~godcall/language/polish/AC#W60_61_blood_war.tra~
+         ~godcall/language/polish/AC#W70_chamber_of_temptation.tra~
+         ~godcall/language/polish/AC#W71_test_of_lust.tra~
+         ~godcall/language/polish/AC#W72_gluttony.tra~
+         ~godcall/language/polish/AC#W73_envy.tra~
+         ~godcall/language/polish/AC#W74_wrath.tra~
+         ~godcall/language/polish/AC#W75_pride.tra~
+         ~godcall/language/polish/AC#W76_greed.tra~
+         ~godcall/language/polish/AC#W77_test of sloth.tra~
+         ~godcall/language/polish/AC#W80.tra~
+         ~godcall/language/polish/Belthazaar_drums.tra~
+         ~godcall/language/polish/Book_of_fiends.tra~
+         ~godcall/language/polish/CROMWELL.tra~
+         ~godcall/language/polish/Goldspire_Main_Dialogues.tra~
+         ~godcall/language/polish/planar_guild.tra~
+         ~godcall/language/polish/Spellkey_merchant.tra~
+         ~godcall/language/polish/Verin.tra~
+
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
 // Godcall (main component)
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
-BEGIN ~Call Of The Lost Goddess V 2.8~
-REQUIRE_PREDICATE (GAME_IS ~bg2ee eet~ && FILE_EXISTS ~engine.lua~) ~Requires BG2:EE or EET patched to 2.0 or higher.~  // Requires BG2:EE or EET patched to 2.0 or higher.
+BEGIN @1000000
+REQUIRE_PREDICATE (GAME_IS ~bg2ee eet~ && FILE_EXISTS ~engine.lua~) @1000010  // Requires BG2:EE or EET patched to 2.0 or higher.
 DESIGNATED 0
 				 
 INCLUDE ~godcall/lib/extra_regexp_vars.tph~
@@ -2125,16 +2177,16 @@ COPY ~godcall/tis/tis-overlays~         ~override~
 //////////////////////////////
 // NPC portraits //
 //////////////////////////////
-BEGIN ~Install portraits for the major NPCs of the mod~
-  REQUIRE_COMPONENT ~Setup-Godcall.tp2~ 0 ~This component requires the full version to be installed.~
+BEGIN @1000001
+  REQUIRE_COMPONENT ~Setup-Godcall.tp2~ 0 @1000011
   DESIGNATED 50
   COPY ~godcall/portraits/BG2EE~         ~override~
 
 //////////////////////////////
 // Voiceover //
 //////////////////////////////
-BEGIN ~Install AI voiceover for major NPCs of the mod (mostly in English)~
-  REQUIRE_COMPONENT ~Setup-Godcall.tp2~ 0 ~This component requires the full version to be installed.~
+BEGIN @1000002
+  REQUIRE_COMPONENT ~Setup-Godcall.tp2~ 0 @1000011
   DESIGNATED 200 
   LAF HANDLE_AUDIO
   STR_VAR

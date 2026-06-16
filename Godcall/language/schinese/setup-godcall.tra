@@ -494,3 +494,8 @@
 @100091 = ~奇怪的大嘴短暂地咬合了一下，似乎贪婪地吞噬了器官。不久之后，你面前的不规则块状物大块移动了一下，器官释放了通道。~
 @100092 = ~你干净利落地切断了触手。触手对被俘的渥金的控制似乎松动了。~
 
+@1000000 = ~Call Of The Lost Goddess~
+@1000001 = ~Install portraits for the major NPCs of the mod~
+@1000002 = ~Install AI voiceover for major NPCs of the mod (mostly in English)~
+@1000010 = ~Requires BG2:EE or EET patched to 2.0 or higher.~
+@1000011 = ~This component requires the full version to be installed.~
