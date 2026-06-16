@@ -492,3 +492,8 @@ As the revelry wanes, tranquility returns to the abbey, and its occupants resume
 @100091 = ~The strange maw snaps briefly and seems to voraciously devour the organ. Shortly thereafter, the amorphous mass in front of you shifts, and the organ releases its path.~
 @100092 = ~With a clean blow you sever the tentacle. The tentacles' grip on the captive Waukeen seems to loosen.~
 
+@1000000 = ~Call Of The Lost Goddess~
+@1000001 = ~Install portraits for the major NPCs of the mod~
+@1000002 = ~Install AI voiceover for major NPCs of the mod (mostly in English)~
+@1000010 = ~Requires BG2:EE or EET patched to 2.0 or higher.~
+@1000011 = ~This component requires the full version to be installed.~
