@@ -58,6 +58,7 @@ The mod is available in:
 - Russian
 - Spanish
 - Brazilian Portuguese
+- Polish
 
 ---
 

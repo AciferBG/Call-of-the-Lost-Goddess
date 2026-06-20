@@ -1,3 +1,13 @@
+Version 2.9
+- added Polish translation by my_summertime, thank you very much!
+- Add installation instructions for Call Of The Lost Goddess
+- Added new entries for mod installation instructions and requirements.
+- Add Russian translations for mod components
+- Update setup-godcall.tra with mod Details
+- Add new translations for mod components in Spanish
+- Add Polish language support to Setup-Godcall.tp2
+- Fix Polish translations in Book_of_fiends.tra
+
 Version 2.8
 - updated chinese Version
 
