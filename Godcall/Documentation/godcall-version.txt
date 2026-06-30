@@ -1,3 +1,7 @@
+Next version
+- Fix position of Goldspire worldmap's icon to prevent overlapping with Gnoll Stronghold or Ormyrrs' Peak (SotSC), by Roberciiik
+- Fix worldmap location names for names with spaces, by Roberciiik
+
 Version 2.9
 - added Polish translation by my_summertime, thank you very much!
 - Add installation instructions for Call Of The Lost Goddess
