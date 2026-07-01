@@ -1,5 +1,5 @@
 /*************************************************************************
- * Call Of The Lost Goddess V 2.9
+ * Call Of The Lost Goddess V 3.0
  *
  *
  *
@@ -7,7 +7,7 @@
  *************************************************************************/
 BACKUP ~godcall/backup~
 AUTHOR "Acifer"
-VERSION ~v2.9~
+VERSION ~v3.0~
 
 AUTO_EVAL_STRINGS
 AUTO_TRA ~godcall\language\%s~
@@ -491,6 +491,9 @@ APPEND itemexcl.2da ~AC#WPTBD 1~
 BUT_ONLY
 
 APPEND itemexcl.2da ~AC#WSOPL 1~
+BUT_ONLY
+
+APPEND itemexcl.2da ~AC#WMGLT 1~
 BUT_ONLY
 
 OUTER_SET strref = RESOLVE_STR_REF (@9000)

@@ -1,6 +1,10 @@
-Next version
+Version 3.0
 - Fix position of Goldspire worldmap's icon to prevent overlapping with Gnoll Stronghold or Ormyrrs' Peak (SotSC), by Roberciiik
 - Fix worldmap location names for names with spaces, by Roberciiik
+- Maggot Hide now inflicts 1-5 points of damage per hit and only grants 5% resistance vs. crushing, piercing, slashing and missile attacks 
+- Maggot Hide is not stackable with other items of protection anymore
+- Sore Defeat now casts only 3 rounds improved haste and only once per day
+- assigned unique scripts to the succubus and incubus in area AC#W71 to prevent other mods altering their scripts (both used the original DEMSUC.BCS before)
 
 Version 2.9
 - added Polish translation by my_summertime, thank you very much!
