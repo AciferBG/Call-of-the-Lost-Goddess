@@ -1,69 +1,71 @@
-@0    = ~Thrice five on even ground,
-Stick the head upon a mound.
-Ten times eight with deepest ire,
-Crush the heart in painful mire.~
-@1 = ~Greetings.~
-@2 = ~(Go away.)~
-@3    = ~Once again appears the mortal kind,
-As though not enough agony we'd find.~
-@4 = ~I am to fetch a Larva for the Nalfeshnee Margrog.~
-@5 = ~I want you to cancel the soul contract with Ormad Sulpar.~
-@6 = ~Ormad has been smothered in your pillow.~
-@7    = ~As farewell nears, a tear cascades,
-Crush the eye, the hero fades.~
-@8 = ~Hmm? What? Oh! Mortals... hehe! Like to listen to old Zhelamiss's rhyme, huh? Huh?~
-@9 = ~What are you doing?~
-@10   = ~Ho ho, hee hee!
-Rhymes, evil, dark decree!
-Perfect brew for the witchery!~
-@11 = ~I'll be leaving again.~
-@12   = ~From Oinos creeps the larval dread,
-Gehenna roars, a tempest spread.~
-@13 = ~A Larva you want, huh? Hehe! That'll be 1,000 gold pieces.~
-@14 = ~Margrog didn't mention anything about a thousand gold pieces.~
-@15 = ~Why do you need gold pieces here in the Abyss?~
-@16 = ~Well, here are the 1000 gold pieces. Hand over your Larva.~
-@17 = ~I don't have that much gold.~
-@18 = ~I'll have to think about that first.~
-@19   = ~No gold, no worm, a price unsung,
-in thousand folds, the circle's rung.~
-@20   = ~Ho ho, hee hee! The gold's my gain,
-Offering instead a pawned refrain.~
-@21   = ~To Saarixal, take the pledge up high,
-He'll give the worm, filled with agony's sigh.~
-@22   = ~Mortals crave wealth and power's hold,
-Bring coins along as midnight's bold.~
-@23 = ~But Margrog didn't say anything about gold pieces.~
-@24   = ~The Margrog's a rogue of treacherous brand,
-Promises diamonds, sells air in hand.~
-//@25 = ~Then I have to talk to Margrog first.~
-@26   = ~No hope for mortals to evade or ditch,
-when they're in deals with a villain witch!~
-@27   = ~The hag in her deceitful spree, chooses words with subtlety.
-Oh, Ormad, your fate's in motion, your doom's unchained.
-Your soul is mine, as destiny's refrain.~
-@28 = ~Zhelamiss, we beg you to hand back the contract. Ormad Sulpar did not do much good in his life, but he still deserves a peaceful afterlife.~
-@29 = ~Then I leave you now.~
-@30   = ~Another way, another way, you wish me to delay?
-Then bring Ormad this pillow, so soft and plush,
-let him lay it on his face, until death's hush.~
-@31 = ~I don't get it.~
-@32 = ~No interest. I'm leaving now.~
-@33   = ~Soft pillow, soft pillow, pure as can be,
-Lay it on his face, and soon, mine he'll be.
-Ormad's soul shall fall into my grasp,
-He shall suffer eternally in his final gasp.~
-@34 = ~I am to bring Ormad a pillow of yours that will suffocate him?~
-@35 = ~A pillow to suffocate Ormad? We can't do that!~
-@36 = ~Exactly, exactly! Heehee.~
-@37 = ~And what do I get for it?~
-@38 = ~For you, my dear guests, I offer a treasure, the potion of ten thousand souls. The potion of ten thousand souls will give you power and strength far beyond anything you have ever known.~
-@39 = ~That's acceptable. Hand over the pillow.~
-@40   = ~The darkness, the darkness, it claims its due,
-Yet the power, oh the power, will fill your hearts true.
-A pillow for Ormad, a potion for thee,
-The power, the power, then yours to decree.
-Make Ormad place the pillow, ha-ha, on his face,
-Then... hi-hi, he'll not have much time to embrace.~
-@41 = ~Oh, I can feel Ormad's soul calling... what was it I promised before? Oh yes, the potion that turns souls into power, here...~
-@42 = ~And now farewell, mortal...~
+@0    = ~Tre volte cinque su piano terreno,
+la testa sul tumulo, in alto, sereno.
+Dieci volte otto, con rabbia e furore,
+schiaccia nel fango il povero cuore.~
+@1 = ~Salute.~
+@2 = ~(Vattene.)~
+@3    = ~Di nuovo compare la stirpe mortale,
+come se il tormento non fosse già tale.~
+@4 = ~Devo procurare una larva per il nalfeshnee Margrog.~
+@5 = ~Voglio che annulli il contratto dell'anima con Ormad Sulpar.~
+@6 = ~Ormad è stato soffocato dal tuo cuscino.~
+@7 = ~Quando l'addio s'avvicina, una lacrima cade,
+schiaccia quell'occhio e l'eroe poi decade.~ ~Quando l'addio s'avvicina, una lacrima cade,
+schiaccia quell'occhio e l'eroina poi decade.~
+@8 = ~Hmm? Cosa? Oh! Mortali... ih ih! Vi piace ascoltare le rime della vecchia Zhelamiss, eh? Eh?~
+@9 = ~Cosa stai facendo?~
+@10   = ~Oh oh, ih ih!
+Rime malvagie, oscuro decreto!
+Per la stregoneria, intruglio perfetto!~
+@11 = ~Me ne vado di nuovo.~
+@12   = ~Da Oinos striscia la larva tremenda,
+Gehenna ruggisce, la bufera s'accenda.~
+@13 = ~Vuoi una larva, eh? Ih ih! Ti costerà 1.000 monete d'oro.~
+@14 = ~Margrog non ha detto nulla di mille monete d'oro.~
+@15 = ~A cosa ti servono monete d'oro qui nell'Abisso?~
+@16 = ~E va bene, ecco le 1.000 monete d'oro. Dammi la tua larva.~
+@17 = ~Non ho tutto quell'oro.~
+@18 = ~Prima devo pensarci.~
+@19   = ~Niente oro, niente verme, il prezzo è cantato:
+mille monete, e il cerchio è completato.~
+@20   = ~Oh oh, ih ih! L'oro è mio guadagno,
+ma un pegno offrirò come degno compagno.~
+@21   = ~A Saarixal porta il pegno con ardore,
+lui darà il verme, colmo di dolore.~
+@22   = ~I mortali bramano ricchezza e potere,
+portate monete nel buio a piacere.~
+@23 = ~Ma Margrog non ha detto nulla riguardo alle monete d'oro.~
+@24   = ~Margrog è un furfante dal cuore traditore,
+promette diamanti e vende solo rumore.~
+//@25 = ~Allora devo prima parlare con Margrog.~
+@26   = ~Per i mortali non c'è scampo né nicchia,
+quando fanno affari con una perfida strega!~
+@27   = ~La megera, ingannatrice sottile, sceglie ogni parola con arte gentile.
+Oh, Ormad, il tuo fato ormai s'è destato, la tua rovina è stata liberata.
+La tua anima è mia, come il destino ha cantato.~
+@28 = ~Zhelamiss, ti preghiamo di restituire il contratto. Ormad Sulpar non ha fatto molto bene in vita, ma merita comunque un aldilà sereno.~
+@29 = ~Allora ora ti lascio.~
+@30   = ~Un'altra via, un'altra via, vuoi ch'io ritardi ancora?
+Porta a Ormad questo cuscino, soffice dimora,
+fallo posare sul volto, stringilo senza timore,
+finché il silenzio della morte non soffochi ogni rumore.~
+@31 = ~Non capisco.~
+@32 = ~Non mi interessa. Ora me ne vado.~
+@33   = ~Morbido cuscino, candido e leggero,
+posalo sul suo volto, e sarà mio per davvero.
+L'anima di Ormad cadrà nella mia presa,
+e soffrirà in eterno, senza più difesa.~
+@34 = ~Dovrei portare a Ormad un tuo cuscino che lo soffocherà?~
+@35 = ~Un cuscino per soffocare Ormad? Non possiamo farlo!~
+@36 = ~Esatto, esatto! Ih ih.~
+@37 = ~E cosa ci guadagno?~
+@38 = ~A voi, miei cari ospiti, offro un tesoro: la Pozione delle Diecimila Anime. La Pozione delle Diecimila Anime vi donerà potere e forza ben oltre tutto ciò che abbiate mai conosciuto.~
+@39 = ~Mi sta bene. Dammi il cuscino.~
+@40   = ~Le tenebre, le tenebre, reclamano il dovuto,
+ma il potere, oh il potere, nel cuore sarà contenuto.
+Un cuscino per Ormad, una pozione per te,
+il potere, il potere, sarà tuo, perché.
+Fa' che Ormad sul volto il cuscino poserà, ah-ah,
+poi... ih-ih, ben poco tempo gli resterà.~
+@41 = ~Oh, sento l'anima di Ormad che mi chiama... cosa avevo promesso prima? Oh sì, la pozione che trasforma le anime in potere, ecco...~
+@42 = ~E ora addio, mortale...~

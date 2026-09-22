@@ -1,459 +1,490 @@
 // Journal Entries
 
-@100001 = ~The rescue of Waukeen
+@100001 = ~Il salvataggio di Waukeen
 
-I rescued Waukeen from the clutches of the demon lord Graz'zt and led her safely out of the Abyss. What more could anyone expect than to enjoy the favor of a goddess of wealth?~
+Ho liberato Waukeen dalle grinfie del signore dei demoni Graz'zt e l'ho condotta sana e salva fuori dall'Abisso. Cosa si potrebbe desiderare di più del favore di una dea della ricchezza?~
 
-@100010 = ~The mission of the Church of Waukeen.
+@100010 = ~La missione della Chiesa di Waukeen
 
-I visited the Temple of Waukeen in the Government District and talked to the priest located there. While he was unable to give me any specifics on the assignment I was given, he asked me to visit the abbey of "Goldspires" north of Athkatla. There, the leader of the church, Tharundar Olehm, is supposed to tell me exactly what the mission is all about.~
+Ho visitato il Tempio di Waukeen nel Distretto Governativo e ho parlato con il sacerdote che vi si trova. Pur non sapendo darmi dettagli precisi sull'incarico, mi ha chiesto di recarmi all'Abbazia delle Guglie Dorate, a nord di Athkatla. Lì il capo della chiesa, Tharundar Olehm, dovrebbe spiegarmi esattamente in cosa consiste la missione.~
 
-@100030 = ~Call of the Lost Goddess
+@100030 = ~Il richiamo della dea perduta
 
-I have accepted a mission given by Tharundar Olehm, High Priest of Waukeen, to free the goddess Waukeen from the clutches of the demon lord Graz'zt in the Abyss. With the help of Kyriani, a priestess of Selune, I will make my way along a temple in Waterdeep to a structure called the 'Infinite Staircase', which will take me through the entire Multiverse and down into the Abyss. Once there, I have to find out where Waukeen is being held in Samora, a demon city, and escort her safely from Graz'zt's prison back to the Infinite Staircase. Tharundar and Kyriani have advised me to prepare myself well for this quest. They are waiting for me on the second floor of the Abbey of the Goldspires until I am ready for the adventure.~
+Ho accettato una missione affidatami da Tharundar Olehm, Sommo Sacerdote di Waukeen: liberare la dea Waukeen dalle grinfie del signore dei demoni Graz'zt nell'Abisso. Con l'aiuto di Kyriani, una sacerdotessa di Selûne, raggiungerò attraverso un tempio di Waterdeep una struttura chiamata "Scala Infinita", che mi condurrà attraverso l'intero multiverso fino all'Abisso. Una volta lì, dovrò scoprire dove Waukeen è tenuta prigioniera a Samora, una città di demoni, e scortarla sana e salva dalla prigione di Graz'zt fino alla Scala Infinita. Tharundar e Kyriani mi hanno consigliato di prepararmi bene per questa impresa. Mi attendono al secondo piano dell'Abbazia delle Guglie Dorate finché non sarò pronto a partire.~ ~Il richiamo della dea perduta
 
-@100031 = ~Call of the Lost Goddess
+Ho accettato una missione affidatami da Tharundar Olehm, Sommo Sacerdote di Waukeen: liberare la dea Waukeen dalle grinfie del signore dei demoni Graz'zt nell'Abisso. Con l'aiuto di Kyriani, una sacerdotessa di Selûne, raggiungerò attraverso un tempio di Waterdeep una struttura chiamata "Scala Infinita", che mi condurrà attraverso l'intero multiverso fino all'Abisso. Una volta lì, dovrò scoprire dove Waukeen è tenuta prigioniera a Samora, una città di demoni, e scortarla sana e salva dalla prigione di Graz'zt fino alla Scala Infinita. Tharundar e Kyriani mi hanno consigliato di prepararmi bene per questa impresa. Mi attendono al secondo piano dell'Abbazia delle Guglie Dorate finché non sarò pronta a partire.~
+@100031 = ~Il richiamo della dea perduta
 
-Starting from the temple in Waterdeep, I have to find my way up the 'Infinite Staircase' to the platform that will lead me to Samora. There I have to meet a Nalfeshnee called Margrog, who is my contact in the demon city.~
+Partendo dal tempio di Waterdeep, devo trovare la strada lungo la Scala Infinita fino alla piattaforma che conduce a Samora. Là dovrò incontrare un nalfeshnee di nome Margrog, il mio contatto nella città demoniaca.~
 
 //thief quest, alt. title: Tainted Gold?
-@100200 = ~A thief in the Goldspires  
+@100200 = ~Un ladro alle Guglie Dorate
 
-I came across Maendir, a thief, outside Waukeen's temple. I've agreed to assist in his dubious plot to loot the abbey's treasury of some gold. My task is to pick the key to the safe, which the priestess Faerthae Garblueth is said to be carrying inside the temple. Once I have the key, I have to bring it to Maendir outside. He will then take care of everything else.~
+Ho incontrato Maendir, un ladro, fuori dal tempio di Waukeen. Ho accettato di aiutarlo nel suo losco piano per sottrarre dell'oro al tesoro dell'abbazia. Il mio compito è rubare la chiave della cassaforte che, a quanto pare, la sacerdotessa Faerthae Garblueth porta con sé all'interno del tempio. Una volta ottenuta la chiave, dovrò portarla a Maendir, che mi aspetta fuori. Al resto penserà lui.~
 
-@100201 = ~A thief in the Goldspires
+@100201 = ~Un ladro alle Guglie Dorate
 
-I stole the key of the safe room from the Waukeen priestess. Now I have to bring it to the thief Maendir outside in the Abbey of Goldspires.~
+Ho rubato alla sacerdotessa di Waukeen la chiave della stanza della cassaforte. Ora devo portarla al ladro Maendir, che si trova all'esterno dell'Abbazia delle Guglie Dorate.~
 //@100202 = ~~
-@100203 = ~A thief in the Goldspires
+@100203 = ~Un ladro alle Guglie Dorate
 
-I brought the key to Maendir. He immediately disappeared with it, off to his 'task'. I'll meet him again in one day - hopefully.~
+Ho consegnato la chiave a Maendir. È sparito immediatamente con essa per occuparsi del suo "lavoro". Dovrei incontrarlo di nuovo fra un giorno... si spera.~
 
-@100204 = ~A thief in the Goldspires
-   
-The theft at the Abbey of Goldspires did not end up well. The thief has turned into a golden statue. Luckily I hadn't taken any of the gold myself!~
+@100204 = ~Un ladro alle Guglie Dorate
 
-@100210 = ~A thief in the Goldspires
+Il furto alle Guglie Dorate non è finito bene. Il ladro è stato trasformato in una statua d'oro. Per fortuna non avevo preso personalmente neppure una moneta!~
 
-I reported the thief who tried to take possession of the gold of Waukeen's church to the guards. This should make the Goldspires a little safer.~
+@100210 = ~Un ladro alle Guglie Dorate
 
-@110000 = ~Foes of Waukeen's faith
+Ho denunciato alle guardie il ladro che cercava di derubare la Chiesa di Waukeen. Questo dovrebbe rendere le Guglie Dorate un luogo un po' più sicuro.~
 
-I encountered a weird man after visiting Waukeen's temple in Athkatla's Government District who attempted to stop me from helping the church. I don't know who he is or where he's from, but I should be cautious about my next steps, as it appears that the church doesn't only have friends in Athkatla.~
+@110000 = ~Nemici della fede di Waukeen
+
+Dopo aver visitato il tempio di Waukeen nel Distretto Governativo di Athkatla, ho incontrato uno strano individuo che ha cercato di impedirmi di aiutare la chiesa. Non so chi sia né da dove provenga, ma dovrò muovermi con cautela: sembra che ad Athkatla la Chiesa di Waukeen non abbia soltanto amici.~
 
 // Goldspires - merchant thievery accusation
-@110001 = ~Foes of Waukeen's faith
+@110001 = ~Nemici della fede di Waukeen
 
-A merchant in Waukeen Abbey tried to accuse me of theft. He confessed to having been hired by the man who tried to dissuade me from my mission outside Waukeen's temple in the Government District.~
+Un mercante nell'Abbazia di Waukeen ha cercato di accusarmi di furto. Ha confessato di essere stato assoldato dall'uomo che, fuori dal tempio di Waukeen nel Distretto Governativo, aveva tentato di dissuadermi dalla mia missione.~
 
 // Infinite Staircase - Mages
-@110002 = ~Foes of Waukeen's faith
+@110002 = ~Nemici della fede di Waukeen
 
-On the Infinite Staircase, I encountered some mages who were apparently hired by the dark-clad man from Athkatla in order to stop me. Somehow this guy must have managed to follow my trail to the Infinite Staircase. I should proceed carefully.~
+Sulla Scala Infinita ho incontrato alcuni maghi che, a quanto pare, erano stati assoldati dall'uomo vestito di nero di Athkatla per fermarmi. In qualche modo quel tipo deve essere riuscito a seguire le mie tracce fin sulla Scala Infinita. Dovrò procedere con cautela.~
 
-@110003 = ~Foes of Waukeen's faith
+@110003 = ~Nemici della fede di Waukeen
 
-Gildaar seems to be on the verge of being able to tell Maretta about my plans. I should be prepared for a confrontation with the priest - if things go badly, right in Maretta's throne room. I should make sure that he doesn't reveal my goals, as this would turn the whole city against me.  In this respect, I should think of a tactic to quickly eliminate or silence Gildaar.~
+Gildaar sembra sul punto di riferire a Maretta i miei piani. Devo prepararmi a uno scontro con il sacerdote, nel peggiore dei casi proprio nella sala del trono di Maretta. Devo impedirgli di rivelare i miei obiettivi, altrimenti l'intera città mi si rivolterebbe contro. Sarà meglio escogitare un modo per eliminare o mettere a tacere Gildaar rapidamente.~
 /*
 // Samora - Solar??
 @110003 =
 */
-@110010 = ~Foes of Waukeen's faith
+@110010 = ~Nemici della fede di Waukeen
 
-On the Infinite Staircase, I met the strange man who had approached me in Athkatla and tried to dissuade me from my plans to travel to the Abyss. He revealed himself to me as Gildaar, Priest of Cyric, and disappeared in the direction of Samora. I should look for him in the city of demons, for I suspect he will continue to try to stop my mission.~
+Sulla Scala Infinita ho incontrato lo strano individuo che mi aveva avvicinato ad Athkatla cercando di dissuadermi dal recarmi nell'Abisso. Si è rivelato essere Gildaar, un sacerdote di Cyric, ed è scomparso in direzione di Samora. Dovrò cercarlo nella città dei demoni, perché sospetto che continuerà a cercare di ostacolare la mia missione.~ ~Nemici della fede di Waukeen
 
-@110011 = ~Foes of Waukeen's faith
+Sulla Scala Infinita ho incontrato lo strano individuo che mi aveva avvicinata ad Athkatla cercando di dissuadermi dal recarmi nell'Abisso. Si è rivelato essere Gildaar, un sacerdote di Cyric, ed è scomparso in direzione di Samora. Dovrò cercarlo nella città dei demoni, perché sospetto che continuerà a cercare di ostacolare la mia missione.~
 
-The Cyric priest Gildaar tried to denounce me to the city's guard, the Lady's Lancers. Fortunately, the fiends didn't believe him. However, I must find a way to get rid of Gildaar as soon as possible, as it will only be a matter of time before he tells someone the real reason why I'm here.~
+@110011 = ~Nemici della fede di Waukeen
 
-@110012 = ~Foes of Waukeen's faith
+Gildaar, il sacerdote di Cyric, ha cercato di denunciarmi alla guardia cittadina, i Lancieri della Signora. Fortunatamente gli immondi non gli hanno creduto. Devo però trovare al più presto un modo per liberarmi di Gildaar: è solo questione di tempo prima che riveli a qualcuno il vero motivo della mia presenza qui.~
 
-Margrog, the Nalfeshnee, has suggested talking to the town crier, Mefisto, about Gildaar. It sounds like a reckless endeavor, but it seems there is no other option.~
+@110012 = ~Nemici della fede di Waukeen
 
-@110013 = ~Foes of Waukeen's faith
+Margrog, il nalfeshnee, mi ha suggerito di parlare di Gildaar con Mefisto, il banditore cittadino. Sembra un'impresa avventata, ma a quanto pare non ci sono alternative.~
 
-I have spoken with Mefisto. He wants me to bring him an infant, whose mother is a Succubus named Daemevera, before he helps me against Gildaar. Her house is in the west of the city, in the square where they are recruiting for the Bloodwar.~
+@110013 = ~Nemici della fede di Waukeen
 
-@110014 = ~Foes of Waukeen's faith
+Ho parlato con Mefisto. Prima di aiutarmi contro Gildaar vuole che gli porti un neonato la cui madre è una succube di nome Daemevera. La sua casa si trova nella parte occidentale della città, nella piazza dove vengono reclutati mercenari per la Guerra Sanguinosa.~
 
-Mefisto has proposed to use the waters of the Styx to steal Gildaar's memories. A Merrenoloth named Az'zelbath, who has been traveling the River Styx, is staying at the tavern "The Weeping Goddess" in the north of the city and may be able to provide us with a vial. I don't know how to use it, but it seems worth a try.~
+@110014 = ~Nemici della fede di Waukeen
 
-@110015 = ~Foes of Waukeen's faith
+Mefisto ha proposto di usare le acque dello Stige per cancellare i ricordi di Gildaar. Un merrenoloth di nome Az'zelbath, che ha viaggiato sul Fiume Stige, soggiorna alla taverna "La Dea Piangente", nel nord della città, e potrebbe procurarmi una fiala. Non so ancora come usarla, ma vale la pena tentare.~
 
-Az'zelbath, the Merrenoloth, has given me a bottle of the Water of Styx. Now I have to wait until Gildaar comes across me to throw the liquid in his face so he forgets why he wanted to plot against me.~
+@110015 = ~Nemici della fede di Waukeen
 
-@110016 = ~Foes of Waukeen's faith
+Az'zelbath, il merrenoloth, mi ha dato una bottiglia d'acqua dello Stige. Ora devo aspettare di incontrare Gildaar e gettargli il liquido sul volto, così che dimentichi perché voleva tramare contro di me.~
 
-I have a bottle of Styx water! Now I have to wait until I meet Gildaar to throw the liquid in his face so he forgets why he wanted to plot against me.~
+@110016 = ~Nemici della fede di Waukeen
 
-@110017 = ~Foes of Waukeen's faith
+Ho una bottiglia d'acqua dello Stige! Ora devo aspettare di incontrare Gildaar e gettargli il liquido sul volto, così che dimentichi perché voleva tramare contro di me.~
 
-Gildaar is dead. Perhaps I can find a clue to his employers on his body.~
+@110017 = ~Nemici della fede di Waukeen
 
-@110018 = ~Foes of Waukeen's faith
+Gildaar è morto. Forse sul suo corpo troverò qualche indizio sui suoi mandanti.~
 
-I discovered a letter on Gildaar's corpse hinting at a traitor within the Abbey of the Goldspires. I need to inform Tharundar Olehm about this.~
+@110018 = ~Nemici della fede di Waukeen
 
-@110019 = ~Foes of Waukeen's faith
+Sul cadavere di Gildaar ho trovato una lettera che lascia intendere la presenza di un traditore nell'Abbazia delle Guglie Dorate. Devo informarne Tharundar Olehm.~
 
-I gave Tharundar Olehm the letter Gildaar was carrying. He wants to take care of the traitor.~
+@110019 = ~Nemici della fede di Waukeen
 
-@110020 = ~Foes of Waukeen's faith
+Ho consegnato a Tharundar Olehm la lettera che Gildaar portava con sé. Intende occuparsi del traditore. Devo incontrarlo al secondo piano delle Guglie Dorate per sapere come procede l'indagine.~
 
-The traitor has been caught and brought to justice. This solves the mystery of the Cyric priest Gildaar who followed me to the Abyss.~
+@110020 = ~Nemici della fede di Waukeen
 
-@110021 = ~Foes of Waukeen's faith
+Il traditore è stato scoperto e consegnato alla giustizia. Questo risolve il mistero di Gildaar, il sacerdote di Cyric che mi ha seguito fino all'Abisso.~ ~Nemici della fede di Waukeen
 
-I have taken the infant from the succubus Daemevera. In order to help me get rid of Gildaar, I have to hand over the child to Mefisto.~
+Il traditore è stato scoperto e consegnato alla giustizia. Questo risolve il mistero di Gildaar, il sacerdote di Cyric che mi ha seguita fino all'Abisso.~
+
+@110021 = ~Nemici della fede di Waukeen
+
+Ho sottratto il neonato alla succube Daemevera. Affinché mi aiuti a liberarmi di Gildaar, devo consegnare il bambino a Mefisto.~
 
 // Quest for Riven, bard poet on the Infinite Staircase
-@190000 = ~Verses of the staircase
+@190000 = ~Versi della Scala
 
-The priestess Elandra Moonsong has asked me to keep an eye out for a bard named Riven Windwalker as I continue my journey, as he set out to explore the Infinite Staircase and has not returned. He also intended to write a poem about the Staircase. I am to escort him back to the base of the stairs safe and sound.~
+La sacerdotessa Elandra Moonsong mi ha chiesto di tenere gli occhi aperti durante il viaggio e cercare un bardo di nome Riven Windwalker, partito per esplorare la Scala Infinita e mai tornato. Intendeva inoltre comporre una poesia sulla Scala. Devo ricondurlo sano e salvo alla base della Scala.~
 
-@190001 = ~Verses of the staircase
+@190001 = ~Versi della Scala
 
-The bard Riven Windwalker is dead. I found his poem by his corpse at an edge of the Infinite Staircase. I should take this poem back to Elandra Moonsong at the bottom of the stairs and tell her the sad news of his death.~
+Il bardo Riven Windwalker è morto. Ho trovato la sua poesia accanto al cadavere, sul margine della Scala Infinita. Dovrei riportarla a Elandra Moonsong, alla base della Scala, e darle la triste notizia della sua morte.~
 
-@190002 = ~Verses of the staircase
+@190002 = ~Versi della Scala
 
-I took Riven Windwalker's poem back to Elandra Moonsong at the bottom of the stairs and told her that the bard is dead.~
+Ho riportato la poesia di Riven Windwalker a Elandra Moonsong, alla base della Scala, e le ho riferito che il bardo è morto.~
 
 // Samora Journal entries
-@400000 = ~Call of the Lost Goddess
+@400000 = ~Il richiamo della dea perduta
 
-I have arrived in the city of Samora in the Abyss. Now I have to search for a Nalfeshnee named Margrog. I hope this demon can help me in my search for Waukeen.~
+Sono arrivato nella città di Samora, nell'Abisso. Ora devo cercare un nalfeshnee di nome Margrog. Spero che questo demone possa aiutarmi nella ricerca di Waukeen.~ ~Il richiamo della dea perduta
 
-@400001 = ~Call of the Lost Goddess
+Sono arrivata nella città di Samora, nell'Abisso. Ora devo cercare un nalfeshnee di nome Margrog. Spero che questo demone possa aiutarmi nella ricerca di Waukeen.~
+@400001 = ~Il richiamo della dea perduta
 
-My first part of the journey is done. I have found Margrog and now have to use all due caution in Samora to determine where Waukeen is being held captive.~
+La prima parte del viaggio è conclusa. Ho trovato Margrog e ora devo muovermi con estrema cautela a Samora per scoprire dove Waukeen è tenuta prigioniera.~
 
-@400010 = ~The rescue of Waukeen
+@400010 = ~Il salvataggio di Waukeen
 
-I was given the pentacle that controls the function of the fiery ovens by Maretta. Now, if I manage to find out where Waukeen is located, I can free her.~
+Maretta mi ha consegnato il pentacolo che controlla il funzionamento dei forni infuocati. Ora, se riuscirò a scoprire dove si trova Waukeen, potrò liberarla.~
 
-@400011 = ~The rescue of Waukeen
+@400011 = ~Il salvataggio di Waukeen
 
-Maretta mentioned a traitor who was thrown into the "Acid Pools of Yemach". If there's anything left of him, I might get a clue on how to get into Waukeen's prison. I should discuss this with the Nalfeshnee Margrog in his dwelling just across the street from the Counting House.~
+Maretta ha menzionato un traditore gettato nelle "Pozze Acide di Yemach". Se di lui è rimasto qualcosa, potrei ottenere un indizio su come entrare nella prigione di Waukeen. Dovrei parlarne con il nalfeshnee Margrog, nella sua dimora proprio di fronte alla Casa dei Conti.~
 
-@400012 = ~The rescue of Waukeen
+@400012 = ~Il salvataggio di Waukeen
 
-A former guard of Waukeen named Clyddis, a Vrock who has fallen from grace, knows how to get into Waukeen's prison using the portals of the fiery ovens in Samora. Currently, he himself is being held captive in a place they call the 'Acid Pools of Yemach', which I can reach through a fiery oven in the Soulfields. However, I will need an item to activate the fiery ovens.~
+Una vecchia guardia di Waukeen di nome Clyddis, un vrock caduto in disgrazia, sa come entrare nella prigione della dea usando i portali dei forni infuocati di Samora. Attualmente è egli stesso prigioniero in un luogo chiamato "Pozze Acide di Yemach", raggiungibile attraverso un forno infuocato nei Campi delle Anime. Mi servirà però un oggetto per attivare i forni.~
 
-@400013 = ~The rescue of Waukeen
+@400013 = ~Il salvataggio di Waukeen
 
-A former guard of Waukeen named Clyddis, a Vrock who has fallen from grace, knows how to get into Waukeen's prison via the portals of the fiery ovens. Margrog has discovered that he is currently being held in a place they call the "Acid Pools of Yemach", where he is being slowly tortured to death. With the help of the pentacle Maretta gave me, I can use the western fiery oven in the Soulfields to get to Clyddis' prison and interrogate him about Waukeen's whereabouts.~
+Una vecchia guardia di Waukeen di nome Clyddis, un vrock caduto in disgrazia, sa come entrare nella prigione della dea attraverso i portali dei forni infuocati. Margrog ha scoperto che attualmente è imprigionato in un luogo chiamato "Pozze Acide di Yemach", dove viene lentamente torturato a morte. Con il pentacolo che Maretta mi ha dato posso usare il forno infuocato occidentale nei Campi delle Anime per raggiungere la prigione di Clyddis e interrogarlo su dove si trovi Waukeen.~
 
-@400020 = ~The rescue of Waukeen
+@400020 = ~Il salvataggio di Waukeen
 
-Waukeen's former guard - Clyddis, the Vrock - explained to me the function of the green fiery ovens in Samora. In order to enter Waukeen's prison, one has to pass through the ovens in a very specific order, tracing the shape of an inverted pentagram. I have to start at the statue of Graz'zt, and if I jump through an oven I've just come through, I end up at another one. Clyddis had a drawing on his body showing the correct sequence of ovens. A drawing on the floor of the city can also show me the correct order.~
+Ho attraversato l'ultimo forno infuocato di Samora e finalmente sembra che abbia raggiunto la prigione dove Waukeen è detenuta. In una delle celle davanti a me dovrebbe trovarsi la dea che devo liberare.~
 
-@400021 = ~The rescue of Waukeen
+@400021 = ~Il salvataggio di Waukeen
 
-I passed through the last fiery oven in Samora and now seem to have finally arrived in the prison where Waukeen is being kept. One of the cells ahead of me should hold the goddess I'm tasked with freeing.~
+Ho attraversato l'ultimo forno infuocato di Samora e finalmente sembra che sia arrivato nella prigione dove Waukeen è detenuta. In una delle celle davanti a me dovrebbe trovarsi la dea che devo liberare.~ ~Il salvataggio di Waukeen
 
-@400022 = ~The rescue of Waukeen
+Ho attraversato l'ultimo forno infuocato di Samora e finalmente sembra che sia arrivata nella prigione dove Waukeen è detenuta. In una delle celle davanti a me dovrebbe trovarsi la dea che devo liberare.~
+@400022 = ~Il salvataggio di Waukeen
 
-I have freed Waukeen from her cell. Now I have to get out of Samora as quickly as possible and can only hope that there aren't too many fiends hot on my heels.~
+Ho attraversato la porta nella Casa dei Conti e finalmente sembra che abbia raggiunto la prigione dove Waukeen è detenuta. Non mi resta molto tempo per liberarla: lo scontro con Maretta ha reso evidente a tutti la mia intrusione ed è solo questione di tempo prima che i demoni infuriati mi sopraffacciano.~
 
-@400023 = ~The rescue of Waukeen
+@400023 = ~Il salvataggio di Waukeen
 
-I have passed the door in the Counting House and seem to have finally arrived at the prison where Waukeen is being held. I don't have much time left to free Waukeen, because the fight with Maretta has made everyone aware of my intrusion and it's only a matter of time before I'm overwhelmed by angry demons.~
+Ho attraversato la porta nella Casa dei Conti e finalmente sembra che sia arrivato nella prigione dove Waukeen è detenuta. Non mi resta molto tempo per liberarla: lo scontro con Maretta ha reso evidente a tutti la mia intrusione ed è solo questione di tempo prima che venga sopraffatto da demoni infuriati.~ ~Il salvataggio di Waukeen
 
-@400100 = ~The missing amulet
+Ho attraversato la porta nella Casa dei Conti e finalmente sembra che sia arrivata nella prigione dove Waukeen è detenuta. Non mi resta molto tempo per liberarla: lo scontro con Maretta ha reso evidente a tutti la mia intrusione ed è solo questione di tempo prima che venga sopraffatta da demoni infuriati.~
+@400100 = ~L'amuleto scomparso
 
-Zzrakh, the Bebilith demon has given me the amulet, a pentacle, which Maretta wants back. Now I have to return it to Maretta in the Counting House.~
-@400120 = ~The missing amulet
+Zzrakh, il bebilith, mi ha consegnato l'amuleto, un pentacolo, che Maretta vuole riavere. Ora devo riportarlo a Maretta nella Casa dei Conti.~
+@400120 = ~L'amuleto scomparso
 
-I have killed the Bebilith. Since the demon has eaten many of Maretta's servants, I should search his corpse to see if I can find the amulet that the Succubus Maretta is looking for.~
-@400121 = ~The missing amulet
+Ho ucciso il bebilith. Poiché il demone ha divorato molti servitori di Maretta, dovrei perquisire il suo cadavere e vedere se trovo l'amuleto che la succube sta cercando.~
+@400121 = ~L'amuleto scomparso
 
-I found the amulet on the corpse of the Bebilith demon. Now I must return it to Maretta in the Counting House.~
-@400122 = ~The missing amulet
+Ho trovato l'amuleto sul cadavere del bebilith. Ora devo riportarlo a Maretta nella Casa dei Conti.~
+@400122 = ~L'amuleto scomparso
 
-I brought the amulet back to Maretta.~
+Ho restituito l'amuleto a Maretta.~
 
-@400200 = ~The Deva feather
+@400200 = ~La piuma del deva
 
-Maretta wants a Deva feather for her painting. I hope I find a merchant in Samora's marketplace who sells this.~
+Maretta vuole una piuma di deva per il suo dipinto. Spero di trovare nel mercato di Samora un mercante che ne venda una.~
 
-@400201 = ~The Deva feather
+@400201 = ~La piuma del deva
 
-I have received a Deva feather. Now I have to take it back to Maretta at the Counting House.~
+Ho ottenuto una piuma di deva. Ora devo riportarla a Maretta nella Casa dei Conti.~
+
+@400202 = ~La piuma del deva
+
+Ho consegnato a Maretta la piuma del deva, come desiderava.~
 
 // Verin
 @400300 = ~Verin
 
-I met a strange person in the Counting House - a creature called Verin. He seems to distrust me.~
+Ho incontrato uno strano individuo nella Casa dei Conti, una creatura di nome Verin. Sembra diffidare di me.~
 
 @400301 = ~Verin
 
-Verin has been the keeper of Waukeen's prison. With his death, one of the last hurdles to freeing the goddess should be removed.~
+Verin sorvegliava la prigione di Waukeen. Con la sua morte, uno degli ultimi ostacoli alla liberazione della dea dovrebbe essere stato rimosso.~
 
 // soul thief
-@400400 = ~The Soul Thief
+@400400 = ~Il nabassu ladro di anime
 
-A Nabassu demon named Trar'gezal is stealing souls. I am to use a fiery oven, which acts as a portal, to travel near his dwelling and hunt him down. The portal is located in the Soulfields south of Samora near the Tree of Cowards. Afterward, I must report back to Maretta at the Counting House.~
+Un demone nabassu di nome Trar'gezal sta rubando anime. Devo usare un forno infuocato, che funge da portale, per raggiungere la zona vicina alla sua dimora e dargli la caccia. Il portale si trova nei Campi delle Anime, a sud di Samora, nei pressi dell'Albero dei Codardi. In seguito dovrò riferire a Maretta nella Casa dei Conti. Tuttavia non ho più l'obbligo di portare a termine questo incarico, perché dovrei procedere rapidamente con il salvataggio di Waukeen.~
 
-@400401 = ~The Soul Thief
+@400401 = ~Il nabassu ladro di anime
 
-The Nabassu Trar'gezal is dead. I should report my success to Maretta.~
+Il nabassu Trar'gezal è morto. Dovrei riferire a Maretta del mio successo.~
 
-@400402 = ~The Soul Thief
+@400402 = ~Il nabassu ladro di anime
 
-I told Maretta about the dead Nabassu. She has no more use for me now. I should move on to the rescue of Waukeen as soon as possible.~
+Ho riferito a Maretta della morte del nabassu. Ora non ha più bisogno di me. Dovrei proseguire al più presto con il salvataggio di Waukeen.~
 
 // spell failure info
-@400500 = ~Magic in the Abyss
+@400500 = ~La magia nell'Abisso
 
-Some mage spells don't seem to be working properly in the Abyss. I'll have to find someone in Samora who is familiar with it.~
+Alcuni incantesimi da mago sembrano non funzionare correttamente nell'Abisso. Dovrò trovare a Samora qualcuno che se ne intenda.~
 
-@400501 = ~Magic in the Abyss
+@400501 = ~La magia nell'Abisso
 
-With the help of Spellkeys for mages and Powerkeys for clerics, I am able to cast spells in the Abyss without risking them failing. Warwick in the 'Sodden Solar' sells Spellkeys, a being called Malashrihi in a store in the town of Samora outside the 'Sodden Solar' sells Spellkeys and Powerkeys.~
+Grazie alle chiavi d'incantesimo per i maghi e alle chiavi di potere per i chierici posso lanciare incantesimi nell'Abisso senza rischiare che falliscano. Warwick, al "Solar Fradicio", vende chiavi d'incantesimo; un essere di nome Malashrihi, in un negozio di Samora fuori dal "Solar Fradicio", vende sia chiavi d'incantesimo sia chiavi di potere.~
 
-@400502 = ~Magic in the Abyss
+@400502 = ~La magia nell'Abisso
 
-I witnessed a mage's spell being corrupted in the Abyss. The mage did not survive. I should be careful with my own spells so that the same doesn't occur to me.~
+Ho assistito alla corruzione dell'incantesimo di un mago nell'Abisso. Il mago non è sopravvissuto. Dovrò usare cautela con i miei incantesimi, affinché non accada lo stesso a me.~
 
 // fool's laughter
-@400600 = ~The bottle containing a fool's laughter
+@400600 = ~La bottiglia contenente la risata di un folle
 
-For his services, Mefisto demands that I provide him with the bottle containing a fool's laughter. The bottle appears to be in the possession of a Dretch, a lesser demon, who is hiding in an abandoned warehouse north of "Maretta's Beds" next to the tavern "Lord's Pawns" and just across the street from "Cursed Fortune."~
+In cambio dei suoi servigi, Mefisto pretende che gli procuri la bottiglia contenente la risata di un folle. A quanto pare è in possesso di un dretch, un demone minore, che si nasconde in un magazzino abbandonato a nord de "I Letti di Maretta", accanto alla taverna "Le Pedine del Signore" e proprio di fronte alla "Fortuna Maledetta".~
 
-@400601 = ~The bottle containing a fool's laughter
+@400601 = ~La bottiglia contenente la risata di un folle
 
-I have taken the bottle. I have to take it to Mefisto at Graz'zt's statue in Samora and hope he keeps his end of the bargain.~
+Ho preso la bottiglia. Devo portarla a Mefisto, presso la statua di Graz'zt a Samora, e sperare che mantenga la sua parte dell'accordo.~
 
 // Ormad Sulpar
 @400900 = ~Ormad Sulpar
 
-I'm supposed to meet a mage named Ormad Sulpar at the tavern "The Sodden Solar" in Samora. According to his familiar, he is in distress and needs my help.~
+Devo incontrare un mago di nome Ormad Sulpar alla taverna "Il Solar Fradicio" di Samora. Secondo il suo famiglio, si trova nei guai e ha bisogno del mio aiuto.~
 
+@410000 = ~L'anima barattata tre volte
 
-@410000 = ~The threefold bartered soul
+Ho incontrato l'umano Ormad Sulpar al Solar Fradicio. Ha promesso la propria anima a tre immondi contemporaneamente: la megera della notte Zhelamiss, nella parte occidentale della città; la succube Zaehvielle, la cui dimora è di fronte al bordello "I Letti di Maretta"; e Belthazaar, il glabrezu. Quest'ultimo si trova presso una bancarella di anime davanti a "I Letti di Maretta". Ho accettato di recuperare dai tre immondi i rispettivi contratti sull'anima e di portarli a Ormad, affinché possa riottenere la propria anima.~
 
-I met the human Ormad Sulpar in the Sodden Solar. He has promised his soul to three fiends at once - the Nighthag Zhelamiss in the west of the city, the Succubus Zaehvielle, who has her dwelling opposite the brothel "Maretta's Beds", and Belthazaar, the Glabrezu. He is standing at a soul booth in front of "Maretta's Beds". I agreed to get the three soul contracts from the three fiends and bring them to Ormad so that he could regain his soul.~
+@410001 = ~L'anima barattata tre volte
 
-@410001 = ~The threefold bartered soul
+Ho ingannato Ormad Sulpar inducendolo a usare il cuscino della megera della notte, e ciò gli è costato la vita. Ora posso tornare da Zhelamiss e reclamare la mia ricompensa.~
 
-I tricked Ormad Sulpar into using the Nighthag's pillow, which cost him his life. Now I can return to Zhelamiss, the Nighthag, and claim my reward.~
+@410002 = ~L'anima barattata tre volte
 
-@410002 = ~The threefold bartered soul
+Ho ricevuto dalla megera della notte la ricompensa per la morte di Ormad Sulpar.~
 
-I have received my reward from the Nighthag for the death of Ormad Sulpar.~
+@410005 = ~L'anima barattata tre volte
 
-@410005 = ~The threefold bartered soul
+Ho accettato di consegnare a Ormad Sulpar un pugnale per conto del glabrezu Belthazaar. Se riuscirò a convincerlo a ferirsi con quest'arma, gli costerà la vita e mi farà ottenere una ricca ricompensa.~
 
-I have agreed to present a dagger to Ormad Sulpar on behalf of the Glabrezu Belthazaar. If I manage to get Ormad to injure himself with this dagger, it will cost him his life and earn me a large reward.~
+@410006 = ~L'anima barattata tre volte
 
-@410006 = ~The threefold bartered soul
+Ho ingannato Ormad Sulpar inducendolo a usare il pugnale del glabrezu, e ciò gli è costato la vita. Ora posso tornare da Belthazaar e reclamare la mia ricompensa.~
 
-I tricked Ormad Sulpar into using the Glabrezu's dagger, which cost him his life. Now I can return to Belthazaar, the Glabrezu, and claim my reward.~
+@410007 = ~L'anima barattata tre volte
 
-@410007 = ~The threefold bartered soul
+Ho ricevuto dal glabrezu Belthazaar la ricompensa per la morte di Ormad Sulpar.~
 
-I have received my reward from the Glabrezu Belthazaar for the death of Ormad Sulpar.~
+@410010 = ~L'anima barattata tre volte
 
-@410010 = ~The threefold bartered soul
+Ho consegnato tutti e tre i contratti a Ormad Sulpar. Mi è stato riconoscente ed è partito immediatamente. Spero che ripensi alle proprie azioni e non si cacci di nuovo nei guai.~
 
-I delivered all three contracts to Ormad Sulpar. He was grateful and left immediately. I hope he rethinks his actions and doesn't get into trouble again.~
+@410100 = ~Il contratto dell'anima di Belthazaar
 
-@410100 = ~Belthazaar's Soul Contract
+Il glabrezu Belthazaar non intende consegnarmi tanto facilmente il contratto sull'anima di Ormad Sulpar. Mi ha proposto un indovinello che potrei non riuscire a risolvere senza aiuto. Dovrei chiedere a Ormad Sulpar, al Solar Fradicio: dopotutto è la sua anima che devo salvare.~
 
-The Glabrezu Belthazaar won't hand me Ormad Sulpar's soul contract that easily. He gave me a riddle that I might not be able to solve on my own. I should ask Ormad Sulpar about this riddle in the Sodden Solar, after all, it's his soul I'm supposed to save.~
+@410101 = ~Il contratto dell'anima di Belthazaar
 
-@410101 = ~Belthazaar's Soul Contract
+Ormad Sulpar ritiene che il glabrezu Belthazaar frequenti spesso un magazzino fatiscente nella parte orientale della città. Pare inoltre che gli piaccia giocare con le mani insanguinate delle proprie vittime. Forse in quel magazzino posso trovare un modo per entrare nel covo del glabrezu.~
 
-Ormad Sulpar believes that the Glabrezu Belthazaar often visits a dilapidated warehouse in the east of the city. He also seems to have played with the bloody hands of his victims more often. Maybe I can find a means of getting into the Glabrezu's lair in said warehouse?~
+@410102 = ~Il contratto dell'anima di Belthazaar
 
-@410102 = ~Belthazaar's Soul Contract
+Sono riuscito ad aprire una porta nel magazzino. Dovrei controllare se il contratto dell'anima di Belthazaar è nascosto là dentro.~ ~Il contratto dell'anima di Belthazaar
 
-I was able to open a door in the warehouse and should check whether the Glabrezu Belthazaar's soul contract is hidden inside.~
+Sono riuscita ad aprire una porta nel magazzino. Dovrei controllare se il contratto dell'anima di Belthazaar è nascosto là dentro.~
+@410103 = ~Il contratto dell'anima di Belthazaar
 
-@410103 = ~Belthazaar's Soul Contract
+Ho ucciso il glabrezu Belthazaar e sul suo cadavere ho trovato uno strano indovinello. Forse Ormad Sulpar sa di cosa si tratta.~
 
-I killed the Glabrezu Belthazaar and found a strange riddle on his corpse. Perhaps Ormad Sulpar knows what it's all about.~
+@410110 = ~Il contratto dell'anima di Belthazaar
 
-@410110 = ~Belthazaar's Soul Contract
+Ho recuperato il contratto dell'anima appartenente al glabrezu Belthazaar. Ora devo soltanto portarlo a Ormad Sulpar al Solar Fradicio.~
 
-I have retrieved the soul contract of Glabrezu Belthazaar. Now I only have to bring it together with the other two contracts to Ormad Sulpar in the Sodden Solar.~
+@410111 = ~Il contratto dell'anima di Belthazaar
 
-@410111 = ~Belthazaar's Soul Contract
-
-I have given the soul contract of Glabrezu Belthazaar to Ormad Sulpar.~
+Ho consegnato a Ormad Sulpar il contratto dell'anima del glabrezu Belthazaar.~
 
 // Maretta Bebilith hunting quest journal entries
 //(A demon among demons)
-@440000 = ~The Bebilith Demon Hunter 
+@440000 = ~Il bebilith cacciatore di demoni
 
-In the districts outside the city, a Tanar'ri hunting spider demon, a so-called Bebilith, is up to mischief. The Succubus Maretta, mistress of Samora, has commissioned me to hunt it down to make the area safe for her Tanar'ri again. Once I've taken care of the Bebilith, I'm to report back to her at the Counting House in northwest Samora.~
+Nei territori fuori città si aggira un demone-ragno che caccia i tanar'ri, un cosiddetto bebilith. La succube Maretta, signora di Samora, mi ha incaricato di dargli la caccia per rendere di nuovo sicura la zona per i suoi tanar'ri. Una volta sistemato il bebilith, dovrò riferire a Maretta nella Casa dei Conti, nella parte nord-occidentale di Samora.~ ~Il bebilith cacciatore di demoni
 
-@440010 = ~Recreation in Samora 
+Nei territori fuori città si aggira un demone-ragno che caccia i tanar'ri, un cosiddetto bebilith. La succube Maretta, signora di Samora, mi ha incaricata di dargli la caccia per rendere di nuovo sicura la zona per i suoi tanar'ri. Una volta sistemato il bebilith, dovrò riferire a Maretta nella Casa dei Conti, nella parte nord-occidentale di Samora.~
 
-The Succubus Maretta has granted me permission to spend the night in her brothel "Maretta's Beds" in the center of Samora free of charge from now on.~
+@440010 = ~Riposo a Samora
 
-@440070 = ~The Rose of the Abyss 
+La succube Maretta mi ha concesso di pernottare gratuitamente, d'ora in avanti, nel suo bordello "I Letti di Maretta", nel centro di Samora.~
 
-To prove my loyalty, Maretta asks me for a flower called the "Rose of the Abyss". It grows in the "Chamber of Temptations", an area below Samora. The entrance to this chamber is right next to the tavern "The Weeping Goddess" in the north of the city.~
+@440070 = ~La Rosa dell'Abisso
 
-@440071 = ~The Rose of the Abyss 
+Per dimostrare la mia lealtà, Maretta vuole che le procuri un fiore chiamato "Rosa dell'Abisso". Cresce nella "Camera delle Tentazioni", un'area sotto Samora. L'ingresso si trova proprio accanto alla taverna "La Dea Piangente", nel nord della città.~
 
-I have recovered the rose and must now take it back to Maretta in the Counting House.~
+@440071 = ~La Rosa dell'Abisso
 
-@460010 = ~The House Insignia of the Fey'ri 
+Ho recuperato la rosa e ora devo riportarla a Maretta nella Casa dei Conti.~
 
-I met Val'kreen, a Fey'ri, at the tavern 'The Weeping Goddess' in Samora. He tasked me with returning his stolen House Insignia from a Maurezhi said to be prowling the Soulfields just outside Samora. Although Val'kreen is arrogant, I have agreed to accept this assignment.~
+@460010 = ~L'insegna della casata fey'ri
 
-@460011 = ~The House Insignia of the Fey'ri 
+Alla taverna "La Dea Piangente" di Samora ho incontrato Val'kreen, un fey'ri. Mi ha incaricato di recuperare l'insegna della sua casata, rubata da un maurezhi che pare aggirarsi nei Campi delle Anime, appena fuori Samora. Benché Val'kreen sia arrogante, ho accettato l'incarico.~ ~L'insegna della casata fey'ri
 
-I have found the Fey'ri's House Insignia. Now I must return it to Val'kreen, the Fey'ri, at the Weeping Goddess Tavern in Samora.~
+Alla taverna "La Dea Piangente" di Samora ho incontrato Val'kreen, un fey'ri. Mi ha incaricata di recuperare l'insegna della sua casata, rubata da un maurezhi che pare aggirarsi nei Campi delle Anime, appena fuori Samora. Benché Val'kreen sia arrogante, ho accettato l'incarico.~
 
-@460012 = ~The House Insignia of the Fey'ri 
+@460011 = ~L'insegna della casata fey'ri
 
-I have successfully returned Val'kreen's stolen House Insignia and received the reward. Val'kreen showed little gratitude and let his arrogance show through, but I have learned that this place in the world is not about gratitude.~
+Ho trovato l'insegna della casata del fey'ri. Ora devo riportarla a Val'kreen alla taverna La Dea Piangente di Samora.~
+
+@460012 = ~L'insegna della casata fey'ri
+
+Ho restituito con successo a Val'kreen l'insegna della casata rubata e ho ricevuto la ricompensa. Val'kreen ha mostrato ben poca gratitudine e non ha nascosto la propria arroganza, ma ho imparato che in questo angolo del mondo la gratitudine conta poco.~
 
 // Nalfeshnee quest journal entries
-@470000 = ~A Larva for Margrog
+@470000 = ~Una larva per Margrog
 
-I have met the Nalfeshnee Margrog in Samora. Before he tells me anything about Waukeen's whereabouts, he told me to fetch him a Larva from the Nighthag Zhelamiss, whose house is opposite Margrog's.~
+Ho incontrato il nalfeshnee Margrog a Samora. Prima di dirmi qualcosa su dove si trovi Waukeen, vuole che gli procuri una larva dalla megera della notte Zhelamiss, la cui casa è di fronte alla sua.~
 
-@470001 = ~A Larva for Margrog
+@470001 = ~Una larva per Margrog
 
-The Nighthag demands 1000 gold pieces for a Larva.~
+La megera della notte pretende 1.000 monete d'oro per una larva.~
 
-@470002 = ~A Larva for Margrog
+@470002 = ~Una larva per Margrog
 
-I have acquired a pawn ticket from the Nighthag Zhelamiss, with which I may obtain a Larva from her servant Saarixal, who is waiting at the exit of her lair next to the Larvae.~
-@470003 = ~A Larva for Margrog
+Ho ottenuto dalla megera della notte Zhelamiss una ricevuta di pegno con la quale posso ritirare una larva dal suo servitore Saarixal, che aspetta presso l'uscita del suo covo, accanto alle larve.~
+@470003 = ~Una larva per Margrog
 
-The Larva is in my possession. I should take the creature back to Margrog at his house in western Samora to learn where I can find Waukeen.~
-@470004 = ~A Larva for Margrog
+La larva è in mio possesso. Dovrei riportarla a Margrog, nella sua casa nella parte occidentale di Samora, per scoprire dove posso trovare Waukeen.~
+@470004 = ~Una larva per Margrog
 
-I have brought Margrog the Larva.~
-@470010 = ~Another errand for Margrog
+Ho portato la larva a Margrog.~
+@470010 = ~Un'altra commissione per Margrog
 
-Margrog still won't tell me anything about Waukeen's whereabouts. He wants me to take a small vessel to a being called "Aphul", who is waiting on the Infinite Staircase near the platform that leads to Samora.~
-@470011 = ~Another errand for Margrog
+Margrog continua a non volermi dire nulla su dove si trovi Waukeen. Vuole che porti un piccolo recipiente a un essere chiamato "Aphul", che attende sulla Scala Infinita vicino alla piattaforma che conduce a Samora.~
+@470011 = ~Un'altra commissione per Margrog
 
-I delivered the vessel to the Abishai Aphul, a Baatezu, on the Infinite Staircase. Now I should return to Margrog and finally insist on telling me where Waukeen is.~
+Ho consegnato il recipiente ad Aphul, un abishai baatezu, sulla Scala Infinita. Ora dovrei tornare da Margrog e pretendere finalmente che mi dica dove si trova Waukeen.~
 
-@470020 = ~Mercenary of the Bloodwar
+@470020 = ~Mercenario della Guerra Sanguinosa
 
-Maretta has asked me to enlist as a mercenary in the Bloodwar. I am to find a babau named Garnuth in the city's southwest next to a large banner which is the Bloodwar recruiter in the city.~
-@470021 = ~ Mercenary of the Bloodwar
+Maretta mi ha chiesto di arruolarmi come mercenario nella Guerra Sanguinosa. Devo trovare un babau di nome Garnuth nella parte sud-occidentale della città, accanto a un grande stendardo: è il reclutatore cittadino per la Guerra Sanguinosa.~ ~Mercenaria della Guerra Sanguinosa
 
-I've enlisted for the Bloodwar through the Babau Garnuth. As soon as I'm ready, he'll open a portal and I'll be able to join the battle.~
-@470022 = ~ Mercenary of the Bloodwar
+Maretta mi ha chiesto di arruolarmi come mercenaria nella Guerra Sanguinosa. Devo trovare un babau di nome Garnuth nella parte sud-occidentale della città, accanto a un grande stendardo: è il reclutatore cittadino per la Guerra Sanguinosa.~
+@470021 = ~Mercenario della Guerra Sanguinosa
 
-I need to traverse a portal in Samora to reach a Tanar'ri outpost. My mission is to sever the head of a Baatezu commander and present it as a trophy to the Babau Garnuth in Samora. This might earn me greater trust from Maretta and bring me one step closer to Waukeen's location.~
-@470023 = ~ Mercenary of the Bloodwar
+Mi sono arruolato nella Guerra Sanguinosa tramite il babau Garnuth. Quando sarò pronto, aprirà un portale e potrò unirmi alla battaglia.~ ~Mercenaria della Guerra Sanguinosa
 
-I have taken the Baatezu commander's head! Now I have to return to Samora through the portal to inform Babau Garnuth of my trophy.~
+Mi sono arruolata nella Guerra Sanguinosa tramite il babau Garnuth. Quando sarò pronta, aprirà un portale e potrò unirmi alla battaglia.~
+@470022 = ~Mercenario della Guerra Sanguinosa
 
-@470030 = ~A meeting with Maretta
+Devo attraversare un portale a Samora per raggiungere un avamposto tanar'ri. La mia missione è decapitare un comandante baatezu e presentare la sua testa come trofeo al babau Garnuth a Samora. Questo potrebbe farmi guadagnare maggiore fiducia da parte di Maretta e avvicinarmi di un altro passo alla posizione di Waukeen.~ ~Mercenaria della Guerra Sanguinosa
 
-I should offer Maretta the Baatezu General's head as a token of my victory.~
+Devo attraversare un portale a Samora per raggiungere un avamposto tanar'ri. La mia missione è decapitare un comandante baatezu e presentare la sua testa come trofeo al babau Garnuth a Samora. Questo potrebbe farmi guadagnare maggiore fiducia da parte di Maretta e avvicinarmi di un altro passo alla posizione di Waukeen.~
+@470023 = ~Mercenario della Guerra Sanguinosa
 
-@470040 = ~The missing amulet
+Ho preso la testa del comandante baatezu! Ora devo tornare a Samora attraverso il portale e mostrare il mio trofeo al babau Garnuth.~ ~Mercenaria della Guerra Sanguinosa
 
-Maretta sent me to search the regions south of Samora, which she calls the Soulfields, for a horde of Tanar'ri who were in her service and are now missing. Apparently something is hunting demons. Whether that's good or bad news, I'll have to find out on my own. In any case, I'm supposed to leave the city to the south and recover an amulet that one of their officers was carrying - a pentagram-shaped pendant.~
+Ho preso la testa del comandante baatezu! Ora devo tornare a Samora attraverso il portale e mostrare il mio trofeo al babau Garnuth.~
+@470030 = ~Un incontro con Maretta
 
-@470041 = ~The missing amulet
+Dovrei offrire a Maretta la testa del generale baatezu come prova della mia vittoria.~
 
-There is a portal in the east of the 'Soulfields' from which a spider-like beast hunts Tanar'ri. If I place the horn of a Tanar'ri in front of a small cave, the portal may be activated and I can discover whatever lurks behind it. Let's hope the beast has more of an appetite for demons than for a <PRO_RACE>.~
+@470040 = ~L'amuleto scomparso
 
-@470042 = ~The missing amulet
+Maretta mi ha mandato a cercare, nelle regioni a sud di Samora che chiama Campi delle Anime, un gruppo di tanar'ri al suo servizio che è scomparso. A quanto pare qualcosa sta dando la caccia ai demoni. Se sia una buona o una cattiva notizia dovrò scoprirlo senza aiuto. In ogni caso devo lasciare la città verso sud e recuperare un amuleto che uno dei loro ufficiali portava con sé: un pendente a forma di pentagramma.~ ~L'amuleto scomparso
 
-I have opened the portal through which the demon hunter passed. Now I can step through and discover what the creature is all about. My mission is to recover an amulet that one of the lost Tanar'ri was carrying. The pendant is in the shape of a pentagram.~
+Maretta mi ha mandata a cercare, nelle regioni a sud di Samora che chiama Campi delle Anime, un gruppo di tanar'ri al suo servizio che è scomparso. A quanto pare qualcosa sta dando la caccia ai demoni. Se sia una buona o una cattiva notizia dovrò scoprirlo senza aiuto. In ogni caso devo lasciare la città verso sud e recuperare un amuleto che uno dei loro ufficiali portava con sé: un pendente a forma di pentagramma.~
+@470041 = ~L'amuleto scomparso
 
-@470043 = ~The missing amulet
+Nella parte orientale dei Campi delle Anime c'è un portale dal quale una bestia simile a un ragno dà la caccia ai tanar'ri. Se depongo il corno di un tanar'ri davanti a una piccola caverna, il portale potrebbe attivarsi e permettermi di scoprire cosa si cela dall'altra parte. Speriamo che la bestia abbia più appetito per i demoni che per una creatura di razza <PRO_RACE>.~
 
-In the 'Soulfields', there is said to be a portal in a small cave in the east of the area, from which a spider-like beast hunts Tanar'ri. If I place an element of a greater Tanar'ri there, the portal should activate. At least that's what an entity that calls itself the 'Tree of Cowards' claims. It offered to give me a piece of a Tanar'ri if I would free it from its everlasting fear for a short time.~
+@470042 = ~L'amuleto scomparso
 
-@470100 = ~Margrog sends for me
+Ho aperto il portale attraversato dal cacciatore di demoni. Ora posso varcarlo e scoprire che razza di creatura sia. La mia missione è recuperare un amuleto che uno dei tanar'ri scomparsi portava con sé. Il pendente ha la forma di un pentagramma.~
 
-The Nalfeshnee Margrog has summoned me to his house. It seems to be urgent.~
+@470043 = ~L'amuleto scomparso
 
-@470500 = ~A meeting with Maretta
+Si dice che nei Campi delle Anime vi sia, in una piccola caverna a est, un portale dal quale una bestia simile a un ragno dà la caccia ai tanar'ri. Se vi depongo una parte di un tanar'ri superiore, il portale dovrebbe attivarsi. Almeno così sostiene un'entità che si fa chiamare "Albero dei Codardi". Mi ha offerto una parte di tanar'ri se riuscirò a liberarlo per breve tempo dalla paura eterna.~
 
-I must either become champion of Samora's arena in "Cursed Fortune" or get the town crier Mefisto to speak so convincingly about my story that the mistress of Samora will take notice of me and grant me an audience. Since the path to Waukeen is controlled by Maretta, I must carefully gain her trust until I have an opportunity to enter the goddess's dungeon.~
+@470100 = ~Margrog mi ha fatto chiamare
 
-@470501 = ~A meeting with Maretta
+Il nalfeshnee Margrog mi ha convocato nella sua casa. Sembra urgente.~ ~Margrog mi ha fatto chiamare
 
-Mefisto kept his end of the bargain, and I was indeed summoned to Maretta in the Counting House in western Samora.~
+Il nalfeshnee Margrog mi ha convocata nella sua casa. Sembra urgente.~
 
-@470502 = ~A meeting with Maretta
+@470500 = ~Un incontro con Maretta
 
-As Champion of the Arena of Samora, I was summoned to the Lady of the City, the Succubus Maretta, in the Counting House in western Samora.~
+Devo diventare campione dell'arena di Samora nella "Fortuna Maledetta" oppure convincere il banditore Mefisto a raccontare la mia storia con sufficiente enfasi da attirare l'attenzione della signora di Samora e ottenere un'udienza. Poiché il cammino verso Waukeen è controllato da Maretta, devo conquistare con cautela la sua fiducia finché non avrò l'occasione di entrare nella prigione della dea.~ ~Un incontro con Maretta
 
-@470503 = ~A meeting with Maretta
+Devo diventare campionessa dell'arena di Samora nella "Fortuna Maledetta" oppure convincere il banditore Mefisto a raccontare la mia storia con sufficiente enfasi da attirare l'attenzione della signora di Samora e ottenere un'udienza. Poiché il cammino verso Waukeen è controllato da Maretta, devo conquistare con cautela la sua fiducia finché non avrò l'occasione di entrare nella prigione della dea.~
+@470501 = ~Un incontro con Maretta
 
-As a champion, chances are good that I will soon be summoned to the Counting House.~
+Mefisto ha mantenuto la sua parte dell’accordo e Maretta mi ha effettivamente convocato nella Casa dei Conti, nella parte occidentale di Samora.~
 
-@470601 = ~Margrog, the Nalfeshnee
+@470502 = ~Un incontro con Maretta
 
-Margrog and his bizarre house have fled the scene, apparently leaving Samora in a hurry. I hope nobody suspects anything.~
+In qualità di campione dell'Arena di Samora, sono stato convocato dalla Signora della Città, la succube Maretta, nella Casa dei Conti nella parte occidentale di Samora.~ ~Un incontro con Maretta
 
-@470700 = ~A soul for the goddess
+In qualità di campionessa dell'Arena di Samora, sono stata convocata dalla Signora della Città, la succube Maretta, nella Casa dei Conti nella parte occidentale di Samora.~
+@470503 = ~Un incontro con Maretta
 
-Tharundar Olehm, the priest of Waukeen, has promised the Nalfeshnee Margrog nothing less than his own soul as a reward for helping to rescue Waukeen. There may be a way to prevent this pact. However, it might be difficult as long as Margrog is in town.~
+In qualità di campione, ci sono buone probabilità che venga presto convocato alla Casa dei Conti.~ ~Un incontro con Maretta
 
-@470701 = ~A soul for the goddess
+In qualità di campionessa, ci sono buone probabilità che venga presto convocata alla Casa dei Conti.~
+@470601 = ~Margrog, il nalfeshnee
 
-Now that Margrog has left town, I may have an opportunity to eliminate him to prevent the pact he made with Waukeen's priest, Tharundar Olehm. Who might know where the Nalfeshnee has gone?~
+Margrog e la sua bizzarra casa si sono dati alla fuga, apparentemente lasciando Samora in tutta fretta. Spero che nessuno sospetti nulla.~
 
-@470702 = ~A soul for the goddess
+@470700 = ~Un'anima per la dea
 
-To track down Margrog, I need a creature that is used to hunt down demons. If I know how to find a creature like a Bebilith, I could set it on the Nalfeshnee to undo the soul contract he made with Waukeen's priest, Tharundar Olehm.~
+Tharundar Olehm, sacerdote di Waukeen, ha promesso al nalfeshnee Margrog niente meno che la propria anima come ricompensa per l'aiuto nel salvataggio di Waukeen. Potrebbe esserci un modo per impedire che questo patto si compia. Tuttavia sarà difficile finché Margrog resterà in città.~
 
-@470703 = ~A soul for the goddess
+@470701 = ~Un'anima per la dea
 
-I set Zzrakh, the Bebilith, to hunt Margrog, who immediately took up the chase with enthusiasm. I'm to wait in the Bebilith's cave until he returns with Margrog in his wake.~
+Ora che Margrog ha lasciato la città, potrei avere l'occasione di eliminarlo e impedire che si compia il patto stretto con Tharundar Olehm, sacerdote di Waukeen. Chi potrebbe sapere dove si è diretto il nalfeshnee?~
 
-@470704 = ~A soul for the goddess
+@470702 = ~Un'anima per la dea
 
-With the help of Zzrakh, the Bebilith, I defeated Margrog, the Nalfeshnee. Tharundar Olehm, the High Priest of Waukeen, will be grateful to keep his soul.~
+Per rintracciare Margrog mi serve una creatura abituata a cacciare demoni. Se riuscissi a trovare un essere come un bebilith, potrei scatenarlo contro il nalfeshnee e annullare il contratto sull'anima stretto con Tharundar Olehm, sacerdote di Waukeen.~
+
+@470703 = ~Un'anima per la dea
+
+Ho mandato Zzrakh, il bebilith, a caccia di Margrog e la creatura si è lanciata immediatamente all'inseguimento con entusiasmo. Devo aspettare nella caverna del bebilith finché non farà ritorno con Margrog alle calcagna.~
+
+@470704 = ~Un'anima per la dea
+
+Con l'aiuto di Zzrakh, il bebilith, ho sconfitto Margrog, il nalfeshnee. Tharundar Olehm, Sommo Sacerdote di Waukeen, sarà grato di poter conservare la propria anima.~
 
 // Annia Graystockings
 @500000 = ~Annia Greystockings
 
-I met a paladin in the vastness of the Abyss. She was grateful that I showed her the way to the Infinite Staircase.~
+Nelle vaste distese dell'Abisso ho incontrato una paladina. Mi è stata riconoscente per averle indicato la via verso la Scala Infinita.~
 // Bebilith teleport quest journal entries
-@510000 = ~The Bebilith Demon Hunter
+@510000 = ~Il bebilith cacciatore di demoni
 
-I found the Bebilith. Instead of fighting it, however, I agreed to help it enter Samora. I am to place a magical orb at the base of Graz'zt's statue by the entrance of Samora, which will allow him to teleport into the city. This could still be useful if the townspeople are no longer well-disposed towards me - especially if I have to leave the town after the rescue of Waukeen.~
-@510001 = ~The Bebilith Demon Hunter
+Ho trovato il bebilith. Invece di combatterlo, ho accettato di aiutarlo a entrare a Samora. Devo collocare una sfera magica alla base della statua di Graz'zt presso l'ingresso della città, permettendogli così di teletrasportarsi all'interno. Potrebbe tornarmi utile se gli abitanti dovessero diventare ostili, soprattutto se dovrò fuggire dalla città dopo aver liberato Waukeen.~
+@510001 = ~Il bebilith cacciatore di demoni
 
-I have placed the orb at the statue of Graz'zt. Now I just have to hope that Zzrakh, the Bebilith sticks to the deal and doesn't strike until I've freed Waukeen.~
-@510002 = ~The Bebilith Demon Hunter
+Ho collocato la sfera presso la statua di Graz'zt. Ora devo soltanto sperare che Zzrakh, il bebilith, rispetti l'accordo e non attacchi prima che abbia liberato Waukeen.~
+@510002 = ~Il bebilith cacciatore di demoni
 
-I've changed my mind and killed the Bebilith after all. This eliminates the task of granting him access to the city.~
+Ho cambiato idea e ho ucciso il bebilith. Non devo più preoccuparmi di garantirgli l'accesso alla città.~
 
-@540000 = ~Prisoner and guard all in one
+@540000 = ~Prigioniero e carceriere al tempo stesso
 
-The entrance to Waukeen's former guard, the Vrock Clyddis, is guarded by the dragon Daugralluvidan, who claims to be from the plane of Carceri. He doesn't seem to be in this place of his own free will. I have promised to look for the spell 'Freedom' - either as a spell or a scroll - and thereby grant the Tarterian dragon his freedom. This would allow me to visit Clyddis without having to fight the dragon.~
+L'ingresso che conduce a Clyddis, l'ex guardia di Waukeen, è sorvegliato dal drago Daugralluvidan, che afferma di provenire dal Piano di Carceri. Non sembra trovarsi qui del tutto di propria volontà. Ho promesso di cercare l'incantesimo "Libertà", sotto forma di magia o pergamena, per concedere la libertà al drago tarteriano. In questo modo potrei raggiungere Clyddis senza dover combattere contro il drago.~
 
-@540004 = ~Prisoner and guard all in one
+@540004 = ~Prigioniero e carceriere al tempo stesso
 
-I have decided to kill the Tartarian dragon Daugralluvidan instead of freeing him.~
+Ho deciso di uccidere il drago tarteriano Daugralluvidan invece di liberarlo.~
 
-@540005 = ~Prisoner and guard all in one
+@540005 = ~Prigioniero e carceriere al tempo stesso
 
-I have granted freedom to the Tartarian dragon Daugralluvidan. I hope he makes good use of it.~
+Ho concesso la libertà al drago tarteriano Daugralluvidan. Spero che ne faccia buon uso.~
 
-@600000 = ~Devil allies
+@600000 = ~Alleati diavoli
 
-A band of Abishai intends to infiltrate the demon city of Samora with my assistance. I am tasked with delivering a portal key to their leader, Aphul, so he can control the Tanar'ri outpost's portal back into the city.~
+Un gruppo di abishai intende infiltrarsi nella città demoniaca di Samora con il mio aiuto. Devo consegnare una chiave del portale al loro capo, Aphul, affinché possa controllare il portale dell'avamposto tanar'ri e usarlo per tornare in città.~
 
-@600001 = ~Devil allies
+@600001 = ~Alleati diavoli
 
-I have delivered the portal key to the Abishai and hope that their assault on the city will be to my advantage in my eventual escape.~
+Ho consegnato la chiave del portale agli abishai e spero che il loro assalto alla città finisca per favorire la mia eventuale fuga.~
 
-@800010 = ~The spark of a Deva
+@800010 = ~La scintilla di un deva
 
-A captured Deva within Graz'zt's prison has beseeched me to retrieve his spark. He suspects it may be hidden somewhere within this dungeon.~
+Un deva prigioniero nella prigione di Graz'zt mi ha implorato di recuperare la sua scintilla. Sospetta che possa essere nascosta da qualche parte in queste segrete.~ ~La scintilla di un deva
 
-@800011 = ~The spark of a Deva
+Un deva prigioniero nella prigione di Graz'zt mi ha implorata di recuperare la sua scintilla. Sospetta che possa essere nascosta da qualche parte in queste segrete.~
 
-I have returned the Deva's spark to him.~
+@800011 = ~La scintilla di un deva
+
+Ho restituito al deva la sua scintilla.~
