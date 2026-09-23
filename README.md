@@ -56,6 +56,7 @@ If you are using the BP-BGT Worldmap mod, version 14 or higher is required for t
 The mod is available in:
 - English 
 - German
+- Italian
 - Chinese
 - Russian
 - Spanish

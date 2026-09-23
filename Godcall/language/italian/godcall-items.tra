@@ -1,1329 +1,1339 @@
-@2000 = ~Pipe of the Abyss~
-@2001 = ~This is a small stone pipe shaped to resemble the head of a demon.
+@2000 = ~Pipa dell'Abisso~
+@2001 = ~Questa piccola pipa di pietra è modellata a forma di testa di demone.
 
-When the pipe is used, it emits great puffs of deadly vapors out of the deepest layers of the Abyss.
+Quando viene usata, emette grandi sbuffi di vapori mortali provenienti dagli strati più profondi dell'Abisso. Tuttavia, esiste sempre il pericolo di inalare accidentalmente i fumi tossici.
 
-STATISTICS:
+STATISTICHE:
 
-Charge abilities:
-� Casts the spell "Cloudkill" once per day.
+Abilità attivabili:
+– Lancia "Nube Assassina" una volta al giorno
+– 5% di probabilità di avvelenare chi usa la pipa per 5 round
 
-Weight: 1~
-@2002 = ~Pipe of Sorrow~
-@2003 = ~It is told that this pipe was once created by a grim shaman who would smoke the ashes of his fallen enemies in this pipe. The smoke that emanated from the pipe contained the concentrated despair and grief of the dying and could thus influence the hearts and minds of the living. The fate of the shaman has disappeared into the mists of history. The pipe, however, lives on and can still be used to unleash the stifling power of despair.
+Peso: 1~
+@2002 = ~Pipa del Dolore~
+@2003 = ~Si narra che questa pipa sia stata creata da un cupo sciamano che vi fumava le ceneri dei nemici caduti. Il fumo che ne usciva conteneva la disperazione e il dolore concentrati dei morenti e poteva così influenzare il cuore e la mente dei vivi. Il destino dello sciamano si è perso nelle nebbie della storia. La pipa, invece, è sopravvissuta e può ancora sprigionare il soffocante potere della disperazione.
 
-STATISTICS:
+STATISTICHE:
 
-Charge abilities:
-� Cloud of sorrow once per day: Anyone within this cloud suffers a -4 morale penalty on attack rolls and Saving Throws for 10 rounds (Save vs. Breath negates)
-  Duration: 3d8 turns
-  Area of Effect: 15-ft. radius
+Abilità attivabili:
+– Nube di dolore una volta al giorno: chiunque si trovi nella nube subisce una penalità di -4 al morale, ai tiri per colpire e ai Tiri-salvezza per 10 round (un Tiro-salvezza contro Soffio effettuato con successo nega gli effetti)
+  Durata: 3d8 turni
+  Area d'effetto: raggio di 4,5 metri
 
-Weight: 3~
-@2004 = ~Tarterian dragon scales~
-@2005 = ~The heavy scales are from a Tarterian dragon, a subspecies of the great wyrms that dwell in the evil plane of Carceri. Tarterian dragons are both guardians and prisoners of this plane. However, it is said that there are ways to free them from the curse which prevents them from leaving the Lower Planes. The creatures are extremely resistant to anything that would affect their movement and ability to handle due to the characteristics of their homeland. They are able to cast powerful spells that can trap or even imprison their opponents. Their breath weapon consists of a powerful shockwave that shatters both the body and the mind of their enemies, inflicting damage as well as a penalty to attack and Saving Throws. You were able to loot a considerable number of scales from the carcass of the Tarterian dragon ... maybe a skilled blacksmith could craft armor out of them.~
-@2006 = ~Tarterian dragon scale armor~
-@2007 = ~Dragon scale armor is light of weight, strong, and resistant to various harmful forces. Because of these properties, it is much sought after, but finding, let alone slaying, a powerful ancient dragon is near impossible. One should be careful wearing it near dragons, however, particularly Tarterian dragons.
+Peso: 3~
+@2004 = ~Scaglie di Drago Tarteriano~
+@2005 = ~Queste pesanti scaglie provengono da un drago tarteriano, una sottospecie dei grandi draghi che dimorano nel malvagio piano di Carceri. I draghi tarteriani sono al tempo stesso guardiani e prigionieri di quel piano. Si dice tuttavia che esistano modi per liberarli dalla maledizione che impedisce loro di lasciare i Piani Inferiori. A causa delle caratteristiche della loro terra natale, queste creature sono estremamente resistenti a tutto ciò che può limitare il movimento e la capacità di agire. Possono lanciare potenti incantesimi in grado di intrappolare o perfino imprigionare gli avversari. La loro arma a soffio consiste in una potentissima onda d'urto che frantuma corpo e mente dei nemici, infliggendo danni e penalità ai tiri per colpire e ai Tiri-salvezza. Hai recuperato un numero considerevole di scaglie dalla carcassa del drago tarteriano... forse un fabbro abile potrebbe ricavarne un'armatura.~
+@2006 = ~Armatura di Scaglie di Drago Tarteriano~
+@2007 = ~Le armature di scaglie di drago sono leggere, robuste e resistenti a varie forze nocive. Per queste proprietà sono molto ricercate, ma trovare, e soprattutto abbattere, un possente drago antico è quasi impossibile. Sarebbe comunque prudente non indossarla nelle vicinanze di altri draghi, specialmente quelli tarteriani.
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� The wearer is immune to everything, magical and otherwise, that affects mobility in any way. This includes Haste and Slow spells.
-� The wearer is immune to Imprisonment.
+Abilità durante l'uso:
+– Chi la indossa è immune a qualsiasi effetto, magico o meno, che alteri in qualche modo la mobilità. Sono compresi gli incantesimi Velocità e Lentezza
+– Chi la indossa è immune a Imprigionamento
 
-Armor Class: 0
-Weight: 30~
-@2008 = ~Deva spark~
-@2009 = ~A luminous aura that once belonged to a Deva.~
-@2010 = ~Putrid healing potion~
-@2011 = ~This healing potion, originally pure, has been so corrupted by the forces of the Abyss that the bottle now contains nothing but a putrid brew.~
+Classe Armatura: 0
+Peso: 30~
+@2008 = ~Scintilla di Deva~
+@2009 = ~Un'aura luminosa che un tempo apparteneva a un deva.~
+@2010 = ~Pozione di Guarigione Putrida~
+@2011 = ~Questa pozione curativa, un tempo pura, è stata corrotta a tal punto dalle forze dell'Abisso che ora la bottiglia contiene soltanto un intruglio putrido.~
 @2012 = ~Kayur,
-be vigilant on the steps of the Infinite Staircase for a <PRO_RACE> individual named <CHARNAME>. They will be approaching Azzagrat from the direction of Argentil. Do not permit <PRO_HIMHER> to proceed on <PRO_HISHER> journey under any circumstances! I will be awaiting at the designated meeting point with the second part of your reward. May the Black Sun be with you!
+sii vigile sui gradini della Scala Infinita e cerca una creatura di razza <PRO_RACE> di nome <CHARNAME>. Si avvicinerà ad Azzagrat provenendo dalla direzione di Argentil. Non permettere a <PRO_HIMHER> di proseguire il <PRO_HISHER> viaggio in alcuna circostanza! Ti attenderò al punto d'incontro stabilito con la seconda parte della ricompensa. Che il Sole Nero sia con te!
 G.~
-@2013 = ~Sore Defeat +3~
-@2014 = ~Many centuries ago, the sword "Sore Defeat" was commissioned by a fearless warrior of Ruathym with a dubious reputation. The warrior was known for his relentless boldness in battle, but also for his penchant for vanity and boisterous character. He loved to humiliate and mock his opponents. What he feared most, however, was his own defeat. Therefore, the warrior commissioned a duergar blacksmith to forge a powerful sword that would increase his fighting strength when he would get into a hopeless situation. From that moment on, the warrior felt invincible. As soon as he was wounded and weakened, "Sore Defeat" unleashed its powers and pushed the wielder to unimagined limits. However, every warrior comes up against an opponent that he is no match for. For example, Ruathym's nameless fighter could not take any advantage from his sword when he charged into a beholder den and was turned to dust by countless eye rays.
+@2013 = ~Amara Sconfitta +3~
+@2014 = ~Forgiata secoli fa da un fabbro duergar, la spada "Amara Sconfitta" fu creata per un guerriero vanaglorioso di Ruathym. Progettata per accrescere la sua efficacia nelle battaglie disperate, sprigionava il proprio potere quando il guerriero era indebolito. Nonostante le notevoli capacità dell'arma, il suo proprietario trovò la morte in un covo di beholder, sopraffatto dai devastanti raggi oculari di quelle aberrazioni.
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities: 
-� If the wearer's hit points drop below 25%, "Improved Haste" is cast on <PRO_HIMHER> for three rounds
-
-THAC0: -3
-Damage: 1W10+3 (slashing)
-Speed Factor: 7
-Proficiency Type: Two-handed Sword
-Type: Two-handed
-Requires:
- 5 Strength
- 
-Weight: 8~
-@2015 = ~Key to the Chamber of Temptations~
-@2016 = ~Using this key, you can unlock the door to an area beneath Samora called the "Chamber of Temptations". Maretta told you that a Rose of the Abyss blossoms there, and your task is to deliver it to her.~
-@2017 = ~Scholar's Note (excerpt)~
-@2018 = ~In my insatiable curiosity, I have ventured into the depths of the chamber to uncover its secrets. The dark walls and enigmatic symbols hint at a meaning I can only guess at. But in the yellowed writings I found in the archives, I discovered clues to a hidden truth. This chamber seems to be a place of temptation, a place where the dark sides of mortal nature and its innermost desires are put to the test. It is as if it connects to sin itself to confront those who have the courage to tread its paths.
-Each of the seven portals that open from the chamber represents a particular form of forbidden desire. It is a journey through the darkest chasm of the mortal soul to find purification or damnation. Hence the strange wrought-iron symbols on the walls! The snake stands for envy, the money bag for avarice. The crown could stand for arrogance, but I'm not sure. The axe is certainly the symbol of wrath and fury. You should be careful entering the chambers, as it is safe to assume that behind them lurks a great evil that embodies or indulges the depicted bad habits. Only those with strength, wisdom or a pure heart can hope to remove the barriers and unveil the secrets of the chamber.
-
-In my quest for knowledge and insight, I have exceeded the limits of my sanity. My body is rapidly declining and I feel the icy breath of death. But I will leave these notes as a warning and guide for those who come after me.
-
-May the light of truth illuminate the candidates on their path and grant them the strength to resist the temptations to overcome the darkness...~
-@2019 = ~False Pride +3~
-@2020 = ~This longsword bears a storied past, once wielded by a knight of great pride. Renowned for his imposing presence, valor, and exceptional combat skills, the knight's fame eventually led him down a path of arrogance and hubris. Elevating himself above his peers, he began to disdain those around him. The sword, once a symbol of honor and bravery, absorbed his conceited nature and transformed into 'False Pride'.
-
-Powers of the Upper Planes, aware of the knight's growing arrogance, decided to intervene and punish him by cursing the sword. The curse aimed to serve as a constant reminder that true strength is found in humility and modesty. Recognizing his errors, the knight hid the blade in a distant location, spending the remainder of his days in poverty and humility within a monastery of Ilmater.
-
-Despite his efforts, the blade's allure proved irresistible to worthy wielders. Restless, the item seeks out those who embody its essence, never content with average warriors.
-
-STATISTICS:
-
-Combat abilities: 
-� 30% chance that the target is blinded for one round after a successful hit if it fails a Save vs. spells
-� By scoring a critical hit, the wielder gets struck by a Ray of Enfeeblement for three rounds if <PRO_HESHE> fails a Save vs. spells.
+Abilità durante l'uso:
+– Se i Punti Ferita di chi la impugna scendono sotto il 25%, Velocità Potenziata viene lanciata su <PRO_HIMHER> per tre round
 
 THAC0: -3
-Damage: 1W8+3 (slashing)
-Speed Factor: 2
-Proficiency Type: Long Sword
-Type: One-handed
+Danno: 1d10+3 (tagliente)
+Fattore-velocità: 7
+Tipo di Competenza: Spada a Due Mani
+Tipo: A due mani
+Richiede:
+ Forza 5
 
-Requires:
- 17 Charisma
+Peso: 8~
+@2015 = ~Chiave della Camera delle Tentazioni~
+@2016 = ~Questa chiave apre la porta di un'area sotto Samora chiamata "Camera delle Tentazioni". Maretta ti ha detto che laggiù fiorisce una Rosa dell'Abisso e ti ha incaricato di portargliela.~ ~Questa chiave apre la porta di un'area sotto Samora chiamata "Camera delle Tentazioni". Maretta ti ha detto che laggiù fiorisce una Rosa dell'Abisso e ti ha incaricata di portargliela.~
+@2017 = ~Appunto di uno Studioso (Estratto)~
+@2018 = ~Spinto dalla mia insaziabile curiosità, mi sono avventurato nelle profondità della camera per scoprirne i segreti. Le pareti oscure e gli enigmatici simboli suggeriscono un significato che posso soltanto intuire. Questa camera sembra essere un luogo di tentazione, dove vengono messi alla prova i lati oscuri della natura mortale e i desideri più intimi.
 
-Weight: 3~
-@2021 = ~Fool's Laughter~
-@2022 = ~A hoarse, hysterical laughter emanates from this bottle. A special lock keeps it perfectly closed, making it impossible for you to open it. There are several tales surrounding this strange item. The most common of them is that a cruel tyrant once had his court jester tortured by threatening to have him executed as soon as the jester stopped laughing. The laughter was then trapped in this bottle.~
-@2023 = ~Rose of the Abyss~
-@2023 = ~Rose of the Abyss~
-@2024 = ~This rose looks spiky and evil. You don't even know how to grasp it properly without hurting yourself. The fragrance emanating from the blossom smells sweet, but rather of decay and rot than of beguiling flowers.~
-@2025 = ~Bloody bone~
-@2026 = ~A bloody bone that still has tendons and other tissue dangling from it. It seems as if the bone has been cooked to make it softer.~
-@2027 = ~Part of a necklace~
-@2028 = ~This is part of a necklace.~
-@2029 = ~Last Rites~
-@2030 = ~This amulet is shaped to resemble a divided heart. Various rumors revolve around its origins, mostly about two lovers whose sad fate was sealed by an unexpected and heartbreaking twist. It is believed that this item was once created by priests of Wee Jas, a goddess who embodies death, magic and love.
+Ognuno dei sette portali che si aprono dalla camera rappresenta una particolare forma di desiderio proibito. Ecco dunque il significato degli strani simboli di ferro battuto sulle pareti! Il serpente rappresenta l'invidia, il sacchetto di denaro l'avarizia. La corona potrebbe simboleggiare la superbia, ma non ne sono certo. L'ascia è sicuramente il simbolo dell'ira e della furia.
 
-STATISTICS:
+Nella mia ricerca di sapere e comprensione ho oltrepassato i limiti della ragione. Il mio corpo declina rapidamente e sento il gelido respiro della morte. Lascerò però questi appunti come avvertimento e guida per chi verrà dopo di me.~
+@2019 = ~Falso Orgoglio +3~
+@2020 = ~Questa spada lunga appartenne a un cavaliere famoso dapprima per il coraggio e poi per la propria arroganza, e finì per incarnarne lo spirito presuntuoso. Forze celestiali maledissero la lama affinché ricordasse a chi la brandiva che l'umiltà splende più luminosa della superbia. Pentitosi, il cavaliere nascose la spada e si ritirò a condurre una vita di penitenza in un monastero di Ilmater.
 
-Equipped abilities:
-� Magic resistance: +15%
+Il fascino della lama si rivelò irresistibile per i combattenti degni. Irrequieto, l'oggetto cerca coloro che incarnano la sua essenza e non si accontenta mai di guerrieri mediocri.
 
-Charge abilities:
-Last Rites (special, once per day)
-� Resurrection 
-� Target is completely healed
-� The wearer's hit points are reduced to 1
-  Range: Unlimited
-  Area: 1 creature
+STATISTICHE:
 
-Weight: 3
+Abilità in combattimento:
+– 30% di probabilità che il bersaglio venga accecato per un round dopo un colpo riuscito se fallisce un Tiro-salvezza contro Incantesimi
+– Quando mette a segno un colpo critico, chi la impugna viene colpito da Raggio di Indebolimento per tre round se <PRO_HESHE> fallisce un Tiro-salvezza contro Incantesimi
+
+THAC0: -3
+Danno: 1d8+3 (tagliente)
+Fattore-velocità: 2
+Tipo di Competenza: Spada Lunga
+Tipo: A una mano
+
+Richiede:
+ Carisma 17
+
+Peso: 3~
+@2021 = ~Risata del Folle~
+@2022 = ~Da questa bottiglia proviene una risata roca e isterica. Una chiusura speciale la mantiene perfettamente sigillata e ti impedisce di aprirla. Circolano molte storie su questo strano oggetto. La più comune racconta che un crudele tiranno fece torturare il proprio giullare di corte minacciando di giustiziarlo non appena avesse smesso di ridere. Quella risata fu poi imprigionata in questa bottiglia.~
+@2023 = ~Rosa dell'Abisso~
+@2023 = ~Rosa dell'Abisso~
+@2024 = ~Questa rosa ha un aspetto spinoso e maligno. Non sai neppure come afferrarla senza ferirti. Il profumo del fiore è dolce, ma ricorda più la decomposizione e il marciume che fragranze seducenti.~
+@2025 = ~Osso Insanguinato~
+@2026 = ~Un osso insanguinato da cui pendono ancora tendini e altri tessuti. Sembra che sia stato bollito per renderlo più morbido.~
+@2027 = ~Parte di una Collana~
+@2028 = ~È una parte di una collana.~
+@2029 = ~Ultimi Riti~
+@2030 = ~Questo amuleto ha la forma di un cuore diviso. Circolano diverse voci sulla sua origine, perlopiù riguardanti due amanti il cui triste destino fu segnato da un'improvvisa e straziante svolta. Si ritiene che l'oggetto sia stato creato un tempo da sacerdoti di Wee Jas, una dea che incarna morte, magia e amore.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Resistenza alla Magia: +15%
+
+Abilità attivabili:
+Ultimi Riti (speciale, una volta al giorno)
+– Resurrezione
+– Il bersaglio viene completamente guarito
+– I Punti Ferita di chi lo indossa vengono ridotti a 1
+  Raggio d'azione: Illimitato
+  Area d'effetto: 1 creatura
+
+Peso: 1
 ~
-@2031 = ~This powerful ring is twisted and warped. It grants an unnatural amount of protection against attacks of any kind. The ring appears to have been crafted under the influence of the demon prince Alrunes, known to his followers as the 'Beneficent Spirit'.
+@2031 = ~Questo potente anello è contorto e deformato. Conferisce una quantità innaturale di protezione contro attacchi di ogni genere. Sembra essere stato forgiato sotto l'influenza del signore dei demoni Alrunes, noto ai suoi seguaci come "Spirito Benefico".
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� Armor Class: +3
-� Saving Throws: +3
+Abilità durante l'uso:
+– Classe Armatura: +3
+– Tiri-salvezza: +3
 
-Weight: 0~
-@2032 = ~Clyddis' drawing~
-@2033 = ~This sketch of a pentagram was cut out of the skin of the vrock Clyddis. He had scratched it there to illustrate the function of the fiery ovens in Samora. With the help of this sketch, you should be able to use the ovens in the right order to get into Waukeen's prison.~
-@2034 = ~Gehenna's Pepper Stove~
-@2035 = ~This shrub is native to the lower planes and grows Gehenna pepper.~
-@2036 = ~Helm of Acid Resistance (full)~
-@2037 = ~This helmet is filled with the corrosive acid of the pools of Yemach. The acid will not harm the object, but you must be careful that the liquid does not spill out of the vessel and burn your hand.~
-@2038 = ~Helm of Acid Resistance~
-@2039 = ~Helm of Acid Resistance, 'Acid Ravager's Bane'
-This helmet was forged to withstand the breath weapon of black dragons, in particular an ancient wyrm of times long past that has made history as Acidragravagrex, or simply 'Acid Ravager'. To this day, the helmet bears the marks of past battles against the winged creatures. The helmet protects against acid.
+Peso: 0~
+@2032 = ~Disegno di Clyddis~
+@2033 = ~Questo schizzo di un pentagramma è stato ritagliato dalla pelle del vrock Clyddis. Se l'era inciso addosso per illustrare il funzionamento dei forni infuocati di Samora. Grazie a questo disegno dovresti riuscire a usare i forni nell'ordine corretto per entrare nella prigione di Waukeen.~
+@2034 = ~Pianta del Pepe di Gehenna~
+@2035 = ~Questo arbusto è originario dei Piani Inferiori e produce il pepe di Gehenna.~
+@2036 = ~Elmo della Resistenza all'Acido (Pieno)~
+@2037 = ~Questo elmo è pieno dell'acido corrosivo delle pozze di Yemach. L'acido non danneggerà l'oggetto, ma devi fare attenzione a non versare il liquido fuori dal recipiente e ustionarti una mano.~
+@2038 = ~Elmo della Resistenza all'Acido~
+@2039 = ~Elmo della Resistenza all'Acido, "Flagello del Devastatore Acido"
+Questo elmo fu forgiato per resistere all'arma a soffio dei draghi neri, in particolare a quella di un antico drago dei tempi remoti passato alla storia come Acidragravagrex, o più semplicemente "Devastatore Acido". Ancora oggi l'elmo porta i segni delle battaglie sostenute contro le creature alate. Protegge dall'acido.
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� Resistance to acid: +80%
-� Protects against critical hits
+Abilità durante l'uso:
+– Resistenza all'Acido: +80%
+– Protegge dai colpi critici
 
-Weight: 3~
-@2040 = ~Got ya!~
-@2041 = ~Belthazaar's riddle~
-@2042 = ~A hand, mixed with blood, the gentle blow of fate,
-Unlocks the gates of peril, where dark graves await.
-A touch of blood, flesh trembles and then,
-With this hand as key, reveal the Glabrezu's den.
-Then, oh mortal, the door shall swing wide,
-Into Glabrezu's realm, where fates coincide.
-Now, mortal, take the step, solve with care,
-For in Glabrezu's gaze, prove thy mettle fair, both day and night's glare.~
-@2043 = ~The Time of Troubles~
-@2044 = ~In the Year of Shadows, 1358 Dale Reckoning, Faer�n was shaken by sinister turmoil. The heavens themselves turned pale as the gods of the Forgotten Realms were forced to leave their holy halls and take the form of mortals. An era of chaos and disorder descended upon the land.
-The theft of an artifact of mighty splendor derailed the course of divine destiny. So it happened that the gods became vulnerable and their powers waned. Their faithful servants, pious priests and honorable paladins, were stripped of their divine gifts as their patrons could no longer grant them power. A void of guidance and protection opened up, and the people of Faer�n found themselves abandoned in the midst of the maelstrom.
-In those wild times, the gods desperately seized the chance to regain their power and free themselves from their predicament. Violent battles broke out between the gods themselves, between their followers, and between mortal factions seeking the favor of their gods. New gods rose to fill the gap, while others faded from their former glory or were destroyed.
-But the world of Faer�n itself was marked by the turmoil of this time. The paths of magic were shaken, and a shadow settled over the once powerful currents. Sages and wizards struggled to fathom the mystery, and the land sank into an aura of uncertainty.
-As the veils of sorrow began to lift, the gods managed to return to their divine glory. But the Time of Troubles had left its mark that would linger for a long time. Some gods, once powerful and exalted, had fallen or changed their spheres. New gods had taken their place to fill the blanks, and their names were now uttered on mortal lips.
-The people of Faer�n were scarred by the experiences of the Time of Troubles. Some had changed their faiths and beliefs, while others were lost in the chaos, broken by the pain of change. Yet some found new strength and purpose by turning to the ascended gods and seeking their favor.~
-@2045 = ~About the absence of Lady Waukeen~
-@2046 = ~About the absence of Lady Waukeen
+Peso: 3~
+@2040 = ~Preso!~
+@2041 = ~Indovinello di Belthazaar~
+@2042 = ~Una mano, intrisa di sangue, col fato a sfiorare,
+apre porte di pericolo, dove tombe oscure sanno aspettare.
+Un tocco di sangue, la carne trema, e allora
+con quella mano per chiave la tana del glabrezu si esplora.
+Poi, o mortale, la porta si spalancherà,
+nel regno del glabrezu, dove il fato t'attenderà.
+Ora fai il passo, mortale, e l'enigma risolvi con cura,
+sotto lo sguardo del glabrezu dimostra il tuo valore, nell'ombra e nella luce più pura.~
+@2043 = ~Il Periodo dei Disordini~
+@2044 = ~Il Periodo dei Disordini
+Nell'Anno delle Ombre, 1358 CV, il Faerûn fu scosso da sinistri tumulti. I cieli stessi impallidirono quando le divinità dei Forgotten Realms furono costrette ad abbandonare le proprie dimore sacre e ad assumere forma mortale. Un'epoca di caos e disordine calò sulle terre.
 
-By Brother Aldric, devoted Priest of The Coinmaiden
-In these dire times that have befallen our beloved land of Faer�n, we find ourselves facing the loss of the divine presence of our beloved Lady Waukeen. She, the radiant sun of trade, once blessed us with her presence, but has vanished as if her light had extinguished, enveloping the temple of wealth in darkness.
+Il furto di un artefatto di immenso potere deviò il corso del destino divino. Gli dei divennero vulnerabili e i loro poteri si affievolirono. I loro fedeli servitori, sacerdoti devoti e paladini onorevoli, furono privati dei doni divini perché le divinità patronali non potevano più concedere loro potere. Si aprì un vuoto di guida e protezione, e la gente del Faerûn si ritrovò abbandonata nel mezzo del turbine.
 
-Oh, how we yearn for her warming radiance and the abundance she once brought into our hearts and treasuries! Her presence was an inspiration for all who served her, and her favor caused our markets to bloom like a magnificent field of flowers. Yet now, our merchants are plagued by doubt, and our storehouses stand empty, for without Waukeen's luminous presence, we drift aimlessly like ships without a compass, lost on a stormy sea.
+In quei tempi selvaggi, gli dei cercarono disperatamente di riconquistare il proprio potere e liberarsi dalla loro condizione. Violente battaglie scoppiarono fra gli dei stessi, fra i loro seguaci e fra fazioni mortali che cercavano il favore divino. Nuove divinità sorsero a colmare il vuoto, mentre altre persero la gloria di un tempo o vennero distrutte.
 
-We, the faithful followers of the Merchants' Friend, fervently pray to her, pleading for her return and seeking signs that she has not forsaken us. But the silence of the heavens speaks volumes, and our prayers seem to echo against the icy void. Despair seizes us, and we are trapped in uncertainty, wondering when Our Lady of Gold will reappear in her full glory.
+Anche il Faerûn stesso rimase segnato dai tumulti. Le vie della magia furono sconvolte e un'ombra calò sulle correnti un tempo possenti. Saggi e maghi cercarono di comprendere il mistero e le terre sprofondarono nell'incertezza.
+Quando i veli del dolore cominciarono a sollevarsi, gli dei riuscirono a tornare alla loro gloria divina. Ma il Periodo dei Disordini aveva lasciato cicatrici destinate a durare. Alcuni dei, un tempo potenti ed esaltati, erano caduti o avevano mutato le proprie sfere. Nuove divinità avevano preso il loro posto e i loro nomi erano ormai pronunciati dai mortali.
 
-We recall tales of bygone eras, when the world was shrouded in dark hours, yet the deities bestowed their blessings upon us. Hope flickers in our hearts as we are reminded of the words of the wise, that the light of divinity will always rise again to dispel the shadows.
+Gli abitanti del Faerûn erano stati segnati dalle esperienze del Periodo dei Disordini. Alcuni avevano cambiato fede e convinzioni, mentre altri si erano perduti nel caos, spezzati dal dolore del cambiamento. Altri ancora trovarono nuova forza e uno scopo rivolgendosi alle divinità ascese e cercandone il favore.~
+@2045 = ~Sull'Assenza di Waukeen~
+@2046 = ~Sull'Assenza di Waukeen
+Scritto da Fratello Aldric, devoto sacerdote della Signora del Denaro
 
-Thus, in this book of remembrance, let us reaffirm our unwavering devotion to Waukeen, the Merchants' Friend. We honor her in our prayers, in our songs, and in our relentless pursuit of prosperity. May she hear us and once again illuminate the lands of Faer�n with her radiant presence, so that the splendor of trade and wealth fills our souls.~
-@2047 = ~About the Goldspires~
-@2048 = ~A sanctuary of splendor and abundance
-  
-Outside of the bustling walls of the city of Athkatla rises a proud temple called the Goldspires, heralding the splendor and riches of Waukeen's divine rule. Like rays of sunshine reaching for the heavens, these towers rise majestically, catching the light and presenting it as a radiant testament to the favor of the goddess.
+In questi tempi terribili che hanno colpito il Faerûn, ci troviamo ad affrontare la perdita della presenza divina della nostra amata Signora del Denaro. Lei, sole radioso del commercio, un tempo ci benediceva con la sua presenza, ma è svanita come se la sua luce si fosse spenta, avvolgendo nell'oscurità il tempio della ricchezza.
 
-The Goldspires, built of stone by masters of their craft, rise high into the sky and are decorated with golden ornaments, delicately applied by hand. Their spires shine like stars in the darkness, shining as beacons of faith and success.
+Oh, quanto desideriamo il suo calore e l'abbondanza che un tempo portava nei nostri cuori e nei nostri tesori! La sua presenza era fonte d'ispirazione per tutti coloro che la servivano e il suo favore faceva fiorire i nostri mercati come magnifici campi di fiori. Ora, invece, i mercanti sono tormentati dal dubbio e i magazzini rimangono vuoti, perché senza la luminosa presenza di Waukeen navighiamo senza meta come navi prive di bussola in un mare in tempesta.
 
-As one passes through the glorious gates of the Goldspires, one is enveloped by an aura of wealth and prosperity. In the halls, the walls and ceilings glow in golden light, decorated with frescoes depicting the glorious history of the art of trade. Statues created by skillful sculptors adorn the rooms, evoking the feeling that Waukeen itself is present within these sacred walls.
+Noi, fedeli seguaci dell'Amica dei Mercanti, la preghiamo con fervore, supplicandola di tornare e cercando segni che non ci abbia abbandonati. Ma il silenzio dei cieli è eloquente e le nostre preghiere sembrano riecheggiare nel vuoto gelido. La disperazione ci afferra e restiamo intrappolati nell'incertezza, chiedendoci quando la nostra Signora dell'Oro tornerà a mostrarsi in tutta la sua gloria.
 
-The faithful gather here to offer their prayers and sacrifices, and to seek the blessing of the Merchants' Friend. The priests, dressed in robes of precious beauty, celebrate solemn rites and bless those who strive for prosperity and success in their endeavors. The scent of incense and spices fills the air and mingles with the sounds of prayers and chants that fill the walls.
+Ricordiamo i racconti delle epoche passate, quando il mondo era avvolto da ore oscure e tuttavia le divinità ci concedevano le loro benedizioni. La speranza tremola nei nostri cuori quando ricordiamo le parole dei saggi: la luce divina sorgerà sempre di nuovo per disperdere le ombre.
 
-But the Goldspires are more than just a temple. They are a center of trade and support for the faithful. Trade registers are kept here, contracts are preserved and valuable information about markets and business is collected. The wisdom of merchants and traders is brought together here to guide the faithful and promote trade.
+Dunque, in questo libro della memoria, riaffermiamo la nostra incrollabile devozione a Waukeen, l'Amica dei Mercanti. La onoriamo nelle preghiere, nei canti e nella nostra incessante ricerca della prosperità. Possa ascoltarci e illuminare ancora una volta le terre del Faerûn con la sua presenza radiosa, affinché lo splendore del commercio e della ricchezza colmi le nostre anime.~
+@2047 = ~Sulle Guglie Dorate~
+@2048 = ~Le Guglie Dorate - un santuario di splendore e abbondanza
 
-Let us praise and honor the Goldspires, for they embody the splendor and abundance that Waukeen, the divine mistress of trade, represents. May the gates of this sacred place be forever open to welcome those seeking trade and show them the way to success.~
-@2049 = ~Soul token~
-@2050 = ~In Samora, the city of sin, no money is spent on gambling, but rather tokens that the player must purchase at the cost of their life force. These "soul tokens" can be used to participate in the various types of games on offer.~
-@2051 = ~Deva feather~
-@2052 = ~This is the feather of a Deva. It is shining brilliantly and purely out of your backpack. Maretta wants you to deliver this item to her residence in the Counting House.~
-@2053 = ~Deva wing~
-@2054 = ~This is the severed wing of a Deva.~
-@2055 = ~Potion of acid protection~
-@2056 = ~Whoever ingests this potion develops a magical resistance to any kind of acid. Any damage caused by acid is reduced by 50%. Resistance to acid applies alongside any other forms of resistance a person possesses. The effect lasts for 10 turns, or until dispelled.~
-@2057 = ~Arena key part~
-@2058 = ~This is a part of a strangely shaped key.~
-@2059 = ~Arena key~
-@2060 = ~This odd key can be used to open the locked bone door in the gladiator arena in Samora.~
-@2061 = ~Manual of physical humiliation~
-@2062 = ~Like other manuals of this type, the cover is made of thick leather and elaborately decorated, though the book looks unattractively twisted, as if writhing in pain. 
+Fuori dalle affollate mura di Athkatla sorge un fiero tempio chiamato Guglie Dorate, araldo dello splendore e delle ricchezze del dominio divino di Waukeen. Come raggi di sole protesi verso il cielo, le sue torri si innalzano maestose, catturano la luce e la restituiscono come luminosa testimonianza del favore della dea.
 
-STATISTICS:
+I fedeli si radunano qui per offrire preghiere e sacrifici e per chiedere la benedizione dell'Amica dei Mercanti. I sacerdoti, vestiti con abiti di preziosa fattura, celebrano riti solenni e benedicono coloro che perseguono prosperità e successo nelle proprie imprese. Il profumo dell'incenso e delle spezie riempie l'aria e si mescola al suono di preghiere e canti che riecheggiano tra le mura.
 
-� The reader of the book gains +1 to Dexterity, but loses one point each to Strength and Constitution.
-� Special: The book is consumed upon use
-� Usage: Place into quick item slot
+Ma le Guglie Dorate sono più di un semplice tempio. Sono un centro di commercio e sostegno per i fedeli. Qui vengono conservati registri commerciali e contratti e si raccolgono preziose informazioni su mercati e affari. La saggezza di mercanti e commercianti si riunisce qui per guidare i fedeli e promuovere gli scambi.
 
-Weight: 25~
-@2063 = ~Dexterity has been permanently increased by 1 point, Strength and Constitution have been permanently reduced by 1 point.~
-@2064 = ~Manual of the tough fool~
-@2065 = ~Like other manuals of this type, the cover is made of thick leather and elaborately decorated, but the book looks unattractively twisted, as if it were writhing in pain. 
+Lodiamo e onoriamo le Guglie Dorate, perché incarnano lo splendore e l'abbondanza rappresentati da Waukeen, divina signora del commercio. Possano le porte di questo luogo sacro restare sempre aperte per accogliere chi cerca il commercio e mostrargli la via del successo.~
+@2049 = ~Gettone dell'Anima~
+@2050 = ~A Samora, la città del peccato, per giocare d'azzardo non si usa denaro, bensì gettoni che i giocatori devono acquistare al prezzo della propria forza vitale. Questi "gettoni dell'anima" possono essere usati per partecipare ai vari giochi disponibili.~
+@2051 = ~Piuma di Deva~
+@2052 = ~È la piuma di un deva. Risplende pura e luminosa dallo zaino. Maretta vuole che tu le consegni l'oggetto nella sua residenza, la Casa dei Conti.~
+@2053 = ~Ala di Deva~
+@2054 = ~È l'ala recisa di un deva.~
+@2055 = ~Pozione di Protezione dall'Acido~
+@2056 = ~Chi beve questa pozione sviluppa una resistenza magica a qualsiasi forma di acido. Tutti i danni da acido vengono ridotti del 50%. La resistenza all'acido si somma a qualsiasi altra forma di resistenza posseduta dal personaggio. L'effetto dura 10 turni o finché non viene dissolto.~
+@2057 = ~Parte della Chiave dell'Arena~
+@2058 = ~È una parte di una chiave dalla forma insolita.~
+@2059 = ~Chiave dell'Arena~
+@2060 = ~Questa strana chiave può aprire la porta d'osso chiusa nell'arena dei gladiatori di Samora.~
+@2061 = ~Manuale dell'Umiliazione Fisica~
+@2062 = ~Come gli altri manuali di questo genere, ha una copertina di cuoio spesso e riccamente decorato, ma il libro appare sgradevolmente contorto, quasi si dimenasse per il dolore.
 
-STATISTICS:
+STATISTICHE:
 
-� The reader of the book gains +1 Constitution, but loses one point each to Dexterity and Intelligence. 
-� Special: The book is consumed upon use
-� Usage: Place into quick item slot
+– Chi legge il libro ottiene +1 alla Destrezza, ma perde 1 punto sia alla Forza sia alla Costituzione
+– Speciale: il libro viene consumato con l'uso
+– Uso: collocare nello slot Oggetti Rapidi
 
-Weight: 25~
-@2066 = ~Constitution has been permanently increased by 1 point, Dexterity and Intelligence have been permanently reduced by 1 point.~
-@2067 = ~Zhelamiss' soul contract~
-@2068 = ~This piece of paper has several phrases written on it in a language you do not recognize. There is a large red mark in the lower left corner, obviously drawn in blood. This contract seals the soul pact between Ormad Sulpar and the Nighthag Zhelamiss. Ormad is very keen to get the contract back as he would like to keep his soul. You are to bring him the document to the "Sodden Solar".~
-@2069 = ~Zaehvielle's soul contract~
-@2070 = ~This piece of paper has several phrases written on it in a language you do not recognize. There is a large red mark in the lower left corner, obviously drawn in blood. This contract seals the soul pact between Ormad Sulpar and the succubus Zaehvielle. Ormad is very keen to get the contract back as he would like to keep his soul. You are to bring him the document to the "Sodden Solar".~
-@2071 = ~Belthazaar's soul contract~
-@2072 = ~This piece of paper has several phrases written on it in a language you do not recognize. There is a large red mark in the lower left corner, obviously drawn in blood. This contract seals the soul pact between Ormad Sulpar and the Glabrezu Belthazaar. Ormad is very keen to get the contract back as he would like to keep his soul. You are to bring him the document to the "Sodden Solar".~
-@2073 = ~Book of fiends~
-@2074 = ~The book has a binding made from the tanned skin of some fiend's face and scowls at you. Two pairs of leathery red eyes scrutinize you critically and seem to follow your movements. The book stinks horribly of leather and urine and seems to be very old.~
-@2075 = ~Shield of the Faithless~
-@2076 = ~The Shield of the Faithless is a powerful, enchanted shield once carried by Andelar, a great paladin of ages past. During a battle against a fiend, the shield broke and fell from his arm, giving Andelar his lethal injury. He had just enough strength left to utter a curse with his last breath. Instead of taking responsibility for his failure in battle, he blamed the shield and cursed it for failing its owner in his time of greatest need. Since that time, the Shield of the Faithless has betrayed every warrior who has carried it.
-The shield is made of sturdy wood and framed by a mithril rim. When worn by a warrior or priest, the shield initially grants a +4 bonus to Armor Class and increases the wearer's attacks by 1/2 per round (e.g., from 1 to 3/2 or from 3/2 to 2).
-However, if the shield is used in combat against enemies, it has a 5% chance of failing per hit received and becomes a cursed shield -4. If the wearer's health falls below 25%, the chance of the shield failing increases to 10%.
-The bearer cannot discard the cursed shield unless a priest casts a Remove Curse spell on him.
+Peso: 25~
+@2063 = ~La Destrezza è aumentata permanentemente di 1 punto; Forza e Costituzione sono diminuite permanentemente di 1 punto.~
+@2064 = ~Manuale dello Sciocco Robusto~
+@2065 = ~Come gli altri manuali di questo genere, ha una copertina di cuoio spesso e riccamente decorato, ma il libro appare sgradevolmente contorto, quasi si dimenasse per il dolore.
 
-  
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� Armor Class: +4
+– Chi legge il libro ottiene +1 alla Costituzione, ma perde 1 punto sia alla Destrezza sia all'Intelligenza
+– Speciale: il libro viene consumato con l'uso
+– Uso: collocare nello slot Oggetti Rapidi
 
-Requires:
- 9 Strength
+Peso: 25~
+@2066 = ~La Costituzione è aumentata permanentemente di 1 punto; Destrezza e Intelligenza sono diminuite permanentemente di 1 punto.~
+@2067 = ~Contratto dell'Anima di Zhelamiss~
+@2068 = ~Questo foglio reca frasi in una lingua sconosciuta. Un vivido segno rosso, chiaramente tracciato con il sangue, ne adorna l'angolo inferiore sinistro. Il contratto suggella il patto sull'anima fra Ormad Sulpar e la megera della notte Zhelamiss. Ormad desidera disperatamente riavere il contratto perché vorrebbe conservare la propria anima. Devi portargli il documento al "Solar Fradicio".~
+@2069 = ~Contratto dell'Anima di Zaehvielle~
+@2070 = ~Questo foglio reca frasi in una lingua sconosciuta. Un vivido segno rosso, chiaramente tracciato con il sangue, ne adorna l'angolo inferiore sinistro. Il contratto suggella il patto sull'anima fra Ormad Sulpar e la succube Zaehvielle. Ormad desidera disperatamente riavere il contratto perché vorrebbe conservare la propria anima. Devi portargli il documento al "Solar Fradicio".~
+@2071 = ~Contratto dell'Anima di Belthazaar~
+@2072 = ~Questo foglio reca frasi in una lingua sconosciuta. Un vivido segno rosso, chiaramente tracciato con il sangue, ne adorna l'angolo inferiore sinistro. Il contratto suggella il patto sull'anima fra Ormad Sulpar e il glabrezu Belthazaar. Ormad desidera disperatamente riavere il contratto perché vorrebbe conservare la propria anima. Devi portargli il documento al "Solar Fradicio".~
+@2073 = ~Libro degli Immondi~
+@2074 = ~La rilegatura del libro è ricavata dalla pelle conciata del volto di un qualche immondo e ti fissa con aria torva. Due paia di occhi rossi e coriacei ti scrutano criticamente e sembrano seguire ogni tuo movimento. Il libro puzza orribilmente di cuoio e urina e pare molto antico.~
+@2075 = ~Scudo dell'Infedele +4~
+@2076 = ~Lo Scudo dell'Infedele è un potente scudo incantato che un tempo apparteneva ad Andelar, grande paladino di un'epoca passata. Durante una battaglia contro un immondo, lo scudo si spezzò e gli cadde dal braccio, permettendo all'avversario di infliggergli la ferita mortale. Con le ultime forze Andelar riuscì a pronunciare una maledizione. Invece di assumersi la responsabilità del proprio fallimento in battaglia, incolpò lo scudo e lo maledisse per aver tradito il padrone nel momento del massimo bisogno. Da allora, lo Scudo dell'Infedele ha tradito ogni guerriero che lo ha portato. È fatto di robusto legno con un bordo di mithral.
 
-Weight: 3~
-@2077 = ~The Shield of the Faithless (cursed)~
-@2078 = ~The Shield of the Faithless is a powerful, enchanted shield once carried by Andelar, a great paladin of ages past. During a battle against a fiend, the shield broke and fell from his arm, giving Andelar his lethal injury. He had just enough strength left to utter a curse with his last breath. Instead of taking responsibility for his failure in battle, he blamed the shield and cursed it for failing its owner in his time of greatest need. Since that time, the Shield of the Faithless has betrayed every warrior who has carried it.
-The shield is made of sturdy wood and framed by a mithril rim. When worn by a warrior or priest, the shield initially grants a +4 bonus to Armor Class and increases the wearer's attacks by 1/2 per round (e.g., from 1 to 3/2 or from 3/2 to 2).
-However, if the shield is used in combat against enemies, it has a 5% chance of failing per hit received and becomes a cursed shield -4. If the wearer's health falls below 25%, the chance of the shield failing increases to 10%.
-The bearer cannot discard the cursed shield unless a priest casts a Remove Curse spell on him.
+Quando viene indossato da un guerriero o sacerdote, lo scudo concede inizialmente un bonus di +4 alla Classe Armatura.
+Tuttavia, se viene usato in combattimento, ogni colpo subito ha il 5% di probabilità di farlo fallire e trasformarlo in uno scudo maledetto -4. Se la salute di chi lo porta scende sotto il 25%, la probabilità sale al 10%.
+Chi porta lo scudo maledetto non può liberarsene finché un sacerdote non lancia Scaccia Maledizione su <PRO_HIMHER>.
 
+STATISTICHE:
 
+Abilità durante l'uso:
+– Classe Armatura: +4
+– Ogni colpo subito ha il 5% di probabilità di maledire lo scudo, cambiandone la Classe Armatura a -4. Se la salute di chi lo porta scende sotto il 25%, la probabilità sale al 10%
 
-STATISTICS:
+Richiede:
+ Forza 9
 
-Equipped abilities:
-� May only be removed with a Remove Curse spell
-� Armor Class: -4
+Peso: 3~
+@2077 = ~Scudo dell'Infedele -4 (maledetto)~
+@2078 = ~Lo Scudo dell'Infedele è un potente scudo incantato che un tempo apparteneva ad Andelar, grande paladino di un'epoca passata. Durante una battaglia contro un immondo, lo scudo si spezzò e gli cadde dal braccio, permettendo all'avversario di infliggergli la ferita mortale. Con le ultime forze Andelar riuscì a pronunciare una maledizione. Invece di assumersi la responsabilità del proprio fallimento in battaglia, incolpò lo scudo e lo maledisse per aver tradito il padrone nel momento del massimo bisogno. Da allora, lo Scudo dell'Infedele ha tradito ogni guerriero che lo ha portato. È fatto di robusto legno con un bordo di mithral.
 
-Requires:
- 9 Strength
+Quando viene indossato da un guerriero o sacerdote, lo scudo concede inizialmente un bonus di +4 alla Classe Armatura.
+Tuttavia, se viene usato in combattimento, ogni colpo subito ha il 5% di probabilità di farlo fallire e trasformarlo in uno scudo maledetto -4. Se la salute di chi lo porta scende sotto il 25%, la probabilità sale al 10%.
+Chi porta lo scudo maledetto non può liberarsene finché un sacerdote non lancia Scaccia Maledizione su <PRO_HIMHER>.
 
-Weight: 3~
-@2079 = ~Skull with backbone~
-@2080 = ~Staff of the skull~
-@2081 = ~A human skull with a spinal column. The sinews that hold the vertebrae together are not yet decomposed and provide stability.~
-@2082 = ~Staff of the skull
+STATISTICHE:
 
-STATISTICS:
+Abilità durante l'uso:
+– Può essere rimosso soltanto con un incantesimo Scaccia Maledizione
+– Classe Armatura: -4
 
-Special abilities: User can summon a group of skeletons once per day
-Weight: 1
+Richiede:
+ Forza 9
+
+Peso: 3~
+@2079 = ~Teschio con Colonna Vertebrale~
+@2080 = ~Bastone del Teschio~
+@2081 = ~Un teschio umano con la colonna vertebrale ancora attaccata. I tendini che tengono unite le vertebre non si sono ancora decomposti e gli conferiscono stabilità.~
+@2082 = ~Bastone del Teschio
+
+STATISTICHE:
+
+Abilità speciali: chi lo usa può evocare un gruppo di scheletri una volta al giorno
+Peso: 1
 ~
-@2083 = ~Badge against the evil eye~
-@2084 = ~This badge depicts a large eye. It is intended to prevent demons in the Abyss from becoming aware of the spell caster during summoning spells and appearing instead of the summoned creature. In most cases, summoned demons are hostile and attack the caster without hesitation. To successfully cast a summoning spell, it is sufficient for the item to be placed in the spellcaster's inventory. <PRO_HESHE> does not need to equip it.
+@2083 = ~Distintivo contro il Malocchio~
+@2084 = ~Questo distintivo raffigura un grande occhio. Serve a impedire che i demoni dell'Abisso si accorgano del lanciatore durante gli incantesimi di evocazione e compaiano al posto della creatura evocata. Nella maggior parte dei casi i demoni evocati sono ostili e attaccano il lanciatore senza esitazione. Per lanciare correttamente un incantesimo di evocazione è sufficiente tenere l'oggetto nell'inventario dell'incantatore; <PRO_HESHE> non deve equipaggiarlo.
 
-STATISTICS:
+STATISTICHE:
 
-Special: Prevents hostile demons from appearing in place of summoned creatures
-Usage: Place in the caster's inventory
+Speciale: impedisce che demoni ostili compaiano al posto delle creature evocate
+Uso: tenere nell'inventario dell'incantatore
 
-Weight: 6~
-@2085 = ~Power Key: Evil Planes~
-@2086 = ~A strange creature is depicted on the badge. This item is a Power Key that allows clerics of evil alignment to cast divine spells in the Abyss. Although the Abyss itself is an evil plane of existence, the use of such a Power Key is necessary for divine spellcasters in order for a clerical spell to actually work. To successfully cast a spell, it is sufficient for the item to be in the cleric's inventory. <PRO_HESHE> does not need to equip it.
+Peso: 1~
+@2085 = ~Chiave del Potere: Piani Malvagi~
+@2086 = ~Sul distintivo è raffigurata una strana creatura. L'oggetto è una Chiave del Potere che consente ai chierici di allineamento malvagio di lanciare incantesimi divini nell'Abisso. Sebbene l'Abisso stesso sia un piano malvagio, gli incantatori divini hanno comunque bisogno di una simile Chiave del Potere affinché gli incantesimi clericali funzionino correttamente. Per lanciare con successo un incantesimo è sufficiente che l'oggetto si trovi nell'inventario del chierico; <PRO_HESHE> non deve equipaggiarlo.
 
-STATISTICS:
+STATISTICHE:
 
-Special: Prevents the failure of divine spells cast by evil-aligned clerics
-Usage: Place in the caster's inventory
+Speciale: impedisce il fallimento degli incantesimi divini lanciati da chierici di allineamento malvagio
+Uso: tenere nell'inventario dell'incantatore
 
-Weight: 1~
-@2087 = ~Power Key: Neutral Planes~
-@2088 = ~The symbol of a unknown deity is depicted on the badge. It is a Power Key that allows neutral aligned clerics to cast divine spells in the Abyss. Due to the distance of the Abyss from the neutral Outer Planes, the use of such a Power Key is mandatory to ensure that a cast divine spell does not fail. To successfully cast a spell, it is sufficient that the item is in the cleric's inventory. <PRO_HESHE> does not need to equip it.
+Peso: 1~
+@2087 = ~Chiave del Potere: Piani Neutrali~
+@2088 = ~Sul distintivo è raffigurato il simbolo di una divinità sconosciuta. È una Chiave del Potere che consente ai chierici di allineamento neutrale di lanciare incantesimi divini nell'Abisso. A causa della distanza fra l'Abisso e i Piani Esterni neutrali, l'uso di una simile Chiave del Potere è indispensabile per evitare che un incantesimo divino fallisca. Per lanciarlo con successo è sufficiente che l'oggetto si trovi nell'inventario del chierico; <PRO_HESHE> non deve equipaggiarlo.
 
-STATISTICS:
+STATISTICHE:
 
-Special: Prevents the failure of divine spells cast by neutral-aligned clerics
-Usage: Place in the caster's inventory
+Speciale: impedisce il fallimento degli incantesimi divini lanciati da chierici di allineamento neutrale
+Uso: tenere nell'inventario dell'incantatore
 
-Weight: 1~
-@2089 = ~Power Key: Good Planes~
-@2090 = ~This statuette represents a Deva. It is a Power Key that allows good aligned clerics to cast divine spells in the Abyss. Due to the distance of the Abyss from the good outer planes, the use of such a Power Key is mandatory to ensure that a cast divine spell does not fail. To cast a spell successfully, it is sufficient that the item is in the cleric's inventory. <PRO_HESHE> does not need to equip it.
+Peso: 1~
+@2089 = ~Chiave del Potere: Piani Buoni~
+@2090 = ~Questa statuetta rappresenta un deva. È una Chiave del Potere che consente ai chierici di allineamento buono di lanciare incantesimi divini nell'Abisso. A causa della distanza fra l'Abisso e i Piani Esterni buoni, l'uso di una simile Chiave del Potere è indispensabile per evitare che un incantesimo divino fallisca. Per lanciarlo con successo è sufficiente che l'oggetto si trovi nell'inventario del chierico; <PRO_HESHE> non deve equipaggiarlo.
 
-STATISTICS:
+STATISTICHE:
 
-Special: Prevents the failure of divine spells cast by good-aligned clerics
-Usage: Place in the caster's inventory
+Speciale: impedisce il fallimento degli incantesimi divini lanciati da chierici di allineamento buono
+Uso: tenere nell'inventario dell'incantatore
 
-Weight: 1~
-@2091 = ~Spell Key: Inner planes~
-@2092 = ~With the help of this spell key, the user is able to cast spells that relate to the Inner Planes. Since the Outer Planes, such as the Abyss, have no direct connection to the Inner Planes, spellcasters need to use items to link to them. In this particular case, the item is the head of an earth elemental. The spell key cannot be equipped, but should be kept in the inventory of the person who wishes to cast elemental spells.
+Peso: 1~
+@2091 = ~Chiave d'Incantesimo: Piani Interni~
+@2092 = ~Grazie a questa chiave d'incantesimo è possibile lanciare magie legate ai Piani Interni. Poiché i Piani Esterni, come l'Abisso, non hanno un collegamento diretto con i Piani Interni, gli incantatori devono servirsi di oggetti che creino tale connessione. In questo caso l'oggetto raffigura la smorfia di una testa di elementale della terra.
+La chiave d'incantesimo non può essere equipaggiata, ma deve essere conservata nell'inventario di chi desidera lanciare magie elementali.
 
-STATISTICS:
+STATISTICHE:
 
-Special: Prevents the failure of elemental spells that rely on the Inner Planes such as 'Conjure Elemental'
-Usage: Place in the caster's inventory
+Speciale: impedisce il fallimento degli incantesimi elementali che dipendono dai Piani Interni, come "Evocare Elementale"
+Uso: tenere nell'inventario dell'incantatore
 
-Weight: 6~
-@2093 = ~Devablood~
-@2094 = ~This liquid is stored in a red vial. It is actually the blood of a Deva, extracted and collected during a special ritual. The liquid deals 5d6 points of acid damage when thrown at another creature. The vial can be thrown about 20 feet and must hit a target to be effective. Since it is not a magic item, technically, magic resistance does not protect against the effects of the liquid.
+Peso: 6~
+@2093 = ~Sangue di Deva~
+@2094 = ~Questo liquido è conservato in una fiala rossa. Si tratta realmente del sangue di un deva, estratto e raccolto durante un rituale speciale. Se scagliato contro un'altra creatura infligge 5d6 punti di danno da acido. La fiala può essere lanciata a circa 6 metri di distanza e deve colpire il bersaglio per avere effetto. Poiché tecnicamente non è un oggetto magico, la Resistenza alla Magia non protegge dai suoi effetti.
 
-STATISTICS:
+STATISTICHE:
 
-Damage: 5d6 (Acid; Save vs. Breath for half)
+Danno: 5d6 (Acido; Tiro-salvezza contro Soffio per dimezzare)
 
-Range: 40 ft.
+Raggio d'azione: 12 metri
 
-Weight: 1~
-@2095 = ~Demon horn~
-@2096 = ~The horn of a Tanar'ri demon, severed from the remaining part of the fiend with a powerful blow. It appears to be able to open a portal to a Tanar'ri-hunting fiend.~
-@2097 = ~Pepper pod~
-@2098 = ~Gehenna pepper~
-@2099 = ~This large red bell pepper, which you are not familiar with, exudes a fiery, penetrating aroma.~
-@2100 = ~This pepper does not originate from the Realms, but from another, darker part of the Multiverse, the plane of Gehenna, homeland of fiends and demons. Accordingly, the spiciness of this pepper is beyond any mortal's imagination.~
-@2101 = ~Bebilith's sphere~
-@2102 = ~This orb should be placed at Graz'zt's statue in Samora on behalf of the Bebilith. Doing so will allow the demon to teleport into the city and wreak havoc. This could work to your advantage should you ever need to flee Samora in a hurry.~
-@2103 = ~Prison key~
-@2104 = ~This key was in the possession of the succubus Maretta. It can be used to open the entrance to Waukeen's prison.~
-@2105 = ~Portal key~
-@2106 = ~This key enables you to return to the city of Samora.~
-@2107 = ~Pentacle~
-@2108 = ~An inverted pentagram, a five-pointed star, is attached to this amulet. While upward-facing pentagrams are often used as a sign of protection, the inverted form is favored by creatures of the lower planes. It is said that amulets of this type can be used to gain access to forbidden areas. This particular amulet appears to be linked to the green fiery ovens present in Samora. The Succubus Maretta in the Counting House wishes to recover it.
+Peso: 1~
+@2095 = ~Corno di Demone~
+@2096 = ~Il corno di un demone tanar'ri, reciso dal resto dell'immondo con un colpo poderoso. Sembra capace di aprire un portale verso una creatura che dà la caccia ai tanar'ri.~
+@2097 = ~Baccello di Pepe~
+@2098 = ~Pepe di Gehenna~
+@2099 = ~Questo grosso peperone rosso, di una varietà a te sconosciuta, emana un aroma ardente e penetrante.~
+@2100 = ~Questo pepe non proviene dai Reami, bensì da un'altra e più oscura parte del Multiverso: il piano di Gehenna, patria di immondi e demoni. La sua piccantezza supera quindi qualsiasi cosa un mortale possa immaginare.~
+@2101 = ~Sfera del Bebilith~
+@2102 = ~Per conto del bebilith, questa sfera dovrebbe essere collocata presso la statua di Graz'zt a Samora. Ciò consentirà al demone di teletrasportarsi in città e seminare il caos. Potrebbe tornarti utile qualora avessi bisogno di fuggire in fretta da Samora.~
+@2103 = ~Chiave della Prigione~
+@2104 = ~Questa chiave era in possesso della succube Maretta. Può essere usata per aprire l'ingresso alla prigione di Waukeen.~
+@2105 = ~Chiave del Portale~
+@2106 = ~Questa chiave permette di tornare nella città di Samora.~
+@2107 = ~Pentacolo~
+@2108 = ~A questo amuleto è fissato un pentagramma rovesciato, una stella a cinque punte. Mentre i pentagrammi con la punta verso l'alto sono spesso usati come simbolo di protezione, la forma invertita è prediletta dalle creature dei Piani Inferiori. Si dice che amuleti di questo genere permettano di accedere a zone proibite. Questo particolare amuleto sembra collegato ai forni infuocati verdi presenti a Samora. La succube Maretta, nella Casa dei Conti, desidera recuperarlo.
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� The wearer is immune to fear 
-� 'Neutralize Poison' once per day.
+Abilità durante l'uso:
+– Chi lo indossa è immune alla paura
+– "Neutralizzare Veleni" una volta al giorno
 
-Weight: 1~
-@2109 = ~An inverted pentagram, a five-pointed star, is attached to this amulet. This special amulet is designed to allow you to pass through the fiery ovens in Graz'zt's realm. It will grant you access to Waukeen's prison if you know how to use it properly.
+Peso: 1~
+@2109 = ~A questo amuleto è fissato un pentagramma rovesciato, una stella a cinque punte. Questo speciale amuleto è stato progettato per permettere di attraversare i forni infuocati nel regno di Graz'zt. Se saprai usarlo correttamente, ti consentirà di accedere alla prigione di Waukeen.
 
-  STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� The wearer is immune to fear 
-� 'Neutralize Poison' once per day.
+Abilità durante l'uso:
+– Chi lo indossa è immune alla paura
+– "Neutralizzare Veleni" una volta al giorno
 
-Weight: 1~
-@2110 = ~Head of the Baatezu general~
-@2111 = ~This was the head of the Baatezu general Gazgothan, a Cornugon devil. He is lucky that you cut off his head, for far worse things would have happened to him had he returned to the Nine Hells with news of his defeat. You are to bring the head to Samora as a trophy to prove your victory over the enemies of the Demon City. This will certainly increase your reputation in the city.~
-@2112 = ~Ornate chalice~
-@2113 = ~This chalice looks precious at first glance. However, a closer look reveals that the gemstones are merely cut glass and the metal is made of an inferior alloy.~
-@2114 = ~Summon Modrons~
-@2115 = ~Summon Modrons
-(Conjuration/Summoning)
+Peso: 1~
+@2110 = ~Testa del Generale Baatezu~
+@2111 = ~Questa era la testa del generale baatezu Gazgothan, un diavolo cornugon. È stato fortunato che tu gliel'abbia tagliata: cose ben peggiori gli sarebbero accadute se fosse tornato nei Nove Inferni portando la notizia della propria sconfitta. Devi riportare la testa a Samora come trofeo e prova della tua vittoria sui nemici della Città dei Demoni. Questo aumenterà certamente la tua reputazione in città.~
+@2112 = ~Calice Ornato~
+@2113 = ~A prima vista questo calice sembra prezioso. Un esame più attento rivela però che le gemme sono soltanto vetro lavorato e il metallo è una lega di scarso valore.~
+@2114 = ~Evoca Modron~
+@2115 = ~Evoca Modron
+(Evocazione/Attrazione)
 
-Level: 3
-Range: Line of sight of the caster
-Duration: 4 turns
-Casting time: 3
-Area of effect: 50 foot radius
-Saving throw: None
+Livello: 3
+Raggio d'azione: Visuale del lanciatore
+Durata: 4 turni
+Tempo di lancio: 3
+Area d'effetto: raggio di 15 metri
+Tiro-salvezza: Nessuno
 
-Within one round of casting this spell, the caster summons 4 Monodrone Modrons (extraplanar creatures from the outer plane of Mechanus).
-The Monodrones appear anywhere within the spell's area of effect, as determined by the caster. They attack the caster's enemies to the best of their ability until the caster either orders them to stop attacking, the spell's duration expires, or the creatures are killed. These creatures do not check morale, but they will vanish when killed. If there is no opponent to fight, the Modrons can perform other services if the caster can communicate with them and they are capable of doing so physically. This spell was made famous by the mage Argramund of the Rock, whose current whereabouts are unknown.
+Entro un round dal lancio di questo incantesimo, il lanciatore evoca 4 modron monodroni, creature extraplanari provenienti dal Piano Esterno di Mechanus.
+I monodroni compaiono in qualsiasi punto dell'area d'effetto scelto dal lanciatore. Attaccano i nemici del lanciatore al meglio delle proprie capacità finché questi non ordina loro di smettere, finché l'incantesimo non termina o finché non vengono uccisi. Queste creature non effettuano controlli sul morale, ma svaniscono quando vengono uccise. Se non ci sono avversari da combattere, i modron possono svolgere altri servizi purché il lanciatore riesca a comunicare con loro e siano fisicamente capaci di eseguirli. Questo incantesimo fu reso famoso dal mago Argramund della Roccia, la cui attuale ubicazione è sconosciuta.
 
 Monodrone
-Intelligence: Semi (2-4)
-Armor class: 7
-Hit dice: 1+1
-Thac0: 19 or 20
-No. of attacks: 1
-Damage/attack: 1d4
-XP value: 120
+Intelligenza: Semi (2-4)
+Classe Armatura: 7
+Dadi-vita: 1+1
+THAC0: 19 o 20
+N. di attacchi: 1
+Danno/attacco: 1d4
+Valore PE: 120
 
-Combat: Monodrones are immune to illusions or magic that affect the mind, such as charm, domination, hold, paralysis, and sleep. Fear and other emotion spells are similarly ineffective against a modron, as are attacks drawing upon the Positive and Negative Energy Planes (including life-draining powers) and the abilities of Illithids and other psionic beings.~
+Combattimento: i monodroni sono immuni alle illusioni e alle magie che influenzano la mente, come charme, dominazione, blocco, paralisi e sonno. Paura e altri incantesimi che agiscono sulle emozioni sono ugualmente inefficaci contro un modron, così come gli attacchi che attingono ai Piani dell'Energia Positiva e Negativa, comprese le capacità di risucchio vitale, e le facoltà degli illithid e di altri esseri psionici.~
 
-@2116 = ~Sealed message~
-@2117 = ~This vessel consists of two parts sealed together in a manner unbeknownst to you. It is beyond your ability to open it. You have been ordered to deliver the container to a creature named "Aphul" on behalf of the Nalfeshnee Margrog. The creature is waiting at the Infinite Staircase not far from the doorway that leads to Samora.~
+@2116 = ~Messaggio Sigillato~
+@2117 = ~Questo recipiente è formato da due parti sigillate insieme in un modo che non comprendi. Aprirlo è al di là delle tue capacità. Ti è stato ordinato di consegnarlo, per conto del nalfeshnee Margrog, a una creatura di nome "Aphul". La creatura attende sulla Scala Infinita, non lontano dalla porta che conduce a Samora.~
 @2118 = ~Larva~
-@2119 = ~You bought this Larva from the Nighthag Zhelamiss. The Nalfeshnee Margrog wishes to obtain it before he will tell you anything about Waukeen whereabout.~
-@2120 = ~Pledge~
-@2121 = ~The pawn ticket entitles you to obtain a Larva. You have received it from the Nighthag Zhelamiss and should bring it to her servant Saarixal, who is waiting at the exit of her abode next to the Larvae.~
-@2122 = ~Spell Key: Alteration~
-@2123 = ~This spell key enables mages to securely cast spells of the Alteration school in the Abyss, which otherwise run a high risk of backfiring and producing an unpleasant result for the user.
+@2119 = ~Hai acquistato questa larva dalla megera della notte Zhelamiss. Il nalfeshnee Margrog la pretende prima di dirti qualcosa riguardo all'ubicazione di Waukeen.~
+@2120 = ~Ricevuta di Pegno~
+@2121 = ~Questa ricevuta di pegno ti dà diritto a ottenere una larva. L'hai ricevuta dalla megera della notte Zhelamiss e dovresti portarla al suo servitore Saarixal, che attende all'uscita della sua dimora, accanto alle larve.~
+@2122 = ~Chiave d'Incantesimo: Alterazione~
+@2123 = ~Questa chiave d'incantesimo permette ai maghi di lanciare in sicurezza nell'Abisso gli incantesimi della scuola di Alterazione, che altrimenti avrebbero un'elevata probabilità di ritorcersi contro l'utilizzatore producendo effetti spiacevoli.
 
-STATISTICS:
+STATISTICHE:
 
-Special: Enables the caster to cast Alteration spells hazard-free in the Abyss.
-Usage: Place in the caster's inventory
+Speciale: permette al lanciatore di usare senza rischi gli incantesimi di Alterazione nell'Abisso
+Uso: tenere nell'inventario dell'incantatore
 
-Weight: 6~
-@2124 = ~Holy Coin of Waukeen~
-@2125 = ~You have received this amulet from the goddess Waukeen in gratitude for her liberation from the clutches of the demon prince Graz'zt. The powerful item was taken from the legendary cloak of coins that the goddess always wears wrapped around her shoulders as the Lady of Wealth. One of those coins has been shaped by her very own will into this magnificent amulet and presented to you as a gift.
+Peso: 6~
+@2124 = ~Moneta Sacra di Waukeen~
+@2125 = ~Hai ricevuto questo amuleto dalla dea Waukeen in segno di gratitudine per averla liberata dalle grinfie del principe dei demoni Graz'zt. Il potente oggetto proviene dal leggendario mantello di monete che la dea, in quanto Signora della Ricchezza, porta sempre avvolto attorno alle spalle. Una di quelle monete è stata plasmata dalla volontà stessa della dea in questo magnifico amuleto e donata a te.
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities: 
-� Magic Resistance: +15%
-� Saving Throws: +1
-� Charisma: +2 
-� Deathward: Protects against the effects of spells such as 'Wail of the Banshee' and 'Power Word: Death' 
-� Once per day, the wearer can create 1d100 gold coins
+Abilità durante l'uso:
+– Resistenza alla Magia: +20%
+– Tiri-salvezza: +2
+– Carisma: +2
+– Protezione dalla Morte: protegge dagli effetti di incantesimi come "Lamento della Banshee" e "Parola del Potere, Uccidere"
+– Una volta al giorno, chi lo indossa può creare 1d100 monete d'oro
 
-Weight: 1~
-@2126 = ~Human Heart~
-@2127 = ~This is the heart of a human being. It appears to be fresh, as the blood has not yet coagulated.~
-@2128 = ~Cell key~
-@2129 = ~This key, which you have taken from the Marilith Nasmaerae, opens all the prison cells in Graz'zt's dungeon.~
-@2130 = ~Maretta's key~
-@2131 = ~This key once belonged to the succubus Maretta, the mistress of Samora. It likely opens the door to the exit from Graz'zt's dungeon.~
-@2132 = ~Goldspires safe key~
-@2133 = ~You stole this key from Faerthae Garblueth, the priestess on duty at the Goldspires. You should bring it to a thief named Maendir.~
-@2134 = ~Alembic of Vitalization~
-@2135 = ~An alembic is an alchemical device for producing essences. The central body of this alembic consists of a copper cauldron. Once a day, the magic of the object comes to life. With a gentle bubbling sound, it collects the vital energies from its surroundings and distils them in its interior. The energies merge into a healing potion that is ready to be used by an adventurer every day.
+Peso: 1~
+@2126 = ~Cuore Umano~
+@2127 = ~È il cuore di un essere umano. Sembra fresco, perché il sangue non si è ancora coagulato.~
+@2128 = ~Chiave della Cella~
+@2129 = ~Questa chiave, sottratta alla marilith Nasmaerae, apre tutte le celle della prigione nelle segrete di Graz'zt.~
+@2130 = ~Chiave di Maretta~
+@2131 = ~Questa chiave apparteneva un tempo alla succube Maretta, signora di Samora. Probabilmente apre la porta che conduce fuori dalle segrete di Graz'zt.~
+@2132 = ~Chiave della Cassaforte delle Guglie Dorate~
+@2133 = ~Hai rubato questa chiave a Faerthae Garblueth, la sacerdotessa di turno alle Guglie Dorate. Dovresti portarla a un ladro di nome Maendir.~
+@2134 = ~Alambicco della Vitalizzazione~
+@2135 = ~Un alambicco è uno strumento alchemico usato per produrre essenze. Il corpo centrale di questo esemplare è costituito da un calderone di rame. Una volta al giorno la magia dell'oggetto prende vita. Con un sommesso gorgoglio raccoglie le energie vitali dell'ambiente circostante e le distilla al proprio interno. Le energie si fondono in una pozione curativa pronta per essere utilizzata ogni giorno da un avventuriero.
 
-STATISTICS:
+STATISTICHE:
 
-Charge abilities:
-� Creates a concentrated healing potion once per day.
+Abilità attivabili:
+– Crea una Pozione di Guarigione Superiore una volta al giorno
 
-Weight: 15~
-@2136 = ~Alembic~
-@2137 = ~A copper pot for producing an unknown essence.~
-@2138 = ~Charm of darkness~
-@2139 = ~This charm once belonged to the Nighthag Zhelamiss, for all Nighthags carry such an amulet. They create them in the depths of the Gray Waste and it instantly cures any illness contracted by its owner. The item also grants a +2 bonus to all Saving Throws. With the help of this charm, the Nighthags possess the ability to become ethereal and haunt mortals in their dreams. They ride on the chest of the sleeping victims and suffocate them until they are dead. If such a charm is stolen, Nighthags put great effort into recovering it, as it takes a month and 100 souls to create a new one. The item cannot be used by beings of good alignment.
+Peso: 15~
+@2136 = ~Alambicco~
+@2137 = ~Un recipiente di rame per produrre un'essenza sconosciuta.~
+@2138 = ~Amuleto dell'Oscurità~
+@2139 = ~Questo amuleto, un tempo appartenuto alla megera della notte Zhelamiss, è tipico di quelli portati da tutte le megere della notte. Forgiato nella Distesa Grigia, cura ogni malattia del proprietario e concede un bonus di +2 a tutti i Tiri-salvezza. Le megere della notte usano questi amuleti per diventare eteree e invadere i sogni dei mortali, spesso soffocando le vittime nel sonno. La creazione di un simile amuleto richiede un mese e cento anime, perciò questi oggetti sono estremamente preziosi e vengono recuperati con ferocia se rubati. Gli esseri di allineamento buono non possono usare questo oggetto.
 
+STATISTICHE:
 
-STATISTICS:
+– Tiri-salvezza: +2
+– Protegge dalle malattie
+– Chi lo indossa può diventare etereo una volta al giorno per tre round. In questo stato <PRO_HESHE> può essere colpito soltanto da attacchi magici o speciali, comprese armi con incantamento +1 o superiore o creature altrimenti capaci di colpire esseri vulnerabili soltanto alle armi magiche. Mentre è etereo, <PRO_HESHE> ottiene inoltre il 25% di Resistenza al Danno Magico
 
-Cannot be used by good-aligned characters
+Peso: 1~
+@2140 = ~Veste degli Occhi~
+@2141 = ~Questo prezioso indumento ha un aspetto insolito: è decorato con numerosi occhi di stoffa cuciti sulla veste in ogni direzione. Chi lo indossa è così in grado di guardare contemporaneamente da ogni lato.
+La veste non permette di vedere esseri astrali o eterei. Tuttavia, le creature camuffate dalla magia o nascoste tra le ombre vengono individuate facilmente, rendendo impossibile tendere imboscate o cogliere di sorpresa chi indossa una Veste degli Occhi. Inoltre protegge da tutti gli effetti che causano cecità.
+Infine, la veste consente di attivare uno degli occhi applicati al tessuto per esaminare l'ambiente circostante o lanciare Vera Vista. Ogni uso consuma uno degli occhi e quindi una carica. Quando non rimangono più occhi disponibili, la veste può ancora essere indossata, ma non permette più di usare i relativi incantesimi.
 
-� Saving throws: +2
-� Protects against disease
-� Wearer can become ethereal once per day for three rounds. <PRO_HESHE> is subject only to magical or special attacks, including those by weapons of +1 or better enchantment, or by creatures otherwise able to affect those struck only by magical weapons. <PRO_HESHE> also gains 25% resistance to magic damage.
+STATISTICHE:
 
-Weight: 1~
-@2140 = ~Robe of the eyes~
-@2141 = ~This valuable garment looks odd, as it is adorned with numerous eyes woven from fabric and sewn onto the robe in all directions. The wearer is thus able to look at all directions simultaneously.
-Astral or ethereal beings cannot be spotted with this robe. However, illusions, creatures camouflaged by spells or hidden in shadows are easily detected, making it impossible to ambush or surprise a character wearing a Robe of Eyes. The wearer of the robe is protected against all effects that cause blindness.
-Finally, the robe allows the wearer to activate one of the eyes to investigate the surroundings.
+Abilità durante l'uso:
+– Protegge dagli attacchi alle spalle
+– Immunità alla Cecità
 
+Abilità attivabili:
+– Può lanciare "Vera Vista" come l'omonimo incantesimo da mago di 6° livello
+– Può lanciare "Occhio dello Stregone" come l'omonimo incantesimo da mago di 4° livello
 
-STATISTICS:
+Peso: 4~
+@2142 = ~Pelle di Vermi~
+@2143 = ~La Pelle di Vermi è un'armatura di cuoio ricoperta di larve che si contorcono in spirali infinite sul corpo di chi la indossa.
 
-Equipped abilities:
-� Wearer is protected from backstabbing attacks
-� Wearer is immune to blindness
-� Wearer can cast the spell "True Sight" (like the 6th level mage spell of the same name) once per day 
-� Wearer can cast the spell "Wizard Eye" (like the 4th level mage spell of the same name) once per day
+L'armatura aumenta la resistenza, ma porta con sé una costante putrefazione e sozzura. I vermi cominciano a penetrare nella pelle del portatore, serpeggiando nelle vene e divorandone la carne, finché il proprietario dell'armatura assume un aspetto malaticcio e ripugnante.
 
-Weight: 4~
-@2142 = ~Maggot Hide~
-@2143 = ~The Maggot Hide is a suit of leather armor covered with maggots that writhe in endless spirals over the wearer's body. The first owner was an adventurer who died in the Abyss and was devoured by the armor. The maggots decomposed his flesh and mingled with the armor, creating a gruesome symbiosis.
+STATISTICHE:
 
-The armor grants increased resistance, but it also entails constant decay and foulness. Maggots start to invade the wearer's skin, writhing in his veins and consuming his flesh, causing the armor's owner to become sickly and loathsome to behold. 
+Abilità durante l'uso:
+– +5% di resistenza agli attacchi contundenti, perforanti, taglienti e da proiettile
+– Se chi la indossa viene colpito, l'avversario subisce 1d5 punti di danno per i morsi dei vermi e, se fallisce un Tiro-salvezza contro Morte, contrae una malattia che infligge 5 punti di danno per round per i successivi cinque round
+– Carisma: -2
+– Costituzione: -2
 
-STATISTICS:
+Classe Armatura: 4 (2 contro armi taglienti, 3 contro armi perforanti e da proiettile)
+Richiede:
+ Forza 6
 
-Equipped abilities:
-� +20% resistance vs. crushing, piercing, slashing and missile attacks 
-� If the wearer is hit, the opponent suffers 5 points of damage from maggot bites and, on a failed Saving Throw vs. death, is infected with a disease that inflicts 5 points of damage per round for the following five rounds
-� Charisma: -2
-� Constitution: -2
+Peso: 7~
+@2144 = ~Mazza del Teschio~
+@2145 = ~Forgiata dalla tragedia, questa mazza incarna la corruzione. Un tempo un paladino cadde combattendo demoni a Thanatos, un vile strato dell'Abisso. Il suo teschio, reciso e maledetto mediante rituali oscuri, forma ora questa empia arma.
 
-Armor Class: 4 (2 vs. slashing, 3 vs. piercing and missile)
-Requires:
- 6 Strength
+Da quel momento l'arma poté essere usata per sottrarre forza al bersaglio e trasferirla a chi la impugnava. Inoltre, a ogni colpo riuscito il teschio morde la vittima, infliggendo un danno modesto ma comunque sgradevole.
 
-Weight: 7~
-@2144 = ~Skull mace~
-@2145 = ~Even the noblest souls can be corrupted in the Abyss and misused for dark purposes. This mace is the best example of this.
-There was once a fateful battle in Thanatos, a particularly malevolent layer of the Abyss, between a brave knight and the demonic servants of Orcus. In a desperate battle, the paladin finally met his death at the hands of the demon prince's minions. The fiends took this opportunity to turn the fallen paladin's virtue into a weapon of wickedness. They severed the paladin's skull from his torso and bound it to a powerful mace in sinister rituals. From then on, this weapon could be used to draw strength from the target and transfer it to the wielder. In addition, the skull bites its victim on a successful hit, causing not much damage but an unpleasant bite nonetheless.
+STATISTICHE:
 
-STATISTICS:
-
-Combat abilities: 
-� Drains one point of strength from the target and transfers it to the wielder on 25% of hits (cumulative, for five rounds)
+Abilità in combattimento:
+– Nel 25% dei colpi sottrae 1 punto di Forza al bersaglio e lo trasferisce a chi la impugna (cumulativo, per cinque round)
 
 THAC0: -3
-Damage: 1d6+3 ( crushing), +1 piercing
-Speed Factor: 7
-Proficiency Type: Mace
-Type: One-handed
-Requires:
- 10 Strength
+Danno: 1d6+3 (contundente), +1 perforante
+Fattore-velocità: 7
+Tipo di Competenza: Mazza
+Tipo: A una mano
+Richiede:
+ Forza 10
 
-Weight: 3~
-@2146 = ~Potion of Redemption~
-@2147 = ~This dark, shimmering potion is infused with a mysterious aura of floating, glowing bubbles. It is rumored to be an essence infused with the tears of Aasimon, explaining the luminous nature of the liquid. The elixir has a sweet but bitter note. It has the ability to cure drained life force. A character who drinks the potion can regain lost levels and remove the associated negative effects.
+Peso: 3~
+@2146 = ~Pozione di Redenzione~
+@2147 = ~Questa pozione scura e scintillante è pervasa da un'aura misteriosa di bolle luminose sospese nel liquido. Si dice che sia un'essenza infusa con lacrime di aasimon, cosa che spiegherebbe la luminosità del contenuto. L'elisir ha un sapore dolce ma amaro e può curare il risucchio della forza vitale. Chi lo beve recupera i livelli perduti ed elimina i relativi effetti negativi.
 
-STATISTICS:
+STATISTICHE:
 
-� Casts "Lesser Restoration"~
-@2148 = ~Horn of Goodwill~
-@2149 = ~This horn was created in the glittering halls of the Fochlucan High Academy in Silverymoon. The Academy was a place of creativity, harmony and knowledge, where bards from all over the world gathered to hone their talents and celebrate the art of music.  Inspired by the vision of a world where harmony and goodness should reign, some bards set out on a journey to collect magical ingredients to create this horn. This bronze instrument, whose mouthpiece is based on the horn of a unicorn, turned out to be more than just a musical instrument. It embodied the essence of goodness. The blowing of the horn not only produced melodic sounds, but also a radiant protection that warded off the darkness and protected those who were nearby.
+– Lancia "Ristorare Minore"~
+@2148 = ~Corno della Benevolenza~
+@2149 = ~Forgiato nella scintillante Accademia Superiore Fochlucan di Silverymoon, questo corno di bronzo, dotato di un bocchino ricavato da un corno di unicorno, è molto più di un semplice strumento musicale. Creato da bardi visionari con ingredienti magici, incarna la pura bontà. Quando viene suonato, le sue melodie producono uno scudo radioso che protegge dal male.
 
-STATISTICS:
+STATISTICHE:
 
-Charge abilities:
-� Blowing the horn creates the effect 'Protection from Evil' once per day
-  Duration: 1 turn per level 
-  Area of Effect: 15-ft. radius
-  
-Weight: 3~
-@2150 = ~Summoner's Amulet~
-@2151 = ~Amulet of Protection +2, 'Summoner's Amulet'
-Eons ago, when the boundaries between the planes were thin and magic flowed in its purest form, the powerful Summoner Kaelarion forged an amulet of great significance: Summoner's Amulet. Kaelarion was a sage and a keeper of balance who recognized that unlocking gates to other planes was a skill that had to be handled with utmost caution.
+Abilità attivabili:
+– Suonare il corno crea l'effetto "Protezione dal Male" una volta al giorno
+  Durata: 1 turno per livello
+  Area d'effetto: raggio di 4,5 metri
 
-Kaelarion would don the amulet every time he convened a circle of mages to unlock the gates of the planes and forge a connection between worlds. Unfortunately, Kaelarion fell victim to the treachery of one of his apprentices, who betrayed him by stabbing his master in the midst of a summoning ritual for a Glabrezu. The fiend returned the favor in its own way and dragged the apprentice along with the amulet back into the Abyss.
+Peso: 3~
+@2150 = ~Amuleto dell'Evocatore~
+@2151 = ~Amuleto di Protezione +2, "Amuleto dell'Evocatore"
+In epoche innumerevoli, quando il velo fra i reami era appena un sussurro e le correnti arcane scorrevano senza freni, il celebre evocatore Kaelarion forgiò l'Amuleto dell'Evocatore. Kaelarion lo usava per guidare circoli di maghi attraverso i delicati sentieri fra i piani in tutta sicurezza. Il destino gli fu tuttavia avverso: durante la pericolosa evocazione di un glabrezu, il tradimento del suo stesso apprendista portò Kaelarion alla morte. Il demone, in un crudele atto di reciprocità, catturò l'apprendista traditore e l'amuleto, trascinando entrambi nelle oscure profondità dell'Abisso.
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� Armor Class: +2
-� Saving Throws: +2
-� The wearer is permanently protected from evil
+Abilità durante l'uso:
+– Classe Armatura: +2
+– Tiri-salvezza: +2
+– Chi lo indossa è permanentemente protetto dal male
 
-Weight: 1~
-@2152 = ~Cone of the World Tree~
-@2153 = ~This cone is believed to be a seed of the World Tree, but only a resident of this location could testify to that with certainty. In any case, the cone grants the user a considerable amount of vitality when consumed, which is reflected in a temporary boost of hit points. The cone can be used once per day, as the seeds grow back overnight.
+Peso: 1~
+@2152 = ~Pigna dell'Albero del Mondo~
+@2153 = ~Si ritiene che questa pigna sia un seme dell'Albero del Mondo, anche se soltanto un abitante di quel luogo potrebbe confermarlo con certezza. In ogni caso, se consumata concede una notevole quantità di vitalità, rappresentata da un aumento temporaneo dei Punti Ferita. La pigna può essere usata una volta al giorno, poiché i semi ricrescono durante la notte.
 
-STATISTICS:
+STATISTICHE:
 
-Hit Points: +10% (base only)
-Duration: 10 rounds
+Abilità attivabili:
+– Punti Ferita: +10% (solo base) una volta al giorno
+Durata: 10 round
 
-Weight: 1~
-@2154 = ~Potion of agonizing memory~
-@2155 = ~This cloudy, foul-smelling potion brings back lost, short-lived memories. This allows spellcasters to recall spells they have already cast and be able to cast them again. However, the potion is not exactly digestible; on the contrary, it is extremely poisonous. In addition, the memories, depending on what they are, can cause temporary states of confusion.
+Peso: 1~
+@2154 = ~Pozione del Ricordo Straziante~
+@2155 = ~Questa pozione torbida e maleodorante riporta alla mente ricordi perduti da poco tempo. Ciò consente agli incantatori di ricordare incantesimi già lanciati e di usarli nuovamente. Tuttavia la pozione non è affatto facile da digerire: al contrario, è estremamente velenosa. Inoltre, a seconda di ciò che viene ricordato, può provocare temporanei stati di confusione.
 
-STATISTICS:
+STATISTICHE:
 
-� Restores a spell of the 8th or lower level
-� User is poisoned for 10 seconds, taking 2 points of damage per second
-� User is confused for three rounds (Save vs. Spells negates)
+– Ripristina un incantesimo di 8° livello o inferiore
+– Chi la usa viene avvelenato per 10 secondi, subendo 2 punti di danno al secondo
+– Chi la usa è confuso per tre round (un Tiro-salvezza contro Incantesimi effettuato con successo nega l'effetto)
 
-Weight: 1~
-@2156 = ~Daemevera's infant~
-@2157 = ~This is the child of the succubus Daemevera, itself a sort of demon, who will most likely mature into an Alu-Fiend at a later stage. It stares at you grimly and full of malice out of its bright blue eyes. You are to bring the infant to Mefisto in exchange for him revealing a way to get rid of the Cyric priest Gildaar.~
-@2158 = ~Daemevera's Key~
-@2159 = ~This is a strange key that could be a mixture of whip and rattle.~
-@2160 = ~Bottle of Styx water~
-@2161 = ~The bottle that contains the dark water of Styx appears to be a simple bottle - with no sign of its supernatural origins or its power of oblivion. 
-The flask itself is made of transparent glass. Inside is an opaque, dark liquid; an obscure, jet-black water that sloshes calmly and lazily in the bottle. The water seems to swallow even the light, and it is impossible to see its bottom. This is the water of the river Styx, the river that runs through the Lower Planes. Exposure to the liquid can cause incurable amnesia, and those who drink it or come into contact with it run the risk of losing their own memories and identities.~
-@2162 = ~Drum of the Abyss~
-@2163 = ~The Drum of the Abyss is an eerie and sinister magical item that possesses the power to summon a powerful Glabrezu demon called Belthazaar. Crafted from the materials of the Abyss itself, this kettledrum is infused with the twisted and malevolent essence of this dark plane. The drum is constructed from dark, hardened leather. Attached to its base is the severed head of a wolf, which appears to be trapped in an eternal grimace of pain. The wolf's eyes glitter a sinister yellow, and its fur is streaked with twisted runes and symbols that emphasize its connection to the Abyss.
-The Drum of the Abyss can be used every six days to summon the Glabrezu Belthazaar. To activate the kettledrum, the player must hit it hard, creating a booming noise that sounds like the thunder of the Abyss itself. At this moment, the wolf's head begins to glow and clouds of darkness swirl around the kettledrum. Belthazaar is not a simple demon that can be easily controlled. He will not obey your commands, but instead will try to manipulate you and pursue his own sinister goals. The kettledrum of the Abyss allows Belthazaar to be summoned, but it cannot contain his malevolence and malice.
+Peso: 1~
+@2156 = ~Neonato di Daemevera~
+@2157 = ~È il figlio della succube Daemevera, esso stesso una sorta di demone che con ogni probabilità maturerà in un alu-fiend. Ti fissa con aria cupa e piena di malizia con i suoi luminosi occhi azzurri. Devi portare il neonato a Mefisto; in cambio, egli ti rivelerà un modo per liberarti del sacerdote di Cyric Gildaar.~
+@2158 = ~Chiave di Daemevera~
+@2159 = ~È una strana chiave che sembra una via di mezzo fra una frusta e un sonaglio.~
+@2160 = ~Bottiglia d'Acqua dello Stige~
+@2161 = ~La bottiglia che contiene l'acqua scura dello Stige sembra un recipiente comune, senza alcun segno della sua origine soprannaturale o del potere dell'oblio.
+La fiaschetta è di vetro trasparente. All'interno si trova un liquido opaco e scuro, un'acqua nera come la pece che ondeggia lenta e tranquilla. Sembra inghiottire perfino la luce ed è impossibile scorgerne il fondo. È l'acqua del fiume Stige, che attraversa i Piani Inferiori. Il contatto con il liquido può provocare un'amnesia incurabile e chi lo beve o lo tocca rischia di perdere i propri ricordi e la propria identità.~
+@2162 = ~Tamburo dell'Abisso~
+@2163 = ~Il Tamburo dell'Abisso è stato creato con l'essenza stessa dell'Abisso. Questo timpano, fatto di cuoio scuro e indurito, poggia su una base decorata con la testa recisa di un lupo, eternamente contratta in una smorfia di agonia. Gli occhi, che risplendono di un sinistro giallo, sono circondati da pelo inciso con rune contorte che legano lo strumento all'Abisso.
 
-STATISTICS:
+Ogni sei giorni il tamburo può evocare il glabrezu Belthazaar: basta colpirlo per produrre un fragore tonante e abissale. Quando viene suonato, la testa del lupo si illumina e le ombre le si avvolgono attorno, annunciando l'arrivo di Belthazaar. Il demone, tuttavia, è astuto e caparbio e cerca di portare avanti i propri oscuri piani invece di piegarsi alla volontà dell'evocatore.
 
-Charge abilities:
-� Summon the Glabrezu Belthazaar, which serves the summoner for one minute but cannot be controlled directly 
-� The instrument may be used daily, but Belthazaar will only answer the call every sixth day
+STATISTICHE:
 
-Weight: 1~
-@2164 = ~Drum~
-@2165 = ~A strange looking kettledrum.~
-@2166 = ~Belthazaar's dagger~
-@2167 = ~This dagger was given to you by the Glabrezu Belthazaar. You are to get Ormad Sulpar to cut himself with this dagger.~
-@2168 = ~Pillow of the Nighthag~
-@2169 = ~You shall bring this pillow to Ormad Sulpar. If he covers his face with it, he will suffocate. His soul will then finally belong to the Nighthag Zhelamiss, who has promised you a reward for this evil deed.~
-@2170 = ~Potion of ten thousand souls~
-@2171 = ~The Potion of Ten Thousand Souls is a dark and dangerous elixir brewed by the Nighthag Zhelamiss. The bottle is deep black in color, and its interior seems to be an endless swirl of shadowy mist. It is stored in a glass vial whose surface is riddled with tiny cracks, as if barely able to withstand the immense pressure of the souls trapped inside. The vial is sealed with a silver cap engraved with strange and disturbing symbols. The potion is a dangerous source of power and knowledge. Upon consuming this elixir, the user immediately gains 10,000 experience points, which is an enormous boost to their abilities and skills. This influx of knowledge and experience can enable a character to advance and outgrow themselves in ways previously unimaginable. However, the power of the potion comes at a price. The 10,000 experience points that the user receives are not taken from nowhere. They have been extracted from the souls of ten thousand deceased people who were cruelly captured by the Nighthag and then distilled into the potion. These souls are now trapped in the elixir forever and scream silently for release. When you consume the potion, the souls and all the experiences they have had in life are absorbed into you.
+Abilità attivabili:
+– Evoca il glabrezu Belthazaar, che serve l'evocatore per un minuto ma non può essere controllato direttamente
+– Lo strumento può essere usato ogni giorno, ma Belthazaar risponderà al richiamo soltanto ogni sei giorni
 
-It is up to each consumer to decide whether they will be plagued by a deep sense of guilt and darkness, knowing that the souls of the deceased have been sacrificed for their own power and benefit.
+Peso: 1~
+@2164 = ~Tamburo~
+@2165 = ~Un timpano dall'aspetto insolito.~
+@2166 = ~Pugnale di Belthazaar~
+@2167 = ~Questo pugnale ti è stato consegnato dal glabrezu Belthazaar. Devi convincere Ormad Sulpar a ferirsi con la lama.~
+@2168 = ~Cuscino della Megera della Notte~
+@2169 = ~Devi portare questo cuscino a Ormad Sulpar. Se se lo appoggerà sul volto, soffocherà. La sua anima apparterrà finalmente alla megera della notte Zhelamiss, che ti ha promesso una ricompensa per questa azione malvagia.~
+@2170 = ~Pozione delle Diecimila Anime~
+@2171 = ~La Pozione delle Diecimila Anime è un elisir oscuro e pericoloso preparato dalla megera della notte Zhelamiss. La bottiglia è nera come la notte e all'interno sembra turbinare senza fine una nebbia d'ombra. La pozione è contenuta in una fiala di vetro la cui superficie è attraversata da minuscole crepe, come se riuscisse a malapena a sopportare l'immensa pressione delle anime intrappolate. La fiala è chiusa da un tappo d'argento inciso con simboli strani e inquietanti. La pozione è una pericolosa fonte di potere e conoscenza. Bevendo l'elisir, l'utilizzatore ottiene immediatamente 10.000 Punti Esperienza, un enorme incremento delle proprie capacità. Questo afflusso di conoscenza ed esperienza può permettere a un personaggio di progredire e superare i propri limiti in modi prima impensabili. Il potere, tuttavia, ha un prezzo. I 10.000 Punti Esperienza non provengono dal nulla: sono stati estratti dalle anime di diecimila defunti catturati crudelmente dalla megera e poi distillati nella pozione. Quelle anime sono ormai intrappolate per sempre nell'elisir e gridano in silenzio chiedendo liberazione. Quando bevi la pozione, assorbi dentro di te le anime e tutte le esperienze vissute in vita.
 
-STATISTICS:
-� Immediately grants the user 10,000 experience points
+Spetta a ciascuno decidere se sarà tormentato da un profondo senso di colpa e oscurità, sapendo che le anime dei defunti sono state sacrificate per il proprio potere e vantaggio.
 
-Weight: 1~
-@2172 = ~has received 10,000 experience points.~
-@2173 = ~Gildaar's note~
+STATISTICHE:
+– Conferisce immediatamente 10.000 Punti Esperienza
+
+Peso: 1~
+@2172 = ~ha ricevuto 10.000 Punti Esperienza.~
+@2173 = ~Nota di Gildaar~
 @2174 = ~Gildaar,
-the rescue operation for the goddess seems to be getting started. According to the conversations I listened to, a <PRO_RACE> named <CHARNAME> is leading the rescuers up the Infinite Staircase to reach the city of Samora in Azzagrat. Make sure the party does not succeed, and I will reward you richly once I have become the mistress of the abbey, when the codger Tharundar Olehm will no longer have the favor of his faithful.'~
-@2175 = ~Pinecone~
-@2176 = ~A large, strong-smelling pine cone. It weighs heavily in the hand.~
-@2177 = ~Death rod~
-@2178 = ~The skull of a Nabassu is attached to this staff. Despite the fact that the spot where the demon's eyeballs once were appears hollow and empty, the skull seems to lock beings with its gaze. The stick was created in the endless, chaotic depths of the Abyss, where darkness and evil reign. Its origins and the story of its creation are shrouded in darkness and horror.
+l'operazione per salvare la dea sembra essere iniziata. Da alcune conversazioni che ho ascoltato, una persona di razza <PRO_RACE> di nome <CHARNAME> sta guidando i soccorritori sulla Scala Infinita per raggiungere la città di Samora, ad Azzagrat. Assicurati che il gruppo non abbia successo e ti ricompenserò generosamente quando sarò diventata la signora dell'abbazia, dopo che il vecchio Tharundar Olehm avrà perso il favore dei fedeli.~
+@2175 = ~Pigna~
+@2176 = ~Una grossa pigna dall'odore intenso. Pesa molto nella mano.~
+@2177 = ~Verga della Morte~
+@2178 = ~Il teschio di un nabassu è fissato a questa verga. Sebbene le orbite dove un tempo si trovavano gli occhi del demone siano vuote, il cranio sembra immobilizzare le creature con il proprio sguardo. La verga fu creata nelle infinite e caotiche profondità dell'Abisso, dove regnano oscurità e male. Le sue origini e la storia della sua creazione sono avvolte nelle tenebre e nell'orrore.
 
-STATISTICS:
+STATISTICHE:
 
-� Can once per day turn a humanoid creature that has no more than 8 Hit Dice into a Ghast if it fails its Save vs. Death at the end of a round.
-� Humanoid creatures with 9 or more hit dice are not affected by the rod. 
-� Creatures other than humanoids, such as aberrations, undead or dragons, are also unaffected by the rod's effect.
+– Una volta al giorno può trasformare in ghast una creatura umanoide con non più di 8 Dadi-vita se questa fallisce un Tiro-salvezza contro Morte alla fine di un round
+– Le creature umanoidi con 9 o più Dadi-vita non vengono influenzate
+– Le creature non umanoidi, come aberrazioni, non morti o draghi, non vengono influenzate dall'effetto della verga
 
- Range: 5 feet
- Duration: Permanent 
- Area: 1 creature
- Saving throw: Yes (vs Death)
-Requires:
- 9 Intelligence
+Raggio d'azione: 1,5 metri
+Durata: Permanente
+Area d'effetto: 1 creatura
+Tiro-salvezza: Sì (contro Morte)
+Richiede:
+ Intelligenza 9
 
-Weight: 1~
-@2179 = ~Diadem of the Fey'ri~
-@2180 = ~This diadem was created by the metalsmiths of the Fey'ri, a demonic hybrid of Tanar'ri and elves. It is said that the blood of hundreds of sacrificed Fey'ri has flowed into the red jewel. In any case, the diadem clearly changes the appearance and resistances of its wearer in the style of its demonic creators: Black wings sprout and the wearer gains a number of resistances that reflect the Tanar'ri blood of the demonic elves. These traits are extremely repulsive to most inhabitants of the Realms. Good characters must pass a Saving Throw vs. Polymorph when donning the item, otherwise they will be affected by the diadem's demonic influence and shift their alignment to chaotic evil.
-The diadem can only be worn by Elves, Half-elves and Tieflings. It is believed that the Fey'ri use this item to pull more of their elven kin to the demonic side.
+Peso: 1~
+@2179 = ~Diadema dei Fey'ri~
+@2180 = ~Questo diadema, forgiato dai fey'ri, ibridi demoniaci di tanar'ri ed elfi, contiene una gemma rossa intrisa del sangue di molti fey'ri sacrificati. Conferisce a chi lo indossa ali nere e numerose resistenze, riflesso dell'eredità demoniaca dei suoi creatori.
 
-STATISTICS:
+Questi tratti risultano estremamente ripugnanti alla maggior parte degli abitanti dei Reami. I personaggi buoni devono superare un Tiro-salvezza contro Metamorfosi quando indossano l'oggetto per la prima volta; in caso contrario subiscono l'influenza demoniaca del diadema e il loro allineamento diventa caotico malvagio.
 
-Equipped abilities: 
-� Charisma: -5
-� The wearer grows black wings that make him look like a creature of the Abyss
-� Fire resistance: +50
-� Electricity resistance: +50
-� Poison resistance: +50
-� Fey item: Can only be used by Elves and Half-elves
-� Good characters turn chaotic evil the first time they equip the diadem if they fail a Save vs. Polymorph
-� Does not protect against critical hits
+Il diadema può essere indossato soltanto da elfi e mezzelfi. Si ritiene che i fey'ri usino questo oggetto per trascinare altri loro parenti elfici verso il lato demoniaco.
 
-Weight: 2~
-@2181 = ~Cry of Despair~
-@2182 = ~This plate mail is fashioned to resemble the grimace of a fiend.
+STATISTICHE:
 
-STATISTICS:
+Abilità durante l'uso:
+– Carisma: -5
+– Chi lo indossa sviluppa ali nere che lo fanno somigliare a una creatura dell'Abisso
+– Resistenza al Fuoco: +50%
+– Resistenza all'Elettricità: +50%
+– Resistenza al Veleno: +50%
+– Oggetto fey: utilizzabile soltanto da elfi e mezzelfi
+– I personaggi buoni diventano caotici malvagi la prima volta che equipaggiano il diadema se falliscono un Tiro-salvezza contro Metamorfosi
+– Non protegge dai colpi critici
 
-Equipped abilities: 
-� When struck in combat, the armor casts Cloak of Fear on the wearer in 5% of cases
-Armor class: 0
-AC bonus:
- -3 vs. missile weapons
- -3 vs. piercing weapons
- -4 vs. slashing weapons
-Requires: 
- 15 Strength
+Peso: 2~
+@2181 = ~Grido della Disperazione~
+@2182 = ~Questa armatura a piastre è modellata in modo da ricordare la smorfia di un immondo.
 
-Weight: 35~
-@2183 = ~Val'kreen's house insignia~
-@2184 = ~Val'kreen's insignia of House Dlardrageth~
-@2185 = ~This circular plaque is adorned with a winged creature. Inscribed on the back it says: 'Insignia Property of Val'kreen, Fey'ri'.~
-@2186 = ~This insignia represents the sign of House Dlardrageth, a dynasty of demonic elves also known as Fey'ri. These creatures are a hybrid of Tanar'ri and elves. They no longer share much with their elven ancestors, as they are considered cruel and ruthless. The inscription on the back reads: 'Insignia property of Val'kreen, Fey'ri'.~
-@2187 = ~Devilsplitter~
-@2188 = ~This halberd was made for a single purpose: To annihilate the denizens of the Nine Hells, who name themselves Baatezu and are usually called devils by mortals. The crude but effective weapon was enchanted by the Tanar'ri smiths of the Abyss to deal extra damage against their arch-enemies.
+STATISTICHE:
 
-STATISTICS:
+Abilità durante l'uso:
+– Quando viene colpita in combattimento, nel 5% dei casi l'armatura lancia Manto di Paura su chi la indossa
 
-THAC0: +3
-Damage: 1d10+3, +6 vs. Baatezu
-Damage type: Piercing
-Speed Factor: 6
-Proficiency Type: Halberd
-Type: Two-handed
-Requires:
- 13 Strength
+Classe Armatura: 0
+Bonus alla CA:
+ -3 contro armi da proiettile
+ -3 contro armi perforanti
+ -4 contro armi taglienti
+Richiede:
+ Forza 15
 
-Weight: 12~
-@2189 = ~Meatshaper +3~
-@2190 = ~This club is covered in human flesh, which has been laced together with the tendons of another, unknown creature to form a weapon. Like all clubs, the weapon does not inflict too much damage, but it is capable of deforming the victim's shape with each blow, resulting in severe pain and a permanent drain on dexterity and charisma that can only be reversed by dispel magic.
+Peso: 35~
+@2183 = ~Insegna Casata di Val'kreen~
+@2184 = ~Insegna di Val'kreen della Casata Dlardrageth~
+@2185 = ~Questa placca circolare è decorata con una creatura alata. Sul retro è inciso: "Insegna di proprietà di Val'kreen, fey'ri".~
+@2186 = ~Questa insegna reca il simbolo della Casata Dlardrageth, una dinastia di elfi demoniaci noti anche come fey'ri. Queste creature sono ibridi di tanar'ri ed elfi. Condividono ormai ben poco con i loro antenati elfici, poiché sono considerate crudeli e spietate. L'iscrizione sul retro recita: "Insegna di proprietà di Val'kreen, fey'ri".~
+@2187 = ~Squarciadiavoli~
+@2188 = ~Quest'alabarda fu creata per un unico scopo: annientare gli abitanti dei Nove Inferni che chiamano se stessi baatezu e che i mortali definiscono comunemente diavoli. L'arma, rozza ma efficace, fu incantata dai fabbri tanar'ri dell'Abisso per infliggere danni aggiuntivi ai loro arcinemici.
 
-STATISTICS:
-
-Combat abilities:
-� Each successful hit deforms the victim's shape, causing a cumulative loss of both one point of Dexterity and Charisma if the victim fails a Saving Throw vs. Polymorph. This alteration is permanent until successfully dispelled. If one of the attribute drops to 0, the victim disintegrates into a fleshy mass and dies.
+STATISTICHE:
 
 THAC0: +3
-Damage: 1d6+3
-Damage type: Crushing
-Speed Factor: 4
-Proficiency Type: Club
-Type: One-handed
-Requires:
- 5 Strength
+Danno: 1d10+3, +6 contro baatezu
+Tipo di Danno: Perforante
+Fattore-velocità: 6
+Tipo di Competenza: Alabarda
+Tipo: A due mani
+Richiede:
+ Forza 13
 
-Weight: 3~
-@2191 = ~Heart Piercer~
-@2192 = ~Weapons have been forged in the dark forges of the Abyss since the dawn of time to torture and harass mortals, and this spear known as the 'Heart Piercer' is no exception. It is rumored that the spear was forged from dark iron and imbued with the power of trapped souls through bloody rituals. The tooth of a powerful and fallen demon was used as the spearhead to complement the deadly weapon.
+Peso: 12~
+@2189 = ~Modellacarne +3~
+@2190 = ~Questa clava è rivestita di carne umana, cucita insieme con i tendini di un'altra creatura sconosciuta per formare un'arma. Come tutte le clave non infligge danni enormi, ma a ogni colpo può deformare il corpo della vittima, provocando dolori atroci e una perdita permanente di Destrezza e Carisma che può essere annullata soltanto da Dissolvi Magie.
 
-STATISTICS:
+STATISTICHE:
 
-Combat abilities:
-� Hit target starts bleeding and takes an additional 2d4 piercing damage (Save vs. Death negates)
-
-THAC0: +3
-Damage: 1d6+3 (piercing)
-Speed Factor: 3
-Proficiency Type: Spear 
-Type: Two-handed
-Requires:
- 5 Strength
-
-Weight: 3~
-@2193 = ~Sel�ne's Everburning Stars~
-@2194 = ~These silver bracers, known as Sel�ne's Everburning Stars, are said to guide and protect those who wear them through the darkest of nights, shielding them from even the most perilous shadows. Legend holds that the gems adorning both bracers are crystallized tears shed by Our Lady of Silver herself.
-
-STATISTICS:
-
-Charge abilities:
-� True Seeing twice per day
-� Kills one targeted shadow once per day 
-
-Equipped abilities:
-� Protection from Blindness
-� Armor Class and Saving Throws: +2 vs. Shadows
-
-Weight: 1~
-@2195 = ~Cup~
-@2196 = ~Cup of Sel�ne~
-@2197 = ~This beautiful cup has stars symbols engraved into it.
-
-Weight: 2~
-@2198 = ~This is a sacred cup of Sel�ne. Drinking from it may grant protection of the Moonmaiden.
-
-STATISTICS:
-
-Charge abilities:
-� Drinking from the Cup of Sel�ne randomly grants one of the two effects: Protection from Evil or Sanctuary
-
-Weight: 2~
-@2199 = ~Staff of Sweet Decay~
-@2200 = ~This staff used to belong to a former lover of Graz'zt. While this weapon once might have been an icon of nature's power, today it is but a twisted caricature of its past self. It is covered with some strange, sweet-smelling mucus. The few leaves that used to sprout from it are of unhealthy colors. There is some mycelium growing on the lower part of the staff.
-  
-It is said that the sweet toxins oozing from the staff can be quite intoxicating, allowing the one that wields it to have a certain charm and the mycelium may help to summon myconids.
-  
-STATISTICS:
-
-Charge abilities:
-� Summon Fungus thrice per day
-
-Equipped abilities: 
-� Charisma: +1
-� Luck: +1
+Abilità in combattimento:
+– Ogni colpo riuscito deforma il corpo della vittima e causa una perdita cumulativa di 1 punto sia di Destrezza sia di Carisma se il bersaglio fallisce un Tiro-salvezza contro Metamorfosi. L'alterazione è permanente finché non viene dissolta con successo. Se uno dei due attributi scende a 0, la vittima si disgrega in una massa di carne e muore
 
 THAC0: +3
-Damage: 1d6+3, +1 Acid
-Damage type: crushing
-Speed Factor: 1
-Proficiency Type: Quarterstaff
-Type: Two-handed
-Requires:
- 5 Strength
+Danno: 1d6+3
+Tipo di Danno: Contundente
+Fattore-velocità: 4
+Tipo di Competenza: Clava
+Tipo: A una mano
+Richiede:
+ Forza 5
 
-Weight: 2~
-@2201 = ~Helmet of the Assassin-Knight~
-@2202 = ~This helmet was once used by a knight Vlasnisz, that left his brotherhood after his brothers turned their back on him when he dedicated his life to avenging his beloved, Vracl, viciously killed by a knightess he simply couldn't love.
- 
-Vlasnisz decided that this murder could never be forgotten or forgiven. He became a beast himself, but... without his beloved one, he simply couldn't take any other path.
+Peso: 3~
+@2191 = ~Trafiggicuore~
+@2192 = ~Fin dalla notte dei tempi, nelle oscure fucine dell'Abisso sono state forgiate armi per torturare e perseguitare i mortali, e questa lancia nota come "Trafiggicuore" non fa eccezione. Si dice che sia stata forgiata in ferro oscuro e intrisa, tramite rituali sanguinosi, del potere di anime imprigionate. Come punta fu usato il dente di un potente demone caduto, completando così l'arma letale.
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� THAC0: +1 (melee only)
-� Backstab multiplier: +1
-� Protects against critical hits
-� May only be removed with a Remove Curse spell
+Abilità in combattimento:
+– Il bersaglio colpito comincia a sanguinare e subisce 2d4 punti di danno perforante aggiuntivo (un Tiro-salvezza contro Morte effettuato con successo nega l'effetto)
 
-Weight: 2~
-@2203 = ~Fed-on-Blood +2~
-@2204 = ~Known as Fed-on-Blood, this voracious medium shield is steeped in legend. It is said that when the shield's panels are drenched in the blood of its wielder, it gains unparalleled strength, providing formidable protection against a myriad of threats.
-  
-STATISTICS:
+THAC0: +3
+Danno: 1d6+3 (perforante)
+Fattore-velocità: 3
+Tipo di Competenza: Lancia
+Tipo: A due mani
+Richiede:
+ Forza 5
 
-Equipped abilities:
-� Intelligence: +1
-� Armor Class: +3
+Peso: 3~
+@2193 = ~Stelle Imperiture di Selûne~
+@2194 = ~Si dice che questi bracciali d'argento, noti come Stelle Imperiture di Selûne, guidino e proteggano chi li indossa nelle notti più oscure, difendendolo persino dalle ombre più pericolose. La leggenda vuole che le gemme incastonate nei due bracciali siano lacrime cristallizzate versate dalla stessa Nostra Signora d'Argento.
 
-Combat abilities:
-� When the shield's wielder's Hit Points drop below 25% of their maximum Hit Points, the wielder gains additional +2 Armor Class bonus as well as +1/2 attack per round
+STATISTICHE:
 
-Requires:
- 12 Strength
+Abilità attivabili:
+– Aiuto, come l'incantesimo da chierico di 2° livello, una volta al giorno
+– Uccide un'ombra scelta come bersaglio una volta al giorno
 
-Weight: 5~
-@2205 = ~Flashflask~
-@2206 = ~This container was used to collect lightning. Rumor has it that gnomes of Lanthan perform this dangerous task by flying their skyships directly into a thunderstorm to catch the lightning. When the vessel is opened, the lightning is unleashed. Up to six targets can be hit in this way. Once all the lightning has escaped from the vessel, it is useless. It takes at least a little understanding of how the item works and a fair amount of dexterity to understand the complicated mechanism for opening and closing the vessel; after all, the gnomes who designed such an item are not considered skilled tinkerers without reason.
+Abilità durante l'uso:
+– Immunità alla Cecità
+– Protezione dall'incantesimo "Globo di Oscurità"
+– Classe Armatura e Tiri-salvezza: +2 contro le ombre
 
-STATISTICS:
+Peso: 1~
+@2195 = ~Coppa~
+@2196 = ~Coppa di Selûne~
+@2197 = ~Questa splendida coppa è incisa con simboli di stelle.
 
-Charge abilities:
-� Six Lightning Bolts
-  Damage: 3d6 electrical (Save vs. Wand for half)
-  Range: 100 ft.
-  Area of Effect: Path of bolts
+Peso: 2~
+@2198 = ~Questa è una coppa sacra di Selûne. Bere da essa può conferire la protezione della Vergine della Luna.
 
-Requires:
- 9 Intelligence
- 13 Dexterity
+STATISTICHE:
 
-Weight: 1~
-@2207 = ~Doomed Loser~
-@2208 = ~The legend of the 'Doomed Loser' dates back to a time when a human swordsmith set out to create the greatest blade of all time. He was so conceited about his abilities that he believed he could forge the perfect weapon. When he didn't succeed straight away, he enlisted the help of a fiend. He actually managed to create an excellent bastard sword, a blade of impressive power and unsurpassed precision. However, the decisive moment arose when the sword master tested the sword for the first time and missed in a fight. At that moment, the sword revealed its own personality uttering the words 'Doomed Loser!' Disappointed by the first miss, the sword instantly vanished and teleported to a random location in the Multiverse.
+Abilità attivabili:
+– Bere dalla Coppa di Selûne conferisce casualmente uno di due effetti: Protezione dal Male oppure Santuario
 
-Since then, the sword has followed a strange pattern. It appears and then disappears as soon as its wielder misses in combat or makes a critical mistake, seeking a more 'worthy' wielder who can master the art of the sword. Since all mortals make mistakes at times, it is obvious that the blade has not yet found a wielder it will stay with. The list of former owners is as long as the enemies who have been slain with this blade. A wise warrior should consider carefully before making use of the weapon's abilities, as there is a high chance of suddenly finding himself without a weapon in battle if he fails.
+Peso: 2~
+@2199 = ~Bastone della Dolce Decadenza~
+@2200 = ~Questo bastone apparteneva un tempo a una vecchia amante di Graz'zt. Se in passato quest'arma poteva essere un simbolo del potere della natura, oggi non ne è che una caricatura contorta. È ricoperta di uno strano muco dall'odore dolciastro. Le poche foglie che ancora vi germogliano hanno colori malsani e nella parte inferiore del bastone cresce del micelio.
 
-STATISTICS:
+Si dice che le dolci tossine che trasudano dal bastone possano essere inebrianti e conferire un certo fascino a chi lo impugna, mentre il micelio potrebbe aiutare a evocare miconidi.
 
-Combat abilities:
-� When the wielder misses in combat, the sword disappears from the wielder's hands and teleports to another random location in the Multiverse.
+STATISTICHE:
+
+Abilità attivabili:
+– Evoca Funghi una volta al giorno
+
+Abilità durante l'uso:
+– Carisma: +1
+– Fortuna: +1
+
+THAC0: +3
+Danno: 1d6+3, +1 da acido
+Tipo di Danno: Contundente
+Fattore-velocità: 1
+Tipo di Competenza: Bastone Ferrato
+Tipo: A due mani
+Richiede:
+ Forza 5
+
+Peso: 2~
+@2201 = ~Elmo del Cavaliere Assassino~
+@2202 = ~Questo elmo appartenne un tempo al cavaliere Vlasnisz, che abbandonò la propria confraternita dopo che i compagni gli voltarono le spalle quando dedicò la vita a vendicare l'amato Vracl, brutalmente ucciso da una cavaliera che semplicemente non poteva ricambiarne l'amore.
+
+Vlasnisz decise che quell'omicidio non poteva essere dimenticato né perdonato. Divenne egli stesso una bestia, ma... senza la persona amata non riuscì a scegliere un'altra strada.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– THAC0: +1 (solo mischia)
+– Moltiplicatore dell'attacco alle spalle: +1
+– Protegge dai colpi critici
+– Può essere rimosso soltanto con Scaccia Maledizione
+
+Peso: 2~
+@2203 = ~Nutrito di Sangue +2~
+@2204 = ~Conosciuto come Nutrito di Sangue, questo vorace scudo medio è avvolto nella leggenda. Si dice che quando le sue placche vengono intrise del sangue di chi lo porta, lo scudo acquisti una forza senza pari e offra una formidabile protezione contro innumerevoli minacce.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Intelligenza: +1
+– Classe Armatura: +3
+
+Abilità in combattimento:
+– Quando i Punti Ferita di chi porta lo scudo scendono sotto il 25% del massimo, ottiene un ulteriore bonus di +2 alla Classe Armatura e +1/2 attacco per round
+
+Richiede:
+ Forza 12
+
+Peso: 5~
+@2205 = ~Fiasca dei Fulmini~
+@2206 = ~Questo recipiente veniva usato per raccogliere fulmini. Si dice che gli gnomi di Lantan svolgano il pericoloso compito pilotando le proprie aeronavi direttamente dentro i temporali per catturare le scariche. Quando il contenitore viene aperto, i fulmini vengono liberati e possono colpire fino a sei bersagli. Quando tutte le scariche sono fuoriuscite, il recipiente diventa inutile. Per comprendere il complicato meccanismo di apertura e chiusura servono almeno una minima comprensione del suo funzionamento e una discreta destrezza; dopotutto, gli gnomi che hanno progettato oggetti simili non sono celebri come abili inventori senza motivo.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Sei Fulmini
+  Danno: 3d6 da elettricità (Tiro-salvezza contro Bacchette per dimezzare)
+  Raggio d'azione: 30 metri
+  Area d'effetto: traiettoria dei fulmini
+
+Richiede:
+ Intelligenza 9
+ Destrezza 13
+
+Peso: 1~
+@2207 = ~Perdente Condannato~
+@2208 = ~"Perdente Condannato" è una spada bastarda forgiata da un armaiolo umano che cercava di creare l'arma definitiva. Eccessivamente sicuro delle proprie capacità, ricorse all'aiuto demoniaco per perfezionarla, ottenendo una lama di potenza formidabile e precisione senza pari. Tuttavia, al suo primo fallimento in combattimento, la spada si proclamò "Perdente Condannato" e scomparve, teletrasportandosi casualmente nel Multiverso dopo il primo colpo mancato dal suo possessore.
+
+Da allora la spada segue uno schema bizzarro. Appare e scompare non appena chi la impugna manca un colpo o commette un errore critico, alla ricerca di un proprietario più "degno", capace di padroneggiare l'arte della spada. Poiché tutti i mortali sbagliano prima o poi, è evidente che la lama non ha ancora trovato qualcuno con cui desideri restare. L'elenco dei proprietari precedenti è lungo quasi quanto quello dei nemici uccisi con essa. Un guerriero saggio dovrebbe riflettere attentamente prima di servirsi dell'arma, perché un singolo fallimento potrebbe lasciare <PRO_HIMHER> improvvisamente senza un'arma nel mezzo della battaglia.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Quando chi la impugna manca un colpo, la spada scompare dalle sue mani e si teletrasporta in un luogo casuale del Multiverso
 
 THAC0: +5
-Damage: 2d4+5
-Damage type: Slashing
-Speed Factor: 3
-Proficiency Type: Bastard Sword
-Type: One-handed
-Requires:
- 11 Strength
+Danno: 2d4+5
+Tipo di Danno: Tagliente
+Fattore-velocità: 3
+Tipo di Competenza: Spada Bastarda
+Tipo: A una mano
+Richiede:
+ Forza 11
 
-Weight: 5~
-@2209 = ~The Burning Vision~
-@2210 = ~If the legends are true, this ring was once a pretty common ring of infravision. This specific ring was however worn by a human ranger who was taken into the Nine Hells, where he was burned alive by evil beasts that call that place home. It is said that as he screamed, his pain mixed with the fire and cracked the ring. Its magic started to burn and changed the nature of the ring forever.
+Peso: 5~
+@2209 = ~La Visione Ardente~
+@2210 = ~Se le leggende sono vere, un tempo questo era un comune Anello dell'Infravisione. Venne però indossato da un ranger umano trascinato nei Nove Inferni, dove le creature malvagie di quel luogo lo bruciarono vivo. Si racconta che, mentre urlava, il suo dolore si mescolò alle fiamme e incrinò l'anello. La magia cominciò a bruciare, cambiando per sempre la natura dell'oggetto.
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� Infravision up to 120 ft.
-� Fire Resistance: +10%
-� Cold Resistance: +10%
+Abilità durante l'uso:
+– Infravisione fino a 36 metri
+– Resistenza al Fuoco: +10%
+– Resistenza al Freddo: +10%
+– Ogni volta che <PRO_HESHE>, mentre indossa l'anello, uccide qualcuno, ottiene +6% alla Resistenza al Fuoco e al Freddo per 3 round; vi è inoltre il 25% di probabilità di ottenere +1 ai Tiri-salvezza contro Morte per la stessa durata
 
-� Whenever the one that wears the ring kills anyone, <PRO_HESHE> receives +6% Fire and Cold Resistance for 3 rounds; there is also a 25% chance that the ring's owner will receive +1 Saving Throw vs. Death for the same duration
+Peso: 0~
+@2211 = ~Testa +3~
+@2212 = ~Questa spada corta +3, come la sua gemella "Croce", appartenne agli eletti di una divinità della ricchezza chiamata Kol Korran. Kol Korran è venerato da mercanti e commercianti onesti, ma anche da ladri e imbroglioni che conducono affari disonesti. Circolano molte storie su queste spade. Alcuni sostengono che siano state forgiate da una grande moneta d'oro del Signore del Mondo e della Ricchezza, proveniente dal suo tesoro personale. La moneta fu divisa a metà, dando origine alle due lame contrapposte "Testa" e "Croce".
+Sebbene questa spada possieda già un potente incantamento, è legata alla gemella "Croce". Se viene brandita separatamente tradisce il proprietario e ne "divora" l'oro. La lama è sempre calda al tatto.
 
-Weight: 0~
-@2211 = ~Heads +3~
-@2212 = ~This short sword +3, just like its twin sword "Tails", belonged to the chosen ones of a deity of wealth called Kol Korran. Kol Korran is worshipped by honest merchants and traders, but also by thieves and tricksters who engage in dishonorable business. There are many tales about these swords. Some say that they were forged from a large gold coin of the Lord of World and Wealth, which originated from his personal treasury. This coin was split in two in the middle, creating the two dichotomous blades "Heads" and "Tails".
-Although this sword has a powerful enchantment on its own, it is bound to its twin sword "Tails". If it is wielded separately, it betrays its wielder and "devours" his gold. The sword always feels warm to the touch.
+Se le leggende sono attendibili, entrambe le spade furono rubate da entità demoniache.
 
-If legends are to be trusted, both swords were stolen by some demonic entities.
- 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-- Luck: +1
-- Charisma: +2
-- Armor Class and Saving Throws: +2 (vs. thieves)
-- Each successful hit made against the wielder of this weapon destroys 10 gold pieces unless the wielder has also equipped the twin blade: Tails +3
+Abilità durante l'uso:
+- Fortuna: +1
+- Carisma: +2
+- Classe Armatura e Tiri-salvezza: +2 contro ladri
+- Ogni colpo riuscito contro chi impugna quest'arma distrugge 10 monete d'oro, a meno che sia equipaggiata anche la lama gemella: Croce +3
 
-Combat abilities:
-- Strikes as a +4 weapon
-
-THAC0: +3
-Damage: 1d6+3, +1 fire damage
-Damage type: piercing
-Speed Factor: 1
-Proficiency Type: Short Sword
-Type: One-handed
-Requires:
- 5 Strength
-
-Weight: 2
-~
-@2213 = ~Tails +3~
-@2214 = ~This short sword +3, just like its twin sword "Heads", belonged to the chosen ones of a deity of wealth called Kol Korran. Kol Korran is worshipped by honest merchants and traders, but also by thieves and tricksters who engage in dishonorable business. There are many tales surrounding these swords. Some say that they were forged from a large gold coin of the Lord of World and Wealth, which originated from his personal treasury. This coin was split in two in the middle, creating the two dichotomous blades "Heads" and "Tails".
-Although this sword alone already has a powerful enchantment, it is bound to its twin sword "Heads". If it is wielded separately, it betrays its wielder and "devours" his gold. The sword always feels warm to the touch.
-
-If legends are to be trusted, both swords were stolen by some demonic entities.
- 
-STATISTICS:
-
-Equipped abilities:
-- Lore: +12
-- Intelligence: +2
-- Armor Class and Saving Throws: +2 (vs. thieves)
-- Each successful hit made against the wielder of this weapon destroys 10 gold pieces unless the wielder has also equipped the twin blade: Heads +3
-
-Combat abilities:
-- Strikes as a +4 weapon
+Abilità in combattimento:
+- Colpisce come un'arma +4
 
 THAC0: +3
-Damage: 1d6+3, +1 magic damage
-Damage type: piercing
-Speed Factor: 1
-Proficiency Type: Short Sword
-Type: One-handed
-Requires:
- 5 Strength
+Danno: 1d6+3, +1 da fuoco
+Tipo di Danno: Perforante
+Fattore-velocità: 1
+Tipo di Competenza: Spada Corta
+Tipo: A una mano
+Richiede:
+ Forza 5
 
-Weight: 2
+Peso: 2
 ~
-@2215 = ~Idiot's Ioun Stone~
-@2216 = ~This impressive looking Ioun Stone is cursed. When equipped, it reduces the wearer's intelligence to the level of a fool.
+@2213 = ~Croce +3~
+@2214 = ~Questa spada corta +3, come la sua gemella "Testa", appartenne agli eletti di una divinità della ricchezza chiamata Kol Korran. Kol Korran è venerato da mercanti e commercianti onesti, ma anche da ladri e imbroglioni che conducono affari disonesti. Circolano molte storie su queste spade. Alcuni sostengono che siano state forgiate da una grande moneta d'oro del Signore del Mondo e della Ricchezza, proveniente dal suo tesoro personale. La moneta fu divisa a metà, dando origine alle due lame contrapposte "Testa" e "Croce".
+Sebbene questa spada possieda già un potente incantamento, è legata alla gemella "Testa". Se viene brandita separatamente tradisce il proprietario e ne "divora" l'oro. La lama è sempre calda al tatto.
 
-STATISTICS:
+Se le leggende sono attendibili, entrambe le spade furono rubate da entità demoniache.
 
-Equipped abilities:
-� Intelligence set to 1
+STATISTICHE:
 
-Weight: 0~
-@2217 = ~Silver-plated bolt~
-@2218 = ~Silver-plated bolts are regular crossbow bolts that are plated with silver, but not made entirely of silver. Silver is usually a soft metal, which means that a sword or arrowhead made of pure silver would quickly break or splinter in combat. However, coating a weapon with silver provides the advantages of iron or steel's durability, but the properties of silver when needed.
-Some monsters that are immune or resistant to non-magical weapons are vulnerable to silver weapons. These include Demons and Devils, certain Undead or even Fey creatures such as Nighthags. These resistances can be overcome with a silver-plated weapon. Followers of Sel�ne, though, create these crossbow bolts for a very different purpose: to fight Lycanthropes such as Were-rats and Werewolves.
+Abilità durante l'uso:
+- Conoscenza: +12
+- Intelligenza: +2
+- Classe Armatura e Tiri-salvezza: +2 contro ladri
+- Ogni colpo riuscito contro chi impugna quest'arma distrugge 10 monete d'oro, a meno che sia equipaggiata anche la lama gemella: Testa +3
 
-STATISTICS:
-
-Combat abilities:
-� Strikes like a +5 magical weapon vs. Lycanthropes, Undead and Fiends of the Lower Planes such as Baatezu (Devils) and Tanar'ri (Demons)
-
-Damage: 1d8 (missile)
-Launcher: Crossbow
-
-Weight: 0~
-@2219 = ~Riven's poem~
-@2220 = ~The Infinite Staircase
-
-A poem by Riven Windwalker, Bard in service of the Moonmaiden
-
-"In endless steps that climb so high,
-a staircase rises into the sky.
-The moon, a light in the dark of night,
-reveals secrets hidden from sight.
-
-A dance of planes, a realm untamed,
-through the night, where all's unnamed.
-Each step, an echo of times of old,
-tells stories with secrets yet untold.
-
-The Infinite Staircase, a path so vast,
-beckons with promises, a riddle cast.
-But in the silence, in this abyssal hue,
-echoes dissipate, and spirits renew.
-
-Moon and stars, as guides so bright,
-lead the traveler through endless night.
-May these steps, across time and space,
-lead to peace, to calm, to a better place."
-~
-@2221 = ~Ring of protection +3~
-@2222 = ~If wrath doesn't cut it, try peacefulness instead.~
-@2223 = ~Diadem~
-@2224 = ~This headpiece is decorated with a red jewel.~
-@2225 = ~Venom Slicer~
-@2226 = ~This powerful scimitar was forged in a layer of the Abyss known as the 'Driller's Hives'. Within it reigns Tharzax, the demon lord of poison. His most loyal champions have been given scimitars of this kind to spread the word of the Lord of Poison across the Multiverse.
-
-STATISTICS:
-
-Combat abilities:
-� Hit target suffers 1 point of poison damage per second for 6 seconds (Save vs. Poison negates)
+Abilità in combattimento:
+- Colpisce come un'arma +4
 
 THAC0: +3
-Damage: 1d8+3 (slashing)
-Speed Factor: 2
-Proficiency Type: Scimitar/Wakizashi/Ninjato
-Type: One-handed
-Requires:
- 10 Strength
+Danno: 1d6+3, +1 da magia
+Tipo di Danno: Perforante
+Fattore-velocità: 1
+Tipo di Competenza: Spada Corta
+Tipo: A una mano
+Richiede:
+ Forza 5
 
-Weight: 1~
-@2227 = ~Verin's notes~
-@2228 = ~This scroll contains some notes that Verin apparently wrote. They are in an elegant, yet wicked-looking handwriting. A few entries catch your eye:
-- 'Maretta, scheming and seductive, rules Samora with an iron hand. She hides her true intentions behind a veil of temptation and deception and will soon betray Graz'zt. Secretly pays homage to another demon lord, but which one? Orcus, mayhaps?'
-- 'Mefisto, the cunning town crier, knows Samora's darkest secrets. His words are like daggers, sharpened with lies and intrigue. He dances to the tune of power. But at the moment he seems loyal to Graz'zt. I told him to keep an eye out for strangers in the city looking for Graz'zt's captive. He mentioned two mortals here: A human named Gildaar and a <PRO_RACE> named <CHARNAME>. He's watching both of them and will report back to me before either becomes dangerous.'
-'Margrog, the Nalfeshnee merchant, harbors the poison of betrayal in his dark eyes. Deals in souls like a butcher deals in meat. His apparent loyalty is but a veil for his selfish ambitions. Not trustworthy.'
-'The captivity of Waukeen is a source of instability in Samora. We must ensure that she is kept from being freed. Our efforts are weakening her divine presence, but she is still a potential threat.'
-'<CHARNAME> is of uncommon determination and strength. I should keep an eye on <PRO_HIMHER>, for <PRO_HISHER> fate could be critical to ours. Has <PRO_HESHE> arrived to free Waukeen? Or to join Maretta in snatching Graz'zt from Samora?'
+Peso: 2
 ~
-@2229 = ~Bloodblade~
-@2230 = ~This dagger is coated with the sap of the Ironmaw tree. The Ironmaw tree is a plant of the Lower Planes that grows primarily in the Abyss. The sap of the tree prevents bleeding wounds from closing up quickly - the victim continues bleeding for a long time. The blade is permanently covered in fresh, dripping blood, testifying to its regular use as an instrument of killing.
+@2215 = ~Pietra Ioun dell'Idiota~
+@2216 = ~Questa imponente Pietra Ioun è maledetta. Quando viene equipaggiata, riduce l'Intelligenza di chi la indossa al livello di uno sciocco.
 
-STATISTICS:
+STATISTICHE:
 
-Combat abilities:
-� Target starts bleeding for 2 extra damage every round until 10 Hit Points of damage done
+Abilità durante l'uso:
+– Intelligenza impostata a 1
+
+Peso: 0~
+@2217 = ~Quadrello Placcato d'Argento~
+@2218 = ~I quadrelli placcati d'argento sono normali dardi da balestra rivestiti d'argento, non fatti interamente di questo metallo. L'argento è relativamente tenero, perciò una spada o una punta di freccia d'argento puro si spezzerebbe o scheggerebbe rapidamente in combattimento. Rivestire un'arma d'argento permette invece di mantenere la robustezza del ferro o dell'acciaio e ottenere, quando serve, le proprietà dell'argento.
+Alcuni mostri immuni o resistenti alle armi non magiche sono vulnerabili alle armi d'argento, fra cui demoni e diavoli, certi non morti e perfino creature fatate come le megere della notte. Un'arma placcata d'argento può superare tali resistenze. I seguaci di Selûne, tuttavia, creano questi quadrelli soprattutto per un altro scopo: combattere licantropi come ratti mannari e lupi mannari.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Colpisce come un'arma magica +5 contro licantropi, non morti e immondi dei Piani Inferiori, come baatezu (diavoli) e tanar'ri (demoni)
+
+Danno: 1d8 (proiettile)
+Dispositivo: Balestra
+
+Peso: 0~
+@2219 = ~Poema di Riven~
+@2220 = ~La Scala Infinita
+
+Poema di Riven Windwalker, bardo al servizio della Vergine della Luna
+
+"Su gradini infiniti che salgono in alto,
+una scala si leva nel cielo smaltato.
+La luna, una luce nel buio notturno,
+svela segreti celati tutt'intorno.
+
+Una danza di piani, un reame indomato,
+nella notte, dove ogni nome è cancellato.
+Ogni gradino, eco di tempi lontani,
+narra storie e segreti ancora arcani.
+
+La Scala Infinita, sentiero sconfinato,
+chiama con promesse e un enigma velato.
+Ma nel silenzio, in questa tinta abissale,
+l'eco svanisce e lo spirito risale.
+
+Luna e stelle, guide nel cielo lucente,
+conducano il viandante nella notte perenne.
+Possano i gradini, oltre spazio e tempo,
+portare alla pace, alla quiete, a un luogo migliore."
+~
+@2221 = ~Anello di Protezione +3~
+@2222 = ~Se l'ira non funziona, prova con la calma.~
+@2223 = ~Diadema~
+@2224 = ~Questo copricapo è decorato con una gemma rossa.~
+@2225 = ~Tagliaveleno~
+@2226 = ~Questa potente scimitarra fu forgiata in uno strato dell'Abisso noto come "Alveari del Perforatore". Vi regna Tharzax, signore dei demoni del veleno. Ai suoi campioni più fedeli sono state donate scimitarre di questo genere affinché diffondano la parola del Signore del Veleno in tutto il Multiverso.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Il bersaglio colpito subisce 1 punto di danno da veleno al secondo per 6 secondi (un Tiro-salvezza contro Veleno effettuato con successo nega l'effetto)
 
 THAC0: +3
-Damage: 1d4+3 (piercing)
-Speed Factor: 0
-Proficiency Type: Dagger
-Type: One-handed
-Requires:
- 3 Strength
+Danno: 1d8+3 (tagliente)
+Fattore-velocità: 2
+Tipo di Competenza: Scimitarra/Wakizashi/Ninjato
+Tipo: A una mano
+Richiede:
+ Forza 10
 
-Weight: 0
+Peso: 1~
+@2227 = ~Appunti di Verin~
+@2228 = ~Questa pergamena contiene alcuni appunti scritti apparentemente da Verin. La calligrafia è elegante ma dall'aspetto sinistro. Alcune annotazioni attirano la tua attenzione:
+- "Maretta, intrigante e seducente, governa Samora con pugno di ferro. Nasconde le sue vere intenzioni dietro un velo di tentazione e inganno e presto tradirà Graz'zt. Venera segretamente un altro signore dei demoni, ma quale? Forse Orcus?"
+- "Mefisto, l'astuto banditore, conosce i segreti più oscuri di Samora. Le sue parole sono pugnali affilati con menzogne e intrighi. Danza al ritmo del potere. Per ora, tuttavia, sembra fedele a Graz'zt. Gli ho ordinato di tenere d'occhio gli stranieri in città che cercano la prigioniera di Graz'zt. Ha menzionato due mortali: un umano di nome Gildaar e una creatura di razza <PRO_RACE> che risponde al nome di <CHARNAME>. Li sorveglia entrambi e mi riferirà prima che uno dei due diventi pericoloso."
+"Margrog, il mercante nalfeshnee, cela nei suoi occhi oscuri il veleno del tradimento. Commercia anime come un macellaio commercia carne. La sua apparente lealtà non è che un velo per le sue ambizioni egoistiche. Inaffidabile."
+"La prigionia di Waukeen è fonte d'instabilità a Samora. Dobbiamo assicurarci che non venga liberata. I nostri sforzi stanno indebolendo la sua presenza divina, ma rimane una potenziale minaccia."
+"<CHARNAME> possiede determinazione e forza fuori dal comune. Dovrei tenere d'occhio <PRO_HIMHER>, perché la <PRO_HISHER> sorte potrebbe rivelarsi decisiva per la nostra. <PRO_HESHE> è qui per liberare Waukeen? O per unirsi a Maretta e sottrarre Samora a Graz'zt?"
 ~
-@2231 = ~Protection from poison~
-@2232 = ~Protection from poison 
-(Abjuration)
+@2229 = ~Lama Sanguinaria~
+@2230 = ~Questo pugnale è ricoperto della linfa dell'albero Fauci di Ferro, una pianta dei Piani Inferiori che cresce soprattutto nell'Abisso. La sua linfa impedisce alle ferite sanguinanti di richiudersi rapidamente, così la vittima continua a perdere sangue a lungo. La lama è perennemente coperta di sangue fresco e gocciolante, testimonianza del suo uso abituale come strumento di morte.
 
-Level: 2
-Range: Creature touched
-Duration: 10 rounds 
-Casting Time: 3
-Area of Effect: Creature touched
-Saving Throw: None
+STATISTICHE:
 
-By using this spell, the chosen creature gains immunity to poisons and venoms administered via contact with the skin, ingestion, sting, bite or weapon. Toxins of other types continue to affect the creature normally. Any poisons already in the body when the spell is cast are also unaffected by this spell.~
-@2233 = ~Wand of Courage~
-@2234 = ~A Wand of Courage instills courage in the spell's recipients, raising their morale to its highest. The recipients' morale will gradually reset to normal as the duration runs out. If the recipients are affected by magical fear, they will regain their composure. Like all wands, the Wand of Courage can only be used a limited number of times before it is destroyed.
-
-STATISTICS:
-
-Charge abilities:
-� Casts 'Resist Fear'
-  Range: 100 ft.
-  Target: One creature
-  Area of Effect: 15-ft. radius
-  Duration: 1 hour
-
-Requires:
- 9 Intelligence
-
-Weight: 1~
-@2235 = ~Amulet of Fear Resistance~
-@2236 = ~Amulet of Fear Resistance
-This heart-shaped amulet boosts the wearer's morale and protects <PRO_HIMHER> from all the effects of fear. Items of this kind are made in countless different variants in many different Planes of Existence; after all, in the Multiverse there is always a reason to run away from something or someone out of sheer fear.
-
-STATISTICS:
-
-Equipped abilities:
-� The wearer of the amulet is protected from all fear
-
-Weight: 1~
-@2237 = ~Rust Spreader +3~
-@2238 = ~Rust Spreader +3
-
-Named the Rust Spreader, this wakizashi possesses a sinister reputation for good reason. Each strike from this nefarious blade carries with it the ability to spread a creeping rust, weakening not only foes but also the wielder themselves.
-
-STATISTICS:
-
-Equipped abilities:
-� Acid Resistance: +5%
-
-Combat abilities:
-� Each successful hit has a 18% chance to apply an Armor Class penalty on the target, by weakening the Armor Class by 1 point for 2 rounds (no Saving Throw)
-� Each successful hit has a 4% chance to apply the same Armor Class penalty on the wielder of this weapon (no Saving Throw)
-� Each successful hit has a 90% chance to deal an additional 3d4 damage to Iron Golems
+Abilità in combattimento:
+– Il bersaglio comincia a sanguinare e subisce 2 punti di danno aggiuntivo per round finché non ha subito 10 Punti Ferita di danno
 
 THAC0: +3
-Damage: 1d8+3 (piercing)
-Speed Factor: 2
-Proficiency Type: Scimitar/Wakizashi/Ninjato
-Type: One-handed
-Requires:
- 5 Strength
+Danno: 1d4+3 (perforante)
+Fattore-velocità: 0
+Tipo di Competenza: Pugnale
+Tipo: A una mano
+Richiede:
+ Forza 3
 
-Weight: 2
+Peso: 0
 ~
-@2239 = ~Clot Buckler~
-@2240 = ~Clot Buckler
+@2231 = ~Protezione dal Veleno~
+@2232 = ~Protezione dal Veleno
+(Scongiurazione)
 
-This peculiar buckler resembles a massive clot of blood with a handle affixed to it. It's difficult to imagine who or what would willingly wield such an item. Nonetheless, someone must have, given the handle's attachment to this peculiar object.
+Livello: 2
+Raggio d'azione: Creatura toccata
+Durata: 10 round
+Tempo di lancio: 3
+Area d'effetto: Creatura toccata
+Tiro-salvezza: Nessuno
 
-STATISTICS:
+Usando questo incantesimo, la creatura scelta ottiene immunità ai veleni e alle tossine somministrati tramite contatto con la pelle, ingestione, pungiglione, morso o arma. Le tossine di altro genere continuano a influenzarla normalmente. I veleni già presenti nel corpo quando l'incantesimo viene lanciato non vengono neutralizzati.~
+@2233 = ~Bacchetta del Coraggio~
+@2234 = ~La Bacchetta del Coraggio infonde coraggio nei destinatari dell'incantesimo, portandone il morale al valore massimo. Con l'approssimarsi della fine dell'effetto, il morale torna gradualmente normale. Se i destinatari sono soggetti a paura magica, recuperano la propria compostezza. Come tutte le bacchette, può essere usata soltanto un numero limitato di volte prima di distruggersi.
 
-Equipped abilities:
-� Armor Class: +1, +3 vs. Bludgeon/Crushing
-� No protection against piercing and missile attacks
-� Charisma: -2
-� Backstab Multiplier: +1
+STATISTICHE:
 
-Weight: 2~
-@2241 = ~Flesh and Boils +4~
-@2242 = ~Flesh and Boils +4
+Abilità attivabili:
+– Lancia "Resistere alla Paura"
+  Raggio d'azione: 30 metri
+  Bersaglio: Una creatura
+  Area d'effetto: raggio di 4,5 metri
+  Durata: 1 ora
 
-This strange club is known as the 'Flesh and Boils'. It looks like a weird piece of meat covered in an acidic boil. As odd as it may seem, it can be quite useful in some situations. But how dependent can a piece of meat be?
+Richiede:
+ Intelligenza 9
 
-STATISTICS:
+Peso: 1~
+@2235 = ~Amuleto della Resistenza alla Paura~
+@2236 = ~Amuleto della Resistenza alla Paura
+Questo amuleto a forma di cuore aumenta il morale di chi lo indossa e protegge <PRO_HIMHER> da tutti gli effetti della paura. Oggetti di questo tipo vengono creati in innumerevoli varianti su molti Piani di Esistenza; dopotutto, nel Multiverso esiste sempre un motivo per fuggire da qualcosa o qualcuno in preda al terrore.
 
-Equipped abilities:
-� Charisma: -1
-� Saves vs. Spells bonus: +1 
+STATISTICHE:
 
-Combat abilities:
-� Each successful hit has a 4% chance to explode and deal 6d10 damage to the target, however, the explosion will also permamently destroy this weapon 
+Abilità durante l'uso:
+– Chi indossa l'amuleto è protetto da ogni forma di paura
+
+Peso: 1~
+@2237 = ~Diffusore di Ruggine +3~
+@2238 = ~Diffusore di Ruggine +3
+
+Chiamato Diffusore di Ruggine, questo wakizashi gode per ottime ragioni di una reputazione sinistra. Ogni colpo di questa empia lama può diffondere una ruggine strisciante, indebolendo non soltanto il nemico ma anche chi la brandisce.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Resistenza all'Acido: +5%
+
+Abilità in combattimento:
+– Ogni colpo riuscito ha il 18% di probabilità di applicare al bersaglio una penalità di 1 punto alla Classe Armatura per 2 round (nessun Tiro-salvezza)
+– Ogni colpo riuscito ha il 4% di probabilità di applicare la stessa penalità alla Classe Armatura di chi impugna l'arma (nessun Tiro-salvezza)
+– Ogni colpo riuscito ha il 90% di probabilità di infliggere 3d4 danni aggiuntivi ai Golem di Ferro
+
+THAC0: +3
+Danno: 1d8+3 (perforante)
+Fattore-velocità: 2
+Tipo di Competenza: Scimitarra/Wakizashi/Ninjato
+Tipo: A una mano
+Richiede:
+ Forza 5
+
+Peso: 2
+~
+@2239 = ~Brocchiere Coagulato~
+@2240 = ~Brocchiere Coagulato
+
+Questo bizzarro brocchiere assomiglia a un enorme coagulo di sangue a cui è stata fissata un'impugnatura. È difficile immaginare chi, o che cosa, sceglierebbe volontariamente di impugnare un oggetto del genere. Eppure qualcuno deve averlo fatto, vista la presenza del manico.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Classe Armatura: +1, +3 contro attacchi contundenti
+– Nessuna protezione contro attacchi perforanti e da proiettile
+– Carisma: -2
+– Moltiplicatore dell'attacco alle spalle: +1
+
+Peso: 2~
+@2241 = ~Carne e Pustole +4~
+@2242 = ~Carne e Pustole +4
+
+Questa strana clava è nota come "Carne e Pustole". Sembra un bizzarro pezzo di carne ricoperto da una pustola acida. Per quanto assurda possa apparire, in certe situazioni può essere molto utile. Ma quanto può essere affidabile un pezzo di carne?
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Carisma: -1
+– Tiri-salvezza contro Incantesimi: +1
+
+Abilità in combattimento:
+– Ogni colpo riuscito ha il 4% di probabilità di far esplodere l'arma e infliggere 6d10 danni al bersaglio; l'esplosione distrugge permanentemente l'arma
 
 THAC0: +4
-Damage: 1d6+4 (crushing)
-Speed Factor: 4
-Proficiency Type: Club
-Type: One-handed
-Requires:
- 5 Strength
+Danno: 1d6+4 (contundente)
+Fattore-velocità: 4
+Tipo di Competenza: Clava
+Tipo: A una mano
+Richiede:
+ Forza 5
 
-Weight: 3~
-@2243 = ~Heart-Shaped Razor +3~
-@2244 = ~Heart-Shaped Razor +3
+Peso: 3~
+@2243 = ~Rasoio a Forma di Cuore +3~
+@2244 = ~Rasoio a Forma di Cuore +3
 
-This small razor's blade is crafted in the shape of a heart, adding an unsettling touch to its already gruesome nature. Discovered amidst the remains of a dissected body, its sharpness suggests its previous use in cutting veins, skin, and organs. With its dark origins and chilling inscription - 'You cannot crush the heart that's already missing' - this blade exudes both power and nightmarish allure.
+La lama di questo piccolo rasoio è forgiata a forma di cuore, aggiungendo una nota inquietante alla sua natura già macabra. Ritrovato fra i resti di un corpo dissezionato, la sua affilatura suggerisce che venisse usato per tagliare vene, pelle e organi. Con le sue origini oscure e la gelida iscrizione, "Non puoi spezzare un cuore che non c'è più", questa lama emana al tempo stesso potere e un fascino da incubo.
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� Armor Class: +1 vs. crushing attacks
+Abilità durante l'uso:
+– Classe Armatura: +1 contro attacchi contundenti
 
-Combat abilities:
-� When the target is killed with this weapon, the wielder gains 'Blood Seed', a seam of coagulated blood, that may be consumed to regain 20 Hit Points, as well as increase Strength by 1 point for 1 turn (if unused, the seed will disappear after 8 hours)
+Abilità in combattimento:
+– Quando un bersaglio viene ucciso con quest'arma, chi la impugna ottiene un "Seme di Sangue", una massa di sangue coagulato che può essere consumata per recuperare 20 Punti Ferita e aumentare la Forza di 1 punto per 1 turno; se non viene usato, il seme scompare dopo 8 ore
 
 THAC0: +3
-Damage: 1d4+3, additional +1 vs. Humanoids
-Damage type: piercing
-Speed Factor: 0
-Proficiency Type: Dagger
-Type: One-handed
-Requires:
- 3 Strength
+Danno: 1d4+3, +1 aggiuntivo contro umanoidi
+Tipo di Danno: Perforante
+Fattore-velocità: 0
+Tipo di Competenza: Pugnale
+Tipo: A una mano
+Richiede:
+ Forza 3
 
-Weight: 1~
-@2245 = ~Blood Seed~
-@2246 = ~The Blood seed has been created by the item Heart-Shaped Razor when a target is killed by this weapon. It may be consumed to regain 20 Hit Points, as well as to increase strength by 1 point for 1 turn. If unused, the seed will disappear after 8 hours.
+Peso: 1~
+@2245 = ~Seme di Sangue~
+@2246 = ~Il Seme di Sangue viene creato dal Rasoio a Forma di Cuore quando un bersaglio viene ucciso con quell'arma. Può essere consumato per recuperare 20 Punti Ferita e aumentare la Forza di 1 punto per 1 turno. Se non viene usato, scompare dopo 8 ore.
 
-STATISTICS:
+STATISTICHE:
 
-Special: 
-� Heals 20 Hit Points
-� Increases strength by 1 point for 1 turn
-� Disappears after 8 hours.
+Speciale:
+– Cura 20 Punti Ferita
+– Aumenta la Forza di 1 punto per 1 turno
+– Scompare dopo 8 ore
 
-Weight: 0~
-@2247 = ~Toadstool Cloak~
-@2248 = ~This cursed cloak is known as the Toadstool Cloak and shines so bright that it's pretty hard for its users to hide. Yes, it's fashionable, yes, it looks pretty good, but is it worth the price? Many would, without hesitation, say no.
+Peso: 0~
+@2247 = ~Mantello del Fungo~
+@2248 = ~Questo mantello maledetto è noto come Mantello del Fungo e risplende tanto intensamente da rendere molto difficile nascondersi. Sì, è alla moda e ha un bell'aspetto, ma vale davvero il prezzo? Molti risponderebbero di no senza esitazione.
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� Charisma: +1
-� Hide in Shadows: -10%
-� Armor Class penalty: -1
-� May only be removed with a Remove Curse spell
+Abilità durante l'uso:
+– Carisma: +1
+– Nascondersi tra le Ombre: -10%
+– Penalità alla Classe Armatura: -1
+– Può essere rimosso soltanto con Scaccia Maledizione
 
-Weight: 3~
-@2249  = ~Magnetic Ioun Stone~
-@2250  = ~Magnetic Ioun Stone
+Peso: 3~
+@2249  = ~Pietra Ioun Magnetica~
+@2250  = ~Pietra Ioun Magnetica
 
-While most Ioun stones are known for their powerful and quite helpful properties, this stone attracts all projectiles, so it's hard to call it helpful or useful at all. It must have been created as some kind of prank. Possibly a deadly prank.
+Mentre la maggior parte delle Pietre Ioun è nota per proprietà potenti e utili, questa pietra attira tutti i proiettili, perciò è difficile considerarla utile. Dev'essere stata creata come scherzo. Forse uno scherzo mortale.
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� Armor Class vs. Missiles penalty: -3 
-� May only be removed with a Remove Curse spell
+Abilità durante l'uso:
+– Penalità alla Classe Armatura contro Proiettili: -3
+– Può essere rimossa soltanto con Scaccia Maledizione
 
-Weight: 0~
-@2251  = ~Golden Fools~
-@2252  = ~These bracelets may look beautiful, but they are cursed. They were probably created to lure in potential victims and then feed on their curiosity and carelessness.
+Peso: 0~
+@2251  = ~Folli Dorati~
+@2252  = ~Questi bracciali possono sembrare splendidi, ma sono maledetti. Probabilmente furono creati per attirare potenziali vittime e poi nutrirsi della loro curiosità e imprudenza.
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� Each time enemies succefully hit the item's owner, they lose 1 gold piece
-� May only be removed with a Remove Curse spell
+Abilità durante l'uso:
+– Ogni volta che un nemico colpisce chi li indossa, questi perde 1 moneta d'oro
+– Possono essere rimossi soltanto con Scaccia Maledizione
 
-Weight: 1~
-@2253 = ~Scanty Stride Suit~
-@2254 = ~This leather harness was enchanted to protect its owner just as light armor. In the same time, it does not block any movement, so it can be even used by rogues and bards without fear that it will ever limit them in their arts. While it is quite revealing, this accessory's properties may be appreciated by all those that value mobility, and... explicit and unapologetic directness.
+Peso: 1~
+@2253 = ~Imbracatura del Passo Sfrontato~
+@2254 = ~Questa imbracatura di cuoio è stata incantata per proteggere il proprietario come un'armatura leggera. Allo stesso tempo non limita affatto i movimenti, quindi può essere usata anche da ladri e bardi senza ostacolarne le arti. Sebbene sia decisamente rivelatrice, le sue proprietà possono essere apprezzate da chiunque dia valore alla mobilità e... a un'esplicita e spudorata franchezza.
 
-The harness, however, does not protect well from frosty weather and accepts only wearers in a good physical shape. When worn, it will cling to its owner and shall present them in all their glory. It can be taken off only with the use of magic.
+L'imbracatura, tuttavia, protegge male dal clima gelido e accetta soltanto proprietari in buona forma fisica. Una volta indossata aderisce al corpo e ne mette in mostra ogni dettaglio. Può essere tolta soltanto con l'aiuto della magia.
 
-STATISTICS:
+STATISTICHE:
 
-Charge abilities:
-� May cast Charm once per day
-� May cast Khelben's Warding Whip once per day
+Abilità attivabili:
+– Può lanciare Charme una volta al giorno
+– Può lanciare Frusta Guardiana di Khelben una volta al giorno
 
-Equipped abilities:
-� Charisma: +1
-� Dexterity: +1
-� Cold Resistance: -20%
-� Spellcasting is not disabled
-� May only be removed with a Remove Curse spell
+Abilità durante l'uso:
+– Carisma: +1
+– Destrezza: +1
+– Resistenza al Freddo: -20%
+– Non impedisce il lancio di incantesimi
+– Può essere rimossa soltanto con Scaccia Maledizione
 
-Armor Class: 4 (2 vs. slashing, 3 vs. piercing and missile)
-Requires:
- 6 Strength
- 14 Constitution  
+Classe Armatura: 4 (2 contro armi taglienti, 3 contro armi perforanti e da proiettile)
+Richiede:
+ Forza 6
+ Costituzione 14
 
-Weight: 3~
-@2255 = ~Concentrated acid~
-@2256 = ~This is extremely corrosive acid that burns through skin, leather and metal in the blink of an eye.~
-@2257 = ~Belt of the Three Cyclops~
-@2258 = ~On a remote island in the midst of the Singing Rocks off the coast of Calimshan once lived a triad of cyclops known for their immense strength and sinister machinations. The three cyclops were feared by sailors passing by the island, as they would hurl massive boulders at passing ships, sinking more than one.
+Peso: 3~
+@2255 = ~Acido Concentrato~
+@2256 = ~È un acido estremamente corrosivo che attraversa pelle, cuoio e metallo in un batter d'occhio.~
+@2257 = ~Cintura dei Tre Ciclopi~
+@2258 = ~Su un'isola remota fra le Rocce Cantanti, al largo delle coste del Calimshan, viveva un tempo una triade di ciclopi nota per l'immensa forza e le sinistre macchinazioni. I tre erano temuti dai marinai che passavano vicino all'isola, perché scagliavano enormi massi contro le navi e ne affondarono più d'una.
 
-One day, the three cyclops were killed by brave adventurers. They took their eyes as a trophy to claim their reward. A clever Lantan gnome named Bilgim the Skillful decided to incorporate the eyes into a magical belt to breathe new life into their unique abilities. The gnome worked on the belt for months, eventually reinforcing it with the eyes of the three cyclops and using a great deal of magic to create a belt to suit him.
+Un giorno i tre ciclopi vennero uccisi da coraggiosi avventurieri, che ne presero gli occhi come trofeo per riscuotere la ricompensa. Un ingegnoso gnomo di Lantan, Bilgim l'Abile, decise di incorporare gli occhi in una cintura magica per ridare vita alle loro peculiari capacità. Lavorò per mesi, rinforzando infine la cintura con gli occhi dei tre ciclopi e usando grandi quantità di magia per creare un oggetto degno di lui.
 
-Since then, the Belt of the Three cyclops has had many owners, from brave heroes to unscrupulous villains who wanted to use its power for their own ends.
+Da allora la Cintura dei Tre Ciclopi ha avuto molti proprietari, da coraggiosi eroi a criminali senza scrupoli desiderosi di usarne il potere per i propri fini.
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� Strength: +1
-� Wearer is immune to Charm
+Abilità durante l'uso:
+– Forza: +1
+– Chi la indossa è immune allo Charme
 
-Charge abilities:
-� "Detect Invisibility" once per day
+Abilità attivabili:
+– "Individuazione dell'Invisibilità" una volta al giorno
 
-Weight: 2~
-@2259 = ~Club +4, The Noble Cob~
-@2260 = ~The Noble Cob is a club decorated with bronze bands which, according to local tales, was carried by a nobleman from Calimshan as a sign of power. Once a day, the mace can rain down a shower of sparkling metal shavings on everyone within its range. This proved to be particularly effective against lurking assassins in intrigue-ridden Calimshan, but benefits the bearer in any of the lands along the Sword Coast.
+Peso: 2~
+@2259 = ~Clava +4, La Nobile Pannocchia~
+@2260 = ~La Nobile Pannocchia è una clava decorata con fasce di bronzo che, secondo i racconti locali, veniva portata da un nobile del Calimshan come simbolo di potere. Una volta al giorno può far piovere una nube di scintillanti scaglie metalliche su tutti coloro che si trovano nel raggio d'azione. Questo si rivelò particolarmente efficace contro gli assassini in agguato nell'intrigante Calimshan, ma può tornare utile a chi la impugna in qualsiasi terra della Costa della Spada.
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� Save vs. Breath: +3
+Abilità durante l'uso:
+– Tiro-salvezza contro Soffio: +3
 
-Charge abilities:
-� Glitterdust once per day
+Abilità attivabili:
+– Polvere Luccicante una volta al giorno
 
 THAC0: +4
-Damage: 1d6+4 (crushing)
-Speed Factor: 1
-Proficiency Type: Club
-Type: One-handed
-Requires:
- 5 Strength
+Danno: 1d6+4 (contundente)
+Fattore-velocità: 1
+Tipo di Competenza: Clava
+Tipo: A una mano
+Richiede:
+ Forza 5
 
-Weight: 1~
-@2261 = ~Bolt of the Graceful Queen +1~
-@2262 = ~These powerful bolts are coated with an enchantment that makes them particularly effective against enemies of righteousness. The �Graceful Queen� after whom the bolts were named is said to have been an ancient ruler of order, some say a follower of Ilmater, who perished in the Year of Sundered Webs in the wake of the magical chaos that reigned at this time.
+Peso: 1~
+@2261 = ~Quadrello della Regina Graziosa +1~
+@2262 = ~Questi potenti quadrelli sono ricoperti da un incantamento che li rende particolarmente efficaci contro i nemici dell'ordine. La "Regina Graziosa" da cui prendono il nome sarebbe stata un'antica sovrana devota alla legge, secondo alcuni una seguace di Ilmater, morta nell'Anno delle Ragnatele Spezzate durante il caos magico che regnava in quel periodo.
 
-STATISTICS:
+STATISTICHE:
 
 THAC0: +1
-Damage: 1d8 (missile), +3 vs. non-lawful creatures
-Launcher: Crossbow
+Danno: 1d8 (proiettile), +3 contro creature non legali
+Dispositivo: Balestra
 
-Weight: 0~
-@2263 = ~Helmet of Childish Nightmare~
-@2264 = ~This helmet was used by followers of a cult of primordial beings to determine suitable disciples. In deep, lightless caverns, their dark priests performed initiation rites in which young aspirants had to wear the Helmet of Childish Nightmare to prove their suitability. The helmet, shrouded in ancient shadows, granted the wearer the power to summon a shadow once a day to serve the will of the helmet wearer. However, unsuitable candidates were overcome by fear, torn apart by the undead and their souls dragged into the darkness. Whether the cult disappeared again due to a lack of new followers or for other reasons has been lost to time.
+Peso: 0~
+@2263 = ~Elmo dell'Incubo Infantile~
+@2264 = ~Questo elmo veniva usato dai seguaci di un culto di esseri primordiali per individuare discepoli adatti. In profonde caverne prive di luce, i loro oscuri sacerdoti celebravano riti d'iniziazione durante i quali i giovani aspiranti dovevano indossare l'Elmo dell'Incubo Infantile e dimostrare il proprio valore. Avvolto da ombre antiche, l'elmo concedeva a chi lo portava il potere di evocare una volta al giorno un'ombra che ne servisse la volontà. I candidati inadatti, tuttavia, venivano sopraffatti dal terrore, fatti a pezzi dai non morti e trascinati con l'anima nell'oscurità. Se il culto sia scomparso per mancanza di nuovi seguaci o per altre ragioni è andato perduto nel tempo.
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� Infravision up to 120 ft.
-� Armor Class: +1
-� Protects against critical hits
+Abilità durante l'uso:
+– Infravisione fino a 36 metri
+– Classe Armatura: +1
+– Protegge dai colpi critici
 
-Charge abilities:
-� Summon a shadow once per day for 1 turn
+Abilità attivabili:
+– Evoca un'ombra una volta al giorno per 1 turno
 
-Weight: 2~
-@2265 = ~Trousers and Suspenders of the Bare-Chested Brute +1~
-@2266 = ~Created in the dusty alleys of Rel Astra, a city in a distant realm, this rough and tough armor consists of nothing but worn leather pants and sturdy suspenders. Once worn by a hulking brute who liked to engage in tavern brawls, the leather pants, marked with countless scars and stains, offered their wearer surprising mobility and protection from the blows and slashes of his opponents. The suspenders, firm and reliable, held the armor in place and protected the wearer from unexpected attacks. However, the true strength of this unconventional armor lay not in its outward appearance, but in the unwavering ferocity of its wearer, whose punches rained down on his opponents with merciless precision and speed.
+Peso: 2~
+@2265 = ~Pantaloni e Bretelle del Bruto a Torso Nudo +1~
+@2266 = ~Creata nei vicoli polverosi di Rel Astra, città di un regno lontano, questa rozza e resistente armatura consiste soltanto in logori pantaloni di cuoio e robuste bretelle. Un tempo apparteneva a un enorme bruto amante delle risse in taverna. I pantaloni, segnati da innumerevoli cicatrici e macchie, offrivano sorprendente libertà di movimento e protezione dai colpi e dai fendenti degli avversari. Le bretelle, salde e affidabili, tenevano al proprio posto l'armatura e proteggevano da attacchi inattesi. La vera forza di questa insolita protezione, però, non stava nell'aspetto, bensì nella ferocia incrollabile di chi la indossava, i cui pugni piovevano sugli avversari con precisione e velocità spietate.
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� THAC0: +1
+Abilità durante l'uso:
+– THAC0: +1
 
-Combat abilities:
-� 1 extra attack per round 
+Abilità in combattimento:
+– 1 attacco extra per round
 
-Armor Class: 7 (9 vs. piercing and missile)
-Requires:
- 4 Strength
+Classe Armatura: 7 (9 contro armi perforanti e da proiettile)
+Richiede:
+ Forza 4
 
-Weight: 3~
-@2267 = ~Dripping Darkblade +2~
-@2268 = ~This blade is in the tradition of many of Kara-Tur's dark blades in that a part of one's life force has to be sacrificed to make the weapon more powerful. If you thrust the blade into your own flesh, it transforms into a mightier version of the katana for a duration of one hour.
+Peso: 3~
+@2267 = ~Lama Oscura Gocciolante +2~
+@2268 = ~Questa lama, intrisa di oscure tradizioni di Kara-Tur, diventa più potente mediante il sacrificio della forza vitale del proprietario. Quando chi la impugna perfora la <PRO_HISHER> stessa carne, l'arma si trasforma per un'ora in una katana potenziata, pericoloso dono di un antico signore della guerra che cercò di conquistare la morte stessa.
 
-STATISTICS:
+STATISTICHE:
 
-Charge abilities:
-� Blood Sacrifice: Once per day, the wielder may sacrifice 4d10+5 of <PRO_HISHER> hitpoints to render the blade to a Katana +4 for the duration of one hour. The magically created weapon cannot be dropped and reverts to its original state after one hour.
+Abilità attivabili:
+– Sacrificio di Sangue: una volta al giorno chi impugna la lama può sacrificare 4d10+5 dei <PRO_HISHER> Punti Ferita per trasformarla in una Katana +4 per un'ora. L'arma creata magicamente non può essere lasciata cadere e torna alla forma originale dopo un'ora
 
 THAC0: +2
-Damage: 1d10+2 (slashing)
-Speed Factor: 1
-Proficiency Type: Katana
-Type: One-handed
-Requires:
- 6 Strength
+Danno: 1d10+2 (tagliente)
+Fattore-velocità: 1
+Tipo di Competenza: Katana
+Tipo: A una mano
+Richiede:
+ Forza 6
 
-Weight: 3~
+Peso: 3~
 // +3
-@2269 = ~Dripping Darkblade +3~
-@2270 = ~This blade is dripping with blood - your own blood. You have sacrificed a considerable amount of it to enhance the blade's power for the next hour.
+@2269 = ~Lama Oscura Gocciolante +3~
+@2270 = ~Questa lama gocciola di sangue: il tuo stesso sangue. Ne hai sacrificato una quantità considerevole per aumentarne il potere durante la prossima ora.
 
-STATISTICS:
+STATISTICHE:
 
 THAC0: +3
-Damage: 1d10+3 (slashing)
-Speed Factor: 1
-Proficiency Type: Katana
-Type: One-handed
-Requires:
- 6 Strength
+Danno: 1d10+3 (tagliente)
+Fattore-velocità: 1
+Tipo di Competenza: Katana
+Tipo: A una mano
+Richiede:
+ Forza 6
 
-Weight: 3~
+Peso: 3~
 
 // +4
-@2271 = ~Dripping Darkblade +4~
-@2272 = ~This blade is dripping with blood - your own blood. You have sacrificed a considerable amount of it to enhance the blade's power for the next hour.
+@2271 = ~Lama Oscura Gocciolante +4~
+@2272 = ~Questa lama gocciola di sangue: il tuo stesso sangue. Ne hai sacrificato una quantità considerevole per aumentarne il potere durante la prossima ora.
 
-STATISTICS:
+STATISTICHE:
 
 THAC0: +4
-Damage: 1d10+4 (slashing)
-Speed Factor: 1
-Proficiency Type: Katana
-Type: One-handed
-Requires:
- 6 Strength
+Danno: 1d10+4 (tagliente)
+Fattore-velocità: 1
+Tipo di Competenza: Katana
+Tipo: A una mano
+Richiede:
+ Forza 6
 
-Weight: 3~
+Peso: 3~
 // +5
-@2273 = ~Dripping Darkblade +5~
-@2274 = ~This blade is dripping with blood - your own blood. You have sacrificed a considerable amount of it to enhance the blade's power for the next hour.
+@2273 = ~Lama Oscura Gocciolante +5~
+@2274 = ~Questa lama gocciola di sangue: il tuo stesso sangue. Ne hai sacrificato una quantità considerevole per aumentarne il potere durante la prossima ora.
 
-STATISTICS:
+STATISTICHE:
 
 THAC0: +5
-Damage: 1d10+5 (slashing)
-Speed Factor: 1
-Proficiency Type: Katana
-Type: One-handed
-Requires:
- 6 Strength
+Danno: 1d10+5 (tagliente)
+Fattore-velocità: 1
+Tipo di Competenza: Katana
+Tipo: A una mano
+Richiede:
+ Forza 6
 
-Weight: 3~
-@2275 = ~The Colors of His Dreams +2~
-@2276 = ~This shield is adorned with various colored stained glass pieces and minor gemstones that gleam in many different colors. It is very effective at dazzling an opponent, but as a downside the shield is quite heavy.
+Peso: 3~
+@2275 = ~I Colori dei Suoi Sogni +2~
+@2276 = ~Questo scudo è decorato con pezzi di vetro colorato e piccole gemme che risplendono in molti colori diversi. È molto efficace nell'abbagliare un avversario, ma ha lo svantaggio di essere piuttosto pesante.
 
-STATISTICS:
+STATISTICHE:
 
-Equipped abilities:
-� Armor Class: +3, an extra +1 vs. missile attacks
+Abilità durante l'uso:
+– Classe Armatura: +3, con un ulteriore +1 contro attacchi da proiettile
 
-Charge abilities:
-� Can unleash a color spray once per day that blinds everyone in the area of effect for one round (Save vs. Spell negates)
+Abilità attivabili:
+– Può sprigionare uno Spruzzo Colorato una volta al giorno, accecando per un round tutti coloro che si trovano nell'area d'effetto (un Tiro-salvezza contro Incantesimi effettuato con successo nega l'effetto)
 
-Requires:
- 15 Strength
+Richiede:
+ Forza 15
 
-Weight: 12~
+Peso: 12~
+@2277 = ~Difensore di Waukeen +2~
+@2278 = ~Questo era lo scudo personale di Tharundar Olehm, Sommo Sacerdote di Waukeen. Te lo ha donato in segno di gratitudine per aver salvato la sua anima dal nalfeshnee Margrog. Scudi simili si trovano nei templi di Waukeen in tutto il Faerûn, ma raramente di qualità e incantamento tanto elevati. Lo scudo è decorato con il simbolo del volto dorato di Waukeen.
 
+STATISTICHE:
 
+Abilità durante l'uso:
+– Classe Armatura: +3
+– Tiri-salvezza: +2
+– Resistenza alla Magia: 10%
 
+Richiede:
+ Forza 4
 
-
-
-
+Peso: 4~

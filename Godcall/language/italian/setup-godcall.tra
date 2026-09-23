@@ -1,144 +1,144 @@
-@0 = ~Call of the lost goddess~
+@0 = ~Il richiamo della dea perduta~
 
-// spells and stores:
-@100 = ~Grief cloud~
-@101 = ~Graz'zt's defamatory song~
-@102 = ~Graz'zt's defamatory song
-(Abjuration)
+// incantesimi e negozi
+@100 = ~Nube di Dolore~
+@101 = ~Canzone Diffamatoria di Graz'zt~
+@102 = ~Canzone Diffamatoria di Graz'zt
+(Abiurazione)
 
-Level: 1
-Sphere: Charm 
-Range: 30 ft. 
-Duration: 1 hour
-Casting Time: 1 
-Area of Effect: 15-ft. radius
-Saving Throw: None 
+Livello: 1
+Sfera: Charme
+Raggio d'azione: 9 metri
+Durata: 1 ora
+Tempo di lancio: 1
+Area d'effetto: Raggio di 4,5 metri
+Tiro-salvezza: Nessuno
 
-The user can rejoice in this diatribe, as the song portrays the demon lord Graz'zt so badly that it exposes him to ridicule. As a result, all friendly creatures are less terrified by the demon lord's minions and are immune to fear and morale failure for the duration of the effect. The song is only available in Graz'zt's realm in the Abyss. It loses its effect in any other location.~
-@103 = ~Summon Modrons~
-@104 = ~Summon Modrons
-(Conjuration/Summoning)
+Chi la usa può trarre coraggio da questa invettiva, poiché la canzone dipinge il signore dei demoni Graz'zt in modo tanto spregevole da renderlo ridicolo. Di conseguenza, tutte le creature amiche sono meno terrorizzate dai servitori del signore dei demoni e diventano immuni alla paura e al cedimento del morale per la durata dell'effetto. Inoltre, tutte le creature coinvolte sono protette dagli effetti di charme. La canzone è disponibile soltanto nel reame di Graz'zt nell'Abisso. Perde ogni effetto in qualsiasi altro luogo.~
+@103 = ~Evoca Modron~
+@104 = ~Evoca Modron
+(Evocazione/Attrazione)
 
-Level: 3
-Range: Line of sight of the caster
-Duration: 4 turns
-Casting time: 3
-Area of effect: 50 foot radius
-Saving throw: None
+Livello: 3
+Raggio d'azione: Campo visivo dell'incantatore
+Durata: 4 turni
+Tempo di lancio: 3
+Area d'effetto: Raggio di 15 metri
+Tiro-salvezza: Nessuno
 
-Within one round of casting this spell, the caster summons 4 Monodrone Modrons (extraplanar creatures from the outer plane of Mechanus).
-The Monodrones appear anywhere within the spell's area of effect, as determined by the caster. They attack the caster's enemies to the best of their ability until the caster either orders them to stop attacking, the spell's duration expires, or the creatures are killed. These creatures do not check morale, but they will vanish when killed. If there is no opponent to fight, the Modrons can perform other services if the caster can communicate with them and they are capable of doing so physically. This spell was made famous by the mage Argramund of the Rock, whose current whereabouts are unknown.
+Entro un round dal lancio dell'incantesimo, l'incantatore evoca 4 modron monodrone, creature extraplanari provenienti dal piano esterno di Mechanus.
+I monodroni compaiono in un punto qualsiasi dell'area d'effetto scelto dall'incantatore. Attaccano al meglio delle loro capacità i nemici dell'incantatore finché questi non ordina loro di fermarsi, finché l'incantesimo non termina o finché le creature non vengono uccise. Non effettuano prove di morale, ma svaniscono alla morte. Se non vi sono avversari da combattere, i modroni possono svolgere altri compiti, purché l'incantatore riesca a comunicare con loro e siano fisicamente in grado di eseguirli. Questo incantesimo fu reso celebre dal mago Argramund della Roccia, la cui attuale ubicazione è ignota.
 
 Monodrone
-Intelligence: Semi (2-4)
-Armor class: 7
-Hit dice: 1+1
-Thac0: 19 or 20
-No. of attacks: 1
-Damage/attack: 1d4
-XP value: 120
+Intelligenza: Semi (2-4)
+Classe Armatura: 7
+Dadi-vita: 1+1
+THAC0: 19 o 20
+N. di attacchi: 1
+Danno/attacco: 1d4
+Valore PE: 120
 
-Combat: Monodrones are immune to illusions or magic that affect the mind, such as charm, domination, hold, paralysis, and sleep. Fear and other emotion spells are similarly ineffective against a modron, as are attacks drawing upon the Positive and Negative Energy Planes (including life-draining powers) and the abilities of Illithids and other psionic beings.~
-@105 = ~Spore discharge~
-@106 = ~Screech~
-@107 = ~Energy bolt~
-@108 = ~Globe of Darkness~
-@109 = ~Death gaze~
-@110 = ~Cry of the Vargouille~
-@111 = ~Kiss of the Vargouille~
-@112 = ~Abyssal Bazaar~
-@113 = ~Merchant of the Planar Guild~
-@114 = ~Sleeping quarters of the Planar Guild~
-@115 = ~Abbey of the Goldspires~
-@116 = ~Spellkey Market~
-@117 = ~Arcanaloth's Arcana~
-@118 = ~Maretta's Beds~
-@119 = ~Wilbur's Potions~
-@120 = ~Nocticula's Potions~
-@121 = ~Startail's Drinks~
-@122 = ~Honey mead from Ysgard~
-@123 = ~Gooseberry wine from Bytopia~
-@124 = ~Cherry pearl from Alzar~
-@125 = ~Baatorian blood beer~
-@126 = ~Sulphur fire~
-@127 = ~The Sodden Solar~
-@128 = ~Bloodbeer~
-@129 = ~Liquid pain~
-@130 = ~Devatears~
-@131 = ~Bloodthorn Essence~
-@132 = ~Healer of the Planar Guild~
-@133 = ~Lucky Aello's Discount Store~
-@134 = ~Burning Web~
-@135 = ~Fearsome Nimbus~
-@136 = ~Marilith's Temptation~
-@137 = ~Yugoloth's Dark Brew~
-@138 = ~Soul Swallower~
-@139 = ~Abyssal Breeze~
-@140 = ~Peasant Sacrifice Brew~
-@141 = ~Heat metal~
-@142 = ~Too high level for Death rod~
-@143 = ~Acid Stream~
-@144 = ~Silverlight Oasis~
-@145 = ~Maleficent Met~
-@146 = ~Baatezu-Bloodwine~
-@147 = ~Deva-Bile~
-@148 = ~Harpy's Song~
-@149  = ~Protection from poison~
-@150  = ~Protection from poison 
-(Abjuration)
+Combattimento: i monodroni sono immuni alle illusioni e alla magia che influenza la mente, come charme, dominazione, blocco, paralisi e sonno. Paura e altri incantesimi che agiscono sulle emozioni sono altrettanto inefficaci contro un modron, così come gli attacchi che attingono ai Piani dell'Energia Positiva e Negativa, compresi gli effetti di risucchio vitale, e le capacità degli illithid e di altri esseri psionici.~
+@105 = ~Scarica di Spore~
+@106 = ~Stridio~
+@107 = ~Dardo di Energia~
+@108 = ~Globo di Oscurità~
+@109 = ~Sguardo Mortale~
+@110 = ~Grido della Vargouille~
+@111 = ~Bacio della Vargouille~
+@112 = ~Bazar dell'Abisso~
+@113 = ~Mercante della Gilda dei Viaggiatori dei Piani~
+@114 = ~Alloggi della Gilda dei Viaggiatori dei Piani~
+@115 = ~Abbazia delle Guglie Dorate~
+@116 = ~Mercato delle Chiavi d'Incantesimo~
+@117 = ~Arcana dell'Arcanaloth~
+@118 = ~Letti di Maretta~
+@119 = ~Pozioni di Wilbur~
+@120 = ~Pozioni di Nocticula~
+@121 = ~Bevande di Startail~
+@122 = ~Idromele di Ysgard~
+@123 = ~Vino d'Uva Spina di Bytopia~
+@124 = ~Perla di Ciliegia di Alzar~
+@125 = ~Birra di Sangue Baatoriana~
+@126 = ~Fuoco di Zolfo~
+@127 = ~Il Solar Fradicio~
+@128 = ~Birra di Sangue~
+@129 = ~Dolore Liquido~
+@130 = ~Lacrime di Deva~
+@131 = ~Essenza di Spina di Sangue~
+@132 = ~Guaritrice della Gilda dei Viaggiatori dei Piani~
+@133 = ~Emporio Scontato del Fortunato Aello~
+@134 = ~Tela Ardente~
+@135 = ~Nimbo Terrificante~
+@136 = ~Tentazione della Marilith~
+@137 = ~Infuso Oscuro dello Yugoloth~
+@138 = ~Divoratore d'Anime~
+@139 = ~Brezza Abissale~
+@140 = ~Infuso del Sacrificio Contadino~
+@141 = ~Riscalda Metallo~
+@142 = ~Livello troppo alto per la Verga della Morte~
+@143 = ~Getto Acido~
+@144 = ~Oasi della Luce Argentata~
+@145 = ~Incontro Malefico~
+@146 = ~Vino di Sangue Baatezu~
+@147 = ~Bile di Deva~
+@148 = ~Canto dell'Arpia~
+@149 = ~Protezione dal Veleno~
+@150 = ~Protezione dal Veleno
+(Abiurazione)
 
-Level: 2
-Range: Creature touched
-Duration: 10 rounds 
-Casting Time: 3
-Area of Effect: Creature touched
-Saving Throw: None
+Livello: 2
+Raggio d'azione: Creatura toccata
+Durata: 10 round
+Tempo di lancio: 3
+Area d'effetto: Creatura toccata
+Tiro-salvezza: Nessuno
 
-By using this spell, the chosen creature gains immunity to poisons and venoms administered via contact with the skin, ingestion, sting, bite or weapon. Toxins of other types continue to affect the creature normally. Any poisons already in the body when the spell is cast are also unaffected by this spell.~
-@151 = ~Breath of crushing despair~
-@152 = ~Acid explosion~
-@153 = ~Blood Seed created~
-@154 = ~No, <CHARNAME>, I will never put that on!~
-@155 = ~Mystic Mirage Mercantile~
-@156 = ~Color reflection~
-@157 = ~Blood sacrifice~
+Con questo incantesimo, la creatura scelta diventa immune ai veleni e alle tossine somministrati tramite contatto con la pelle, ingestione, puntura, morso o arma. Le tossine di altro tipo continuano a influenzarla normalmente. Anche gli eventuali veleni già presenti nel corpo al momento del lancio non vengono neutralizzati da questo incantesimo.~
+@151 = ~Soffio della Disperazione Schiacciante~
+@152 = ~Esplosione Acida~
+@153 = ~Seme di Sangue creato~
+@154 = ~No, <CHARNAME>, non indosserò mai quella cosa!~
+@155 = ~Emporio del Miraggio Mistico~
+@156 = ~Riflesso Cromatico~
+@157 = ~Sacrificio di Sangue~
 
-// creatures
-@1000 = ~Stoneface~
+// creature
+@1000 = ~Facciadipietra~
 @1001 = ~Maryel~
 @1002 = ~Daugralluvidan~
-@1003 = ~Envy Eater~
-@1004 = ~Red Abishai~
-@1005 = ~War Veteran~
-@1006 = ~Outcast orphan~
-@1007 = ~Desperate father~
-@1008 = ~Sick widow~
-@1009 = ~Poor farmer~
+@1003 = ~Divoratore d'Invidia~
+@1004 = ~Abishai Rosso~
+@1005 = ~Veterano di Guerra~
+@1006 = ~Orfano Reietto~
+@1007 = ~Padre Disperato~
+@1008 = ~Vedova Malata~
+@1009 = ~Contadino Povero~
 @1010 = ~Grimsnag~
-@1011 = ~Dreamer~
-@1012 = ~Dreamer~
+@1011 = ~Sognatore~
+@1012 = ~Sognatore~
 @1013 = ~Palrethee~
-@1014 = ~Dreamcreeper~
-@1015 = ~Kaiphas the Deluded~
-@1016 = ~Gulga the boundless~
+@1014 = ~Striscia-Sogni~
+@1015 = ~Kaiphas l'Illuso~
+@1016 = ~Gulga lo Sconfinato~
 @1017 = ~Gulgathrix~
-@1018 = ~Wyliniesh, the Succubus~
-@1019 = ~Vohraris, the Incubus~
-@1020 = ~Old Man~
+@1018 = ~Wyliniesh, la Succube~
+@1019 = ~Vohraris, l'Incubo~
+@1020 = ~Vecchio~
 @1021 = ~Aranoth~
 @1022 = ~Eldrin~
 @1023 = ~Lyra~
 @1024 = ~Theron~
-@1025 = ~Morgrath the Corrupter~
-@1026 = ~Shadowsound~
+@1025 = ~Morgrath il Corruttore~
+@1026 = ~Suono d'Ombra~
 @1027 = ~Kastighur~
 @1028 = ~Alistair Vonhardt~
-@1029 = ~Damned Soul~
-@1030 = ~Caustic horror~
-@1031 = ~Emer, the madman~
+@1029 = ~Anima Dannata~
+@1030 = ~Orrore Caustico~
+@1031 = ~Emer il Folle~
 @1032 = ~Kaelthar Darkware~
-@1033 = ~Ludovic, the game master~
-@1034 = ~Nysara, the Withered One~
+@1033 = ~Ludovic, Maestro dei Giochi~
+@1034 = ~Nysara, l'Avvizzita~
 @1035 = ~Bharava~
 @1036 = ~Arsid~
 @1037 = ~Vulgrim Darkmane~
@@ -146,32 +146,32 @@ By using this spell, the chosen creature gains immunity to poisons and venoms ad
 @1039 = ~Trar'gezal~
 @1040 = ~Nimblebeard Rippletail~
 @1041 = ~Wilbur Iparos~
-@1042 = ~Crotchweaver Spider~
-@1043 = ~Lady's Lancers~
+@1042 = ~Ragno Tessicavalli~
+@1043 = ~Lancieri della Signora~
 @1044 = ~Armanite~
 @1045 = ~Malashrihi~
-@1046 = ~Game Master~
-@1047 = ~Token seller~
+@1046 = ~Maestro dei Giochi~
+@1047 = ~Venditrice di Gettoni~
 @1048 = ~Piscoloth~
 @1049 = ~Bar-Lgura~
-@1050 = ~Cambion-Baron~
+@1050 = ~Barone Cambion~
 @1051 = ~Dretch~
-@1052 = ~Tanar'rukk~
+@1052 = ~Tanarukk~
 @1053 = ~Startail~
 @1054 = ~Alkilith~
 @1055 = ~Jenkin~
 @1056 = ~Zaehvielle~
 @1057 = ~Zeep~
 @1058 = ~Ormad Sulpar~
-@1059 = ~Sannak, the Arcanaloth~
+@1059 = ~Sannak, l'Arcanaloth~
 @1060 = ~Masun~
 @1061 = ~Lord Jessel~
-@1062 = ~Zakhum, the spice merchant~
-@1063 = ~Machine~
-@1064 = ~Garnuth, the Babau~
+@1062 = ~Zakhum, il Mercante di Spezie~
+@1063 = ~Macchina~
+@1064 = ~Garnuth, il Babau~
 @1065 = ~Babau~
-@1066 = ~Referee~
-@1067 = ~Frost Giant~
+@1066 = ~Arbitro~
+@1067 = ~Gigante del Gelo~
 @1068 = ~Faerthae Garblueth~
 @1069 = ~Daerea Ethgil~
 @1070 = ~Hamatula~
@@ -183,14 +183,14 @@ By using this spell, the chosen creature gains immunity to poisons and venoms ad
 @1076 = ~Kyriani~
 @1077 = ~Tharundar Olehm~
 @1078 = ~Barasta Cleeith~
-@1079 = ~Moon Knight~
+@1079 = ~Cavaliere della Luna~
 @1080 = ~Igraflyn~
 @1081 = ~Rhyssa~
 @1082 = ~Adonia~
 @1083 = ~Helena~
 @1084 = ~Waukeen~
 @1085 = ~Nasmaerae~
-@1086 = ~Strange Man~
+@1086 = ~Uomo Strano~
 @1087 = ~Gildaar~
 @1088 = ~Demidicus~
 @1089 = ~Zabrina~
@@ -201,10 +201,10 @@ By using this spell, the chosen creature gains immunity to poisons and venoms ad
 @1094 = ~Larva~
 @1095 = ~Maretta~
 @1096 = ~Shamurz~
-@1097 = ~Tentacle~
-@1098 = ~Zzrakh, the Bebilith~
+@1097 = ~Tentacolo~
+@1098 = ~Zzrakh, il Bebilith~
 @1099 = ~Margrog~
-@1100 = ~Urkag, the wing seller~
+@1100 = ~Urkag, il Venditore d'Ali~
 @1101 = ~Vrock~
 @1102 = ~Zhelamiss~
 @1103 = ~Saarixal~
@@ -215,12 +215,12 @@ By using this spell, the chosen creature gains immunity to poisons and venoms ad
 @1108 = ~Annia Greystockings~
 @1109 = ~Faylah~
 @1110 = ~Verin~
-@1111 = ~Blood Elemental~
+@1111 = ~Elementale del Sangue~
 //@1112 = ~Rutterkin~
 @1113 = ~Qyriesh~
-@1114 = ~Lucky Aello~
-@1115 = ~Guardian~
-@1116 = ~Amnian merchant~
+@1114 = ~Fortunato Aello~
+@1115 = ~Guardia~
+@1116 = ~Mercante Amniano~
 @1117 = ~Monodrone~
 @1118 = ~~
 @1119 = ~Amlech~
@@ -228,257 +228,271 @@ By using this spell, the chosen creature gains immunity to poisons and venoms ad
 @1121 = ~Lillend~
 @1122 = ~Warwick~
 @1123 = ~Aphul~
-@1124 = ~Kayur's apprentice~
-@1125 = ~Bard~
+@1124 = ~Apprendista di Kayur~
+@1125 = ~Bardo~
 @1126 = ~Daemevera~
 @1127 = ~Az'zelbath~
 @1128 = ~Bezmodan~
-@1129 = ~Amnian Merchant~
-@1130 = ~Zombie Announcer~
+@1129 = ~Mercante Amniano~
+@1130 = ~Banditore Zombie~
 @1131 = ~Baphitaur~
-@1132 = ~Baphitaur Blacksmith~
+@1132 = ~Fabbro Baphitaur~
 @1133 = ~Zhornack Gruulhoof~
 @1134 = ~Val'kreen~
 @1135 = ~Elandra Moonsong~
-@1136 = ~Soul siren~ //The Soul Sirens are a cabal of harpies in the service of the demon lord Ardat the Unavowed. Their members are harpies with demonic blood. 
+@1136 = ~Sirena delle Anime~ // Le Sirene delle Anime sono una congrega di arpie al servizio del signore dei demoni Ardat il Rinnegato. I loro membri sono arpie con sangue demoniaco.
 @1137 = ~Illkeeper Mutz~
 @1138 = ~Sariila Tebrentan~
 @1139 = ~Zaldranis Quixtor~
-@1140 = ~Erinyes Baroness~
+@1140 = ~Baronessa Erinyes~
 @1141 = ~Nuksheid Rheshan~
 @1142 = ~Morloth Darkblade~
 @1143 = ~Grimward Gorefist~
 @1144 = ~Vexthor Bloodtusk~
 @1145 = ~Zardrak Dreadshield~
 @1146 = ~Diirmdliin Sharpshaver~
-@1147 = ~Bloodwar Mercenary~
-@1148 = ~Disciple of Baalzebul~
-@1149 = ~Frost Giant Zombie~
+@1147 = ~Combattente della Guerra Sanguinosa~
+@1148 = ~Discepolo di Baalzebul~
+@1149 = ~Zombie Gigante del Gelo~
+@1150 = ~Ossa Fiammeggianti~
+@1151 = ~Rutterkin~
+@1152 = ~Hezrou~
+@1153 = ~Fetore~
+@1154 = ~THAC0 ridotto~
+@1155 = ~Mezzoloth~
 
-@1180 = ~Your soul is my power.~ [AC#WNIH1] // Nighthag soundset
-@1181 = ~Dream a little dream of me, mortal!~ [AC#WNIH2]  // Nighthag soundset
-@1182 = ~I am power, pleasure and perdition.~ [AC#WMAR1] // Maretta soundset
-@1183 = ~Welcome in the realm of despair, where no solace is to be found, mortal. I am Maretta, mistress of Samora.~ [AC#WMAR2] // Maretta soundset
-@1184 = ~Behold my beauty or begone.~ [AC#WMAR3] // Maretta soundset
-@1186 = ~Hail mortals.~ [AC#WMEF1] // Mefisto initial meeting
-@1187 = ~Hail mortals.~ [AC#WMEF1] //[AC#WMEF2] Mefisto#2, need to change later
-@1188 = ~Oh, it's you again.~ [AC#WMEF3] // Mefisto
-@1190 = ~Money talks. Wealth sings.~ [AC#WTHA2] // Tharundar Olehm
-@1191 = ~Good business.~ [AC#WTHA5] // Tharundar Olehm
-@1195 = ~Salutations. I am Kyriani Agrivar. Priestess of Selune from Waterdeep.~ [AC#WKYR1]
+@1180 = ~La tua anima è il mio potere.~ [AC#WNIH1] // soundset Megera della Notte
+@1181 = ~Sogna un piccolo sogno di me, mortale!~ [AC#WNIH2] // soundset Megera della Notte
+@1182 = ~Io sono potere, piacere e perdizione.~ [AC#WMAR1] // soundset Maretta
+@1183 = ~Benvenuto nel regno della disperazione, dove non esiste conforto, mortale. Sono Maretta, signora di Samora.~ [AC#WMAR2] ~Benvenuta nel regno della disperazione, dove non esiste conforto, mortale. Sono Maretta, signora di Samora.~ [AC#WMAR2] // soundset Maretta
+@1184 = ~Ammira la mia bellezza o sparisci.~ [AC#WMAR3] // soundset Maretta
+@1186 = ~Salute, mortali.~ [AC#WMEF1] // primo incontro con Mefisto
+@1187 = ~Salute, mortali.~ [AC#WMEF1] //[AC#WMEF2] Mefisto#2, da modificare in seguito
+@1188 = ~Oh, di nuovo voi.~ [AC#WMEF3] // Mefisto
+@1190 = ~Il denaro parla. La ricchezza canta.~ [AC#WTHA2] // Tharundar Olehm
+@1191 = ~Buoni affari.~ [AC#WTHA5] // Tharundar Olehm
+@1195 = ~Salute. Sono Kyriani Agrivar, sacerdotessa di Selûne, da Waterdeep.~ [AC#WKYR1]
 
-@1210 = ~Stand still, mortal!~ [AC#WBAB2]
-@1211 = ~An army marches on its mortals!~ [AC#WBAB1]
-@1212 = ~I'm in a bad, bad mood.~ [AC#WDEM1]
-@1213 = ~My prices are the best south of Hellhole.~ [AC#WMER1]
-@1214 = ~My tavern's as dirty as a devil's arse.~ [AC#WSOL1]
-@1215 = ~Fear me, for I confound you.~ [AC#WDEM2]
-@1216 = ~In this game of souls, law always wins.~ [AC#WAPH1]
-@1217 = ~I have many vile wares!~ [AC#WMER2]
-@1218 = ~I am gloriously glorious!~ [AC#W75S1]
-@1219 = ~Hit me with your best shot!~ [AC#W74W3]
-@1220 = ~Step forth and unleash your wrath.~ [AC#W74W4]
-@1221 = ~Reveal your rage and show your might.~ [AC#W74W5]
-@1222 = ~Better a fart from a fiend than a dart from behind.~ [AC#WDWR1]
-@1223 = ~So many layers, so much to learn.~ [AC#WDWR2]
-@1224 = ~For the glory of Baator!~ [AC#WAPH2]
-@1225 = ~Magic is not a simple parlor trick down here.~ [AC#WMSV1]
-@1226 = ~You can't cast magic like you cast cards.~ [AC#WMSV2]
-@1227 = ~Make way, tall people!~ [AC#WSQRL]
+@1210 = ~Fermo, mortale!~ [AC#WBAB2] ~Ferma, mortale!~ [AC#WBAB2] 
+@1211 = ~Un esercito marcia sui suoi mortali!~ [AC#WBAB1]
+@1212 = ~Sono di pessimo, pessimo umore.~ [AC#WDEM1]
+@1213 = ~I miei prezzi sono i migliori a sud di Hellhole.~ [AC#WMER1]
+@1214 = ~La mia taverna è sporca come il culo di un diavolo.~ [AC#WSOL1]
+@1215 = ~Temimi, poiché ti confondo.~ [AC#WDEM2]
+@1216 = ~In questo gioco di anime, la legge vince sempre.~ [AC#WAPH1]
+@1217 = ~Ho un sacco di merci ripugnanti!~ [AC#WMER2]
+@1218 = ~Sono gloriosamente glorioso!~ [AC#W75S1]
+@1219 = ~Colpiscimi più forte che puoi!~ [AC#W74W3]
+@1220 = ~Fatti avanti e scatena la tua ira.~ [AC#W74W4]
+@1221 = ~Mostra la tua furia e fa' vedere la tua forza.~ [AC#W74W5]
+@1222 = ~Meglio una scoreggia d'un immondo che una freccia da tergo.~ [AC#WDWR1]
+@1223 = ~Così tanti strati, così tanto da imparare.~ [AC#WDWR2]
+@1224 = ~Per la gloria di Baator!~ [AC#WAPH2]
+@1225 = ~Quaggiù la magia non è un semplice gioco da salotto.~ [AC#WMSV1]
+@1226 = ~Non puoi lanciare magie come lanci carte.~ [AC#WMSV2]
+@1227 = ~Fate largo, spilungoni!~ [AC#WSQRL]
 
-@1230 = ~I am the goddess of wealth. Yes I am!~ [AC#WWAE0]
-@1240 = ~Why use your own power when you can make others waste theirs?~ [AC#WVER0]
+@1230 = ~Sono la dea della ricchezza. Sì, proprio io!~ [AC#WWAE0]
+@1240 = ~Perché usare il proprio potere quando si può far sprecare agli altri il loro?~ [AC#WVER0]
 
+@1250 = ~Chi calpesta la mia tela?~ [AC#WBEB0]
+@1251 = ~Assaggia il mio morso velenoso!~ [AC#WBEB2]
 
-@1250 = ~Who steps on my web?~ [AC#WBEB0]
-@1251 = ~Feel my poisonous bite!~ [AC#WBEB2]
+@1255 = ~Guarda dove metti i piedi.~ [AC#WLIL1]
+@1256 = ~La luce della luna guida il mio cammino.~ [AC#WLIL2]
 
-@1255 = ~Mind your step.~ [AC#WLIL1]
-@1256 = ~Moonlight guides my way.~ [AC#WLIL2]
+@1260 = ~Ahhh... così buio...~ [AC#WHALA]
 
-@1260 = ~Ahhh... so dark...~ [AC#WHALA]
+@1270 = ~Ti salutiamo, creatura di carne.~ [AC#WMONA]
+@1271 = ~Un occhio, una direzione.~ [AC#WMON0]
+@1272 = ~Rilevato soggetto ostile dalla mente univoca...~ [AC#WMONB]
+@1273 = ~Non esiste individuo migliore di noi.~ [AC#WMONC]
+@1274 = ~Pensiamo come uno.~ [AC#WMOND]
+@1275 = ~Un semplice colpo contro tutti noi.~ [AC#WMONE]
+@1276 = ~Abbandono della comunità mentale...~ [AC#WMONF]
 
-@1270 = ~We salute you, fleshy one.~ [AC#WMONA]
-@1271 = ~One eye, one direction.~ [AC#WMON0]
-@1272 = ~Hostile single-minded subject detected...~ [AC#WMONB]
-@1273 = ~There is no better individual than us.~ [AC#WMONC]
-@1274 = ~We mind as one.~ [AC#WMOND]
-@1275 = ~A simple blow against all of us.~ [AC#WMONE]
-@1276 = ~Leaving the mental community...~ [AC#WMONF]
+@1280 = ~Io malvagio.~ [AC#WBAP1]
+@1281 = ~Io forte. Tu debole!~ [AC#WBAP2]
 
-@1280 = ~Me malicious.~ [AC#WBAP1]
-@1281 = ~Me strong. You weak!~ [AC#WBAP2]
-
-@1285 = ~Destiny or no, I am not long for this place.~ [AC#WNYS1]
-@1286 = ~I must be free.~ [AC#WNYS2]
+@1285 = ~Destino o no, non resterò a lungo in questo luogo.~ [AC#WNYS1]
+@1286 = ~Devo essere libera.~ [AC#WNYS2]
 
 @1290 = ~~ [AM1900B1]
 
-@1300 = ~May riches and prosperity follow your every step.~ [AC#WWAUX]
+@1300 = ~Che ricchezze e prosperità accompagnino ogni tuo passo.~ [AC#WWAUX]
 
-// Blood war merc soundsets
-@1311 = ~Hell's will be done!~ [AC#W60M1]
-@1312 = ~For the glory of Baator!~ [AC#W60M2]
-@1313 = ~For the hierarchy!~ [AC#W60M3]
-@1314 = ~Infernal might commands!~ [AC#W60M4]
+// soundset mercenari Guerra Sanguinosa
+@1311 = ~Sia fatta la volontà degli Inferi!~ [AC#W60M1]
+@1312 = ~Per la gloria di Baator!~ [AC#W60M2]
+@1313 = ~Per la gerarchia!~ [AC#W60M3]
+@1314 = ~Comanda la potenza infernale!~ [AC#W60M4]
 
-@1320 = ~No good deed goes unpunished!~ [AC#W4CF1]
-// #2000: items
+@1320 = ~Nessuna buona azione resta impunita!~ [AC#W4CF1]
+@1330 = ~Mi hai chiamato e ho risposto. Insieme apriremo un sentiero di devastazione attraverso queste terre!~
 
-// are files
-@3000 = ~A dazzling, incredibly bright light emanates from this door. Though the glow does not appear to be malicious, you realize that its intensity would destroy you if you entered the area beyond the door.~
-@3001 = ~Planar Guild~
-@3002 = ~Back to the bottom of the Staircase~
-@3003 = ~Doorway to the Abyss~
-@3004 = ~Modron Machine~
-@3005 = ~This statue represents the goddess Waukeen. It appears to have been made from pure gold.~
-@3006 = ~You can watch the abbey's hustle and bustle out of this bay window.~
-@3007 = ~Back to Faer�n~
-@3008 = ~Start of the Infinite Staircase~
+// file ARE
+@3000 = ~Da questa porta emana una luce abbagliante, incredibilmente intensa. Sebbene il bagliore non sembri maligno, capisci che la sua intensità ti distruggerebbe se entrassi nell'area al di là della porta.~
+@3001 = ~Gilda dei Viaggiatori dei Piani~
+@3002 = ~Torna ai piedi della Scala~
+@3003 = ~Portale per l'Abisso~
+@3004 = ~Macchina Modron~
+@3005 = ~Questa statua raffigura la dea Waukeen. Sembra realizzata in oro puro.~
+@3006 = ~Da questa finestra a bovindo puoi osservare il viavai dell'abbazia.~
+@3007 = ~Torna a Faerûn~
+@3008 = ~Inizio della Scala Infinita~
 @3009 = ~Elandra Moonsong~
-@3010 = ~This door seems to lead down from the tower into the temple. It's locked from the other side, and a look from the guards tells you it wouldn't be a good idea to break it open.~
-@3011 = ~A blue crystal pedestal~
-@3012 = ~A green crystal pedestal~
-@3013 = ~A red crystal pedestal~
-@3014 = ~A yellow crystal pedestal~
+@3010 = ~Questa porta sembra scendere dalla torre al tempio. È chiusa dall'altro lato e, a giudicare dagli sguardi delle guardie, forzarla non sarebbe una buona idea.~
+@3011 = ~Un piedistallo di cristallo blu~
+@3012 = ~Un piedistallo di cristallo verde~
+@3013 = ~Un piedistallo di cristallo rosso~
+@3014 = ~Un piedistallo di cristallo giallo~
 
-@4000 = ~Cursed Fortune~
-@4001 = ~Lord's Pawns~
-@4002 = ~Maretta's beds~
-@4003 = ~The Sodden Solar~
-@4004 = ~The Weeping Goddess~
-@4005 = ~To the Infinite Staircase~
-@4006 = ~To the Abyss~
-@4007 = ~Square of Graz'zt~
-@4008 = ~Merchants' Square~
-@4009 = ~Home of the Nighthag~
-@4010 = ~Margrog's House~
-@4011 = ~Counting House~
-@4012 = ~Agony fire Forge~
-@4013 = ~Chamber of temptations~
-@4014 = ~Daemevera's House~
-@4015 = ~Zhaevielle's House~
-@4016 = ~Blood War Recruitment Site~
-@4017 = ~Belthazaar's Hideout~
-@4018 = ~Grimsnag's lair~
-@4019 = ~The sculpture of a goddess, her face distorted with pain, raising her hands in supplication. A constant wailing and weeping can be heard from within the statue.~
+@4000 = ~Fortuna Maledetta~
+@4001 = ~Pedine del Signore~
+@4002 = ~Letti di Maretta~
+@4003 = ~Il Solar Fradicio~
+@4004 = ~La Dea Piangente~
+@4005 = ~Verso la Scala Infinita~
+@4006 = ~Verso l'Abisso~
+@4007 = ~Piazza di Graz'zt~
+@4008 = ~Piazza dei Mercanti~
+@4009 = ~Dimora della Megera della Notte~
+@4010 = ~Casa di Margrog~
+@4011 = ~Casa dei Conti~
+@4012 = ~Forgia del Fuoco dell'Agonia~
+@4013 = ~Camera delle Tentazioni~
+@4014 = ~Casa di Daemevera~
+@4015 = ~Casa di Zhaevielle~
+@4016 = ~Centro di Reclutamento della Guerra Sanguinosa~
+@4017 = ~Nascondiglio di Belthazaar~
+@4018 = ~Covo di Grimsnag~
+@4019 = ~La scultura raffigura una dea, il volto deformato dal dolore e le mani levate in supplica. Dall'interno della statua provengono continui lamenti e pianti.~
 
-@5000 = ~Tree of cowards~
-@5001 = ~Eastern Fiery Oven~
-@5002 = ~Western Fiery Oven~
+@5000 = ~Albero dei Codardi~
+@5001 = ~Forno Ardente Orientale~
+@5002 = ~Forno Ardente Occidentale~
 
-@7000 = ~The symbol of an axe~
-@7001 = ~The symbol of a money bag~
-@7002 = ~The symbol of a burning heart~
-@7003 = ~The symbol of a crown~
-@7004 = ~This is the statue of a Marilith demon throwing a dying soul into the lava. A small plaque on the edge of the statue reads:
-"Surrendered to pride, consumed by ire,
-the soul ablaze in lava's fire.
-Dark temptations, deep and hot,
-sink within this abysmal knot."~
-@7005 = ~The symbol of a snake~
-@7006 = ~The symbol of a beer mug~
-@7007 = ~An unknown symbol~
+@5201 = ~Devi avvicinarti alla creatura per poterle parlare.~
 
-@8090 = ~Your further passage is blocked by a disgusting door.~
+@7000 = ~Il simbolo di un'ascia~
+@7001 = ~Il simbolo di una borsa di monete~
+@7002 = ~Il simbolo di un cuore ardente~
+@7003 = ~Il simbolo di una corona~
+@7004 = ~Questa è la statua di una marilith che getta un'anima morente nella lava. Su una piccola targa alla base della statua si legge:
+«All'orgoglio arresa, dall'ira consumata,
+l'anima nella lava brucia infuocata.
+Tentazioni mortali, ardenti e profonde,
+in questo nodo abissale la fiamma le confonde.»~
+@7005 = ~Il simbolo di un serpente~
+@7006 = ~Il simbolo di un boccale di birra~
+@7007 = ~Un simbolo sconosciuto~
 
-// crossmod content
-// Lava's Hephernaan
-@8100 = ~Bringing me here is quite ridiculous. You should be happy I still have a few cards up my diabolical sleeve.~
-@8101 = ~Now, that should prevent them from seeing who, or more importantly WHAT I am. Demons, devils... It won't matter. I choose to sit that one out.~
-@8102 = ~But don't let us stay here for too long, Bhaalspawn. That would be quite unwise.~
-@8103 = ~This is getting quite problematic, Bhaalspawn. I will continue hiding who I am, but you are playing a dangerous game here.~
-@8104 = ~You fool! I cannot hide from them while in this form...!~
-@8105 = ~You really thought we wouldn't notice you, devil?!~
-@8106 = ~I don't know what you were doing with him, but better safe than sorry, hahaha!~
+@8090 = ~Il passaggio è sbarrato da una porta disgustosa.~
 
+// contenuti crossmod
+// Hephernaan di Lava
+@8100 = ~Portarmi qui è davvero ridicolo. Dovresti essere felice che io abbia ancora qualche carta diabolica nella manica.~
+@8101 = ~Ecco, questo dovrebbe impedire loro di capire chi, o soprattutto CHE COSA, io sia. Demoni, diavoli... non importa. Io questa partita la salto.~
+@8102 = ~Ma non restiamo qui troppo a lungo, Progenie di Bhaal. Sarebbe assai poco saggio.~
+@8103 = ~La situazione sta diventando piuttosto problematica, Progenie di Bhaal. Continuerò a nascondere ciò che sono, ma qui stai giocando una partita pericolosa.~
+@8104 = ~Stolto! In questa forma non posso nascondermi da loro...!~ ~Stolta! In questa forma non posso nascondermi da loro...!~
+@8105 = ~Quando i festeggiamenti si placano, la tranquillità torna nell’abbazia e i suoi abitanti riprendono le attività quotidiane. È tempo per te di partire verso nuove avventure, sapendo che le porte dell’Abbazia di Waukeen resteranno sempre aperte per te.~
+@8106 = ~Non so che cosa ci facessi con lui, ma meglio prevenire che curare, ahahah!~
 
-// 2da entries
-@9000 = ~Read~
-@9001 = ~You slowly ascend the steps of the Infinite Staircase. As you progress, the path becomes increasingly convoluted and hazy, rendering your origin a distant memory. The steps seem to be constantly changing in shape and construction, a testament to the different cultures involved in their creation. 
+// voci 2DA
+@9000 = ~Leggi~
+@9001 = ~Sali lentamente i gradini della Scala Infinita. Man mano che procedi, il percorso diventa sempre più intricato e nebuloso, fino a trasformare il luogo da cui provieni in un ricordo lontano. I gradini sembrano mutare continuamente forma e fattura, testimonianza delle diverse culture che hanno contribuito alla loro creazione.
 
-Bizarre doorways punctuate your ascent, tempting yet unexplored, shrouded in mystery. Gradually, the unfamiliarity of this alien realm settles, bolstering your confidence. 
+Durante l'ascesa incontri strani portali, invitanti ma inesplorati e avvolti nel mistero. A poco a poco ti abitui all'estraneità di questo reame alieno e la tua sicurezza cresce.
 
-You grimly focus on your task, and despite your tiredness, uncertainty pushes you onwards.~ [AC#WNAR1] //[AC#WMUS1]
-@9002 = ~At last, you've succeeded. Waukeen has been liberated and reinstated into the pantheon as a revered deity.
+Ti concentri cupamente sul tuo compito e, nonostante la stanchezza, l'incertezza ti spinge a proseguire.~ [AC#WNAR1] //[AC#WMUS1]
+@9002 = ~Alla fine ce l'hai fatta. Waukeen è stata liberata e ha ripreso il suo posto nel pantheon come divinità venerata.
 
-You cannot yet fathom the magnitude of this deed, you revel in the jubilant festivities held in her honor at the abbey. Amidst extravagant celebrations, cheers, and a mesmerizing fireworks display, the recent challenges fade into the background.
+Non riesci ancora a comprendere fino in fondo la portata di ciò che hai compiuto, mentre ti lasci coinvolgere dai festeggiamenti giubilanti organizzati in suo onore nell'abbazia. Tra celebrazioni sontuose, acclamazioni e uno spettacolo di fuochi d'artificio ammaliante, le difficoltà appena superate scivolano lentamente in secondo piano.
 
-As the revelry wanes, tranquility returns to the abbey, and its occupants resume their daily routines. It's time for you to embark on fresh adventures, knowing you'll always be welcome at Waukeen's Abbey again.~ [AC#WNAR2] //[AC#WMUS9]
+Quando i festeggiamenti si placano, la tranquillità torna nell'abbazia e i suoi abitanti riprendono le attività quotidiane. È tempo per te di partire verso nuove avventure, sapendo che sarai sempre il benvenuto nell'Abbazia di Waukeen.~ [AC#WNAR2] ~Alla fine ce l'hai fatta. Waukeen è stata liberata e ha ripreso il suo posto nel pantheon come divinità venerata.
 
-@9003 = ~You have faltered in the quest to save Waukeen. The agonies awaiting you in the Abyss are beyond imagination. Yet, your endeavor was noble, and your actions will echo in the mortal realms for a time. The destiny Graz'zt has in store for you is yet to unfold, but it will not be one of favor.~ [AC#WNAR3] //[AC#WMUS1]
+Non riesci ancora a comprendere fino in fondo la portata di ciò che hai compiuto, mentre ti lasci coinvolgere dai festeggiamenti giubilanti organizzati in suo onore nell'abbazia. Tra celebrazioni sontuose, acclamazioni e uno spettacolo di fuochi d'artificio ammaliante, le difficoltà appena superate scivolano lentamente in secondo piano.
 
-// Script entries
-@10000 = ~Help! What is happening to me? My body is getting heavy...~
+Quando i festeggiamenti si placano, la tranquillità torna nell'abbazia e i suoi abitanti riprendono le attività quotidiane. È tempo per te di partire verso nuove avventure, sapendo che sarai sempre la benvenuta nell'Abbazia di Waukeen.~ [AC#WNAR2] //[AC#WMUS9]
+@9003 = ~Hai fallito nella missione di salvare Waukeen. Le agonie che ti attendono nell'Abisso vanno oltre ogni immaginazione. Eppure il tuo tentativo è stato nobile e le tue azioni riecheggeranno per qualche tempo nei reami mortali. Il destino che Graz'zt ha in serbo per te deve ancora compiersi, ma non sarà favorevole.~ [AC#WNAR3] //[AC#WMUS1]
 
-@19000 = ~This portal only seems to work in one direction. You'll have to find another way back to Faer�n.~
+// voci degli script
+@10000 = ~Aiuto! Che cosa mi sta succedendo? Il mio corpo sta diventando pesante...~
 
-@30000 = ~The door has already been opened. There is nothing else to operate on the machine.~
-@30001 = ~Attention, <PRO_HESHE> is coming! Get ready!~
+@19000 = ~Questo portale sembra funzionare soltanto in una direzione. Dovrai trovare un'altra via per tornare a Faerûn.~
 
-@40000 = ~This exit leads to the outlands outside the city. Without a precise destination in mind, a trip to these regions would be your certain death.~
-@40002 = ~You step through the fiery oven hoping that it will take you to Waukeen's prison.~
+@30000 = ~La porta è già stata aperta. Non c'è nient'altro da azionare sulla macchina.~
+@30001 = ~Attenzione, <PRO_HESHE> sta arrivando! Preparatevi!~
 
-@43000 = ~On closer inspection, you notice that the wall has been washed away several times at this point. You think you can discern the shadowy outline of a hand.~
-@43001 = ~You cut your palm and draw the symbol of a hand on the wall using your own blood. This seems to activate some kind of mechanism.~
-@43002 = ~A part of this wall seems to have been recently tampered with...~
-@43003 = ~In this tavern, there's a constant weeping and wailing that triggers an unsettling unease within you, weighing heavily on your minds.~
+@40000 = ~Questa uscita conduce nelle terre esterne alla città. Senza una destinazione precisa in mente, avventurarsi in quelle regioni significherebbe morte certa.~
+@40002 = ~Attraversi il forno ardente sperando che ti conduca alla prigione di Waukeen.~
 
-@48000 = ~Now that all members of the Planar Guild are dead, you have a safe place to rest.~
+@43000 = ~A un esame più attento, noti che in questo punto la parete è stata corrosa più volte. Ti sembra di distinguere il profilo indistinto di una mano.~
+@43001 = ~Ti incidi il palmo e tracci sulla parete il simbolo di una mano usando il tuo stesso sangue. Sembra che questo attivi una sorta di meccanismo.~
+@43002 = ~Una parte di questa parete sembra essere stata manomessa di recente...~
+@43003 = ~In questa taverna risuonano continuamente pianti e lamenti che suscitano in voi una profonda inquietudine, gravando pesantemente sulle vostre menti.~
 
-@49000 = ~The key parts are forming into a complete key.~
-@49100 = ~Attention, here we go! Round 1...~
+@48000 = ~Ora che tutti i membri della Gilda dei Viaggiatori dei Piani sono morti, hai un posto sicuro in cui riposare.~
+
+@49000 = ~Le parti della chiave si uniscono formando una chiave completa.~
+@49100 = ~Attenzione, si comincia! Round 1...~
 @49101 = ~Round 2...~
 @49102 = ~Round 3!~
-@50000 = ~Your spell has been corrupted by the Abyss.~
-@50001 = ~This cave goes only a few feet into the rock and stops there. Nevertheless, it looks like a large creature has been coming and going frequently.~
-@50002 = ~This seems to be the area where the demon hunter emerged from. Numerous nets testify to its brisk activity. You could place the Tanar'ri Horn here to open the portal, perhaps.~
-@50003 = ~Without the pentacle in your inventory, it seems that the fiery oven cannot be activated.~
-@50004 = ~To the Nabassu lair~
-@50005 = ~To Yemach~
-@50006 = ~Scream~ [AC#VARGS]
+@50000 = ~Il tuo incantesimo è stato corrotto dall'Abisso.~
+@50001 = ~Questa caverna si inoltra nella roccia solo per pochi metri e poi termina. Ciononostante, sembra che una grossa creatura sia entrata e uscita di qui di frequente.~
+@50002 = ~Sembra essere il punto da cui è emerso il cacciatore di demoni. Numerose ragnatele testimoniano la sua intensa attività. Forse potresti collocare qui il Corno di Tanar'ri per aprire il portale.~
+@50003 = ~Senza il pentacolo nell'inventario, il forno ardente non sembra poter essere attivato.~
+@50004 = ~Verso il covo del Nabassu~
+@50005 = ~Verso Yemach~
+@50006 = ~Urlo~ [AC#VARGS]
 
-@51000 = ~The walls and floor of this corridor are covered with thick, sticky webs that hinder your progress and remind you of a spider's web. However, the creature that spun these webs must be much larger.~
+@51000 = ~Le pareti e il pavimento di questo corridoio sono ricoperti da spesse ragnatele appiccicose che ostacolano il cammino. La creatura che le ha tessute, però, dev'essere molto più grande di un normale ragno.~
 
-@52000 = ~Finally peace...~
-@52001 = ~You pour a little of the concentrated acid into the helmet.~
-@52002 = ~You pour the acid out of the helmet over the metal, which immediately begins to dissolve.~
-@52003 = ~You pour the acid over the metal, which immediately begins to dissolve.~
-@52004 = ~The cage has no discernible door, but seems to have been affected by the acidity of this place in the past.~
-@52005 = ~Strong acid floats in this pond. Given the right item, you could safely collect some of it, otherwise you would have to collect the acid using your bare hands, which would burn your skin pretty quickly.~
+@52000 = ~Finalmente pace...~
+@52001 = ~Versi un po' dell'acido concentrato nell'elmo.~
+@52002 = ~Versi sul metallo l'acido contenuto nell'elmo, e questo comincia immediatamente a dissolversi.~
+@52003 = ~Versi l'acido sul metallo, che comincia immediatamente a dissolversi.~
+@52004 = ~La gabbia non presenta alcuna porta riconoscibile, ma sembra che l'acidità di questo luogo l'abbia già intaccata in passato.~
+@52005 = ~In questa pozza ristagna un acido molto forte. Con l'oggetto adatto potresti raccoglierne un po' in sicurezza; altrimenti dovresti farlo a mani nude e ti ustioneresti rapidamente la pelle.~
 
-@70000 = ~The portal only seems to work in one direction.~
-@70001 = ~The portal is still inactive. You may need to complete a task before you can take this path.~
-@70002 = ~You pluck the rose. As it is brimming with thorns, your finger gets pricked in the process.~
-@70003 = ~This seems to be the Rose of the Abyss. You must get closer to pick it.~
-@70004 = ~This seems to be the Rose of the Abyss. If you wish, you can pick it.~
+@70000 = ~Il portale sembra funzionare soltanto in una direzione.~
+@70001 = ~Il portale è ancora inattivo. Potrebbe essere necessario portare a termine un compito prima di poter seguire questa via.~
+@70002 = ~Cogli la rosa. Essendo ricoperta di spine, nel farlo ti pungi un dito.~
+@70003 = ~Sembra essere la Rosa dell'Abisso. Devi avvicinarti per raccoglierla.~
+@70004 = ~Sembra essere la Rosa dell'Abisso. Se lo desideri, puoi raccoglierla.~
 
-@71000 = ~The two parts of the necklace magically combine to form a complete pendant. You feel that the pendant might allow you to leave the chamber again.~
-@71001 = ~Possessing the pendant has opened the exit portal.~
+@71000 = ~Le due metà della collana si uniscono magicamente formando un pendente completo. Hai la sensazione che il pendente possa permetterti di lasciare nuovamente la camera.~
+@71001 = ~Il possesso del pendente ha aperto il portale d'uscita.~
 
-@72000 = ~You throw the piece of bone into the cauldron. The broth boils briefly, then the exit portal opens.~
+@72000 = ~Getti il pezzo d'osso nel calderone. Il brodo ribolle per un istante, poi il portale d'uscita si apre.~
 
-@80000 = ~The portal only seems to work in one direction. You'll have to find another exit.~
-@80001 = ~This freshly dissected corpse has had its heart cut out. Something seems to be stuck in the resulting cavity in the chest.~
-@80002 = ~This disgusting machine is filled with numerous corpses of various shapes and sizes. What purpose it serves is beyond your imagination.~
-@80003 = ~You have learned Graz'zt's diatribe, which can bolster you as long as you dwell in Graz'zt's realm in the Abyss.~
-@80004 = ~You failed to save Waukeen.~
-@89000 = ~As you enter the organic mass lining the corridor ahead, a feeling of overwhelming malevolence washes over you. The walls seem to pulse slightly and move almost imperceptibly, and you wonder with a burgeoning sense of horror if you have just entered some vile form of living species.~
-@89001 = ~You have 18 minutes left to save Waukeen before there is no escape from the Abyss for you.~
-@89002 = ~You have 9 minutes left to save Waukeen before there is no escape from the Abyss for you.~
-@89003 = ~You have 6 minutes left to save Waukeen before there is no escape from the Abyss for you.~
+@80000 = ~Il portale sembra funzionare soltanto in una direzione. Dovrai trovare un'altra uscita.~
+@80001 = ~A questo cadavere appena dissezionato è stato asportato il cuore. Qualcosa sembra incastrato nella cavità rimasta nel torace.~
+@80002 = ~Questa disgustosa macchina è colma di numerosi cadaveri di forme e dimensioni diverse. Non riesci neppure a immaginare a che cosa possa servire.~
+@80003 = ~Hai appreso l'invettiva contro Graz'zt, che può infonderti coraggio finché rimani nel suo reame nell'Abisso.~
+@80004 = ~Non sei riuscito a salvare Waukeen.~ ~Non sei riuscita a salvare Waukeen.~
+@89000 = ~Entrando nella massa organica che ricopre il corridoio davanti a te, vieni investito da una sensazione di malvagità opprimente. Le pareti sembrano pulsare leggermente e muoversi in modo quasi impercettibile; con un crescente senso d'orrore ti domandi se tu non sia appena entrato in una qualche ripugnante forma di creatura vivente.~ ~Entrando nella massa organica che ricopre il corridoio davanti a te, vieni investita da una sensazione di malvagità opprimente. Le pareti sembrano pulsare leggermente e muoversi in modo quasi impercettibile; con un crescente senso d'orrore ti domandi se tu non sia appena entrata in una qualche ripugnante forma di creatura vivente.~
+@89001 = ~Ti restano 18 minuti per salvare Waukeen prima che per te non vi sia più alcuna via di fuga dall'Abisso.~
+@89002 = ~Ti restano 9 minuti per salvare Waukeen prima che per te non vi sia più alcuna via di fuga dall'Abisso.~
+@89003 = ~Ti restano 6 minuti per salvare Waukeen prima che per te non vi sia più alcuna via di fuga dall'Abisso.~
 
-// Store entries
+// voci dei negozi
+@90000 = ~Questa è la forma inversa di Cura Ferite Gravi. Invece di curare il bersaglio, l'incantesimo gli infligge danni.~
+@90001 = ~Il bersaglio dell'incantesimo viene sopraffatto da un opprimente senso di sventura imminente. Per la durata dell'incantesimo subisce una penalità di -2 a tutti i tiri, compresi THAC0 e Tiri-salvezza.~
+@90002 = ~Questo incantesimo può avvelenare il bersaglio se questi fallisce un Tiro-salvezza contro Veleno.~
+@90003 = ~Decadimento Doloroso provoca una rapida putrefazione e consunzione del corpo della creatura colpita. Il bersaglio viene automaticamente rallentato per 2 round. Inoltre, se fallisce un Tiro-salvezza contro Veleno con penalità di -2, <PRO_HESHE> subisce 1 punto danno al secondo fino a un totale di 50 punti danno.~
+@90004 = ~Questo incantesimo è la forma inversa di Guarigione. Invece di curare la creatura toccata, le infligge danni. Se il sacerdote riesce a toccare il bersaglio, l'incantesimo ne riduce i Punti Ferita a 1. Il successivo attacco effettuato dal sacerdote applicherà questo effetto; tuttavia <PRO_HESHE> dispone di soli 2 round per portare a segno l'attacco prima che l'incantesimo si dissolva. Se il sacerdote manca il bersaglio, l'incantesimo va sprecato. Non è consentito alcun Tiro-salvezza.~
 
-@90000 = ~This is the reverse version of Cure Serious Wounds. Instead of healing the target, the spell causes damage.~
-@90001 = ~The target of the spell is overcome with an impending sense of doom. For the duration of the spell, the target receives -2 to all rolls (including THAC0 and Saving Throws).~
-@90002 = ~This spell can be used to poison the target if the target fails a saving throw against poison.~
-@90003 = ~Dolorous Decay is a rotting and withering of the body that spreads throughout the afflicted creature quickly. The target creature will automatically be slowed for 2 rounds. Furthermore, if the target fails a Saving Throw vs. Poison with a -2 penalty, <PRO_HESHE> will suffer 1 point of damage per second until a total of 50 points of damage are inflicted.~
-@90004 = ~This spell is the reverse of Heal. Instead of healing the creature touched, it causes damage. On a successful touch from the priest, the spell reduces the target to 1 Hit Point. The next attack that the priest makes will inflict this effect; however, <PRO_HESHE> only has 2 rounds to make the attack before the spell fizzles. If the priest misses the target creature, the spell is wasted. There is no Saving Throw.~
-// Script Entries
-@100000 = ~You touch the mirror and the glass suddenly seems to liquefy. Then you are pulled into the mirror...~
-@100040 = ~You cannot summon Elementals in the Abyss without the appropriate tools.~
-@100090 = ~As you attack the tentacle, the fleshy mass suddenly begins to wriggle...~
-@100091 = ~The strange maw snaps briefly and seems to voraciously devour the organ. Shortly thereafter, the amorphous mass in front of you shifts, and the organ releases its path.~
-@100092 = ~With a clean blow you sever the tentacle. The tentacles' grip on the captive Waukeen seems to loosen.~
+// voci degli script
+@100000 = ~Tocchi lo specchio e il vetro sembra improvvisamente liquefarsi. Poi vieni risucchiato al suo interno...~ ~Tocchi lo specchio e il vetro sembra improvvisamente liquefarsi. Poi vieni risucchiata al suo interno...~
+@100040 = ~Non puoi evocare Elementali nell'Abisso senza gli strumenti appropriati.~
+@100090 = ~Quando attacchi il tentacolo, la massa carnosa comincia improvvisamente a contorcersi...~
+@100091 = ~La strana bocca si chiude di scatto e sembra divorare voracemente l'organo. Poco dopo, la massa amorfa davanti a te si sposta e lascia libero il passaggio.~
+@100092 = ~Con un colpo netto recidi il tentacolo. La presa dei tentacoli sulla prigioniera Waukeen sembra allentarsi.~
 
+@1000000 = ~Il richiamo della dea perduta~
+@1000001 = ~Installa i ritratti dei principali PNG della mod~
+@1000002 = ~Installa il doppiaggio IA dei principali PNG della mod (prevalentemente in inglese)~
+@1000010 = ~Richiede BG2:EE o EET aggiornato alla versione 2.0 o superiore.~
+@1000011 = ~Questo componente richiede l'installazione della versione completa.~

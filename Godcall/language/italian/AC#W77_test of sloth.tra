@@ -1,24 +1,33 @@
-@0 = ~It's so sweet to just be lying here and relaxing.~
-@1 = ~They visit me in my dreams, tell me scary yet beautiful things...~
-@2 = ~Let me just rest here a little...~
-@3 = ~Do you hear their voices? Lay down with us, close your eyes and listen to their words...~
-@4    = ~Sleep, my child, in the darkest night,
-Where shadows dance and horrors blight,
-Your breath whispers in death's embrace,
-Darkness descends, veiling this place.~
-@5    = ~Sweet dreams of times long erased,
-Where ghosts whispered and demons paced,
-They lure you into their somber domain,
-Where time fades and light wanes again.~
-@6    = ~Shadows envelop your fragile existence,
-A whisper, a sigh, a haunting insistence,
-Lost souls entice, drawing you below,
-Into depths of inertia, where the Abyss does grow.~
-@7    = ~Sleep, my child, in darkness' keep,
-Where hope fades and courage does sleep,
-Time stands still, the world dissolves,
-Ensnared in inertia, your spirit devolves.~
-@8    = ~Sleep, my child, the night so long,
-In dreams, compulsion's grip grows strong,
-You'll succumb, descend so deep,
-Drowning finally in inertia's keep.~
+@0 = ~È così dolce restare semplicemente sdraiati qui a rilassarsi.~
+@1 = ~Mi fanno visita nei sogni, mi raccontano cose spaventose eppure bellissime...~
+@2 = ~Lasciatemi riposare qui ancora un po'...~
+@3 = ~Sentite le loro voci? Sdraiatevi con noi, chiudete gli occhi e ascoltate le loro parole...~
+@4 = ~Dormi, figlio mio, nella notte più oscura,
+Dove danzano ombre e l'orrore perdura,
+Il tuo respiro sussurra nell'abbraccio della morte,
+Scende il buio, sigillando la tua sorte.~ ~Dormi, figlia mia, nella notte più oscura,
+Dove danzano ombre e l'orrore perdura,
+Il tuo respiro sussurra nell'abbraccio della morte,
+Scende il buio, sigillando la tua sorte.~
+@5    = ~Dolci sogni di un tempo ormai svanito,
+Dove sussurravano spettri e demoni han vagato,
+Ti attirano nel loro regno tetro e lontano,
+Dove il tempo si perde e la luce muore piano.~
+@6    = ~Le ombre avvolgono il tuo fragile esistere,
+Un sussurro, un sospiro, un richiamo a cui cedere,
+Anime perdute ti attirano sempre più giù,
+Nelle profondità dell'inerzia, dove cresce l'Abisso laggiù.~
+@7 = ~Dormi, figlio mio, nel buio profondo,
+Dove la speranza svanisce e il coraggio va in sonno,
+Il tempo si arresta, si dissolve il creato,
+Nell'inerzia imprigionato, il tuo spirito è dannato.~ ~Dormi, figlia mia, nel buio profondo,
+Dove la speranza svanisce e il coraggio va in sonno,
+Il tempo si arresta, si dissolve il creato,
+Nell'inerzia imprigionato, il tuo spirito è dannato.~
+@8 = ~Dormi, figlio mio, la notte è infinita,
+Nei sogni la compulsione rafforza la presa proibita,
+Cederai, scenderai sempre più in fondo,
+Finché l'inerzia ti sommergerà nel suo sonno profondo.~ ~Dormi, figlia mia, la notte è infinita,
+Nei sogni la compulsione rafforza la presa proibita,
+Cederai, scenderai sempre più in fondo,
+Finché l'inerzia ti sommergerà nel suo sonno profondo.~

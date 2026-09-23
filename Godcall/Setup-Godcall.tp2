@@ -199,9 +199,7 @@ LANGUAGE ~Simplified Chinese by lzw104522773~
          ~godcall/language/schinese/planar_guild.tra~
          ~godcall/language/schinese/Spellkey_merchant.tra~
          ~godcall/language/schinese/Verin.tra~
-//WIP
-/*
-LANGUAGE ~Italian (by OiseauRebelle)~
+LANGUAGE ~Italian by Sauler~
          ~italian~
          ~godcall/language/italian/setup-godcall.tra~
          ~godcall/language/italian/godcall-journal.tra~
@@ -251,7 +249,6 @@ LANGUAGE ~Italian (by OiseauRebelle)~
          ~godcall/language/italian/planar_guild.tra~
          ~godcall/language/italian/Spellkey_merchant.tra~
          ~godcall/language/italian/Verin.tra~
-*/
 
 LANGUAGE ~Russian by darthalex2014 and Origanum8~
          ~russian~
