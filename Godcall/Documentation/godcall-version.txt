@@ -1,3 +1,6 @@
+Version 3.2
+- added Italian translation by Sauler, thank you very much!
+
 Version 3.1
 - fixed bug in the dialogue of the orphan in area AC#W76
 - updated German Translation

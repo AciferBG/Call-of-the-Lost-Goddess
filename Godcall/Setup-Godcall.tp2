@@ -7,7 +7,7 @@
  *************************************************************************/
 BACKUP ~godcall/backup~
 AUTHOR "Acifer"
-VERSION ~v3.1~
+VERSION ~v3.2~
 
 AUTO_EVAL_STRINGS
 AUTO_TRA ~godcall\language\%s~
