@@ -1,0 +1,1341 @@
+@2000 = ~Pipe des Abysses~
+@2001 = ~Il s'agit d'une petite pipe en pierre sculptée en forme de tête de démon.
+
+Lorsqu'on l'utilise, elle exhale d'épais nuages de vapeurs mortelles provenant des strates les plus profondes des Abysses. Il existe toutefois toujours un risque d'inhaler soi-même les fumées toxiques.
+
+CARACTÉRISTIQUES :
+
+Capacités à charges :
+– Lance le sort « Nuage mortel » une fois par jour.
+– 5 % de risque de s'empoisonner pendant 5 rounds lors de l'utilisation de la pipe
+
+Poids : 1~
+@2002 = ~Pipe du chagrin~
+@2003 = ~On raconte que cette pipe fut créée jadis par un sombre chaman qui y fumait les cendres de ses ennemis tombés au combat. La fumée qui s'en échappait concentrait le désespoir et le chagrin des mourants et pouvait ainsi influencer le cœur et l'esprit des vivants. Le destin du chaman s'est perdu dans les brumes de l'histoire. La pipe, elle, a survécu et peut encore déchaîner la puissance étouffante du désespoir.
+
+CARACTÉRISTIQUES :
+
+Capacités à charges :
+– Nuage de chagrin une fois par jour : toute personne prise dans le nuage subit un malus de -4 au moral, aux jets d'attaque et aux jets de sauvegarde pendant 10 rounds (jet de sauvegarde contre le souffle pour annuler)
+  Durée : 3d8 tours
+  Zone d'effet : rayon de 4,5 m
+
+Poids : 3~
+@2004 = ~Écailles de dragon tartérien~
+@2005 = ~Ces lourdes écailles proviennent d'un dragon tartérien, une sous-espèce de grands dragons vivant sur le plan maléfique de Carcères. Les dragons tartériens sont à la fois les gardiens et les prisonniers de ce plan. On raconte cependant qu'il existe des moyens de les libérer de la malédiction qui les empêche de quitter les Plans inférieurs. En raison des particularités de leur terre natale, ces créatures sont extrêmement résistantes à tout ce qui entrave leurs mouvements ou leur capacité d'action. Elles peuvent lancer de puissants sorts capables de piéger, voire d'emprisonner leurs adversaires. Leur souffle prend la forme d'une violente onde de choc qui brise à la fois le corps et l'esprit de leurs ennemis, infligeant des dégâts ainsi qu'un malus aux jets d'attaque et de sauvegarde. Vous avez pu prélever un nombre considérable d'écailles sur la carcasse du dragon tartérien... peut-être qu'un forgeron compétent pourrait en faire une armure.~
+@2006 = ~Armure d'écailles de dragon tartérien~
+@2007 = ~Une armure d'écailles de dragon est légère, solide et résistante à diverses forces nuisibles. Ces qualités la rendent très recherchée, mais trouver — et plus encore tuer — un puissant dragon ancien relève presque de l'impossible. Il vaut toutefois mieux éviter de la porter à proximité de dragons, en particulier de dragons tartériens.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+– Le porteur est immunisé contre tout effet, magique ou non, qui affecte sa mobilité d'une quelconque manière. Cela inclut notamment les sorts Hâte et Lenteur.
+– Le porteur est immunisé contre Emprisonnement.
+
+Classe d'armure : 0
+Poids : 30~
+@2008 = ~Étincelle de Déva~
+@2009 = ~Une aura lumineuse qui appartenait autrefois à un Déva.~
+@2010 = ~Potion de soins putride~
+@2011 = ~Cette potion de soins, autrefois pure, a été tellement corrompue par les forces des Abysses que la fiole ne contient plus qu'un breuvage putride.~
+@2012 = ~Kayur,
+sois vigilant sur les marches de l'Escalier Infini et surveille un individu <PRO_RACE> nommé <CHARNAME>. Cette personne approchera d'Azzagrat en venant d'Argentil. Ne permets sous aucun prétexte à <PRO_HIMHER> de poursuivre <PRO_HISHER> route ! Je t'attendrai au point de rendez-vous convenu avec la seconde partie de ta récompense. Que le Soleil Noir soit avec toi !
+G.~
+@2013 = ~Défaite cuisante +3~
+@2014 = ~Forgée il y a plusieurs siècles par un forgeron duergar, l'épée « Défaite cuisante » fut créée pour un guerrier vaniteux de Ruathym. Conçue pour accroître ses prouesses dans les combats désespérés, elle libérait sa puissance lorsqu'il était affaibli. Malgré ses capacités redoutables, le guerrier trouva la mort dans un repaire de tyrannœils, submergé par les rayons oculaires dévastateurs de ces aberrations.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+– Si les points de vie du porteur tombent sous 25 %, « Hâte améliorée » est lancée sur <PRO_HIMHER> pendant trois rounds.
+
+TAC0 : -3
+Dégâts : 1d10+3 (tranchants)
+Facteur de vitesse : 7
+Type de maîtrise : épée à deux mains
+Type : arme à deux mains
+Nécessite :
+ 5 en Force
+
+Poids : 8~
+@2015 = ~Clef de la Chambre des Tentations~
+@2016 = ~Cette clef permet d'ouvrir la porte d'une zone située sous Samora, appelée la « Chambre des Tentations ». Maretta vous a expliqué qu'une Rose des Abysses y fleurissait et vous a chargé de la lui rapporter.~
+@2017 = ~Note d'un érudit (extrait)~
+@2018 = ~Poussé par une curiosité insatiable, je me suis aventuré dans les profondeurs de la chambre afin d'en percer les secrets. Les murs sombres et les symboles énigmatiques laissent entrevoir une signification que je ne peux que deviner. Cette chambre semble être un lieu de tentation, un endroit où les aspects les plus obscurs de la nature mortelle et ses désirs les plus intimes sont mis à l'épreuve.
+
+Chacun des sept portails qui s'ouvrent depuis la chambre représente une forme particulière de désir interdit. Voilà donc la raison de ces étranges symboles en fer forgé sur les murs ! Le serpent représente l'envie, la bourse l'avarice. La couronne pourrait symboliser l'orgueil, mais je n'en suis pas certain. Quant à la hache, elle est assurément le symbole de la colère et de la fureur.
+
+Dans ma quête de connaissance et de compréhension, j'ai dépassé les limites de ma raison. Mon corps décline rapidement et je sens déjà le souffle glacé de la mort. Je laisserai néanmoins ces notes en guise d'avertissement et de guide à ceux qui viendront après moi.~
+@2019 = ~Faux orgueil +3~
+@2020 = ~Portée jadis par un chevalier célèbre pour sa bravoure puis pour son arrogance, cette épée longue incarnait son esprit présomptueux. Des puissances célestes maudirent la lame afin de rappeler à ses porteurs que l'humilité surpasse l'orgueil. Repentant, le chevalier cacha l'épée puis se retira dans un monastère d'Ilmater pour y mener une vie de pénitence.
+
+L'attrait de la lame se révéla pourtant irrésistible pour les combattants dignes de la manier. Jamais satisfaite de guerriers ordinaires, l'arme semble rechercher sans cesse ceux qui incarnent son essence.
+
+CARACTÉRISTIQUES :
+
+Capacités de combat :
+– 30 % de chances que la cible soit aveuglée pendant un round après un coup réussi si elle rate un jet de sauvegarde contre les sorts.
+– Lors d'un coup critique, le porteur est frappé par un Rayon affaiblissant pendant trois rounds si <PRO_HESHE> rate un jet de sauvegarde contre les sorts.
+
+TAC0 : -3
+Dégâts : 1d8+3 (tranchants)
+Facteur de vitesse : 2
+Type de maîtrise : épée longue
+Type : arme à une main
+
+Nécessite :
+ 17 en Charisme
+
+Poids : 3~
+@2021 = ~Rire du fou~
+@2022 = ~Un rire rauque et hystérique s'échappe de cette bouteille. Un mécanisme de fermeture spécial la maintient parfaitement scellée, vous empêchant de l'ouvrir. Plusieurs histoires entourent cet objet étrange. La plus répandue raconte qu'un tyran cruel fit torturer son bouffon de cour en menaçant de le faire exécuter dès qu'il cesserait de rire. Le rire aurait ensuite été enfermé dans cette bouteille.~
+@2023 = ~Rose des Abysses~
+@2023 = ~Rose des Abysses~
+@2024 = ~Cette rose paraît épineuse et maléfique. Vous ne savez même pas comment la saisir sans vous blesser. Le parfum qui émane de la fleur est doux, mais évoque davantage la putréfaction et la pourriture que des fleurs enivrantes.~
+@2025 = ~Os ensanglanté~
+@2026 = ~Un os couvert de sang, auquel pendent encore des tendons et d'autres morceaux de tissu. On dirait qu'il a été cuit pour le ramollir.~
+@2027 = ~Fragment de collier~
+@2028 = ~Il s'agit d'un fragment de collier.~
+@2029 = ~Derniers rites~
+@2030 = ~Cette amulette a la forme d'un cœur fendu. De nombreuses rumeurs circulent sur ses origines, la plupart évoquant deux amants dont le triste destin aurait été scellé par un retournement aussi inattendu que déchirant. On pense que cet objet fut autrefois créé par des prêtres de Wee Jas, déesse incarnant la mort, la magie et l'amour.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+– Résistance à la magie : +15 %
+
+Capacités à charges :
+Derniers rites (spécial, une fois par jour)
+– Résurrection
+– La cible est entièrement soignée
+– Les points de vie du porteur sont réduits à 1
+  Portée : illimitée
+  Zone : 1 créature
+
+Poids : 1
+~
+@2031 = ~Cet anneau puissant est tordu et déformé. Il confère une protection anormalement élevée contre les attaques de toutes sortes. Il semble avoir été façonné sous l'influence du seigneur démon Alrunes, connu de ses fidèles sous le nom d'« Esprit bienfaisant ».
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipé :
+– Classe d'armure : +3
+– Jets de sauvegarde : +3
+
+Poids : 0~
+@2032 = ~Dessin de Clyddis~
+@2033 = ~Cette esquisse de pentagramme a été découpée dans la peau du Vrock Clyddis. Il l'y avait gravée pour illustrer le fonctionnement des fours ardents de Samora. Grâce à ce dessin, vous devriez pouvoir actionner les fours dans le bon ordre afin d'accéder à la prison de Waukyne.~
+@2034 = ~Plant de poivre de la Géhenne~
+@2035 = ~Cet arbuste est originaire des Plans inférieurs et produit du poivre de la Géhenne.~
+@2036 = ~Heaume de résistance à l'acide (plein)~
+@2037 = ~Ce casque est rempli de l'acide corrosif des bassins de Yemach. Le liquide n'endommagera pas l'objet, mais vous devez veiller à ne pas le renverser et vous brûler la main.~
+@2038 = ~Heaume de résistance à l'acide~
+@2039 = ~Heaume de résistance à l'acide, « Fléau du Ravageur acide »
+Ce casque fut forgé pour résister au souffle des dragons noirs, et plus particulièrement à celui d'un antique dragon des temps anciens entré dans l'histoire sous le nom d'Acidragravagrex, ou plus simplement de « Ravageur acide ». Aujourd'hui encore, le heaume porte les marques d'anciens combats contre ces créatures ailées. Il protège son porteur contre l'acide.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipé :
+– Résistance à l'acide : +80 %
+– Protège contre les coups critiques
+
+Poids : 3~
+@2040 = ~Je t'ai eu !~
+@2041 = ~Énigme de Belthazaar~
+@2042 = ~Une main mêlée de sang, doux coup du destin,
+Ouvre les portes du péril où les tombes n'ont pas de fin.
+Au contact du sang, la chair tremblera soudain,
+Et cette main pour clef révélera du Glabrezu le chemin.
+Alors, ô mortel, la porte s'ouvrira grand,
+Vers le domaine du Glabrezu où se nouent les destins.
+Avance à présent, mortel, et résous l'énigme avec soin,
+Car sous le regard du Glabrezu, prouve ta valeur, de nuit comme au matin.~
+@2043 = ~Le Temps des Troubles~
+@2044 = ~Le Temps des Troubles
+En l'Année des Ombres, 1358 CV, Faerûn fut secoué par de sinistres bouleversements. Les cieux eux-mêmes pâlirent lorsque les dieux des Royaumes Oubliés furent contraints de quitter leurs demeures sacrées et de prendre forme mortelle. Une ère de chaos et de désordre s'abattit sur les terres.
+
+Le vol d'un artefact d'une puissance prodigieuse fit dérailler le cours du destin divin. Les dieux devinrent vulnérables et leurs pouvoirs s'amenuisèrent. Leurs fidèles serviteurs, prêtres pieux et paladins honorables, furent privés de leurs dons divins, leurs protecteurs n'étant plus en mesure de leur accorder leur puissance. Un vide de guidance et de protection s'ouvrit alors, et les peuples de Faerûn se retrouvèrent abandonnés au cœur du tourbillon.
+
+En ces temps sauvages, les dieux saisirent désespérément toute occasion de recouvrer leur puissance et de se libérer de leur triste condition. De violents affrontements éclatèrent entre les dieux eux-mêmes, entre leurs fidèles et entre des factions mortelles cherchant à gagner la faveur divine. De nouveaux dieux s'élevèrent pour combler le vide, tandis que d'autres perdaient leur ancienne gloire ou étaient détruits.
+
+Le monde de Faerûn lui-même porta les stigmates de cette période de troubles. Les voies de la magie furent ébranlées et une ombre s'étendit sur ses courants autrefois puissants. Sages et magiciens s'efforcèrent d'en percer le mystère, tandis que les terres s'enfonçaient dans une atmosphère d'incertitude.
+Lorsque les voiles du malheur commencèrent enfin à se lever, les dieux parvinrent à retrouver leur gloire divine. Mais le Temps des Troubles avait laissé des marques durables. Certains dieux, jadis puissants et exaltés, étaient tombés ou avaient vu leurs domaines changer. De nouvelles divinités avaient pris leur place, et leurs noms se trouvaient désormais sur les lèvres des mortels.
+
+Les peuples de Faerûn restèrent marqués par les épreuves du Temps des Troubles. Certains changèrent de foi et de croyances ; d'autres se perdirent dans le chaos, brisés par la douleur du changement. D'autres encore trouvèrent une force et un but nouveaux en se tournant vers les dieux nouvellement élevés et en recherchant leur faveur.~
+@2045 = ~Sur l'absence de Waukyne~
+@2046 = ~Sur l'absence de Waukyne
+Écrit par frère Aldric, prêtre dévoué de la Vierge aux Pièces
+
+En ces temps funestes qui se sont abattus sur Faerûn, nous devons faire face à la disparition de la présence divine de notre bien-aimée Maîtresse des Pièces. Elle, soleil rayonnant du commerce, nous bénissait autrefois de sa présence, mais elle s'est évanouie comme si sa lumière s'était éteinte, plongeant le temple de la richesse dans les ténèbres.
+
+Oh, combien nous aspirons à retrouver sa chaleur et l'abondance qu'elle faisait autrefois entrer dans nos cœurs et nos trésors ! Sa présence inspirait tous ceux qui la servaient, et sa faveur faisait fleurir nos marchés comme un magnifique champ de fleurs. Mais aujourd'hui, nos marchands sont rongés par le doute et nos réserves se vident ; sans la lumineuse présence de Waukyne, nous dérivons sans but tels des navires privés de boussole sur une mer déchaînée.
+
+Nous, fidèles de l'Amie des Marchands, la prions avec ferveur, implorant son retour et cherchant le moindre signe qu'elle ne nous a pas abandonnés. Mais le silence des cieux est lourd de sens, et nos prières semblent se perdre dans le vide glacé. Le désespoir nous étreint et nous demeurons prisonniers de l'incertitude, nous demandant quand Notre Dame d'Or réapparaîtra dans toute sa gloire.
+
+Nous nous souvenons des récits des âges passés, lorsque le monde traversait des heures sombres et que les divinités continuaient pourtant de répandre leurs bénédictions. L'espoir vacille encore dans nos cœurs lorsque nous nous rappelons les paroles des sages : la lumière divine finit toujours par se lever de nouveau pour dissiper les ombres.
+
+Ainsi, dans ce livre du souvenir, réaffirmons notre dévotion inébranlable envers Waukyne, l'Amie des Marchands. Honorons-la dans nos prières, dans nos chants et dans notre quête incessante de prospérité. Puisse-t-elle nous entendre et illuminer de nouveau les terres de Faerûn de sa présence rayonnante, afin que la splendeur du commerce et de la richesse emplisse nos âmes.~
+@2047 = ~Sur les Flèches d'Or~
+@2048 = ~Les Flèches d'Or — sanctuaire de splendeur et d'abondance
+
+À l'extérieur des remparts animés d'Athkatla s'élève un fier temple appelé les Flèches d'Or, qui proclame la splendeur et les richesses du règne divin de Waukyne. Pareilles à des rayons de soleil lancés vers les cieux, ses tours se dressent majestueusement, captant la lumière et la renvoyant comme un éclatant témoignage de la faveur de la déesse.
+
+Les fidèles s'y rassemblent pour offrir prières et sacrifices et solliciter la bénédiction de l'Amie des Marchands. Les prêtres, vêtus de somptueuses robes, célèbrent des rites solennels et bénissent ceux qui recherchent la prospérité et la réussite dans leurs entreprises. Le parfum de l'encens et des épices emplit l'air et se mêle aux prières et aux chants qui résonnent entre les murs.
+
+Mais les Flèches d'Or sont bien davantage qu'un simple temple. Elles constituent un centre de commerce et de soutien pour les fidèles. On y tient des registres commerciaux, on y conserve des contrats et on y rassemble de précieuses informations sur les marchés et les affaires. La sagesse des marchands et des négociants y est réunie afin de guider les croyants et de favoriser le commerce.
+
+Louons et honorons les Flèches d'Or, car elles incarnent la splendeur et l'abondance représentées par Waukyne, divine maîtresse du commerce. Puissent les portes de ce lieu sacré rester à jamais ouvertes pour accueillir ceux qui cherchent à commercer et leur montrer la voie du succès.~
+@2049 = ~Jeton d'âme~
+@2050 = ~À Samora, la cité du péché, on ne mise pas de monnaie aux jeux d'argent, mais des jetons que les joueurs doivent acheter au prix de leur propre force vitale. Ces « jetons d'âme » permettent de participer aux différents jeux proposés.~
+@2051 = ~Plume de Déva~
+@2052 = ~Il s'agit de la plume d'un Déva. Elle rayonne d'une lumière pure et éclatante jusque depuis votre sac. Maretta souhaite que vous lui apportiez cet objet dans sa résidence de la Maison des Comptes.~
+@2053 = ~Aile de Déva~
+@2054 = ~Il s'agit de l'aile tranchée d'un Déva.~
+@2055 = ~Potion de protection contre l'acide~
+@2056 = ~Quiconque boit cette potion acquiert une résistance magique à toutes les formes d'acide. Les dégâts infligés par l'acide sont réduits de 50 %. Cette résistance se cumule avec toute autre forme de résistance possédée par le personnage. L'effet dure 10 tours, ou jusqu'à dissipation.~
+@2057 = ~Fragment de clef de l'arène~
+@2058 = ~Il s'agit d'un morceau de clef à la forme étrange.~
+@2059 = ~Clef de l'arène~
+@2060 = ~Cette étrange clef permet d'ouvrir la porte d'os verrouillée de l'arène des gladiateurs de Samora.~
+@2061 = ~Manuel d'humiliation physique~
+@2062 = ~Comme les autres manuels de ce type, sa couverture est faite de cuir épais et richement décorée, mais le livre présente une torsion peu engageante, comme s'il se contorsionnait de douleur.
+
+CARACTÉRISTIQUES :
+
+– Le lecteur gagne +1 en Dextérité, mais perd 1 point en Force et 1 point en Constitution.
+– Spécial : le livre est consommé à l'utilisation
+– Utilisation : placer dans un emplacement d'objet rapide
+
+Poids : 25~
+@2063 = ~La Dextérité a été augmentée définitivement de 1 point ; la Force et la Constitution ont été réduites définitivement de 1 point.~
+@2064 = ~Manuel de l'imbécile robuste~
+@2065 = ~Comme les autres manuels de ce type, sa couverture est faite de cuir épais et richement décorée, mais le livre présente une torsion peu engageante, comme s'il se contorsionnait de douleur.
+
+CARACTÉRISTIQUES :
+
+– Le lecteur gagne +1 en Constitution, mais perd 1 point en Dextérité et 1 point en Intelligence.
+– Spécial : le livre est consommé à l'utilisation
+– Utilisation : placer dans un emplacement d'objet rapide
+
+Poids : 25~
+@2066 = ~La Constitution a été augmentée définitivement de 1 point ; la Dextérité et l'Intelligence ont été réduites définitivement de 1 point.~
+@2067 = ~Contrat d'âme de Zhelamiss~
+@2068 = ~Ce document porte des phrases rédigées dans une langue inconnue. Une marque rouge vif, manifestement tracée avec du sang, orne le coin inférieur gauche. Ce contrat scelle le pacte d'âme conclu entre Ormad Sulpar et la Guenaude nocturne Zhelamiss. Ormad tient absolument à le récupérer, car il souhaite conserver son âme. Vous devez lui apporter le document au « Solaire détrempé ».~
+@2069 = ~Contrat d'âme de Zaehvielle~
+@2070 = ~Ce document porte des phrases rédigées dans une langue inconnue. Une marque rouge vif, manifestement tracée avec du sang, orne le coin inférieur gauche. Ce contrat scelle le pacte d'âme conclu entre Ormad Sulpar et la Succube Zaehvielle. Ormad tient absolument à le récupérer, car il souhaite conserver son âme. Vous devez lui apporter le document au « Solaire détrempé ».~
+@2071 = ~Contrat d'âme de Belthazaar~
+@2072 = ~Ce document porte des phrases rédigées dans une langue inconnue. Une marque rouge vif, manifestement tracée avec du sang, orne le coin inférieur gauche. Ce contrat scelle le pacte d'âme conclu entre Ormad Sulpar et le Glabrezu Belthazaar. Ormad tient absolument à le récupérer, car il souhaite conserver son âme. Vous devez lui apporter le document au « Solaire détrempé ».~
+@2073 = ~Livre des fiélons~
+@2074 = ~La reliure de ce livre est faite avec la peau tannée du visage d'un fiélon, qui semble vous lancer un regard mauvais. Deux paires d'yeux rouges et coriaces vous observent d'un air critique et paraissent suivre chacun de vos mouvements. Le livre empeste atrocement le cuir et l'urine et semble très ancien.~
+@2075 = ~Bouclier de l'Infidèle +4~
+@2076 = ~Le Bouclier de l'Infidèle est un puissant bouclier enchanté qui appartenait jadis à Andelar, grand paladin d'un âge révolu. Lors d'un combat contre un fiélon, le bouclier se brisa et tomba de son bras, exposant Andelar au coup qui dévait lui être fatal. Il lui resta juste assez de force pour proférer une malédiction dans son dernier souffle. Plutôt que d'assumer son propre échec au combat, il accusa le bouclier et le maudit pour avoir abandonné son maître au moment où celui-ci en avait le plus besoin. Depuis ce jour, le Bouclier de l'Infidèle a trahi chacun des guerriers qui l'ont porté. Il est fait de bois robuste cerclé d'un rebord de mithral.
+
+Lorsqu'un guerrier ou un prêtre l'équipe, le bouclier confère d'abord un bonus de +4 à la classe d'armure.
+Cependant, lorsqu'il est utilisé au combat, chaque coup reçu a 5 % de chances de provoquer sa défaillance et de le transformer en bouclier maudit -4. Si les points de vie du porteur tombent sous 25 %, cette probabilité passe à 10 %.
+Le porteur ne peut se débarrasser du bouclier maudit qu'après qu'un prêtre a lancé Délivrance de la malédiction sur <PRO_HIMHER>.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipé :
+– Classe d'armure : +4
+– Chaque coup reçu a 5 % de chances de maudire le bouclier et de faire passer sa classe d'armure à -4. Si les points de vie du porteur tombent sous 25 %, cette probabilité passe à 10 %.
+
+Nécessite :
+ 9 en Force
+
+Poids : 3~
+@2077 = ~Bouclier de l'Infidèle -4 (maudit)~
+@2078 = ~Le Bouclier de l'Infidèle est un puissant bouclier enchanté qui appartenait jadis à Andelar, grand paladin d'un âge révolu. Lors d'un combat contre un fiélon, le bouclier se brisa et tomba de son bras, exposant Andelar au coup qui dévait lui être fatal. Il lui resta juste assez de force pour proférer une malédiction dans son dernier souffle. Plutôt que d'assumer son propre échec au combat, il accusa le bouclier et le maudit pour avoir abandonné son maître au moment où celui-ci en avait le plus besoin. Depuis ce jour, le Bouclier de l'Infidèle a trahi chacun des guerriers qui l'ont porté. Il est fait de bois robuste cerclé d'un rebord de mithral.
+
+Lorsqu'un guerrier ou un prêtre l'équipe, le bouclier confère d'abord un bonus de +4 à la classe d'armure.
+Cependant, lorsqu'il est utilisé au combat, chaque coup reçu a 5 % de chances de provoquer sa défaillance et de le transformer en bouclier maudit -4. Si les points de vie du porteur tombent sous 25 %, cette probabilité passe à 10 %.
+Le porteur ne peut se débarrasser du bouclier maudit qu'après qu'un prêtre a lancé Délivrance de la malédiction sur <PRO_HIMHER>.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipé :
+– Ne peut être retiré qu'avec le sort Délivrance de la malédiction
+– Classe d'armure : -4
+
+Nécessite :
+ 9 en Force
+
+Poids : 3~
+@2079 = ~Crâne avec colonne vertébrale~
+@2080 = ~Bâton du crâne~
+@2081 = ~Un crâne humain encore attaché à sa colonne vertébrale. Les tendons qui maintiennent les vertèbres entre elles ne se sont pas encore décomposés et lui assurent une certaine rigidité.~
+@2082 = ~Bâton du crâne
+
+CARACTÉRISTIQUES :
+
+Capacité spéciale : permet d'invoquer un groupe de squelettes une fois par jour
+Poids : 1
+~
+@2083 = ~Insigne contre le mauvais œil~
+@2084 = ~Cet insigne représente un grand œil. Il est destiné à empêcher les démons des Abysses de remarquer le lanceur lors de sorts d'invocation et d'apparaître à la place de la créature appelée. Dans la plupart des cas, les démons ainsi invoqués sont hostiles et attaquent le lanceur sans hésiter. Pour lancer correctement un sort d'invocation, il suffit que l'objet se trouve dans l'inventaire du lanceur ; <PRO_HESHE> n'a pas besoin de l'équiper.
+
+CARACTÉRISTIQUES :
+
+Spécial : empêche des démons hostiles d'apparaître à la place des créatures invoquées
+Utilisation : placer dans l'inventaire du lanceur
+
+Poids : 1~
+@2085 = ~Clef de pouvoir : Plans mauvais~
+@2086 = ~Une étrange créature est représentée sur cet insigne. Il s'agit d'une Clef de pouvoir permettant aux prêtres d'alignement mauvais de lancer des sorts divins dans les Abysses. Bien que les Abysses soit lui-même un plan maléfique, une telle Clef de pouvoir reste nécessaire aux lanceurs de sorts divins pour que leurs prières fonctionnent réellement. Il suffit que l'objet soit présent dans l'inventaire du prêtre ; <PRO_HESHE> n'a pas besoin de l'équiper.
+
+CARACTÉRISTIQUES :
+
+Spécial : empêche l'échec des sorts divins lancés par des prêtres d'alignement mauvais
+Utilisation : placer dans l'inventaire du lanceur
+
+Poids : 1~
+@2087 = ~Clef de pouvoir : Plans neutres~
+@2088 = ~Le symbole d'une divinité inconnue est représenté sur cet insigne. Il s'agit d'une Clef de pouvoir permettant aux prêtres d'alignement neutre de lancer des sorts divins dans les Abysses. En raison de la distance qui sépare les Abysses des Plans extérieurs neutres, l'utilisation d'une telle Clef est indispensable pour éviter l'échec d'un sort divin. Il suffit que l'objet soit présent dans l'inventaire du prêtre ; <PRO_HESHE> n'a pas besoin de l'équiper.
+
+CARACTÉRISTIQUES :
+
+Spécial : empêche l'échec des sorts divins lancés par des prêtres d'alignement neutre
+Utilisation : placer dans l'inventaire du lanceur
+
+Poids : 1~
+@2089 = ~Clef de pouvoir : Plans bons~
+@2090 = ~Cette statuette représente un Déva. Il s'agit d'une Clef de pouvoir permettant aux prêtres d'alignement bon de lancer des sorts divins dans les Abysses. En raison de la distance qui sépare les Abysses des Plans extérieurs bons, l'utilisation d'une telle Clef est indispensable pour éviter l'échec d'un sort divin. Il suffit que l'objet soit présent dans l'inventaire du prêtre ; <PRO_HESHE> n'a pas besoin de l'équiper.
+
+CARACTÉRISTIQUES :
+
+Spécial : empêche l'échec des sorts divins lancés par des prêtres d'alignement bon
+Utilisation : placer dans l'inventaire du lanceur
+
+Poids : 1~
+@2091 = ~Clef de sort : Plans intérieurs~
+@2092 = ~Grâce à cette Clef de sort, son porteur peut lancer les sorts liés aux Plans intérieurs. Comme les Plans extérieurs, tels que les Abysses, n'ont aucun lien direct avec les Plans intérieurs, les lanceurs de sorts doivent utiliser des objets pour établir cette connexion. Dans le cas présent, l'objet représente la grimace de la tête d'un élémentaire de terre.
+La Clef de sort ne peut pas être équipée ; elle doit simplement rester dans l'inventaire de la personne qui souhaite lancer des sorts élémentaires.
+
+CARACTÉRISTIQUES :
+
+Spécial : empêche l'échec des sorts élémentaires faisant appel aux Plans intérieurs, comme « Invocation d'élémentaire »
+Utilisation : placer dans l'inventaire du lanceur
+
+Poids : 6~
+@2093 = ~Sang de Déva~
+@2094 = ~Ce liquide est conservé dans une fiole rouge. Il s'agit en réalité du sang d'un Déva, extrait et recueilli au cours d'un rituel particulier. Jeté sur une autre créature, il inflige 5d6 points de dégâts d'acide. La fiole peut être lancée à environ 12 mètres et doit toucher sa cible pour agir. Comme il ne s'agit techniquement pas d'un objet magique, la résistance à la magie ne protège pas contre ses effets.
+
+CARACTÉRISTIQUES :
+
+Dégâts : 5d6 (acide ; jet de sauvegarde contre le souffle pour moitié)
+
+Portée : 12 m
+
+Poids : 1~
+@2095 = ~Corne de démon~
+@2096 = ~La corne d'un démon Tanar'ri, arrachée au reste du fiélon par un coup puissant. Elle semble capable d'ouvrir un portail menant à un fiélon qui chasse les Tanar'ri.~
+@2097 = ~Gousse de poivre~
+@2098 = ~Poivre de la Géhenne~
+@2099 = ~Ce gros poivron rouge, d'une variété qui vous est inconnue, dégage un arôme ardent et pénétrant.~
+@2100 = ~Ce poivre ne vient pas des Royaumes, mais d'une région plus sombre du Multivers : le plan de la Géhenne, patrie de fiélons et de démons. Son piquant dépasse donc tout ce qu'un mortel peut imaginer.~
+@2101 = ~Sphère du Bébilith~
+@2102 = ~À la demande du Bébilith, cette sphère doit être placée auprès de la statue de Graz'zt à Samora. Cela permettra au démon de se téléporter dans la ville et d'y semer le chaos. La manœuvre pourrait vous être utile si vous deviez un jour quitter Samora en toute hâte.~
+@2103 = ~Clef de la prison~
+@2104 = ~Cette clef était en possession de la Succube Maretta. Elle permet d'ouvrir l'entrée de la prison de Waukyne.~
+@2105 = ~Clef de portail~
+@2106 = ~Cette clef vous permet de retourner dans la cité de Samora.~
+@2107 = ~Pentacle~
+@2108 = ~Un pentagramme inversé, étoile à cinq branches, est fixé à cette amulette. Alors que les pentagrammes pointés vers le haut servent souvent de symbole protecteur, leur forme inversée est appréciée des créatures des Plans inférieurs. On raconte que des amulettes de ce genre permettent d'accéder à des zones interdites. Celle-ci semble liée aux fours ardents verts de Samora. La Succube Maretta, à la Maison des Comptes, souhaite la récupérer.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+– Le porteur est immunisé contre la peur
+– « Neutralisation du poison » une fois par jour
+
+Poids : 1~
+@2109 = ~Un pentagramme inversé, étoile à cinq branches, est fixé à cette amulette. Cette amulette particulière est conçue pour vous permettre de traverser les fours ardents du royaume de Graz'zt. Si vous savez l'utiliser correctement, elle vous donnera accès à la prison de Waukyne.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+– Le porteur est immunisé contre la peur
+– « Neutralisation du poison » une fois par jour
+
+Poids : 1~
+@2110 = ~Tête du général Baatezu~
+@2111 = ~C'était la tête de Gazgothan, général Baatezu et diable Cornugon. Il a de la chance que vous la lui ayez tranchée : bien pire l'aurait attendu s'il était retourné dans les Neuf Enfers annoncer sa défaite. Vous devez rapporter cette tête à Samora comme trophée attestant votre victoire sur les ennemis de la cité démoniaque. Cela améliorera certainement votre réputation dans la ville.~
+@2112 = ~Calice ouvragé~
+@2113 = ~Au premier regard, ce calice paraît précieux. En l'examinant de plus près, on constate toutefois que les gemmes ne sont que du verre taillé et que le métal est un alliage médiocre.~
+@2114 = ~Invocation de Modrons~
+@2115 = ~Invocation de Modrons
+(Conjuration/Convocation)
+
+Niveau : 3
+Portée : champ de vision du lanceur
+Durée : 4 tours
+Temps d'incantation : 3
+Zone d'effet : rayon de 15 m
+Jet de sauvegarde : aucun
+
+Dans le round qui suit l'incantation, le lanceur invoque 4 Modrons Monodrones, créatures extraplanaires originaires du Plan extérieur de Méchanus.
+Les Monodrones apparaissent n'importe où dans la zone d'effet du sort, au choix du lanceur. Ils attaquent les ennemis du lanceur au mieux de leurs capacités jusqu'à ce qu'il leur ordonne d'arrêter, que le sort expire ou qu'ils soient tués. Ces créatures n'effectuent pas de test de moral, mais disparaissent lorsqu'elles sont tuées. S'il n'y a aucun adversaire à combattre, les Modrons peuvent accomplir d'autres tâches si le lanceur est capable de communiquer avec eux et si leurs capacités physiques le permettent. Ce sort fut rendu célèbre par le mage Argramund du Roc, dont on ignore aujourd'hui où il se trouve.
+
+Monodrone
+Intelligence : semi-intelligent (2-4)
+Classe d'armure : 7
+Dés de vie : 1+1
+TAC0 : 19 ou 20
+Nombre d'attaques : 1
+Dégâts/attaque : 1d4
+Valeur en PX : 120
+
+Combat : les Monodrones sont immunisés contre les illusions et les magies affectant l'esprit, telles que charme, domination, immobilisation, paralysie et sommeil. La peur et les autres sorts agissant sur les émotions sont tout aussi inefficaces contre un Modron, de même que les attaques puisant leur puissance dans les Plans d'énergie positive ou négative, y compris les pouvoirs de drainage de vie, ainsi que les capacités des Illithids et autres êtres psioniques.~
+
+@2116 = ~Message scellé~
+@2117 = ~Ce récipient est formé de deux parties scellées l'une à l'autre selon un procédé qui vous est inconnu. Vous êtes incapable de l'ouvrir. Le Nalfeshnie Margrog vous a ordonné de livrer le contenant à une créature nommée « Aphul ». Celle-ci vous attend sur l'Escalier Infini, non loin de la porte menant à Samora.~
+@2118 = ~Larve~
+@2119 = ~Vous avez acheté cette Larve à la Guenaude nocturne Zhelamiss. Le Nalfeshnie Margrog souhaite la recevoir avant de vous révéler quoi que ce soit sur l'endroit où se trouve Waukyne.~
+@2120 = ~Reconnaissance de gage~
+@2121 = ~Ce billet de gage vous donne droit à une Larve. Vous l'avez reçu de la Guenaude nocturne Zhelamiss et devez l'apporter à son serviteur Saarixal, qui attend près de la sortie de sa demeure, à côté des Larves.~
+@2122 = ~Clef de sort : Altération~
+@2123 = ~Cette Clef de sort permet aux mages de lancer sans danger des sorts de l'école d'Altération dans les Abysses, où ces sorts risquent normalement de se retourner contre leur utilisateur et de produire un résultat désagréable.
+
+CARACTÉRISTIQUES :
+
+Spécial : permet de lancer sans risque des sorts d'Altération dans les Abysses
+Utilisation : placer dans l'inventaire du lanceur
+
+Poids : 6~
+@2124 = ~Sainte pièce de Waukyne~
+@2125 = ~Vous avez reçu cette amulette de la déesse Waukyne en remerciement de sa libération des griffes du prince démon Graz'zt. Cet objet puissant provient du légendaire manteau de pièces que la déesse porte toujours autour de ses épaules en tant que Dame de la Richesse. Par sa seule volonté, elle a façonné l'une de ces pièces pour en faire cette magnifique amulette et vous l'a offerte.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+– Résistance à la magie : +20 %
+– Jets de sauvegarde : +2
+– Charisme : +2
+– Protection contre la mort : protège contre les effets de sorts tels que « Cri de la banshee » et « Mot de pouvoir : mort »
+– Une fois par jour, le porteur peut créer 1d100 pièces d'or
+
+Poids : 1~
+@2126 = ~Cœur humain~
+@2127 = ~Il s'agit du cœur d'un être humain. Il semble frais, car le sang n'a pas encore coagulé.~
+@2128 = ~Clef des cellules~
+@2129 = ~Cette clef, prise à la Marilith Nasmaerae, ouvre toutes les cellules de la prison de Graz'zt.~
+@2130 = ~Clef de Maretta~
+@2131 = ~Cette clef appartenait autrefois à la Succube Maretta, maîtresse de Samora. Elle ouvre probablement la porte permettant de sortir de la prison de Graz'zt.~
+@2132 = ~Clef du coffre des Flèches d'Or~
+@2133 = ~Vous avez volé cette clef à Faerthae Garblueth, la prêtresse de service aux Flèches d'Or. Vous devez l'apporter à un voleur nommé Maendir.~
+@2134 = ~Alambic de vitalisation~
+@2135 = ~Un alambic est un appareil alchimique servant à produire des essences. Le corps central de celui-ci est constitué d'un chaudron en cuivre. Une fois par jour, la magie de l'objet s'éveille. Dans un doux bouillonnement, il recueille les énergies vitales environnantes et les distille en son sein. Ces énergies se condensent en une potion de soins, prête chaque jour à être utilisée par un aventurier.
+
+CARACTÉRISTIQUES :
+
+Capacités à charges :
+– Crée une potion de soins concentrée une fois par jour
+
+Poids : 15~
+@2136 = ~Alambic~
+@2137 = ~Un récipient de cuivre destiné à produire une essence inconnue.~
+@2138 = ~Charme des ténèbres~
+@2139 = ~Ce charme, autrefois propriété de la Guenaude nocturne Zhelamiss, est typique de ceux portés par toutes les Guenaudes nocturnes. Fabriqué dans la Gaste Grise, il guérit son propriétaire de toute maladie et confère un bonus de +2 à tous les jets de sauvegarde. Les Guenaudes nocturnes utilisent ces charmes pour devenir éthérées et s'introduire dans les rêves des mortels, allant souvent jusqu'à étouffer leurs victimes endormies. La création d'une telle amulette demande un mois et cent âmes, ce qui explique leur grande valeur et l'acharnement de leurs propriétaires à les récupérer lorsqu'elles sont volées. Les êtres d'alignement bon ne peuvent pas utiliser cet objet.
+
+CARACTÉRISTIQUES :
+
+– Jets de sauvegarde : +2
+– Protège contre les maladies
+– Le porteur peut devenir éthéré une fois par jour pendant trois rounds. Dans cet état, <PRO_HESHE> ne peut être affecté que par des attaques magiques ou spéciales, notamment des armes d'enchantement +1 ou supérieur ou des créatures capables d'atteindre les êtres normalement touchés uniquement par des armes magiques. Tant que <PRO_HESHE> est éthéré, le porteur bénéficie également de 25 % de résistance aux dégâts magiques.
+
+Poids : 1~
+@2140 = ~Robe des yeux~
+@2141 = ~Ce précieux vêtement a une apparence étrange : d'innombrables yeux de tissu, orientés dans toutes les directions, sont tissés ou cousus sur la robe. Son porteur peut ainsi regarder simultanément de tous côtés.
+La robe ne permet pas de repérer les êtres astraux ou éthérés. En revanche, elle révèle aisément les créatures dissimulées par des sorts ou cachées dans l'ombre, rendant impossible toute embuscade ou attaque-surprise contre son porteur. Elle protège également contre tous les effets provoquant la cécité.
+Enfin, le porteur peut activer l'un des yeux de la robe soit pour explorer les environs, soit pour lancer Vision véritable. Chaque utilisation consume l'un des yeux fixés au vêtement et dépense donc une charge. Lorsque tous les yeux ont été consommés, la robe peut toujours être portée, mais les sorts correspondants ne peuvent plus être utilisés.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+– Le porteur est protégé contre les attaques sournoises
+– Le porteur est immunisé contre la cécité
+
+Capacités à charges :
+– Le porteur peut lancer « Vision véritable » comme le sort de mage de niveau 6 du même nom
+– Le porteur peut lancer « Œil du magicien » comme le sort de mage de niveau 4 du même nom
+
+Poids : 4~
+@2142 = ~Peau grouillante~
+@2143 = ~La Peau grouillante est une armure de cuir couverte d'asticots qui ondulent en spirales sans fin sur le corps du porteur.
+
+L'armure offre une résistance accrue, mais entraîne également une putréfaction et une souillure constantes. Les asticots commencent à pénétrer sous la peau du porteur, se tortillant dans ses veines et dévorant sa chair, ce qui donne au porteur une apparence maladive et repoussante.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+– +5 % de résistance aux dégâts contondants, perforants, tranchants et de projectiles
+– Si le porteur est touché, l'adversaire subit 1d5 points de dégâts dus aux morsures d'asticots et, s'il rate un jet de sauvegarde contre la mort, contracte une maladie qui lui inflige 5 points de dégâts par round pendant les cinq rounds suivants
+– Charisme : -2
+– Constitution : -2
+
+Classe d'armure : 4 (2 contre les dégâts tranchants, 3 contre les dégâts perforants et les projectiles)
+Nécessite :
+ 6 en Force
+
+Poids : 7~
+@2144 = ~Masse-crâne~
+@2145 = ~Forgée dans la tragédie, cette masse incarne la corruption. Jadis, un paladin tomba en combattant des démons en Thanatos, une sinistre strate des Abysses. Son crâne, séparé du corps puis maudit au cours de sombres rituels, constitue aujourd'hui cette arme perverse.
+
+Depuis lors, l'arme permet de drainer la force de sa cible et de la transférer à son porteur. De plus, le crâne mord sa victime lorsqu'un coup atteint sa cible ; les dégâts sont modestes, mais la morsure n'en est pas moins désagréable.
+
+CARACTÉRISTIQUES :
+
+Capacités de combat :
+– 25 % des coups drainent 1 point de Force à la cible et le transfèrent au porteur (cumulatif, pendant cinq rounds)
+
+TAC0 : -3
+Dégâts : 1d6+3 (contondants), +1 perforant
+Facteur de vitesse : 7
+Type de maîtrise : masse
+Type : arme à une main
+Nécessite :
+ 10 en Force
+
+Poids : 3~
+@2146 = ~Potion de rédemption~
+@2147 = ~Cette potion sombre et chatoyante est imprégnée d'une aura mystérieuse où flottent des bulles lumineuses. On raconte qu'il s'agit d'une essence mêlée aux larmes d'un Aasimon, ce qui expliquerait l'éclat du liquide. L'élixir possède une saveur à la fois douce et amère. Il peut restaurer la force vitale drainée : un personnage qui le boit récupère les niveaux perdus et supprime les effets négatifs associés.
+
+CARACTÉRISTIQUES :
+
+– Lance « Restauration mineure »~
+@2148 = ~Corne de bienveillance~
+@2149 = ~Forgée dans la prestigieuse Haute Académie de Fochlucan à Lunargent, cette corne de bronze, munie d'une embouchure taillée dans une corne de licorne, est bien plus qu'un simple instrument de musique. Créée par des bardes visionnaires à l'aide d'ingrédients magiques, elle incarne la bonté pure. Lorsqu'on en joue, ses mélodies font naître un bouclier rayonnant qui protège du mal.
+
+CARACTÉRISTIQUES :
+
+Capacités à charges :
+– Souffler dans la corne produit l'effet « Protection contre le mal » une fois par jour
+  Durée : 1 tour par niveau
+  Zone d'effet : rayon de 4,5 m
+
+Poids : 3~
+@2150 = ~Amulette de l'invocateur~
+@2151 = ~Amulette de protection +2, « Amulette de l'invocateur »
+Il y a d'innombrables âges, à une époque où le voile entre les royaumes n'était qu'un murmure et où les courants arcaniques se déchaînaient sans entraves, l'éminent invocateur Kaelarion forgea l'Amulette de l'invocateur. Kaelarion s'en servait pour guider des cercles de mages à travers les délicates voies séparant les plans, en toute sécurité. Mais le destin se montra funeste : lors de l'invocation périlleuse d'un Glabrezu, la trahison de son propre apprenti causa la mort de Kaelarion. Par une cruelle ironie, le démon captura l'apprenti félon ainsi que l'amulette et les entraîna tous deux dans les profondeurs obscures des Abysses.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+– Classe d'armure : +2
+– Jets de sauvegarde : +2
+– Le porteur bénéficie en permanence d'une protection contre le mal
+
+Poids : 1~
+@2152 = ~Cône de l'Arbre-Monde~
+@2153 = ~On pense que ce cône est une graine de l'Arbre-Monde, mais seul un habitant de cet endroit pourrait l'affirmer avec certitude. Quoi qu'il en soit, le cône confère à celui qui le consomme une quantité considérable de vitalité, ce qui se traduit par une augmentation temporaire des points de vie. Il peut être utilisé une fois par jour, les graines repoussant pendant la nuit.
+
+CARACTÉRISTIQUES :
+
+Capacités à charges :
+– Points de vie : +10 % (base uniquement) une fois par jour
+Durée : 10 rounds
+
+Poids : 1~
+@2154 = ~Potion de souvenir agonisant~
+@2155 = ~Cette potion trouble et nauséabonde fait ressurgir des souvenirs brefs et perdus. Elle permet ainsi aux lanceurs de sorts de se rappeler des sorts déjà lancés et de pouvoir les utiliser de nouveau. La potion est toutefois loin d'être digeste ; elle est au contraire extrêmement toxique. De plus, selon leur nature, les souvenirs ravivés peuvent provoquer des épisodes temporaires de confusion.
+
+CARACTÉRISTIQUES :
+
+– Restaure un sort de niveau 8 ou inférieur
+– L'utilisateur est empoisonné pendant 10 secondes et subit 2 points de dégâts par seconde
+– L'utilisateur est confus pendant trois rounds (jet de sauvegarde contre les sorts pour annuler)
+
+Poids : 1~
+@2156 = ~Nourrisson de Daemevera~
+@2157 = ~Il s'agit de l'enfant de la Succube Daemevera, lui-même une sorte de démon qui deviendra très probablement un Alu-fiélon en grandissant. Ses yeux d'un bleu éclatant vous fixent avec dureté et malveillance. Vous devez apporter le nourrisson à Mefisto en échange de la révélation d'un moyen de vous débarrasser du prêtre de Cyric Gildaar.~
+@2158 = ~Clef de Daemevera~
+@2159 = ~Cette étrange clef ressemble à un croisement entre un fouet et un hochet.~
+@2160 = ~Bouteille d'eau du Styx~
+@2161 = ~La bouteille contenant l'eau sombre du Styx semble parfaitement ordinaire : rien ne trahit ses origines surnaturelles ni son pouvoir d'oubli.
+Le flacon lui-même est en verre transparent. À l'intérieur se trouve un liquide sombre et opaque, une eau d'un noir de jais qui clapote lentement et paresseusement. Elle paraît absorber jusqu'à la lumière, et il est impossible d'en distinguer le fond. C'est l'eau du Styx, le fleuve qui traverse les Plans inférieurs. Son contact peut provoquer une amnésie incurable ; quiconque la boit ou la touche risque de perdre ses souvenirs et jusqu'à sa propre identité.~
+@2162 = ~Tambour des Abysses~
+@2163 = ~Le Tambour des Abysses est façonné à partir de l'essence même des Abysses. Cette timbale de cuir sombre et durci repose sur un socle orné de la tête tranchée d'un loup, figée dans une éternelle grimace d'agonie. Ses yeux brillent d'une sinistre lueur jaune, tandis que son pelage est couvert de runes tortueuses qui le lient à les Abysses.
+
+Tous les six jours, frapper le tambour d'un coup produisant un grondement abyssal assourdissant permet d'invoquer le Glabrezu Belthazaar. Lorsque l'instrument résonne, la tête du loup s'illumine et des ombres s'enroulent autour d'elle, annonçant l'arrivée de Belthazaar. Mais Belthazaar est rusé et indépendant : il cherchera à servir ses propres desseins obscurs plutôt qu'à se soumettre entièrement à la volonté de l'invocateur.
+
+CARACTÉRISTIQUES :
+
+Capacités à charges :
+– Invoque le Glabrezu Belthazaar, qui sert l'invocateur pendant une minute mais ne peut pas être contrôlé directement
+– L'instrument peut être utilisé chaque jour, mais Belthazaar ne répond à l'appel qu'une fois tous les six jours
+
+Poids : 1~
+@2164 = ~Tambour~
+@2165 = ~Une étrange timbale.~
+@2166 = ~Dague de Belthazaar~
+@2167 = ~Cette dague vous a été remise par le Glabrezu Belthazaar. Vous devez convaincre Ormad Sulpar de se couper avec.~
+@2168 = ~Oreiller de la Guenaude nocturne~
+@2169 = ~Vous devez apporter cet oreiller à Ormad Sulpar. S'il s'en couvre le visage, il suffoquera. Son âme appartiendra alors enfin à la Guenaude nocturne Zhelamiss, qui vous a promis une récompense pour cet acte maléfique.~
+@2170 = ~Potion des dix mille âmes~
+@2171 = ~La Potion des dix mille âmes est un élixir sombre et dangereux préparé par la Guenaude nocturne Zhelamiss. La bouteille est d'un noir profond et son contenu semble être un tourbillon sans fin de brume obscure. Elle est conservée dans un flacon de verre dont la surface est parcourue de minuscules fissures, comme s'il peinait à résister à l'immense pression des âmes emprisonnées à l'intérieur. Le flacon est scellé par un bouchon d'argent gravé de symboles étranges et inquiétants. Cette potion est une dangereuse source de puissance et de savoir. Quiconque la boit reçoit immédiatement 10 000 points d'expérience, un accroissement considérable de ses capacités et compétences. Cet afflux de connaissances et d'expérience peut permettre à un personnage de progresser et de se dépasser d'une manière jusque-là inimaginable. Mais la puissance de la potion a un prix. Les 10 000 points d'expérience accordés à son utilisateur ne viennent pas de nulle part : ils ont été arrachés aux âmes de dix mille morts, capturées cruellement par la Guenaude nocturne avant d'être distillées dans la potion. Ces âmes sont désormais à jamais prisonnières de l'élixir et hurlent en silence dans l'espoir d'être libérées. En buvant la potion, vous absorbez en vous les âmes et toutes les expériences qu'elles ont vécues.
+
+À chaque consommateur de décider s'il sera ensuite rongé par la culpabilité et les ténèbres, sachant que les âmes des défunts ont été sacrifiées au profit de sa propre puissance.
+
+CARACTÉRISTIQUES :
+– Accorde immédiatement 10 000 points d'expérience à l'utilisateur
+
+Poids : 1~
+@2172 = ~a reçu 10 000 points d'expérience.~
+@2173 = ~Note de Gildaar~
+@2174 = ~Gildaar,
+l'opération de sauvetage de la déesse semble avoir commencé. D'après les conversations que j'ai surprises, un <PRO_RACE> nommé <CHARNAME> mène les sauveteurs sur l'Escalier Infini afin de rejoindre la cité de Samora, en Azzagrat. Veille à ce que le groupe échoue, et je te récompenserai généreusement lorsque je serai devenue maîtresse de l'abbaye, une fois que ce vieux croûton de Tharundar Olehm n'aura plus la faveur des fidèles.~
+@2175 = ~Pomme de pin~
+@2176 = ~Une grosse pomme de pin à l'odeur prononcée. Elle pèse lourd dans la main.~
+@2177 = ~Bâton de mort~
+@2178 = ~Le crâne d'un Nabassu est fixé à ce bâton. Bien que les orbites où se trouvaient autrefois les yeux du démon soient désormais creuses et vides, le crâne semble pouvoir immobiliser les êtres sous son regard. Le bâton fut créé dans les profondeurs infinies et chaotiques des Abysses, où règnent les ténèbres et le mal. Ses origines et l'histoire de sa création sont enveloppées de noirceur et d'horreur.
+
+CARACTÉRISTIQUES :
+
+– Une fois par jour, peut transformer à la fin d'un round une créature humanoïde possédant au maximum 8 dés de vie en Blême si elle rate un jet de sauvegarde contre la mort.
+– Les humanoïdes possédant 9 dés de vie ou plus ne sont pas affectés par le bâton.
+– Les créatures non humanoïdes, telles que les aberrations, morts-vivants ou dragons, sont également immunisées contre cet effet.
+
+Portée : 1,5 m
+Durée : permanente
+Zone : 1 créature
+Jet de sauvegarde : oui (contre la mort)
+Nécessite :
+ 9 en Intelligence
+
+Poids : 1~
+@2179 = ~Diadème des Fey'ri~
+@2180 = ~Ce diadème, forgé par les Fey'ri — hybrides démoniaques issus de Tanar'ri et d'elfes — contient une gemme rouge imprégnée du sang de nombreux Fey'ri sacrifiés. Il confère à son porteur des ailes noires et diverses résistances, reflets de l'héritage démoniaque de ses créateurs.
+
+Ces caractéristiques sont extrêmement répugnantes pour la plupart des habitants des Royaumes. Les personnages d'alignement bon doivent réussir un jet de sauvegarde contre la métamorphose lorsqu'ils équipent l'objet ; en cas d'échec, l'influence démoniaque du diadème les corrompt et leur alignement devient chaotique mauvais.
+
+Le diadème ne peut être porté que par des elfes et des demi-elfes. On pense que les Fey'ri utilisent cet objet afin d'attirer davantage de leurs cousins elfes du côté démoniaque.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipé :
+– Charisme : -5
+– Le porteur développe des ailes noires qui lui donnent l'apparence d'une créature des Abysses
+– Résistance au feu : +50
+– Résistance à l'électricité : +50
+– Résistance au poison : +50
+– Objet féerique : utilisable uniquement par les elfes et demi-elfes
+– Lors de la première utilisation du diadème, les personnages d'alignement bon deviennent chaotiques mauvais s'ils ratent un jet de sauvegarde contre la métamorphose
+– Ne protège pas contre les coups critiques
+
+Poids : 2~
+@2181 = ~Cri du désespoir~
+@2182 = ~Cette armure de plates est façonnée à l'image de la grimace d'un fiélon.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+– Lorsque le porteur est touché au combat, l'armure a 5 % de chances de lancer Cape de peur sur lui
+Classe d'armure : 0
+Bonus de CA :
+ -3 contre les projectiles
+ -3 contre les armes perforantes
+ -4 contre les armes tranchantes
+Nécessite :
+ 15 en Force
+
+Poids : 35~
+@2183 = ~Insigne de maison de Val'kreen~
+@2184 = ~Insigne de Val'kreen, maison Dlardrageth~
+@2185 = ~Cette plaque circulaire est ornée d'une créature ailée. Au dos est gravée l'inscription : « Insigne appartenant à Val'kreen, Fey'ri ».~
+@2186 = ~Cet insigne représente le symbole de la maison Dlardrageth, une dynastie d'elfes démoniaques également appelés Fey'ri. Ces créatures sont des hybrides de Tanar'ri et d'elfes. Elles ne partagent plus grand-chose avec leurs ancêtres elfes et sont réputées cruelles et impitoyables. L'inscription au dos indique : « Insigne appartenant à Val'kreen, Fey'ri ».~
+@2187 = ~Fendeur de diables~
+@2188 = ~Cette hallebarde fut conçue dans un unique but : anéantir les habitants des Neuf Enfers, qui se nomment eux-mêmes Baatezu et que les mortels appellent généralement des diables. Grossière mais efficace, l'arme fut enchantée par les forgerons Tanar'ri des Abysses afin d'infliger des dégâts supplémentaires à leurs ennemis jurés.
+
+CARACTÉRISTIQUES :
+
+TAC0 : +3
+Dégâts : 1d10+3, +6 contre les Baatezu
+Type de dégâts : perforants
+Facteur de vitesse : 6
+Type de maîtrise : hallebarde
+Type : arme à deux mains
+Nécessite :
+ 13 en Force
+
+Poids : 12~
+@2189 = ~Modeleur de chair +3~
+@2190 = ~Cette massue est couverte de chair humaine, cousue à l'aide des tendons d'une autre créature inconnue pour former une arme. Comme toutes les massues, elle n'inflige pas des dégâts extraordinaires, mais chaque coup peut déformer le corps de la victime, provoquant d'atroces souffrances ainsi qu'une perte permanente de Dextérité et de Charisme qui ne peut être annulée que par une dissipation de la magie.
+
+CARACTÉRISTIQUES :
+
+Capacités de combat :
+– Chaque coup réussi déforme le corps de la victime et lui fait perdre cumulativement 1 point de Dextérité et 1 point de Charisme si elle rate un jet de sauvegarde contre la métamorphose. Cette altération est permanente jusqu'à dissipation. Si l'une de ces caractéristiques tombe à 0, la victime se désagrège en une masse de chair et meurt.
+
+TAC0 : +3
+Dégâts : 1d6+3
+Type de dégâts : contondants
+Facteur de vitesse : 4
+Type de maîtrise : gourdin
+Type : arme à une main
+Nécessite :
+ 5 en Force
+
+Poids : 3~
+@2191 = ~Perce-cœur~
+@2192 = ~Depuis l'aube des temps, les sombres forges des Abysses produisent des armes destinées à torturer et tourmenter les mortels, et cette lance appelée « Perce-cœur » ne fait pas exception. On raconte qu'elle fut forgée dans un fer obscur et imprégnée, par de sanglants rituels, de la puissance d'âmes emprisonnées. La dent d'un puissant démon déchu fut utilisée comme pointe afin de parachever cette arme meurtrière.
+
+CARACTÉRISTIQUES :
+
+Capacités de combat :
+– La cible touchée commence à saigner et subit 2d4 points de dégâts perforants supplémentaires (jet de sauvegarde contre la mort pour annuler)
+
+TAC0 : +3
+Dégâts : 1d6+3 (perforants)
+Facteur de vitesse : 3
+Type de maîtrise : lance
+Type : arme à deux mains
+Nécessite :
+ 5 en Force
+
+Poids : 3~
+@2193 = ~Étoiles éternelles de Séluné~
+@2194 = ~On raconte que ces bracelets d'argent, appelés Étoiles éternelles de Séluné, guident et protègent ceux qui les portent durant les nuits les plus sombres, les préservant même des ombres les plus périlleuses. Selon la légende, les gemmes qui ornent les deux bracelets seraient des larmes cristallisées versées par Notre Dame d'Argent elle-même.
+
+CARACTÉRISTIQUES :
+
+Capacités à charges :
+– Aide (comme le sort de prêtre de niveau 2) une fois par jour
+– Tue une Ombre ciblée une fois par jour
+
+Capacités une fois équipés :
+– Protection contre la cécité
+– Protection contre le sort « Globe des ténèbres »
+– Classe d'armure et jets de sauvegarde : +2 contre les Ombres
+
+Poids : 1~
+@2195 = ~Coupe~
+@2196 = ~Coupe de Séluné~
+@2197 = ~Cette belle coupe est gravée de symboles représentant des étoiles.
+
+Poids : 2~
+@2198 = ~Il s'agit d'une coupe sacrée de Séluné. Boire son contenu peut accorder la protection de la Vierge de la Lune.
+
+CARACTÉRISTIQUES :
+
+Capacités à charges :
+– Boire à la Coupe de Séluné confère aléatoirement l'un de ces deux effets : Protection contre le mal ou Sanctuaire
+
+Poids : 2~
+@2199 = ~Bâton de douce putréfaction~
+@2200 = ~Ce bâton appartenait autrefois à une ancienne amante de Graz'zt. Si l'arme fut jadis une incarnation de la puissance de la nature, elle n'est plus aujourd'hui qu'une caricature tordue de ce qu'elle était. Elle est couverte d'un étrange mucus à l'odeur sucrée. Les quelques feuilles qui y poussent encore présentent des teintes malsaines, et du mycélium s'étend sur sa partie inférieure.
+
+On raconte que les toxines sucrées suintant du bâton peuvent être assez enivrantes pour conférer un certain charme à son porteur, tandis que le mycélium aiderait à invoquer des Myconides.
+
+CARACTÉRISTIQUES :
+
+Capacités à charges :
+– Invoque des champignons une fois par jour
+
+Capacités une fois équipé :
+– Charisme : +1
+– Chance : +1
+
+TAC0 : +3
+Dégâts : 1d6+3, +1 d'acide
+Type de dégâts : contondants
+Facteur de vitesse : 1
+Type de maîtrise : bâton
+Type : arme à deux mains
+Nécessite :
+ 5 en Force
+
+Poids : 2~
+@2201 = ~Heaume du chevalier-assassin~
+@2202 = ~Ce heaume fut jadis porté par un chevalier nommé Vlasnisz, qui quitta sa confrérie après que ses frères lui eurent tourné le dos lorsqu'il consacra sa vie à venger sa bien-aimée Vracl, sauvagement assassinée par une chevaleresse qu'il ne pouvait tout simplement pas aimer.
+
+Vlasnisz décida que ce meurtre ne pouvait être ni oublié ni pardonné. Il devint lui-même une bête, mais... sans celle qu'il aimait, il ne pouvait simplement emprunter aucun autre chemin.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipé :
+– TAC0 : +1 (corps à corps uniquement)
+– Multiplicateur d'attaque sournoise : +1
+– Protège contre les coups critiques
+– Ne peut être retiré qu'avec un sort de Délivrance de la malédiction
+
+Poids : 2~
+@2203 = ~Nourri-au-sang +2~
+@2204 = ~Connu sous le nom de Nourri-au-sang, ce vorace bouclier moyen est auréolé de légendes. On raconte que lorsque ses plaques sont trempées dans le sang de son porteur, il acquiert une force incomparable et offre une protection redoutable contre d'innombrables menaces.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipé :
+– Intelligence : +1
+– Classe d'armure : +3
+
+Capacités de combat :
+– Lorsque les points de vie du porteur tombent sous 25 % de leur maximum, il gagne un bonus supplémentaire de +2 à la classe d'armure ainsi que +1/2 attaque par round
+
+Nécessite :
+ 12 en Force
+
+Poids : 5~
+@2205 = ~Flacon-éclair~
+@2206 = ~Ce récipient servait à capturer la foudre. Selon la rumeur, les gnomes de Lantan accomplissent cette dangereuse opération en faisant voler leurs navires célestes directement au cœur d'un orage afin d'y emprisonner les éclairs. Lorsque le récipient est ouvert, la foudre est libérée. Jusqu'à six cibles peuvent ainsi être frappées. Une fois toute la foudre échappée, l'objet devient inutile. Il faut au moins comprendre un peu son fonctionnement et faire preuve d'une bonne dextérité pour manier le mécanisme complexe qui permet de l'ouvrir et de le refermer ; après tout, les gnomes qui ont conçu un tel objet ne sont pas réputés habiles bricoleurs sans raison.
+
+CARACTÉRISTIQUES :
+
+Capacités à charges :
+– Six Éclairs
+  Dégâts : 3d6 électriques (jet de sauvegarde contre les baguettes pour moitié)
+  Portée : 30 m
+  Zone d'effet : trajectoire des éclairs
+
+Nécessite :
+ 9 en Intelligence
+ 13 en Dextérité
+
+Poids : 1~
+@2207 = ~Perdant condamné~
+@2208 = ~« Perdant condamné » est une épée bâtarde forgée par un armurier humain qui cherchait à créer l'arme ultime. Trop sûr de son talent, il fit appel à une aide démoniaque pour la perfectionner, lui conférant une puissance redoutable et une précision inégalée. Mais lorsque son porteur manqua pour la première fois une attaque en combat, l'épée se proclama « Perdant condamné » et disparut, se téléportant au hasard à travers le Multivers.
+
+Depuis lors, l'arme suit toujours le même étrange schéma. Elle apparaît puis disparaît dès que son porteur manque une attaque ou commet une erreur critique, à la recherche d'un maître plus « digne » capable de maîtriser parfaitement l'art de l'épée. Comme tous les mortels commettent tôt ou tard des erreurs, il est évident que la lame n'a encore jamais trouvé de porteur auprès duquel elle accepte de rester. La liste de ses anciens propriétaires est aussi longue que celle des ennemis abattus par cette arme. Un guerrier avisé devrait réfléchir sérieusement avant de compter sur ses capacités : à la moindre faute, l'arme risque de disparaître au pire moment, ce qui peut s'avérer fatal pour <PRO_HIMHER> en plein combat.
+
+CARACTÉRISTIQUES :
+
+Capacités de combat :
+– Lorsque le porteur manque une attaque, l'épée disparaît de ses mains et se téléporte vers un autre endroit aléatoire du Multivers.
+
+TAC0 : +5
+Dégâts : 2d4+5
+Type de dégâts : tranchants
+Facteur de vitesse : 3
+Type de maîtrise : épée bâtarde
+Type : arme à une main
+Nécessite :
+ 11 en Force
+
+Poids : 5~
+@2209 = ~La Vision ardente~
+@2210 = ~Si l'on en croit les légendes, cet anneau était autrefois un banal anneau d'infravision. Il appartenait cependant à un rôdeur humain qui fut emmené dans les Neuf Enfers, où les créatures maléfiques de ce lieu le brûlèrent vif. On raconte que tandis qu'il hurlait, sa douleur se mêla aux flammes et fendit l'anneau. Sa magie se mit à brûler et la nature de l'objet fut changée à jamais.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipé :
+– Infravision jusqu'à 36 m
+– Résistance au feu : +10 %
+– Résistance au froid : +10 %
+
+– Chaque fois que le porteur de l'anneau tue quelqu'un, <PRO_HESHE> reçoit +6 % de résistance au feu et au froid pendant 3 rounds ; il existe également 25 % de chances que le propriétaire gagne +1 au jet de sauvegarde contre la mort pendant la même durée
+
+Poids : 0~
+@2211 = ~Face +3~
+@2212 = ~Cette épée courte +3, tout comme sa jumelle « Pile », appartenait aux élus d'une divinité de la richesse appelée Kol Korran. Kol Korran est vénéré aussi bien par les marchands et négociants honnêtes que par les voleurs et escrocs qui se livrent à des affaires moins honorables. De nombreuses histoires circulent à propos de ces deux lames. Certains affirment qu'elles furent forgées à partir d'une grande pièce d'or provenant du trésor personnel du Seigneur du Monde et de la Richesse. La pièce fut fendue en deux, donnant naissance aux deux lames opposées « Face » et « Pile ».
+Bien que cette épée soit déjà puissamment enchantée, elle est liée à sa jumelle « Pile ». Maniée seule, elle trahit son porteur et « dévore » son or. La lame est toujours chaude au toucher.
+
+Si les légendes disent vrai, les deux épées furent volées par des entités démoniaques.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+- Chance : +1
+- Charisme : +2
+- Classe d'armure et jets de sauvegarde : +2 contre les voleurs
+- Chaque coup réussi contre le porteur détruit 10 pièces d'or, sauf si celui-ci manie également la lame jumelle : Pile +3
+
+Capacités de combat :
+- Frappe comme une arme +4
+
+TAC0 : +3
+Dégâts : 1d6+3, +1 dégât de feu
+Type de dégâts : perforants
+Facteur de vitesse : 1
+Type de maîtrise : épée courte
+Type : arme à une main
+Nécessite :
+ 5 en Force
+
+Poids : 2~
+@2213 = ~Pile +3~
+@2214 = ~Cette épée courte +3, tout comme sa jumelle « Face », appartenait aux élus d'une divinité de la richesse appelée Kol Korran. Kol Korran est vénéré aussi bien par les marchands et négociants honnêtes que par les voleurs et escrocs qui se livrent à des affaires moins honorables. De nombreuses histoires entourent ces deux lames. Certains affirment qu'elles furent forgées à partir d'une grande pièce d'or provenant du trésor personnel du Seigneur du Monde et de la Richesse. La pièce fut fendue en deux, donnant naissance aux deux lames opposées « Face » et « Pile ».
+Bien que cette épée soit déjà puissamment enchantée, elle est liée à sa jumelle « Face ». Maniée seule, elle trahit son porteur et « dévore » son or. La lame est toujours chaude au toucher.
+
+Si les légendes disent vrai, les deux épées furent volées par des entités démoniaques.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+- Connaissance : +12
+- Intelligence : +2
+- Classe d'armure et jets de sauvegarde : +2 contre les voleurs
+- Chaque coup réussi contre le porteur détruit 10 pièces d'or, sauf si celui-ci manie également la lame jumelle : Face +3
+
+Capacités de combat :
+- Frappe comme une arme +4
+
+TAC0 : +3
+Dégâts : 1d6+3, +1 dégât magique
+Type de dégâts : perforants
+Facteur de vitesse : 1
+Type de maîtrise : épée courte
+Type : arme à une main
+Nécessite :
+ 5 en Force
+
+Poids : 2~
+@2215 = ~Pierre ioun de l'idiot~
+@2216 = ~Cette impressionnante pierre ioun est maudite. Lorsqu'elle est équipée, elle réduit l'intelligence de son porteur au niveau de celle d'un imbécile.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+– Intelligence fixée à 1
+
+Poids : 0~
+@2217 = ~Carreau plaqué argent~
+@2218 = ~Les carreaux plaqués argent sont des carreaux d'arbalète ordinaires recouverts d'argent, mais non entièrement fabriqués dans ce métal. L'argent est généralement tendre : une lame ou une pointe de flèche en argent pur se briserait ou s'émousserait rapidement au combat. Recouvrir une arme d'argent permet donc de conserver la solidité du fer ou de l'acier tout en bénéficiant des propriétés de l'argent lorsqu'elles sont nécessaires.
+Certains monstres immunisés ou résistants aux armes non magiques sont vulnérables aux armes d'argent. C'est notamment le cas de démons et de diables, de certains morts-vivants ou encore de créatures féeriques telles que les Guenaudes nocturnes. Une arme plaquée argent permet de contourner ces résistances. Les fidèles de Séluné fabriquent toutefois ces carreaux d'arbalète dans un tout autre but : combattre les lycanthropes tels que les rats-garous et les loups-garous.
+
+CARACTÉRISTIQUES :
+
+Capacités de combat :
+– Frappe comme une arme magique +5 contre les lycanthropes, les morts-vivants et les fiélons des Plans inférieurs tels que les Baatezu (diables) et les Tanar'ri (démons)
+
+Dégâts : 1d8 (projectile)
+Lanceur : arbalète
+
+Poids : 0~
+@2219 = ~Poème de Riven~
+@2220 = ~L'Escalier Infini
+
+Un poème de Riven Marchevent, barde au service de la Vierge de la Lune
+
+« Par d'infinies marches montant vers les cieux,
+Un escalier s'élève, immense et mystérieux.
+La lune, dans la nuit, répand sa clarté,
+Et dévoile les secrets que l'ombre a cachés.
+
+Danse des plans, royaume sans frontière,
+À travers la nuit où nul nom ne demeure.
+Chaque marche est l'écho d'un âge disparu,
+Et conte des secrets qui restent inconnus.
+
+L'Escalier Infini, chemin démesuré,
+Promet mille réponses, énigme à déchiffrer.
+Mais dans le silence aux teintes abyssales,
+Les échos s'évanouissent et les âmes se réparent.
+
+Lune et étoiles, guides dans la nuit,
+Mènent le voyageur là où le chemin fuit.
+Puissent ces marches, par l'espace et le temps,
+Conduire vers la paix, le calme et des jours meilleurs. »~
+@2221 = ~Anneau de protection +3~
+@2222 = ~Si la colère ne suffit pas, essayez donc la sérénité.~
+@2223 = ~Diadème~
+@2224 = ~Cette coiffe est ornée d'une gemme rouge.~
+@2225 = ~Tranche-venin~
+@2226 = ~Ce puissant cimeterre fut forgé dans une strate des Abysses appelée les « Ruches du Foreur ». Tharzax, seigneur démon du poison, y règne en maître. Ses champions les plus loyaux ont reçu des cimeterres de ce type afin de répandre la parole du Seigneur du Poison à travers le Multivers.
+
+CARACTÉRISTIQUES :
+
+Capacités de combat :
+– La cible touchée subit 1 point de dégâts de poison par seconde pendant 6 secondes (jet de sauvegarde contre le poison pour annuler)
+
+TAC0 : +3
+Dégâts : 1d8+3 (tranchants)
+Facteur de vitesse : 2
+Type de maîtrise : cimeterre/wakizashi/ninjato
+Type : arme à une main
+Nécessite :
+ 10 en Force
+
+Poids : 1~
+@2227 = ~Notes de Verin~
+@2228 = ~Ce parchemin contient quelques notes manifestement rédigées par Verin. L'écriture est élégante, mais possède quelque chose de malsain. Plusieurs passages attirent votre attention :
+- « Maretta, intrigante et séductrice, gouverne Samora d'une main de fer. Elle dissimule ses véritables intentions derrière un voile de tentation et de tromperie et trahira bientôt Graz'zt. Elle rend secrètement hommage à un autre seigneur démon, mais lequel ? Orcus, peut-être ? »
+- « Mefisto, le rusé crieur public, connaît les secrets les plus sombres de Samora. Ses paroles sont des dagues aiguisées par le mensonge et l'intrigue. Il danse au rythme du pouvoir. Pour l'instant, il semble toutefois loyal envers Graz'zt. Je lui ai demandé de surveiller les étrangers qui chercheraient la captive de Graz'zt dans la ville. Il m'a signalé deux mortels : un humain nommé Gildaar et un <PRO_RACE> nommé <CHARNAME>. Il les surveille tous les deux et me fera son rapport avant que l'un ou l'autre ne devienne dangereux. »
+« Margrog, le marchand Nalfeshnie, porte le poison de la trahison dans ses yeux sombres. Il négocie les âmes comme un boucher vend sa viande. Sa loyauté apparente n'est qu'un masque dissimulant ses ambitions égoïstes. Pas digne de confiance. »
+« La captivité de Waukyne est une source d'instabilité à Samora. Nous devons veiller à ce qu'elle ne soit pas libérée. Nos efforts affaiblissent sa présence divine, mais elle reste une menace potentielle. »
+« <CHARNAME> fait preuve d'une détermination et d'une force peu communes. Je devrais garder un œil sur <PRO_HIMHER>, car <PRO_HISHER> destin pourrait être déterminant pour le nôtre. <PRO_HESHE> vient libérer Waukyne ? Ou rejoindre Maretta pour arracher Graz'zt à Samora ? »
+~
+@2229 = ~Lame sanglante~
+@2230 = ~Cette dague est enduite de la sève de l'Arbre Gueule-de-fer. Cette plante des Plans inférieurs pousse principalement dans les Abysses. Sa sève empêche les plaies de se refermer rapidement : la victime continue donc de saigner longtemps. La lame reste en permanence couverte de sang frais qui goutte, preuve de son utilisation régulière comme instrument de mort.
+
+CARACTÉRISTIQUES :
+
+Capacités de combat :
+– La cible commence à saigner et subit 2 points de dégâts supplémentaires par round jusqu'à avoir subi un total de 10 points de dégâts
+
+TAC0 : +3
+Dégâts : 1d4+3 (perforants)
+Facteur de vitesse : 0
+Type de maîtrise : dague
+Type : arme à une main
+Nécessite :
+ 3 en Force
+
+Poids : 0~
+@2231 = ~Protection contre le poison~
+@2232 = ~Protection contre le poison
+(Abjuration)
+
+Niveau : 2
+Portée : créature touchée
+Durée : 10 rounds
+Temps d'incantation : 3
+Zone d'effet : créature touchée
+Jet de sauvegarde : aucun
+
+Grâce à ce sort, la créature choisie devient immunisée contre les poisons et venins administrés par contact avec la peau, ingestion, piqûre, morsure ou arme. Les toxines d'autres types continuent de l'affecter normalement. Les poisons déjà présents dans son organisme au moment de l'incantation ne sont pas non plus neutralisés.~
+@2233 = ~Baguette de courage~
+@2234 = ~Une Baguette de courage insuffle du courage aux bénéficiaires de son effet et porte leur moral à son maximum. Leur moral revient progressivement à la normale à mesure que la durée du sort s'achève. S'ils sont victimes d'une peur magique, ils retrouvent leur sang-froid. Comme toutes les baguettes, celle-ci ne peut être utilisée qu'un nombre limité de fois avant d'être détruite.
+
+CARACTÉRISTIQUES :
+
+Capacités à charges :
+– Lance « Résistance à la peur »
+  Portée : 30 m
+  Cible : une créature
+  Zone d'effet : rayon de 4,5 m
+  Durée : 1 heure
+
+Nécessite :
+ 9 en Intelligence
+
+Poids : 1~
+@2235 = ~Amulette de résistance à la peur~
+@2236 = ~Amulette de résistance à la peur
+Cette amulette en forme de cœur augmente le moral de son porteur et protège <PRO_HIMHER> de tous les effets de peur. Des objets de ce type existent sous d'innombrables variantes sur une multitude de plans d'existence ; après tout, dans le Multivers, il y a toujours une bonne raison de fuir quelque chose ou quelqu'un sous l'effet d'une peur panique.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+– Le porteur de l'amulette est protégé contre tous les effets de peur
+
+Poids : 1~
+@2237 = ~Propagateur de rouille +3~
+@2238 = ~Propagateur de rouille +3
+
+Ce wakizashi porte à juste titre le sinistre nom de Propagateur de rouille. Chaque coup porté par cette lame malfaisante peut répandre une corrosion rampante qui affaiblit aussi bien les ennemis que son propre porteur.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipé :
+– Résistance à l'acide : +5 %
+
+Capacités de combat :
+– Chaque coup réussi a 18 % de chances d'infliger à la cible un malus de classe d'armure de 1 point pendant 2 rounds (aucun jet de sauvegarde)
+– Chaque coup réussi a 4 % de chances d'infliger le même malus de classe d'armure au porteur de cette arme (aucun jet de sauvegarde)
+– Chaque coup réussi a 90 % de chances d'infliger 3d4 points de dégâts supplémentaires aux Golems de fer
+
+TAC0 : +3
+Dégâts : 1d8+3 (perforants)
+Facteur de vitesse : 2
+Type de maîtrise : cimeterre/wakizashi/ninjato
+Type : arme à une main
+Nécessite :
+ 5 en Force
+
+Poids : 2~
+@2239 = ~Targe caillot~
+@2240 = ~Targe caillot
+
+Cette étrange targe ressemble à un énorme caillot de sang auquel on aurait fixé une poignée. Il est difficile d'imaginer qui — ou quoi — accepterait volontairement de manier un objet pareil. Pourtant, quelqu'un a dû le faire, puisqu'une poignée a bel et bien été attachée à cette masse singulière.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+– Classe d'armure : +1, +3 contre les dégâts contondants
+– Aucune protection contre les attaques perforantes et les projectiles
+– Charisme : -2
+– Multiplicateur d'attaque sournoise : +1
+
+Poids : 2~
+@2241 = ~Chair et furoncles +4~
+@2242 = ~Chair et furoncles +4
+
+Cet étrange gourdin est connu sous le nom de « Chair et furoncles ». Il ressemble à un morceau de viande bizarre recouvert d'un furoncle acide. Aussi absurde que cela puisse paraître, il peut se révéler très utile dans certaines situations. Mais peut-on vraiment se fier à un morceau de viande ?
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipé :
+– Charisme : -1
+– Bonus aux jets de sauvegarde contre les sorts : +1
+
+Capacités de combat :
+– Chaque coup réussi a 4 % de chances de provoquer une explosion infligeant 6d10 points de dégâts à la cible ; l'explosion détruit toutefois définitivement l'arme
+
+TAC0 : +4
+Dégâts : 1d6+4 (contondants)
+Facteur de vitesse : 4
+Type de maîtrise : gourdin
+Type : arme à une main
+Nécessite :
+ 5 en Force
+
+Poids : 3~
+@2243 = ~Rasoir en forme de cœur +3~
+@2244 = ~Rasoir en forme de cœur +3
+
+La lame de ce petit rasoir a été façonnée en forme de cœur, détail troublant qui ne fait qu'accentuer sa nature déjà macabre. Découvert parmi les restes d'un corps disséqué, son tranchant laisse penser qu'il a servi à ouvrir veines, peau et organes. Avec ses sombres origines et l'inscription glaçante — « On ne peut briser un cœur qui n'est déjà plus là » — cette lame dégage à la fois puissance et fascination cauchemardesque.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipé :
+– Classe d'armure : +1 contre les attaques contondantes
+
+Capacités de combat :
+– Lorsqu'une cible est tuée avec cette arme, le porteur obtient une « Graine de sang », un amas de sang coagulé qui peut être consommé pour récupérer 20 points de vie et augmenter la Force de 1 point pendant 1 tour (si elle n'est pas utilisée, la graine disparaît au bout de 8 heures)
+
+TAC0 : +3
+Dégâts : 1d4+3, +1 supplémentaire contre les humanoïdes
+Type de dégâts : perforants
+Facteur de vitesse : 0
+Type de maîtrise : dague
+Type : arme à une main
+Nécessite :
+ 3 en Force
+
+Poids : 1~
+@2245 = ~Graine de sang~
+@2246 = ~La Graine de sang est créée par le Rasoir en forme de cœur lorsqu'une cible est tuée avec cette arme. Elle peut être consommée pour récupérer 20 points de vie et augmenter la Force de 1 point pendant 1 tour. Si elle n'est pas utilisée, la graine disparaît au bout de 8 heures.
+
+CARACTÉRISTIQUES :
+
+Spécial :
+– Soigne 20 points de vie
+– Augmente la Force de 1 point pendant 1 tour
+– Disparaît au bout de 8 heures
+
+Poids : 0~
+@2247 = ~Cape du champignon~
+@2248 = ~Cette cape maudite est appelée Cape du champignon et brille si intensément qu'il est particulièrement difficile pour son porteur de se cacher. Oui, elle est à la mode ; oui, elle a plutôt belle allure. Mais cela vaut-il vraiment le prix à payer ? Beaucoup répondraient non sans hésiter.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+– Charisme : +1
+– Se cacher dans l'ombre : -10 %
+– Malus à la classe d'armure : -1
+– Ne peut être retirée qu'avec un sort de Délivrance de la malédiction
+
+Poids : 3~
+@2249  = ~Pierre ioun magnétique~
+@2250  = ~Pierre ioun magnétique
+
+Si la plupart des pierres ioun sont connues pour leurs propriétés puissantes et souvent utiles, celle-ci attire tous les projectiles. Difficile donc de la qualifier d'utile. Elle a probablement été créée pour plaisanter. Une plaisanterie potentiellement mortelle.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+– Malus de classe d'armure contre les projectiles : -3
+– Ne peut être retirée qu'avec un sort de Délivrance de la malédiction
+
+Poids : 0~
+@2251  = ~Fous dorés~
+@2252  = ~Ces bracelets ont beau être magnifiques, ils sont maudits. Ils ont probablement été créés pour attirer des victimes potentielles avant d'exploiter leur curiosité et leur imprudence.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipés :
+– Chaque fois qu'un ennemi touche le porteur, celui-ci perd 1 pièce d'or
+– Ne peuvent être retirés qu'avec un sort de Délivrance de la malédiction
+
+Poids : 1~
+@2253 = ~Harnais de la foulée légère~
+@2254 = ~Ce harnais de cuir a été enchanté pour protéger son propriétaire comme une armure légère, sans pour autant entraver ses mouvements. Il peut donc même être porté par des roublards ou des bardes sans limiter leurs talents. Bien qu'il soit pour le moins révélateur, ses propriétés plairont à tous ceux qui privilégient la mobilité et... une franchise très directe, sans la moindre pudeur.
+
+Le harnais protège toutefois assez mal du froid et n'accepte que les porteurs en bonne condition physique. Une fois équipé, il épouse étroitement le corps de son propriétaire et le présente dans toute sa splendeur. Seule la magie permet ensuite de l'enlever.
+
+CARACTÉRISTIQUES :
+
+Capacités à charges :
+– Peut lancer Charme une fois par jour
+– Peut lancer Fouet protecteur de Khelben une fois par jour
+
+Capacités une fois équipé :
+– Charisme : +1
+– Dextérité : +1
+– Résistance au froid : -20 %
+– N'empêche pas de lancer des sorts
+– Ne peut être retiré qu'avec un sort de Délivrance de la malédiction
+
+Classe d'armure : 4 (2 contre les dégâts tranchants, 3 contre les dégâts perforants et les projectiles)
+Nécessite :
+ 6 en Force
+ 14 en Constitution
+
+Poids : 3~
+@2255 = ~Acide concentré~
+@2256 = ~Il s'agit d'un acide extrêmement corrosif capable de ronger la peau, le cuir et le métal en un clin d'œil.~
+@2257 = ~Ceinture des trois cyclopes~
+@2258 = ~Sur une île reculée au milieu des Rochers Chantants, au large des côtes du Calimshan, vivait autrefois un trio de cyclopes connus pour leur force immense et leurs sinistres machinations. Les marins qui passaient près de l'île les redoutaient, car les trois monstres lançaient d'énormes rochers sur les navires et en coulèrent plus d'un.
+
+Un jour, de courageux aventuriers tuèrent les trois cyclopes. Ils emportèrent leurs yeux comme trophées afin de toucher leur récompense. Un ingénieux gnome de Lantan nommé Bilgim l'Habile décida alors d'intégrer les yeux à une ceinture magique pour donner une nouvelle vie à leurs aptitudes particulières. Le gnome travailla des mois sur l'objet, qu'il renforça avec les trois yeux et une grande quantité de magie jusqu'à créer une ceinture digne de lui.
+
+Depuis lors, la Ceinture des trois cyclopes a connu de nombreux propriétaires, depuis de vaillants héros jusqu'à des scélérats sans scrupules désireux d'utiliser son pouvoir à leurs propres fins.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+– Force : +1
+– Le porteur est immunisé contre le charme
+
+Capacités à charges :
+– « Détection de l'invisibilité » une fois par jour
+
+Poids : 2~
+@2259 = ~Gourdin +4, Noble Épi~
+@2260 = ~Noble Épi est un gourdin orné de bandes de bronze qui, selon les récits locaux, appartenait à un noble du Calimshan et symbolisait son pouvoir. Une fois par jour, l'arme peut faire pleuvoir une nuée de copeaux métalliques scintillants sur toutes les créatures à portée. Cette faculté s'est révélée particulièrement efficace contre les assassins tapis dans l'ombre du Calimshan, terre d'intrigues, mais elle reste tout aussi utile à son porteur sur l'ensemble de la Côte des Épées.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipé :
+– Jet de sauvegarde contre le souffle : +3
+
+Capacités à charges :
+– Poussière scintillante une fois par jour
+
+TAC0 : +4
+Dégâts : 1d6+4 (contondants)
+Facteur de vitesse : 1
+Type de maîtrise : gourdin
+Type : arme à une main
+Nécessite :
+ 5 en Force
+
+Poids : 1~
+@2261 = ~Carreau de la Reine gracieuse +1~
+@2262 = ~Ces puissants carreaux sont imprégnés d'un enchantement qui les rend particulièrement efficaces contre les ennemis de l'ordre. La « Reine gracieuse » dont ils portent le nom aurait été une antique souveraine attachée à l'ordre, selon certains une fidèle d'Ilmater, morte durant l'Année des Toiles Déchirées à la suite du chaos magique qui régnait alors.
+
+CARACTÉRISTIQUES :
+
+TAC0 : +1
+Dégâts : 1d8 (projectile), +3 contre les créatures non loyales
+Lanceur : arbalète
+
+Poids : 0~
+@2263 = ~Heaume du cauchemar enfantin~
+@2264 = ~Ce casque servait aux fidèles d'un culte voué à des êtres primordiaux pour sélectionner leurs futurs disciples. Dans de profondes cavernes privées de lumière, leurs sombres prêtres organisaient des rites d'initiation au cours desquels les jeunes aspirants dévaient porter le Heaume du cauchemar enfantin afin de prouver leur valeur. Enveloppé d'ombres anciennes, le casque conférait à son porteur le pouvoir d'invoquer une Ombre une fois par jour pour le servir. Mais les candidats indignes étaient submergés par la peur, déchiquetés par le mort-vivant, puis leurs âmes étaient entraînées dans les ténèbres. Nul ne sait aujourd'hui si le culte disparut faute de nouveaux adeptes ou pour une autre raison.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipé :
+– Infravision jusqu'à 36 m
+– Classe d'armure : +1
+– Protège contre les coups critiques
+
+Capacités à charges :
+– Invoque une Ombre une fois par jour pendant 1 tour
+
+Poids : 2~
+@2265 = ~Pantalon et bretelles de la brute torse nu +1~
+@2266 = ~Créée dans les ruelles poussiéreuses de Rel Astra, cité d'un royaume lointain, cette armure rustique ne se compose que d'un pantalon de cuir usé et de solides bretelles. Jadis portée par une énorme brute adepte des bagarres de taverne, le pantalon, couvert d'innombrables cicatrices et taches, offrait à son porteur une mobilité surprenante tout en le protégeant des coups et des entailles de ses adversaires. Les bretelles, fermes et fiables, maintenaient l'ensemble en place et protégeaient leur propriétaire des attaques inattendues. Pourtant, la véritable force de cette armure peu conventionnelle ne résidait pas dans son apparence, mais dans la férocité inébranlable de son porteur, dont les poings s'abattaient sur ses ennemis avec une précision et une rapidité impitoyables.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipée :
+– TAC0 : +1
+
+Capacités de combat :
+– 1 attaque supplémentaire par round
+
+Classe d'armure : 7 (9 contre les attaques perforantes et les projectiles)
+Nécessite :
+ 4 en Force
+
+Poids : 3~
+@2267 = ~Lame noire dégoulinante +2~
+@2268 = ~Cette lame, imprégnée de sombres traditions de Kara-Tur, accroît sa puissance en échange de la force vitale de son porteur. Lorsque celui-ci perce <PRO_HISHER> propre chair, l'arme se transforme pendant une heure en un katana amélioré, dangereux présent d'un antique seigneur de guerre qui cherchait à vaincre la mort elle-même.
+
+CARACTÉRISTIQUES :
+
+Capacités à charges :
+– Sacrifice de sang : une fois par jour, le porteur peut sacrifier 4d10+5 de <PRO_HISHER> points de vie pour transformer la lame en katana +4 pendant une heure. L'arme créée magiquement ne peut pas être lâchée et reprend sa forme initiale au bout d'une heure.
+
+TAC0 : +2
+Dégâts : 1d10+2 (tranchants)
+Facteur de vitesse : 1
+Type de maîtrise : katana
+Type : arme à une main
+Nécessite :
+ 6 en Force
+
+Poids : 3~
+// +3
+@2269 = ~Lame noire dégoulinante +3~
+@2270 = ~Cette lame dégouline de sang — votre propre sang. Vous en avez sacrifié une quantité considérable afin d'accroître sa puissance pendant la prochaine heure.
+
+CARACTÉRISTIQUES :
+
+TAC0 : +3
+Dégâts : 1d10+3 (tranchants)
+Facteur de vitesse : 1
+Type de maîtrise : katana
+Type : arme à une main
+Nécessite :
+ 6 en Force
+
+Poids : 3~
+
+// +4
+@2271 = ~Lame noire dégoulinante +4~
+@2272 = ~Cette lame dégouline de sang — votre propre sang. Vous en avez sacrifié une quantité considérable afin d'accroître sa puissance pendant la prochaine heure.
+
+CARACTÉRISTIQUES :
+
+TAC0 : +4
+Dégâts : 1d10+4 (tranchants)
+Facteur de vitesse : 1
+Type de maîtrise : katana
+Type : arme à une main
+Nécessite :
+ 6 en Force
+
+Poids : 3~
+// +5
+@2273 = ~Lame noire dégoulinante +5~
+@2274 = ~Cette lame dégouline de sang — votre propre sang. Vous en avez sacrifié une quantité considérable afin d'accroître sa puissance pendant la prochaine heure.
+
+CARACTÉRISTIQUES :
+
+TAC0 : +5
+Dégâts : 1d10+5 (tranchants)
+Facteur de vitesse : 1
+Type de maîtrise : katana
+Type : arme à une main
+Nécessite :
+ 6 en Force
+
+Poids : 3~
+@2275 = ~Les Couleurs de ses rêves +2~
+@2276 = ~Ce bouclier est orné de morceaux de vitrail coloré et de petites gemmes qui scintillent de nombreuses teintes. Il est très efficace pour éblouir un adversaire, mais son poids considérable constitue son principal défaut.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipé :
+– Classe d'armure : +3, +1 supplémentaire contre les attaques de projectiles
+
+Capacités à charges :
+– Peut libérer une Gerbe colorée une fois par jour, aveuglant pendant un round toutes les créatures de la zone d'effet (jet de sauvegarde contre les sorts pour annuler)
+
+Nécessite :
+ 15 en Force
+
+Poids : 12~
+@2277 = ~Défenseur de Waukyne +2~
+@2278 = ~Il s'agissait du bouclier personnel de Tharundar Olehm, Grand Prêtre de Waukyne. Il vous l'a offert en remerciement pour avoir sauvé son âme du Nalfeshnie Margrog. On trouve des boucliers similaires dans de nombreux temples de Waukyne à travers Faerûn, mais rarement d'une qualité et d'un enchantement aussi élevés. Le bouclier est orné du symbole du visage doré de Waukyne.
+
+CARACTÉRISTIQUES :
+
+Capacités une fois équipé :
+– Classe d'armure : +3
+– Jets de sauvegarde : +2
+– Résistance à la magie : 10 %
+
+Nécessite :
+ 4 en Force
+
+Poids : 4~
+
+
+
+
+
+
+
