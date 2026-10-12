@@ -199,6 +199,7 @@ LANGUAGE ~Simplified Chinese by lzw104522773~
          ~godcall/language/schinese/planar_guild.tra~
          ~godcall/language/schinese/Spellkey_merchant.tra~
          ~godcall/language/schinese/Verin.tra~
+
 LANGUAGE ~Italian by Sauler~
          ~italian~
          ~godcall/language/italian/setup-godcall.tra~
@@ -453,6 +454,57 @@ LANGUAGE ~Polish (by my_summertime, SoM Membress, part of CoB Clan)~
          ~godcall/language/polish/planar_guild.tra~
          ~godcall/language/polish/Spellkey_merchant.tra~
          ~godcall/language/polish/Verin.tra~
+
+LANGUAGE ~French by Deratiseur~
+         ~french~
+         ~godcall/language/french/setup-godcall.tra~
+         ~godcall/language/french/godcall-journal.tra~
+         ~godcall/language/french/godcall-items.tra~
+         ~godcall/language/french/01_Quest_start_in_Athkatla.tra~
+         ~godcall/language/french/AC#001_WAUKEEN.tra~
+         ~godcall/language/french/AC#W44_Counting_House_Maretta.tra~
+         ~godcall/language/french/AC#W01_Dialogues_Goldspires_outside.tra~
+         ~godcall/language/french/AC#W03_Goldspire_temple_interior.tra~
+         ~godcall/language/french/AC#W4A_Succubus_lair.tra~
+         ~godcall/language/french/AC#W4C_Gladiator_area.tra~
+         ~godcall/language/french/AC#W4D_Dretch_area.tra~
+         ~godcall/language/french/AC#W4G_Glabrezu_lair.tra~
+         ~godcall/language/french/AC#W4S_Succubus_child_area.tra~
+         ~godcall/language/french/AC#W4W_Azzelbath_weeping_goddess.tra~
+         ~godcall/language/french/AC#W4W_weeping_goddess_sidechars.tra~
+         ~godcall/language/french/AC#W06_8_Goldspire_tents.tra~
+         ~godcall/language/french/AC#W12_Sojourner_Portal.tra~
+         ~godcall/language/french/AC#W19_Infinite_Staircase_first_level.tra~
+         ~godcall/language/french/AC#W30_Infinite_Staircase.tra~
+         ~godcall/language/french/AC#W30_Modron_machine.tra~
+         ~godcall/language/french/AC#W40_Mefisto.tra~
+         ~godcall/language/french/AC#W40_Samora.tra~
+         ~godcall/language/french/AC#W41_Sodden_solar.tra~
+         ~godcall/language/french/AC#W42_Marettas_Beds.tra~
+         ~godcall/language/french/AC#W44_Counting_House_Maretta.tra~
+         ~godcall/language/french/AC#W45_Nighthag_house.tra~
+         ~godcall/language/french/AC#W47_Nalfeshnee.tra~
+         ~godcall/language/french/AC#W50_abyssal_plains.tra~
+         ~godcall/language/french/AC#W51_Bebilith_Lair.tra~
+         ~godcall/language/french/AC#W52_traitor_prison.tra~
+         ~godcall/language/french/AC#W54_56_57.tra~
+         ~godcall/language/french/AC#W60_61_blood_war.tra~
+         ~godcall/language/french/AC#W70_chamber_of_temptation.tra~
+         ~godcall/language/french/AC#W71_test_of_lust.tra~
+         ~godcall/language/french/AC#W72_gluttony.tra~
+         ~godcall/language/french/AC#W73_envy.tra~
+         ~godcall/language/french/AC#W74_wrath.tra~
+         ~godcall/language/french/AC#W75_pride.tra~
+         ~godcall/language/french/AC#W76_greed.tra~
+         ~godcall/language/french/AC#W77_test of sloth.tra~
+         ~godcall/language/french/AC#W80.tra~
+         ~godcall/language/french/Belthazaar_drums.tra~
+         ~godcall/language/french/Book_of_fiends.tra~
+         ~godcall/language/french/CROMWELL.tra~
+         ~godcall/language/french/Goldspire_Main_Dialogues.tra~
+         ~godcall/language/french/planar_guild.tra~
+         ~godcall/language/french/Spellkey_merchant.tra~
+         ~godcall/language/french/Verin.tra~
 
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
