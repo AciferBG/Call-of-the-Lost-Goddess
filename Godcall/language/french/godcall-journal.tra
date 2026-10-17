@@ -1,0 +1,463 @@
+// Journal Entries
+
+@100001 = ~Le sauvetage de Waukyne
+
+J'ai arraché Waukyne aux griffes du seigneur démon Graz'zt et l'ai ramenée saine et sauve hors des Abysses. Que demander de plus que de jouir de la faveur d'une déesse de la richesse ?~
+
+@100010 = ~La mission de l'Église de Waukyne
+
+Je me suis rendu au temple de Waukyne, dans le quartier du Gouvernement, et j'y ai parlé au prêtre. Bien qu'il n'ait pu me donner aucun détail sur la mission qui m'a été confiée, il m'a demandé de me rendre à l'abbaye des « Flèches d'Or », au nord d'Athkatla. Là-bas, le chef de l'Église, Tharundar Olehm, doit m'expliquer précisément en quoi consiste cette mission.~
+
+@100030 = ~L'Appel de la déesse perdue
+
+J'ai accepté la mission que m'a confiée Tharundar Olehm, grand prêtre de Waukyne : libérer la déesse Waukyne des griffes du seigneur démon Graz'zt, dans les Abysses. Avec l'aide de Kyriani, une prêtresse de Séluné, je passerai par un temple d'Eauprofonde pour rejoindre une structure appelée l'« Escalier Infini », qui me conduira à travers tout le Multivers jusqu'à les Abysses. Une fois sur place, je devrai découvrir où Waukyne est retenue prisonnière à Samora, une cité démoniaque, puis l'escorter saine et sauve depuis la prison de Graz'zt jusqu'à l'Escalier Infini. Tharundar et Kyriani m'ont conseillé de bien me préparer pour cette quête. Ils m'attendent au deuxième étage de l'abbaye des Flèches d'Or jusqu'à ce que je sois prêt à partir.~
+
+@100031 = ~L'Appel de la déesse perdue
+
+Depuis le temple d'Eauprofonde, je dois remonter l'Escalier Infini jusqu'à la plateforme qui mène à Samora. Là, je dois rencontrer un Nalfeshnie nommé Margrog, mon contact dans la cité démoniaque.~
+
+//thief quest, alt. title: Tainted Gold?
+@100200 = ~Un voleur aux Flèches d'Or
+
+J'ai rencontré Maendir, un voleur, à l'extérieur du temple de Waukyne. J'ai accepté de l'aider dans son projet douteux : dérober une partie de l'or du trésor de l'abbaye. Je dois subtiliser la clef du coffre-fort, que la prêtresse Faerthae Garblueth est censée porter sur elle à l'intérieur du temple. Une fois la clef en ma possession, je devrai la remettre à Maendir, dehors. Il se chargera du reste.~
+
+@100201 = ~Un voleur aux Flèches d'Or
+
+J'ai dérobé à la prêtresse de Waukyne la clef de la salle du coffre-fort. Je dois maintenant l'apporter au voleur Maendir, qui m'attend dehors, dans l'abbaye des Flèches d'Or.~
+//@100202 = ~~
+@100203 = ~Un voleur aux Flèches d'Or
+
+J'ai remis la clef à Maendir. Il a aussitôt disparu avec elle pour aller accomplir sa « besogne ». Je dois le retrouver dans un jour... du moins je l'espère.~
+
+@100204 = ~Un voleur aux Flèches d'Or
+
+Le vol aux Flèches d'Or a mal tourné. Le voleur a été changé en statue d'or. Heureusement que je n'avais moi-même rien pris du butin !~
+
+@100210 = ~Un voleur aux Flèches d'Or
+
+J'ai dénoncé aux gardes le voleur qui voulait dévaliser l'Église de Waukyne. Les Flèches d'Or devraient désormais être un peu plus sûres.~
+
+@110000 = ~Ennemis de la foi de Waukyne
+
+Après ma visite au temple de Waukyne, dans le quartier du Gouvernement d'Athkatla, j'ai rencontré un homme étrange qui a tenté de me dissuader d'aider l'Église. J'ignore qui il est et d'où il vient, mais je ferais mieux d'agir avec prudence : de toute évidence, l'Église ne compte pas que des amis à Athkatla.~
+
+// Goldspires - merchant thievery accusation
+@110001 = ~Ennemis de la foi de Waukyne
+
+Un marchand de l'abbaye de Waukyne a tenté de m'accuser de vol. Il a avoué avoir été engagé par l'homme qui avait essayé de me détourner de ma mission dévant le temple de Waukyne, dans le quartier du Gouvernement.~
+
+// Infinite Staircase - Mages
+@110002 = ~Ennemis de la foi de Waukyne
+
+Sur l'Escalier Infini, j'ai rencontré des mages qui avaient apparemment été engagés par l'homme vêtu de sombre d'Athkatla pour m'arrêter. D'une manière ou d'une autre, cet individu a réussi à suivre ma piste jusqu'à l'Escalier Infini. Je dois avancer prudemment.~
+
+@110003 = ~Ennemis de la foi de Waukyne
+
+Gildaar semble sur le point de révéler mes projets à Maretta. Je dois me préparer à affronter le prêtre, peut-être même dans la salle du trône de Maretta si les choses tournent mal. Il faut absolument l'empêcher de dévoiler mes objectifs, sans quoi toute la ville se retournerait contre moi. Je dois donc trouver un moyen de neutraliser ou de réduire Gildaar au silence rapidement.~
+/*
+// Samora - Solar??
+@110003 =
+*/
+@110010 = ~Ennemis de la foi de Waukyne
+
+Sur l'Escalier Infini, j'ai retrouvé l'homme étrange qui m'avait abordé à Athkatla pour tenter de me détourner de mon voyage vers les Abysses. Il m'a révélé être Gildaar, prêtre de Cyric, puis a disparu en direction de Samora. Je devrais le rechercher dans la cité des démons, car je soupçonne qu'il continuera à vouloir faire échouer ma mission.~
+
+@110011 = ~Ennemis de la foi de Waukyne
+
+Gildaar, le prêtre de Cyric, a tenté de me dénoncer auprès de la garde de la ville, les Lanciers de la Dame. Heureusement, les fiélons ne l'ont pas cru. Je dois toutefois trouver un moyen de me débarrasser de lui au plus vite : ce n'est qu'une question de temps avant qu'il ne révèle à quelqu'un la véritable raison de ma présence ici.~
+
+@110012 = ~Ennemis de la foi de Waukyne
+
+Margrog, le Nalfeshnie, m'a conseillé de parler de Gildaar au crieur public Mefisto. L'idée paraît téméraire, mais je ne semble guère avoir d'autre choix.~
+
+@110013 = ~Ennemis de la foi de Waukyne
+
+J'ai parlé à Mefisto. Avant de m'aider contre Gildaar, il exige que je lui apporte un nourrisson dont la mère est une Succube nommée Daemevera. Sa maison se trouve à l'ouest de la ville, sur la place où l'on recrute pour la Guerre Sanglante.~
+
+@110014 = ~Ennemis de la foi de Waukyne
+
+Mefisto propose d'utiliser les eaux du Styx pour effacer les souvenirs de Gildaar. Un Merrenoloth nommé Az'zelbath, qui a beaucoup navigué sur le Styx, séjourne à la taverne de la « Déesse éplorée », dans le nord de la ville, et pourrait peut-être nous fournir une fiole. Je ne sais pas encore comment l'utiliser, mais cela vaut la peine d'essayer.~
+
+@110015 = ~Ennemis de la foi de Waukyne
+
+Az'zelbath, le Merrenoloth, m'a donné une bouteille d'eau du Styx. Il ne me reste plus qu'à attendre de croiser Gildaar pour lui jeter le liquide au visage et lui faire oublier pourquoi il complotait contre moi.~
+
+@110016 = ~Ennemis de la foi de Waukyne
+
+J'ai une bouteille d'eau du Styx ! Je dois maintenant attendre de rencontrer Gildaar pour lui jeter le liquide au visage et lui faire oublier pourquoi il complotait contre moi.~
+
+@110017 = ~Ennemis de la foi de Waukyne
+
+Gildaar est mort. Je trouverai peut-être sur son cadavre un indice concernant ceux qui l'employaient.~
+
+@110018 = ~Ennemis de la foi de Waukyne
+
+J'ai découvert sur le cadavre de Gildaar une lettre qui laisse entendre qu'un traître se cache au sein de l'abbaye des Flèches d'Or. Je dois en informer Tharundar Olehm.~
+
+@110019 = ~Ennemis de la foi de Waukyne
+
+J'ai remis à Tharundar Olehm la lettre que portait Gildaar. Il compte s'occuper du traître. Je dois le retrouver au deuxième étage des Flèches d'Or pour connaître les résultats de son enquête.~
+
+@110020 = ~Ennemis de la foi de Waukyne
+
+Le traître a été démasqué et puni. Le mystère du prêtre de Cyric Gildaar, qui m'avait suivi jusque dans les Abysses, est donc résolu.~
+
+@110021 = ~Ennemis de la foi de Waukyne
+
+J'ai pris le nourrisson à la Succube Daemevera. Pour que Mefisto m'aide à me débarrasser de Gildaar, je dois maintenant lui remettre l'enfant.~
+
+// Quest for Riven, bard poet on the Infinite Staircase
+@190000 = ~Vers de l'Escalier
+
+La prêtresse Elandra Moonsong m'a demandé de rester attentif à la présence d'un barde nommé Riven Windwalker au cours de mon voyage. Il était parti explorer l'Escalier Infini et n'est jamais revenu. Il comptait également composer un poème sur l'Escalier. Si je le retrouve, je dois le raccompagner sain et sauf jusqu'au pied des marches.~
+
+@190001 = ~Vers de l'Escalier
+
+Le barde Riven Windwalker est mort. J'ai trouvé son poème près de son cadavre, sur un bord de l'Escalier Infini. Je devrais rapporter le texte à Elandra Moonsong, au pied de l'Escalier, et lui annoncer la triste nouvelle.~
+
+@190002 = ~Vers de l'Escalier
+
+J'ai rapporté le poème de Riven Windwalker à Elandra Moonsong, au pied de l'Escalier, et lui ai annoncé la mort du barde.~
+
+// Samora Journal entries
+@400000 = ~L'Appel de la déesse perdue
+
+Je suis arrivé dans la cité de Samora, au cœur des Abysses. Je dois maintenant trouver un Nalfeshnie nommé Margrog. J'espère que ce démon pourra m'aider dans ma recherche de Waukyne.~
+
+@400001 = ~L'Appel de la déesse perdue
+
+La première étape de mon voyage est accomplie. J'ai trouvé Margrog et dois maintenant redoubler de prudence à Samora pour découvrir où Waukyne est retenue prisonnière.~
+
+@400010 = ~Le sauvetage de Waukyne
+
+Maretta m'a remis le pentacle qui commande les fours ardents. Si je parviens maintenant à découvrir où se trouve Waukyne, je pourrai la libérer.~
+
+@400011 = ~Le sauvetage de Waukyne
+
+Maretta a mentionné un traître jeté dans les « Fosses d'Acide de Yemach ». S'il reste quelque chose de lui, il pourra peut-être m'indiquer comment pénétrer dans la prison de Waukyne. Je devrais en parler au Nalfeshnie Margrog, dans sa demeure juste en face de la Maison des Comptes.~
+
+@400012 = ~Le sauvetage de Waukyne
+
+Clyddis, un ancien garde de Waukyne et Vrock tombé en disgrâce, sait comment atteindre la prison de Waukyne en utilisant les portails des fours ardents de Samora. Il est lui-même retenu prisonnier dans un endroit appelé les « Fosses d'Acide de Yemach », accessible par un four ardent situé dans les Champs des Âmes. Il me faudra toutefois un objet permettant d'activer les fours.~
+
+@400013 = ~Le sauvetage de Waukyne
+
+Clyddis, un ancien garde de Waukyne et Vrock tombé en disgrâce, sait comment atteindre la prison de Waukyne par les portails des fours ardents. Margrog a découvert qu'il est actuellement détenu dans les « Fosses d'Acide de Yemach », où on le torture lentement à mort. Grâce au pentacle que Maretta m'a remis, je peux emprunter le four ardent occidental des Champs des Âmes pour atteindre la prison de Clyddis et l'interroger sur l'endroit où Waukyne est retenue.~
+
+@400020 = ~Le sauvetage de Waukyne
+
+Clyddis le Vrock, ancien garde de Waukyne, m'a expliqué le fonctionnement des fours ardents verts de Samora. Pour pénétrer dans la prison de Waukyne, il faut traverser les fours dans un ordre très précis, de façon à tracer un pentagramme inversé. Je dois commencer près de la statue de Graz'zt ; en repassant dans un four dont je viens de sortir, je serai transporté vers un autre. Clyddis portait sur lui un dessin indiquant la bonne séquence. Un motif tracé au sol dans la ville peut également m'indiquer l'ordre à suivre.~
+
+@400021 = ~Le sauvetage de Waukyne
+
+J'ai traversé le dernier four ardent de Samora et semble enfin avoir atteint la prison où Waukyne est détenue. La déesse que je dois libérer devrait se trouver dans l'une des cellules dévant moi.~
+
+@400022 = ~Le sauvetage de Waukyne
+
+J'ai libéré Waukyne de sa cellule. Je dois maintenant quitter Samora aussi vite que possible et espérer que les fiélons lancés à mes trousses ne seront pas trop nombreux.~
+
+@400023 = ~Le sauvetage de Waukyne
+
+J'ai franchi la porte de la Maison des Comptes et semble enfin avoir atteint la prison où Waukyne est détenue. Je n'ai plus beaucoup de temps pour la libérer : mon combat contre Maretta a révélé mon intrusion à tout le monde, et ce n'est qu'une question de temps avant que des démons furieux ne me submergent.~
+
+@400100 = ~L'amulette disparue
+
+Zzrakh, le démon Bébilith, m'a remis l'amulette, un pentacle que Maretta souhaite récupérer. Je dois maintenant la rapporter à Maretta, à la Maison des Comptes.~
+@400120 = ~L'amulette disparue
+
+J'ai tué le Bébilith. Comme le démon a dévoré nombre des serviteurs de Maretta, je devrais fouiller son cadavre pour voir si j'y trouve l'amulette que recherche la Succube.~
+@400121 = ~L'amulette disparue
+
+J'ai trouvé l'amulette sur le cadavre du Bébilith. Je dois maintenant la rapporter à Maretta, à la Maison des Comptes.~
+@400122 = ~L'amulette disparue
+
+J'ai rapporté l'amulette à Maretta.~
+
+@400200 = ~La plume de Déva
+
+Maretta veut une plume de Déva pour son tableau. J'espère trouver sur le marché de Samora un marchand qui en vende.~
+
+@400201 = ~La plume de Déva
+
+J'ai obtenu une plume de Déva. Je dois maintenant la rapporter à Maretta, à la Maison des Comptes.~
+
+@400202 = ~La plume de Déva
+
+J'ai remis à Maretta la plume de Déva qu'elle désirait.~
+
+// Verin
+@400300 = ~Verin
+
+J'ai rencontré à la Maison des Comptes une étrange créature nommée Verin. Il semble se méfier de moi.~
+
+@400301 = ~Verin
+
+Verin était le geôlier de Waukyne. Sa mort devrait lever l'un des derniers obstacles à la libération de la déesse.~
+
+// soul thief
+@400400 = ~Le voleur d'âmes Nabassu
+
+Un démon Nabassu nommé Trar'gezal vole des âmes. Je dois emprunter un four ardent faisant office de portail pour me rendre près de sa demeure et l'abattre. Le portail se trouve dans les Champs des Âmes, au sud de Samora, près de l'Arbre des Lâches. Je devrai ensuite faire mon rapport à Maretta, à la Maison des Comptes. Cependant, je n'ai plus besoin d'accomplir cet ordre : je dois désormais me consacrer sans tarder au sauvetage de Waukyne.~
+
+@400401 = ~Le voleur d'âmes Nabassu
+
+Le Nabassu Trar'gezal est mort. Je devrais annoncer mon succès à Maretta.~
+
+@400402 = ~Le voleur d'âmes Nabassu
+
+J'ai annoncé à Maretta la mort du Nabassu. Elle n'a plus besoin de mes services. Je devrais désormais me consacrer au plus vite au sauvetage de Waukyne.~
+
+// spell failure info
+@400500 = ~La magie dans les Abysses
+
+Certains sorts de mage semblent mal fonctionner dans les Abysses. Je vais devoir trouver à Samora quelqu'un qui s'y connaisse.~
+
+@400501 = ~La magie dans les Abysses
+
+Grâce aux Clefs de sort pour les mages et aux Clefs de pouvoir pour les prêtres, je peux lancer des sorts dans les Abysses sans risquer de les voir échouer. Warwick, au « Solaire détrempé », vend des Clefs de sort. Une créature appelée Malashrihi, qui tient une boutique dans Samora à l'extérieur du « Solaire détrempé », vend des Clefs de sort et des Clefs de pouvoir.~
+
+@400502 = ~La magie dans les Abysses
+
+J'ai vu le sort d'un mage être corrompu par les Abysses. Le mage n'a pas survécu. Je devrais me montrer prudent avec mes propres sorts pour éviter de subir le même sort.~
+
+// fool's laughter
+@400600 = ~La bouteille contenant le rire d'un fou
+
+En échange de ses services, Mefisto exige que je lui procure la bouteille contenant le rire d'un fou. Elle serait en possession d'un Dretch, un démon mineur, caché dans un entrepôt abandonné au nord des « Lits de Maretta », à côté de la taverne des « Pions du Seigneur » et juste en face de « Fortune Maudite ».~
+
+@400601 = ~La bouteille contenant le rire d'un fou
+
+J'ai récupéré la bouteille. Je dois l'apporter à Mefisto, près de la statue de Graz'zt à Samora, et espérer qu'il tiendra sa part du marché.~
+
+// Ormad Sulpar
+@400900 = ~Ormad Sulpar
+
+Je dois retrouver un mage nommé Ormad Sulpar à la taverne du « Solaire détrempé », à Samora. D'après son familier, il est en difficulté et a besoin de mon aide.~
+
+
+@410000 = ~L'âme marchandée trois fois
+
+J'ai rencontré Ormad Sulpar, un humain, au Solaire détrempé. Il a promis son âme à trois fiélons à la fois : la Guenaude nocturne Zhelamiss, à l'ouest de la ville ; la Succube Zaehvielle, dont la demeure fait face au bordel des « Lits de Maretta » ; et Belthazaar, le Glabrezu, qui tient un étal d'âmes dévant les « Lits de Maretta ». J'ai accepté de récupérer les trois contrats d'âme auprès des trois fiélons et de les rapporter à Ormad afin qu'il puisse reprendre possession de son âme.~
+
+@410001 = ~L'âme marchandée trois fois
+
+J'ai poussé Ormad Sulpar à utiliser l'oreiller de la Guenaude nocturne, ce qui lui a coûté la vie. Je peux maintenant retourner voir Zhelamiss et réclamer ma récompense.~
+
+@410002 = ~L'âme marchandée trois fois
+
+J'ai reçu ma récompense de la Guenaude nocturne pour la mort d'Ormad Sulpar.~
+
+@410005 = ~L'âme marchandée trois fois
+
+J'ai accepté de remettre à Ormad Sulpar une dague de la part du Glabrezu Belthazaar. Si je parviens à le convaincre de se blesser avec cette arme, il en mourra et je recevrai une généreuse récompense.~
+
+@410006 = ~L'âme marchandée trois fois
+
+J'ai poussé Ormad Sulpar à utiliser la dague du Glabrezu, ce qui lui a coûté la vie. Je peux maintenant retourner voir Belthazaar et réclamer ma récompense.~
+
+@410007 = ~L'âme marchandée trois fois
+
+J'ai reçu du Glabrezu Belthazaar ma récompense pour la mort d'Ormad Sulpar.~
+
+@410010 = ~L'âme marchandée trois fois
+
+J'ai remis les trois contrats à Ormad Sulpar. Reconnaissant, il est aussitôt parti. J'espère qu'il tirera les leçons de ses actes et évitera de nouveau les ennuis.~
+
+@410100 = ~Le contrat d'âme de Belthazaar
+
+Le Glabrezu Belthazaar ne me cédera pas si facilement le contrat d'âme d'Ormad Sulpar. Il m'a soumis une énigme que je ne pourrai peut-être pas résoudre seul. Je devrais demander son avis à Ormad Sulpar, au Solaire détrempé : après tout, c'est son âme que je tente de sauver.~
+
+@410101 = ~Le contrat d'âme de Belthazaar
+
+Ormad Sulpar pense que le Glabrezu Belthazaar fréquente souvent un entrepôt délabré à l'est de la ville. Il aurait aussi l'habitude de jouer avec les mains ensanglantées de ses victimes. Je trouverai peut-être dans cet entrepôt un moyen d'accéder à l'antre du Glabrezu.~
+
+@410102 = ~Le contrat d'âme de Belthazaar
+
+J'ai réussi à ouvrir une porte de l'entrepôt. Je devrais vérifier si le contrat d'âme de Belthazaar est caché derrière.~
+
+@410103 = ~Le contrat d'âme de Belthazaar
+
+J'ai tué le Glabrezu Belthazaar et trouvé sur son cadavre une étrange énigme. Ormad Sulpar saura peut-être de quoi il retourne.~
+
+@410110 = ~Le contrat d'âme de Belthazaar
+
+J'ai récupéré le contrat d'âme détenu par le Glabrezu Belthazaar. Il ne me reste plus qu'à l'apporter à Ormad Sulpar, au Solaire détrempé.~
+
+@410111 = ~Le contrat d'âme de Belthazaar
+
+J'ai remis à Ormad Sulpar le contrat d'âme du Glabrezu Belthazaar.~
+
+// Maretta Bébilith hunting quest journal entries
+//(A demon among demons)
+@440000 = ~Le chasseur de démons Bébilith
+
+Dans les quartiers extérieurs de la ville rôde un démon-araignée qui chasse les Tanar'ri : un Bébilith. La Succube Maretta, maîtresse de Samora, m'a chargé de l'abattre afin que la région soit de nouveau sûre pour ses Tanar'ri. Une fois le Bébilith éliminé, je devrai lui faire mon rapport à la Maison des Comptes, dans le nord-ouest de Samora.~
+
+@440010 = ~Détente à Samora
+
+La Succube Maretta m'autorise désormais à passer gratuitement la nuit dans son bordel, les « Lits de Maretta », au centre de Samora.~
+
+@440070 = ~La Rose des Abysses
+
+Pour prouver ma loyauté, Maretta me demande de lui rapporter une fleur appelée « Rose des Abysses ». Elle pousse dans la « Chambre des Tentations », une zone située sous Samora. L'entrée de cette chambre se trouve juste à côté de la taverne de la « Déesse éplorée », dans le nord de la ville.~
+
+@440071 = ~La Rose des Abysses
+
+J'ai récupéré la rose. Je dois maintenant la rapporter à Maretta, à la Maison des Comptes.~
+
+@460010 = ~L'insigne de maison du Fey'ri
+
+J'ai rencontré Val'kreen, un Fey'ri, à la taverne de la « Déesse éplorée », à Samora. Il m'a chargé de récupérer son insigne de maison volé auprès d'un Maurezhi qui rôderait dans les Champs des Âmes, juste à l'extérieur de Samora. Malgré son arrogance, j'ai accepté cette mission.~
+
+@460011 = ~L'insigne de maison du Fey'ri
+
+J'ai retrouvé l'insigne de maison du Fey'ri. Je dois maintenant le rapporter à Val'kreen, à la taverne de la Déesse éplorée, à Samora.~
+
+@460012 = ~L'insigne de maison du Fey'ri
+
+J'ai rendu à Val'kreen son insigne de maison volé et reçu ma récompense. Le Fey'ri s'est montré peu reconnaissant et n'a guère dissimulé son arrogance, mais j'ai compris que, dans cet endroit, la gratitude n'avait que peu d'importance.~
+
+// Nalfeshnie quest journal entries
+@470000 = ~Une Larve pour Margrog
+
+J'ai rencontré le Nalfeshnie Margrog à Samora. Avant de me dire quoi que ce soit sur l'endroit où se trouve Waukyne, il exige que je lui rapporte une Larve de la Guenaude nocturne Zhelamiss, dont la maison se trouve en face de la sienne.~
+
+@470001 = ~Une Larve pour Margrog
+
+La Guenaude nocturne réclame 1 000 pièces d'or pour une Larve.~
+
+@470002 = ~Une Larve pour Margrog
+
+J'ai obtenu de la Guenaude nocturne Zhelamiss un billet de gage qui me permettra de récupérer une Larve auprès de son serviteur Saarixal, lequel m'attend à la sortie de son antre, près des Larves.~
+@470003 = ~Une Larve pour Margrog
+
+La Larve est en ma possession. Je devrais rapporter la créature à Margrog, dans sa maison à l'ouest de Samora, afin qu'il me dise où trouver Waukyne.~
+@470004 = ~Une Larve pour Margrog
+
+J'ai apporté la Larve à Margrog.~
+@470010 = ~Une autre course pour Margrog
+
+Margrog refuse toujours de me dire où se trouve Waukyne. Il veut que je remette un petit récipient à une créature nommée « Aphul », qui m'attend sur l'Escalier Infini près de la plateforme menant à Samora.~
+@470011 = ~Une autre course pour Margrog
+
+J'ai remis le récipient à l'Abishaï Aphul, un Baatezu, sur l'Escalier Infini. Je devrais maintenant retourner voir Margrog et exiger enfin qu'il me dise où se trouve Waukyne.~
+
+@470020 = ~Mercenaire de la Guerre Sanglante
+
+Maretta m'a demandé de m'engager comme mercenaire dans la Guerre Sanglante. Je dois trouver Garnuth, un Babau qui recrute pour la guerre dans le sud-ouest de la ville, près d'une grande bannière.~
+@470021 = ~Mercenaire de la Guerre Sanglante
+
+Je me suis engagé dans la Guerre Sanglante auprès du Babau Garnuth. Dès que je serai prêt, il ouvrira un portail qui me permettra de rejoindre le champ de bataille.~
+@470022 = ~Mercenaire de la Guerre Sanglante
+
+Je dois franchir un portail à Samora pour rejoindre un avant-poste Tanar'ri. Ma mission consiste à trancher la tête d'un commandant Baatezu et à la rapporter comme trophée au Babau Garnuth, à Samora. Cela pourrait renforcer la confiance de Maretta à mon égard et me rapprocher de l'endroit où se trouve Waukyne.~
+@470023 = ~Mercenaire de la Guerre Sanglante
+
+J'ai pris la tête du commandant Baatezu ! Je dois maintenant regagner Samora par le portail et montrer mon trophée au Babau Garnuth.~
+
+@470030 = ~Une rencontre avec Maretta
+
+Je devrais offrir à Maretta la tête du général Baatezu en gage de ma victoire.~
+
+@470040 = ~L'amulette disparue
+
+Maretta m'a envoyé explorer les régions au sud de Samora, qu'elle appelle les Champs des Âmes, à la recherche d'un groupe de Tanar'ri qui étaient à son service et ont disparu. Quelque chose semble chasser les démons ; à moi de découvrir s'il s'agit d'une bonne ou d'une mauvaise nouvelle. Quoi qu'il en soit, je dois quitter la ville par le sud et récupérer une amulette que portait l'un de leurs officiers : un pendentif en forme de pentagramme.~
+
+@470041 = ~L'amulette disparue
+
+Dans l'est des Champs des Âmes se trouve un portail par lequel une créature semblable à une araignée vient chasser les Tanar'ri. Si je dépose dévant une petite grotte la corne d'un Tanar'ri, le portail pourrait s'activer et me révéler ce qui se cache derrière. Espérons que la bête préfère les démons aux <PRO_RACE>.~
+
+@470042 = ~L'amulette disparue
+
+J'ai ouvert le portail emprunté par le chasseur de démons. Je peux maintenant le franchir et découvrir ce qu'est réellement cette créature. Ma mission est de récupérer l'amulette que portait l'un des Tanar'ri disparus, un pendentif en forme de pentagramme.~
+
+@470043 = ~L'amulette disparue
+
+Dans les Champs des Âmes, un portail situé dans une petite grotte à l'est de la zone permettrait à une créature semblable à une araignée de venir chasser les Tanar'ri. Si j'y dépose un morceau de Tanar'ri supérieur, le portail devrait s'activer. C'est du moins ce qu'affirme une entité qui se fait appeler l'« Arbre des Lâches ». Elle m'a proposé de me donner un morceau de Tanar'ri si je la libérais un court instant de sa peur éternelle.~
+
+@470100 = ~Margrog me fait appeler
+
+Le Nalfeshnie Margrog m'a fait demander chez lui. Cela semble urgent.~
+
+@470500 = ~Une rencontre avec Maretta
+
+Je dois soit devenir champion de l'arène de Samora, à « Fortune Maudite », soit convaincre le crieur public Mefisto de vanter mes exploits avec assez d'ardeur pour attirer l'attention de la maîtresse de Samora et obtenir une audience. Comme Maretta contrôle l'accès à Waukyne, je dois gagner sa confiance avec prudence jusqu'à ce qu'une occasion se présente d'entrer dans la prison de la déesse.~
+
+@470501 = ~Une rencontre avec Maretta
+
+Mefisto a tenu parole : Maretta m'a bel et bien convoqué à la Maison des Comptes, dans l'ouest de Samora.~
+
+@470502 = ~Une rencontre avec Maretta
+
+En tant que champion de l'arène de Samora, j'ai été convoqué auprès de la maîtresse de la ville, la Succube Maretta, à la Maison des Comptes dans l'ouest de Samora.~
+
+@470503 = ~Une rencontre avec Maretta
+
+En tant que champion, j'ai de bonnes chances d'être bientôt convoqué à la Maison des Comptes.~
+
+@470601 = ~Margrog, le Nalfeshnie
+
+Margrog et sa maison extravagante ont quitté les lieux, apparemment en toute hâte. J'espère que personne ne soupçonne quoi que ce soit.~
+
+@470700 = ~Une âme pour la déesse
+
+Tharundar Olehm, le prêtre de Waukyne, a promis au Nalfeshnie Margrog rien de moins que sa propre âme en récompense de son aide pour sauver Waukyne. Il existe peut-être un moyen d'empêcher ce pacte d'aboutir, mais ce sera difficile tant que Margrog restera en ville.~
+
+@470701 = ~Une âme pour la déesse
+
+Maintenant que Margrog a quitté la ville, j'ai peut-être l'occasion de l'éliminer afin d'empêcher l'exécution du pacte qu'il a conclu avec Tharundar Olehm, le prêtre de Waukyne. Qui pourrait savoir où le Nalfeshnie est parti ?~
+
+@470702 = ~Une âme pour la déesse
+
+Pour retrouver Margrog, il me faut une créature habituée à traquer les démons. Si je savais comment trouver un Bébilith, je pourrais le lancer aux trousses du Nalfeshnie et annuler ainsi le contrat d'âme qu'il a conclu avec Tharundar Olehm, le prêtre de Waukyne.~
+
+@470703 = ~Une âme pour la déesse
+
+J'ai lancé Zzrakh, le Bébilith, à la poursuite de Margrog. Il s'est immédiatement mis en chasse avec enthousiasme. Je dois attendre dans la grotte du Bébilith jusqu'à ce qu'il revienne avec Margrog à ses trousses.~
+
+@470704 = ~Une âme pour la déesse
+
+Avec l'aide de Zzrakh, le Bébilith, j'ai vaincu Margrog, le Nalfeshnie. Tharundar Olehm, le grand prêtre de Waukyne, sera reconnaissant de pouvoir conserver son âme.~
+
+// Annia Graystockings
+@500000 = ~Annia Greystockings
+
+J'ai rencontré une paladine dans l'immensité des Abysses. Elle m'a remercié de lui avoir indiqué le chemin de l'Escalier Infini.~
+// Bébilith teleport quest journal entries
+@510000 = ~Le chasseur de démons Bébilith
+
+J'ai retrouvé le Bébilith. Au lieu de le combattre, j'ai accepté de l'aider à pénétrer dans Samora. Je dois placer un orbe magique au pied de la statue de Graz'zt, près de l'entrée de la ville, ce qui lui permettra de s'y téléporter. Cela pourrait encore me servir si les habitants de Samora finissent par m'être hostiles, notamment si je dois fuir la ville après avoir libéré Waukyne.~
+@510001 = ~Le chasseur de démons Bébilith
+
+J'ai placé l'orbe près de la statue de Graz'zt. Il ne me reste plus qu'à espérer que Zzrakh, le Bébilith, respectera notre accord et n'attaquera pas avant que j'aie libéré Waukyne.~
+@510002 = ~Le chasseur de démons Bébilith
+
+J'ai finalement changé d'avis et tué le Bébilith. Je n'ai donc plus à lui permettre d'entrer dans la ville.~
+
+@540000 = ~Prisonnier et gardien à la fois
+
+L'entrée menant à Clyddis, l'ancien garde Vrock de Waukyne, est gardée par le dragon Daugralluvidan, qui affirme venir du plan de Carcère. Il ne semble pas être ici de son plein gré. J'ai promis de chercher le sort « Liberté », sous forme de sort ou de parchemin, afin de rendre sa liberté au dragon tartérien. Je pourrais ainsi atteindre Clyddis sans avoir à affronter le dragon.~
+
+@540004 = ~Prisonnier et gardien à la fois
+
+J'ai décidé de tuer le dragon tartérien Daugralluvidan plutôt que de le libérer.~
+
+@540005 = ~Prisonnier et gardien à la fois
+
+J'ai rendu sa liberté au dragon tartérien Daugralluvidan. J'espère qu'il saura en faire bon usage.~
+
+@600000 = ~Des alliés diaboliques
+
+Une bande d'Abishaï compte infiltrer la cité démoniaque de Samora avec mon aide. Je dois remettre une clef de portail à leur chef, Aphul, afin qu'il puisse prendre le contrôle du portail reliant l'avant-poste Tanar'ri à la ville.~
+
+@600001 = ~Des alliés diaboliques
+
+J'ai remis la clef de portail aux Abishaï. J'espère que leur attaque contre la ville me facilitera la fuite le moment venu.~
+
+@800010 = ~L'étincelle d'un Déva
+
+Un Déva emprisonné dans la prison de Graz'zt m'a supplié de retrouver son étincelle. Il pense qu'elle est cachée quelque part dans ce donjon.~
+
+@800011 = ~L'étincelle d'un Déva
+
+J'ai rendu son étincelle au Déva.~

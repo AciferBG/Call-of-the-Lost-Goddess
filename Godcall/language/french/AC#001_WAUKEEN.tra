@@ -1,0 +1,16 @@
+@0    = ~Eh bien, malheureusement, c'est toute l'aide que je peux vous offrir. Maintenant, sortons d'ici.~
+@1    = ~Dois-je être enchaînée dans une nouvelle prison, abominations ? Ou êtes-vous venus pour...?~ [AC#WWAU5]
+@2    = ~Attendez, je sens sur vous la saveur de Toril ! Vous n'êtes pas des serviteurs de Graz'zt ! Les visions que j'ai envoyées à la jeune prêtresse Halanna ont-elles convaincu mon fidèle serviteur Tharundar de vous conduire jusqu'à moi ?~ [AC#WWAU6]
+@3    = ~Nous sommes venus vous libérer. Je suis <CHARNAME>, et Tharundar Olehm m'a envoyé vous secourir.~
+@4    = ~Je comprends que vous ayez beaucoup de questions, <CHARNAME>, mais nous devrions d'abord quitter les Abysses avant de nous lancer dans une conversation.~ [AC#WWAU0]
+@5    = ~Vous avez pénétré jusque dans les Abysses pour me sauver ? Vous devez être véritablement puissant. J'ai tenté maintes fois de m'échapper d'ici, mais chacune de mes tentatives a échoué, car Graz'zt m'a dépouillée de toute mon énergie divine. Je ne suis donc guère plus qu'une faible mortelle.~
+@6    = ~Je vous remercie de tout cœur de m'avoir sauvée, mais je crains que seule la première partie de votre mission n'ait réussi. Il sera bien plus difficile de quitter cet endroit avec moi que d'y pénétrer seul. Graz'zt garde toutes les sorties de son royaume.~
+@7    = ~Il en garde beaucoup, mais pas toutes. Je suis venu ici par l'Escalier Infini, et nous repartirons sans encombre par le même chemin.~
+@8    = ~L'Escalier Infini ? J'ignorais jusqu'à présent qu'il menait à cet horrible endroit. J'ai énormément de questions, tout comme vous, j'en suis certaine, mais je vous en prie : hâtons-nous et emmenez-moi loin d'ici. Ma libération n'est certainement pas passée inaperçue.~
+@9    = ~À vrai dire, j'espérais recevoir une récompense sur-le-champ. Après tout, vous êtes la déesse de la richesse.~
+@10   = ~Oui, fichons le camp d'ici !~
+@11   = ~Certains membres de mon groupe sont blessés et ont désespérément besoin de repos. Nous devons d'abord récupérer pour reprendre des forces et mémoriser nos sorts.~
+@12   = ~Hormis les vêtements que je porte, on m'a privée de toutes mes richesses et de tous mes pouvoirs. Je ne peux rien vous donner, si ce n'est la promesse de vous récompenser généreusement plus tard.~
+@13   = ~Très bien, alors allons-y. Je vous prends au mot.~
+@14   = ~Même si nous sommes tous à bout de forces, nous ne devrions pas rester ici un instant de plus que nécessaire, <CHARNAME>, si nous voulons avoir la moindre chance de nous échapper. Je vais tenter de puiser dans le peu de magie divine qui me reste pour vous aider, mais ensuite nous devrons partir au plus vite.~
+@15   = ~Je vais essayer de rester juste derrière vous, mais je crains de ne pas être d'une grande aide au combat. Allons-y.~ [AC#WWAU7]

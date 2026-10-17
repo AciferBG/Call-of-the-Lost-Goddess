@@ -1,0 +1,499 @@
+@0 = ~L'Appel de la déesse perdue~
+
+// spells and stores:
+@100 = ~Nuage de chagrin~
+@101 = ~Chant diffamatoire de Graz'zt~
+@102 = ~Chant diffamatoire de Graz'zt
+(Abjuration)
+
+Niveau : 1
+Sphère : Charme
+Portée : 9 m
+Durée : 1 heure
+Temps d'incantation : 1
+Zone d'effet : rayon de 4,5 m
+Jet de sauvegarde : aucun
+
+Cette diatribe tourne le seigneur démon Graz'zt en ridicule avec une telle efficacité qu'elle galvanise ceux qui l'entendent. Toutes les créatures alliées sont donc moins terrifiées par les serviteurs du seigneur démon et deviennent immunisées à la peur ainsi qu'aux pertes de moral pendant toute la durée de l'effet. De plus, toutes les créatures affectées sont protégées contre le charme. Ce chant ne peut être utilisé que dans le domaine de Graz'zt, au sein des Abysses. Il perd tout effet ailleurs.~
+@103 = ~Invocation de Modrones~
+@104 = ~Invocation de Modrones
+(Conjuration/Invocation)
+
+Niveau : 3
+Portée : champ de vision du lanceur
+Durée : 4 tours
+Temps d'incantation : 3
+Zone d'effet : rayon de 15 m
+Jet de sauvegarde : aucun
+
+Dans le round qui suit l'incantation, le lanceur invoque 4 Modrones de type monodrone, des créatures extraplanaires originaires du plan extérieur de Méchanus.
+Les Monodrones apparaissent à l'endroit choisi par le lanceur dans la zone d'effet du sort. Ils attaquent ses ennemis au mieux de leurs capacités jusqu'à ce qu'il leur ordonne d'arrêter, que la durée du sort expire ou qu'ils soient tués. Ces créatures ne font aucun test de moral, mais disparaissent lorsqu'elles meurent. En l'absence d'adversaire, les Modrones peuvent accomplir d'autres tâches si le lanceur parvient à communiquer avec eux et si elles sont physiquement à leur portée. Ce sort a été rendu célèbre par le mage Argramund du Rocher, dont nul ne connaît aujourd'hui la localisation.
+
+Monodrone
+Intelligence : faible (2-4)
+Classe d'armure : 7
+Dés de vie : 1+1
+TAC0 : 19 ou 20
+Nombre d'attaques : 1
+Dégâts/attaque : 1d4
+Valeur en PX : 120
+
+Combat : les Monodrones sont immunisés contre les illusions et les magies affectant l'esprit, telles que charme, domination, immobilisation, paralysie et sommeil. La peur et les autres sorts agissant sur les émotions sont également inefficaces contre un Modrone, tout comme les attaques faisant appel aux plans d'Énergie positive et négative, y compris les pouvoirs de drain de vie, ainsi que les capacités des Illithids et autres êtres psioniques.~
+@105 = ~Décharge de spores~
+@106 = ~Hurlement~
+@107 = ~Projectile d'énergie~
+@108 = ~Globe de ténèbres~
+@109 = ~Regard de mort~
+@110 = ~Cri de la Vargouille~
+@111 = ~Baiser de la Vargouille~
+@112 = ~Bazar abyssal~
+@113 = ~Marchand de la Guilde planaire~
+@114 = ~Quartiers de repos de la Guilde planaire~
+@115 = ~Abbaye des Flèches d'Or~
+@116 = ~Marché des Clefs de sort~
+@117 = ~Arcanes de l'Arcanaloth~
+@118 = ~Les Lits de Maretta~
+@119 = ~Potions de Wilbur~
+@120 = ~Potions de Nocticula~
+@121 = ~Boissons de Startail~
+@122 = ~Hydromel au miel d'Ysgard~
+@123 = ~Vin de groseille de Bytopia~
+@124 = ~Perle de cerise d'Alzar~
+@125 = ~Bière de sang baatorienne~
+@126 = ~Feu de soufre~
+@127 = ~Le Solaire détrempé~
+@128 = ~Bière de sang~
+@129 = ~Douleur liquide~
+@130 = ~Larmes de Déva~
+@131 = ~Essence d'Épine-de-sang~
+@132 = ~Soigneur de la Guilde planaire~
+@133 = ~Bazar à prix cassés de Lucky Aello~
+@134 = ~Toile ardente~
+@135 = ~Nimbus terrifiant~
+@136 = ~Tentation de Marilith~
+@137 = ~Sombre breuvage yugoloth~
+@138 = ~Avaleur d'âmes~
+@139 = ~Brise abyssale~
+@140 = ~Breuvage du sacrifice paysan~
+@141 = ~Métal brûlant~
+@142 = ~Niveau trop élevé pour le Bâton de mort~
+@143 = ~Jet d'acide~
+@144 = ~Oasis de Lumière d'argent~
+@145 = ~Hydromel maléfique~
+@146 = ~Vin de sang baatezu~
+@147 = ~Bile de Déva~
+@148 = ~Chant de Harpie~
+@149  = ~Protection contre le poison~
+@150  = ~Protection contre le poison
+(Abjuration)
+
+Niveau : 2
+Portée : créature touchée
+Durée : 10 rounds
+Temps d'incantation : 3
+Zone d'effet : créature touchée
+Jet de sauvegarde : aucun
+
+Grâce à ce sort, la créature choisie devient immunisée aux poisons et venins administrés par contact avec la peau, ingestion, piqûre, morsure ou arme. Les toxines d'un autre type continuent de l'affecter normalement. Les poisons déjà présents dans son organisme au moment de l'incantation ne sont pas affectés par ce sort.~
+@151 = ~Souffle du désespoir écrasant~
+@152 = ~Explosion acide~
+@153 = ~Graine de sang créée~
+@154 = ~Non, <CHARNAME>, jamais je ne porterai ça !~
+@155 = ~Marché du Mirage mystique~
+@156 = ~Reflet des couleurs~
+@157 = ~Sacrifice sanglant~
+
+// creatures
+@1000 = ~Face-de-pierre~
+@1001 = ~Maryel~
+@1002 = ~Daugralluvidan~
+@1003 = ~Dévoreur d'envie~
+@1004 = ~Abishaï rouge~
+@1005 = ~Vétéran de guerre~
+@1006 = ~Orphelin rejeté~
+@1007 = ~Père désespéré~
+@1008 = ~Veuve malade~
+@1009 = ~Paysan pauvre~
+@1010 = ~Grimsnag~
+@1011 = ~Rêveur~
+@1012 = ~Rêveur~
+@1013 = ~Palrethee~
+@1014 = ~Rampe-rêve~
+@1015 = ~Kaiphas l'Illusionné~
+@1016 = ~Gulga l'Infini~
+@1017 = ~Gulgathrix~
+@1018 = ~Wyliniesh, la Succube~
+@1019 = ~Vohraris, l'Incube~
+@1020 = ~Vieil homme~
+@1021 = ~Aranoth~
+@1022 = ~Eldrin~
+@1023 = ~Lyra~
+@1024 = ~Theron~
+@1025 = ~Morgrath le Corrupteur~
+@1026 = ~Shadowsound~
+@1027 = ~Kastighur~
+@1028 = ~Alistair Vonhardt~
+@1029 = ~Âme damnée~
+@1030 = ~Horreur caustique~
+@1031 = ~Emer le Fou~
+@1032 = ~Kaelthar Darkware~
+@1033 = ~Ludovic, maître du jeu~
+@1034 = ~Nysara la Flétrie~
+@1035 = ~Bharava~
+@1036 = ~Arsid~
+@1037 = ~Vulgrim Darkmane~
+@1038 = ~Belthazaar~
+@1039 = ~Trar'gezal~
+@1040 = ~Nimblebeard Rippletail~
+@1041 = ~Wilbur Iparos~
+@1042 = ~Araignée Tisse-entrejambe~
+@1043 = ~Lanciers de la Dame~
+@1044 = ~Armanite~
+@1045 = ~Malashrihi~
+@1046 = ~Maître du jeu~
+@1047 = ~Vendeur de jetons~
+@1048 = ~Piscoloth~
+@1049 = ~Bar-Lgura~
+@1050 = ~Baron Cambion~
+@1051 = ~Dretch~
+@1052 = ~Tanarukk~
+@1053 = ~Startail~
+@1054 = ~Alkilith~
+@1055 = ~Jenkin~
+@1056 = ~Zaehvielle~
+@1057 = ~Zeep~
+@1058 = ~Ormad Sulpar~
+@1059 = ~Sannak, l'Arcanaloth~
+@1060 = ~Masun~
+@1061 = ~Seigneur Jessel~
+@1062 = ~Zakhum, marchand d'épices~
+@1063 = ~Machine~
+@1064 = ~Garnuth, le Babau~
+@1065 = ~Babau~
+@1066 = ~Arbitre~
+@1067 = ~Géant du givre~
+@1068 = ~Faerthae Garblueth~
+@1069 = ~Daerea Ethgil~
+@1070 = ~Hamatula~
+@1071 = ~Lémure~
+@1072 = ~Gazgothan~
+@1073 = ~Xag-Ya~
+@1074 = ~Bodak~
+@1075 = ~Halanna~
+@1076 = ~Kyriani~
+@1077 = ~Tharundar Olehm~
+@1078 = ~Barasta Cleeith~
+@1079 = ~Chevalier de la Lune~
+@1080 = ~Igraflyn~
+@1081 = ~Rhyssa~
+@1082 = ~Adonia~
+@1083 = ~Helena~
+@1084 = ~Waukyne~
+@1085 = ~Nasmaerae~
+@1086 = ~Homme étrange~
+@1087 = ~Gildaar~
+@1088 = ~Demidicus~
+@1089 = ~Zabrina~
+@1090 = ~Lestiulus~
+@1091 = ~Maendir~
+@1092 = ~Assol~
+@1093 = ~Kayur~
+@1094 = ~Larve~
+@1095 = ~Maretta~
+@1096 = ~Shamurz~
+@1097 = ~Tentacule~
+@1098 = ~Zzrakh, le Bébilith~
+@1099 = ~Margrog~
+@1100 = ~Urkag, marchand d'ailes~
+@1101 = ~Vrock~
+@1102 = ~Zhelamiss~
+@1103 = ~Saarixal~
+@1104 = ~Mefisto~
+@1105 = ~Gorzengral~
+@1106 = ~Vargouille~
+@1107 = ~Clyddis~
+@1108 = ~Annia Greystockings~
+@1109 = ~Faylah~
+@1110 = ~Verin~
+@1111 = ~Élémentaire de sang~
+//@1112 = ~Rutterkin~
+@1113 = ~Qyriesh~
+@1114 = ~Lucky Aello~
+@1115 = ~Gardien~
+@1116 = ~Marchand amnien~
+@1117 = ~Monodrone~
+@1118 = ~~
+@1119 = ~Amlech~
+@1120 = ~Dammir~
+@1121 = ~Lillend~
+@1122 = ~Warwick~
+@1123 = ~Aphul~
+@1124 = ~Apprenti de Kayur~
+@1125 = ~Barde~
+@1126 = ~Daemevera~
+@1127 = ~Az'zelbath~
+@1128 = ~Bezmodan~
+@1129 = ~Marchand amnien~
+@1130 = ~Annonceur zombie~
+@1131 = ~Baphitaur~
+@1132 = ~Forgeron baphitaur~
+@1133 = ~Zhornack Gruulhoof~
+@1134 = ~Val'kreen~
+@1135 = ~Elandra Moonsong~
+@1136 = ~Sirène des âmes~ //The Soul Sirens are a cabal of harpies in the service of the demon lord Ardat the Unavowed. Their members are harpies with demonic blood. 
+@1137 = ~Illkeeper Mutz~
+@1138 = ~Sariila Tebrentan~
+@1139 = ~Zaldranis Quixtor~
+@1140 = ~Baronne Érinye~
+@1141 = ~Nuksheid Rheshan~
+@1142 = ~Morloth Darkblade~
+@1143 = ~Grimward Gorefist~
+@1144 = ~Vexthor Bloodtusk~
+@1145 = ~Zardrak Dreadshield~
+@1146 = ~Diirmdliin Sharpshaver~
+@1147 = ~Mercenaire de la Guerre Sanglante~
+@1148 = ~Disciple de Baalzebul~
+@1149 = ~Zombie géant du givre~
+@1150 = ~Os flamboyants~
+@1151 = ~Rutterkin~
+@1152 = ~Hezrou~
+@1153 = ~Puanteur~
+@1154 = ~TAC0 réduite~
+@1155 = ~Mezzoloth~
+
+@1180 = ~Ton âme nourrit ma puissance.~ [AC#WNIH1] // Nighthag soundset
+@1181 = ~Fais de beaux rêves de moi, mortel !~ [AC#WNIH2]  // Nighthag soundset
+@1182 = ~Je suis puissance, plaisir et perdition.~ [AC#WMAR1] // Maretta soundset
+@1183 = ~Bienvenue au royaume du désespoir, où nul réconfort ne t'attend, mortel. Je suis Maretta, maîtresse de Samora.~ [AC#WMAR2] // Maretta soundset
+@1184 = ~Contemple ma beauté ou disparais.~ [AC#WMAR3] // Maretta soundset
+@1186 = ~Salutations, mortels.~ [AC#WMEF1] // Mefisto initial meeting
+@1187 = ~Salutations, mortels.~ [AC#WMEF1] //[AC#WMEF2] Mefisto#2, need to change later
+@1188 = ~Oh, encore vous.~ [AC#WMEF3] // Mefisto
+@1190 = ~L'argent parle. La richesse chante.~ [AC#WTHA2] // Tharundar Olehm
+@1191 = ~Bonnes affaires.~ [AC#WTHA5] // Tharundar Olehm
+@1195 = ~Salutations. Je suis Kyriani Agrivar, prêtresse de Séluné venue de Eauprofonde.~ [AC#WKYR1]
+
+@1210 = ~Ne bouge plus, mortel !~ [AC#WBAB2]
+@1211 = ~Une armée marche grâce à ses mortels !~ [AC#WBAB1]
+@1212 = ~Je suis de très, très mauvaise humeur.~ [AC#WDEM1]
+@1213 = ~Mes prix sont les meilleurs au sud du Trou de l'Enfer.~ [AC#WMER1]
+@1214 = ~Ma taverne est aussi sale que le cul d'un diable.~ [AC#WSOL1]
+@1215 = ~Crains-moi, car je brouille ton esprit.~ [AC#WDEM2]
+@1216 = ~Dans ce jeu d'âmes, la loi finit toujours par gagner.~ [AC#WAPH1]
+@1217 = ~J'ai quantité de marchandises abjectes !~ [AC#WMER2]
+@1218 = ~Je suis glorieusement glorieux !~ [AC#W75S1]
+@1219 = ~Vas-y, donne-moi ton meilleur coup !~ [AC#W74W3]
+@1220 = ~Avance et déchaîne ta colère.~ [AC#W74W4]
+@1221 = ~Révèle ta rage et montre ta puissance.~ [AC#W74W5]
+@1222 = ~Mieux vaut le pet d'un fiélon qu'un trait dans le dos.~ [AC#WDWR1]
+@1223 = ~Tant de strates, tant de choses à apprendre.~ [AC#WDWR2]
+@1224 = ~Pour la gloire de Baator !~ [AC#WAPH2]
+@1225 = ~Ici-bas, la magie n'est pas un simple tour de salon.~ [AC#WMSV1]
+@1226 = ~On ne lance pas la magie comme on lance des cartes.~ [AC#WMSV2]
+@1227 = ~Place, les grands !~ [AC#WSQRL]
+
+@1230 = ~Je suis la déesse de la richesse. Oui, parfaitement !~ [AC#WWAE0]
+@1240 = ~Pourquoi gaspiller sa propre puissance quand on peut forcer les autres à gaspiller la leur ?~ [AC#WVER0]
+
+
+@1250 = ~Qui marche sur ma toile ?~ [AC#WBEB0]
+@1251 = ~Goûte à ma morsure empoisonnée !~ [AC#WBEB2]
+
+@1255 = ~Regardez où vous mettez les pieds.~ [AC#WLIL1]
+@1256 = ~Le clair de lune guide mes pas.~ [AC#WLIL2]
+
+@1260 = ~Aah... si sombre...~ [AC#WHALA]
+
+@1270 = ~Nous te saluons, être de chair.~ [AC#WMONA]
+@1271 = ~Un œil, une direction.~ [AC#WMON0]
+@1272 = ~Sujet hostile à l'esprit borné détecté...~ [AC#WMONB]
+@1273 = ~Il n'existe pas de meilleur individu que nous.~ [AC#WMONC]
+@1274 = ~Nous pensons comme un seul être.~ [AC#WMOND]
+@1275 = ~Un simple coup contre nous tous.~ [AC#WMONE]
+@1276 = ~Déconnexion de la communauté mentale...~ [AC#WMONF]
+
+@1280 = ~Moi méchant.~ [AC#WBAP1]
+@1281 = ~Moi fort. Toi faible !~ [AC#WBAP2]
+
+@1285 = ~Destin ou pas, je ne resterai plus longtemps ici.~ [AC#WNYS1]
+@1286 = ~Je dois être libre.~ [AC#WNYS2]
+
+@1290 = ~~ [AM1900B1]
+
+@1300 = ~Puissent richesse et prospérité accompagner chacun de vos pas.~ [AC#WWAUX]
+
+// Blood war merc soundsets
+@1311 = ~Que la volonté des Enfers soit faite !~ [AC#W60M1]
+@1312 = ~Pour la gloire de Baator !~ [AC#W60M2]
+@1313 = ~Pour la hiérarchie !~ [AC#W60M3]
+@1314 = ~La puissance infernale commande !~ [AC#W60M4]
+
+@1320 = ~Aucune bonne action ne reste impunie !~ [AC#W4CF1]
+
+@1330 = ~Tu as appelé, j'ai répondu. Traçons ensemble un chemin de dévastation à travers ces terres !~
+// #2000: items
+
+// are files
+@3000 = ~Une lumière éblouissante, incroyablement vive, émane de cette porte. Bien qu'elle ne paraisse pas malveillante, vous comprenez que son intensité vous détruirait si vous pénétriez dans la zone située au-delà.~
+@3001 = ~Guilde planaire~
+@3002 = ~Retour au pied de l'Escalier~
+@3003 = ~Porte vers les Abysses~
+@3004 = ~Machine modrone~
+@3005 = ~Cette statue représente la déesse Waukyne. Elle semble avoir été façonnée en or pur.~
+@3006 = ~Cette baie vitrée vous permet d'observer l'agitation de l'abbaye.~
+@3007 = ~Retour en Faerûn~
+@3008 = ~Début de l'Escalier Infini~
+@3009 = ~Elandra Moonsong~
+@3010 = ~Cette porte semble descendre de la tour vers le temple. Elle est verrouillée de l'autre côté, et le regard des gardes vous fait comprendre qu'il serait mal avisé de la forcer.~
+@3011 = ~Piédestal de cristal bleu~
+@3012 = ~Piédestal de cristal vert~
+@3013 = ~Piédestal de cristal rouge~
+@3014 = ~Piédestal de cristal jaune~
+
+@4000 = ~Fortune Maudite~
+@4001 = ~Les Pions du Seigneur~
+@4002 = ~Les Lits de Maretta~
+@4003 = ~Le Solaire détrempé~
+@4004 = ~La Déesse éplorée~
+@4005 = ~Vers l'Escalier Infini~
+@4006 = ~Vers les Abysses~
+@4007 = ~Place de Graz'zt~
+@4008 = ~Place des Marchands~
+@4009 = ~Demeure de la Guenaude nocturne~
+@4010 = ~Maison de Margrog~
+@4011 = ~Maison des Comptes~
+@4012 = ~Forge du Feu d'agonie~
+@4013 = ~Chambre des Tentations~
+@4014 = ~Maison de Daemevera~
+@4015 = ~Maison de Zhaevielle~
+@4016 = ~Poste de recrutement de la Guerre Sanglante~
+@4017 = ~Repaire de Belthazaar~
+@4018 = ~Repaire de Grimsnag~
+@4019 = ~Cette sculpture représente une déesse au visage déformé par la douleur, les mains levées en supplication. Des lamentations et des sanglots incessants semblent provenir de l'intérieur de la statue.~
+
+@5000 = ~Arbre des Lâches~
+@5001 = ~Four ardent oriental~
+@5002 = ~Four ardent occidental~
+
+@5201 = ~Vous devez vous rapprocher de la créature pour lui parler.~
+
+@7000 = ~Le symbole d'une hache~
+@7001 = ~Le symbole d'une bourse~
+@7002 = ~Le symbole d'un cœur enflammé~
+@7003 = ~Le symbole d'une couronne~
+@7004 = ~Cette statue représente une Marilith jetant une âme agonisante dans la lave. Une petite plaque placée sur le socle porte ces mots :
+« Livrée à l'orgueil, consumée par l'ire,
+l'âme s'embrase au cœur du feu.
+Tentations mortelles aux flammes avides,
+sacrifiées dans ce nœud abyssal. »~
+@7005 = ~Le symbole d'un serpent~
+@7006 = ~Le symbole d'une chope de bière~
+@7007 = ~Un symbole inconnu~
+
+@8090 = ~Une porte répugnante vous barre le passage.~
+
+// crossmod content
+// Lava's Hephernaan
+@8100 = ~M'amener ici est franchement ridicule. Heureusement pour vous, j'ai encore quelques cartes diaboliques dans ma manche.~
+@8101 = ~Voilà qui devrait les empêcher de voir qui je suis, ou plutôt *ce que* je suis. Démons, diables... Peu importe. Je préfère rester à l'écart de celle-là.~
+@8102 = ~Mais ne restons pas trop longtemps ici, enfant de Bhaal. Ce serait très imprudent.~
+@8103 = ~Cela devient assez problématique, enfant de Bhaal. Je vais continuer à dissimuler ma nature, mais vous jouez à un jeu dangereux.~
+@8104 = ~Imbécile ! Je ne peux pas me cacher d'eux sous cette forme... !~
+@8105 = ~Tu pensais vraiment que nous ne te remarquerions pas, diable ?!~
+@8106 = ~Je ne sais pas ce que vous faisiez avec lui, mais mieux vaut prévenir que guérir, ha ha ha !~
+
+
+// 2da entries
+@9000 = ~Lire~
+@9001 = ~Vous gravissez lentement les marches de l'Escalier Infini. À mesure que vous progressez, le chemin devient toujours plus tortueux et brumeux, jusqu'à reléguer votre point de départ au rang de souvenir lointain. Les marches semblent sans cesse changer de forme et de matériau, témoignant des innombrables cultures ayant participé à leur création.
+
+D'étranges portes jalonnent votre ascension, séduisantes mais inexplorées, enveloppées de mystère. Peu à peu, l'étrangeté de ce royaume inconnu vous devient familière et renforce votre assurance.
+
+Vous vous concentrez sombrement sur votre mission et, malgré la fatigue, l'incertitude vous pousse à continuer.~ [AC#WNAR1] //[AC#WMUS1]
+@9002 = ~Enfin, vous avez réussi. Waukyne a été libérée et a repris sa place au sein du panthéon, de nouveau vénérée comme une divinité.
+
+Vous ne mesurez pas encore toute la portée de votre exploit, mais vous profitez des réjouissances organisées en son honneur à l'abbaye. Au milieu des festivités somptueuses, des acclamations et d'un fascinant feu d'artifice, les épreuves récentes s'effacent peu à peu.
+
+Lorsque la fête retombe, le calme revient à l'abbaye et chacun reprend ses occupations quotidiennes. Il est temps pour vous de repartir vers de nouvelles aventures, avec la certitude que l'abbaye de Waukyne vous accueillera toujours à bras ouverts.~ [AC#WNAR2] //[AC#WMUS9]
+
+@9003 = ~Vous avez échoué dans votre quête pour sauver Waukyne. Les supplices qui vous attendent dans les Abysses dépassent l'imagination. Votre entreprise était pourtant noble, et vos actes résonneront encore quelque temps dans le monde des mortels. Le destin que Graz'zt vous réserve reste à découvrir, mais soyez certain qu'il ne vous sera pas favorable.~ [AC#WNAR3] //[AC#WMUS1]
+
+// Script entries
+@10000 = ~Au secours ! Qu'est-ce qui m'arrive ? Mon corps devient lourd...~
+
+@19000 = ~Ce portail ne semble fonctionner que dans un sens. Il vous faudra trouver un autre chemin pour retourner en Faerûn.~
+
+@30000 = ~La porte est déjà ouverte. Il n'y a plus rien à actionner sur la machine.~
+@30001 = ~Attention, <PRO_HESHE> arrive ! Préparez-vous !~
+
+@40000 = ~Cette sortie mène aux terres sauvages qui entourent la ville. Sans destination précise en tête, vous aventurer dans ces régions vous conduirait à une mort certaine.~
+@40002 = ~Vous traversez le four ardent en espérant qu'il vous conduira jusqu'à la prison de Waukyne.~
+
+@43000 = ~En regardant de plus près, vous remarquez que le mur semble avoir été lavé plusieurs fois à cet endroit. Vous croyez distinguer la silhouette estompée d'une main.~
+@43001 = ~Vous vous entaillez la paume et dessinez sur le mur le symbole d'une main avec votre propre sang. Cela semble activer une sorte de mécanisme.~
+@43002 = ~Une partie de ce mur semble avoir été manipulée récemment...~
+@43003 = ~Dans cette taverne, des pleurs et des lamentations incessants suscitent en vous un profond malaise et pèsent lourdement sur vos esprits.~
+
+@48000 = ~Tous les membres de la Guilde planaire étant morts, vous disposez désormais d'un endroit sûr pour vous reposer.~
+
+@49000 = ~Les fragments de clef s'assemblent pour former une clef complète.~
+@49100 = ~Attention, c'est parti ! Premier round...~
+@49101 = ~Deuxième round...~
+@49102 = ~Troisième round !~
+@50000 = ~Votre sort a été corrompu par les Abysses.~
+@50001 = ~Cette grotte ne s'enfonce que de quelques mètres dans la roche avant de s'arrêter. Pourtant, les traces indiquent qu'une grande créature y entre et en sort fréquemment.~
+@50002 = ~C'est apparemment par ici que le chasseur de démons est apparu. Les nombreuses toiles témoignent de son activité intense. Vous pourriez peut-être placer ici la corne de Tanar'ri afin d'ouvrir le portail.~
+@50003 = ~Sans le pentacle dans votre inventaire, le four ardent ne semble pas pouvoir être activé.~
+@50004 = ~Vers le repaire du Nabassu~
+@50005 = ~Vers Yemach~
+@50006 = ~Cri~ [AC#VARGS]
+
+@51000 = ~Les murs et le sol de ce couloir sont couverts d'épaisses toiles collantes qui entravent votre progression et rappellent celles d'une araignée. La créature qui les a tissées doit toutefois être bien plus grande.~
+
+@52000 = ~Enfin la paix...~
+@52001 = ~Vous versez un peu d'acide concentré dans le casque.~
+@52002 = ~Vous déversez l'acide contenu dans le casque sur le métal, qui commence aussitôt à se dissoudre.~
+@52003 = ~Vous versez l'acide sur le métal, qui commence aussitôt à se dissoudre.~
+@52004 = ~La cage ne possède aucune porte visible, mais l'acidité du lieu semble l'avoir attaquée par le passé.~
+@52005 = ~Un acide puissant remplit ce bassin. Avec un récipient approprié, vous pourriez en recueillir sans danger. Sinon, il vous faudrait le prendre à mains nues, ce qui brûlerait rapidement votre peau.~
+
+@70000 = ~Le portail ne semble fonctionner que dans un sens.~
+@70001 = ~Le portail est toujours inactif. Vous devrez peut-être accomplir une tâche avant de pouvoir emprunter ce passage.~
+@70002 = ~Vous cueillez la rose. Comme elle est couverte d'épines, vous vous piquez un doigt.~
+@70003 = ~Il semble s'agir de la Rose des Abysses. Vous devez vous approcher davantage pour la cueillir.~
+@70004 = ~Il semble s'agir de la Rose des Abysses. Vous pouvez la cueillir si vous le souhaitez.~
+
+@71000 = ~Les deux moitiés du collier se réunissent magiquement pour former un pendentif complet. Vous sentez que ce pendentif pourrait vous permettre de quitter la chambre.~
+@71001 = ~Le pendentif en votre possession a ouvert le portail de sortie.~
+
+@72000 = ~Vous jetez le morceau d'os dans le chaudron. Le bouillon se met brièvement à bouillir, puis le portail de sortie s'ouvre.~
+
+@80000 = ~Le portail ne semble fonctionner que dans un sens. Il vous faudra trouver une autre sortie.~
+@80001 = ~Le cœur de ce cadavre fraîchement disséqué a été arraché. Quelque chose semble coincé dans la cavité laissée dans sa poitrine.~
+@80002 = ~Cette machine répugnante est remplie d'innombrables cadavres de toutes formes et de toutes tailles. Vous êtes incapable d'imaginer à quoi elle peut servir.~
+@80003 = ~Vous avez appris la diatribe contre Graz'zt, qui peut vous galvaniser tant que vous demeurez dans son domaine, au sein des Abysses.~
+@80004 = ~Vous n'avez pas réussi à sauver Waukyne.~
+@89000 = ~En pénétrant dans la masse organique qui tapisse le couloir, vous êtes submergé par une sensation de malveillance absolue. Les parois semblent battre faiblement et remuer presque imperceptiblement. Une horreur grandissante vous saisit à l'idée que vous venez peut-être de pénétrer à l'intérieur d'une abominable créature vivante.~
+@89001 = ~Il vous reste 18 minutes pour sauver Waukyne avant que toute fuite des Abysses ne devienne impossible.~
+@89002 = ~Il vous reste 9 minutes pour sauver Waukyne avant que toute fuite des Abysses ne devienne impossible.~
+@89003 = ~Il vous reste 6 minutes pour sauver Waukyne avant que toute fuite des Abysses ne devienne impossible.~
+
+// Store entries
+
+@90000 = ~Il s'agit de la version inversée de Soins importants. Au lieu de soigner la cible, le sort lui inflige des dégâts.~
+@90001 = ~La cible du sort est envahie par un terrible pressentiment. Pendant toute la durée du sort, elle subit un malus de -2 à tous ses jets, y compris à la TAC0 et aux jets de sauvegarde.~
+@90002 = ~Ce sort permet d'empoisonner la cible si celle-ci rate un jet de sauvegarde contre le poison.~
+@90003 = ~Décomposition douloureuse provoque une putréfaction et un dépérissement du corps qui se propagent rapidement dans la créature affectée. La cible est automatiquement ralentie pendant 2 rounds. De plus, si elle rate un jet de sauvegarde contre le poison avec un malus de -2, <PRO_HESHE> subit 1 point de dégâts par seconde jusqu'à un total de 50 points de dégâts.~
+@90004 = ~Ce sort est la version inversée de Guérison. Au lieu de soigner la créature touchée, il lui inflige des dégâts. Si le prêtre réussit son attaque de contact, la cible est réduite à 1 point de vie. La prochaine attaque du prêtre déclenche cet effet, mais <PRO_HESHE> ne dispose que de 2 rounds pour la porter avant que le sort ne se dissipe. Si le prêtre manque sa cible, le sort est perdu. Aucun jet de sauvegarde n'est autorisé.~
+// Script Entries
+@100000 = ~Vous touchez le miroir et le verre semble soudain se liquéfier. Puis vous êtes aspiré à l'intérieur...~
+@100040 = ~Vous ne pouvez pas invoquer d'Élémentaires dans les Abysses sans les outils appropriés.~
+@100090 = ~Lorsque vous attaquez le tentacule, la masse de chair se met soudain à se tortiller...~
+@100091 = ~L'étrange gueule se referme brièvement et semble dévorer l'organe avec voracité. Peu après, la masse amorphe dévant vous se déplace et libère le passage.~
+@100092 = ~D'un coup net, vous tranchez le tentacule. L'étreinte des tentacules sur Waukyne captive semble se relâcher.~
+
+@1000000 = ~L'Appel de la déesse perdue~
+@1000001 = ~Installer les portraits des principaux PNJ du mod~
+@1000002 = ~Installer les doublages par IA des principaux PNJ du mod (principalement en anglais)~
+@1000010 = ~Nécessite BG2:EE ou EET mis à jour en version 2.0 ou ultérieure.~
+@1000011 = ~Ce composant nécessite l'installation de la version complète.~
