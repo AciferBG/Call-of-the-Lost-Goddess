@@ -1,3 +1,6 @@
+Version 3.3
+- added French translation by Deratiseur, thank you very much!
+
 Version 3.2
 - added Italian translation by Sauler, thank you very much!
 
